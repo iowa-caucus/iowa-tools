@@ -240,86 +240,6 @@
         }
     },
     {
-        "County": "CD1 Satellite",
-        "Precinct": "Total",
-        "SDE": {
-            "Bennet": 0,
-            "Biden": 0.0,
-            "Bloomberg": 0.0,
-            "Buttigieg": 0.0,
-            "Delaney": 0,
-            "Gabbard": 0.0,
-            "Klobuchar": 0.0,
-            "Other": 0.0,
-            "Patrick": 0,
-            "Sanders": 0.0,
-            "Steyer": 0.0,
-            "Uncommitted": 0.0,
-            "Warren": 0.0,
-            "Yang": 0.0
-        }
-    },
-    {
-        "County": "CD2 Satellite",
-        "Precinct": "Total",
-        "SDE": {
-            "Bennet": 0,
-            "Biden": 0.6832,
-            "Bloomberg": 0.0,
-            "Buttigieg": 0.0262,
-            "Delaney": 0,
-            "Gabbard": 0.0,
-            "Klobuchar": 1.2872,
-            "Other": 0.0,
-            "Patrick": 0,
-            "Sanders": 5.829,
-            "Steyer": 0.0,
-            "Uncommitted": 0.049,
-            "Warren": 2.3012,
-            "Yang": 0.8243
-        }
-    },
-    {
-        "County": "CD3 Satellite",
-        "Precinct": "Total",
-        "SDE": {
-            "Bennet": 0,
-            "Biden": 2.9806,
-            "Bloomberg": 0.0,
-            "Buttigieg": 0.1858,
-            "Delaney": 0,
-            "Gabbard": 0.0,
-            "Klobuchar": 1.3617,
-            "Other": 0.0,
-            "Patrick": 0,
-            "Sanders": 12.4478,
-            "Steyer": 0.0,
-            "Uncommitted": 0.0,
-            "Warren": 1.0929,
-            "Yang": 0.0345
-        }
-    },
-    {
-        "County": "CD4 Satellite",
-        "Precinct": "Total",
-        "SDE": {
-            "Bennet": 0,
-            "Biden": 0.2057,
-            "Bloomberg": 0.0426,
-            "Buttigieg": 0.2129,
-            "Delaney": 0,
-            "Gabbard": 0.0,
-            "Klobuchar": 0.2696,
-            "Other": 0.0,
-            "Patrick": 0,
-            "Sanders": 3.0142,
-            "Steyer": 0.0993,
-            "Uncommitted": 0.0284,
-            "Warren": 0.0284,
-            "Yang": 0.0993
-        }
-    },
-    {
         "County": "Calhoun",
         "Precinct": "Total",
         "SDE": {
@@ -1520,26 +1440,6 @@
         }
     },
     {
-        "County": "Out of State Satellite",
-        "Precinct": "Total",
-        "SDE": {
-            "Bennet": 0,
-            "Biden": 0.7066,
-            "Bloomberg": 0.0337,
-            "Buttigieg": 0.7711,
-            "Delaney": 0,
-            "Gabbard": 0.0,
-            "Klobuchar": 1.0663,
-            "Other": 0.0,
-            "Patrick": 0,
-            "Sanders": 0.5638,
-            "Steyer": 0.0,
-            "Uncommitted": 0.0,
-            "Warren": 0.8789,
-            "Yang": 0.0216
-        }
-    },
-    {
         "County": "Page",
         "Precinct": "Total",
         "SDE": {
@@ -2077,6 +1977,106 @@
             "Uncommitted": 0.0,
             "Warren": 0.2666,
             "Yang": 0.0
+        }
+    },
+    {
+        "County": "Out of State Satellite",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 0.7066,
+            "Bloomberg": 0.0337,
+            "Buttigieg": 0.7711,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 1.0663,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 0.5638,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 0.8789,
+            "Yang": 0.0216
+        }
+    },
+    {
+        "County": "CD1 Satellite",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 0.0,
+            "Bloomberg": 0.0,
+            "Buttigieg": 0.0,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 0.0,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 0.0,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 0.0,
+            "Yang": 0.0
+        }
+    },
+    {
+        "County": "CD2 Satellite",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 0.6832,
+            "Bloomberg": 0.0,
+            "Buttigieg": 0.0262,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 1.2872,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 5.829,
+            "Steyer": 0.0,
+            "Uncommitted": 0.049,
+            "Warren": 2.3012,
+            "Yang": 0.8243
+        }
+    },
+    {
+        "County": "CD3 Satellite",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 2.9806,
+            "Bloomberg": 0.0,
+            "Buttigieg": 0.1858,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 1.3617,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 12.4478,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 1.0929,
+            "Yang": 0.0345
+        }
+    },
+    {
+        "County": "CD4 Satellite",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 0.2057,
+            "Bloomberg": 0.0426,
+            "Buttigieg": 0.2129,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 0.2696,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 3.0142,
+            "Steyer": 0.0993,
+            "Uncommitted": 0.0284,
+            "Warren": 0.0284,
+            "Yang": 0.0993
         }
     }
 ]

@@ -62,7 +62,7 @@ def extract_subtable_by_labels(df, row_labels=None, col_labels=None, row_level=0
 
 
 def convert_dataframe_to_dict(df):
-    temp_dict = df.to_dict(orient='index')
+    temp_dict = df.to_dict(orient='index', into=OrderedDict)
 
     out = []
     for county_precinct, cols in temp_dict.items():
@@ -70,9 +70,7 @@ def convert_dataframe_to_dict(df):
         row[df.index.names[0]] = county_precinct[0]
         row[df.index.names[1]] = county_precinct[1]
         
-        top_headers = list(set(header[0] for header in cols.keys()))
-        sort_top_headers_according_to_std(top_headers)
-        for top_header in top_headers:
+        for top_header in list(set(header[0] for header in cols.keys())):
             row[top_header] = OrderedDict()
 
         for header, val in sorted(cols.items()):
@@ -86,10 +84,11 @@ def convert_dataframe_to_dict(df):
 
 def sort_top_headers_according_to_std(top_headers):
     col_order = STD_COL_ORDER + sorted([_ for _ in top_headers if _ not in STD_COL_ORDER])
-    return top_headers.sort(key=lambda x: col_order.index(x))
+    return sorted(top_headers, key=lambda x: col_order.index(x))
 
 
 def write_dataframe_as_json(df, out_dir, name):
+    df = df.reindex(sort_top_headers_according_to_std(df.columns.levels[0]), level=0, axis=1)
     df_dict = convert_dataframe_to_dict(df)
     header_list = [[header] for header in df.index.names] + list(df.columns)
     data_fn, header_fn = get_json_filenames(name)
@@ -98,6 +97,7 @@ def write_dataframe_as_json(df, out_dir, name):
 
 
 def write_dataframe_as_csv(df, out_dir, name):
+    df = df.reindex(sort_top_headers_according_to_std(df.columns.levels[0]), level=0, axis=1)
     csv_content = df.to_csv()
     with open(os.path.join(out_dir, name + CSV_SUFFIX), 'w') as out_csv:
         out_csv.write(csv_content)
