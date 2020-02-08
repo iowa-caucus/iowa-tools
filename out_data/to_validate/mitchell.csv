@@ -1,0 +1,15 @@
+,,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,URL to Documentation,Manually validated
+,,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Other,Patrick,Sanders,Steyer,Uncommitted,Warren,Yang,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Other,Patrick,Sanders,Steyer,Uncommitted,Warren,Yang,,
+County,Precinct,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mitchell,Mitchell 10,0,0,0,9,0,0,8,0,0,4,0,0,0,0,0,0,0,9,0,0,8,0,0,4.0,0,0,0.0,0,,false
+Mitchell,Mitchell 11,0,7,0,0,0,0,12,0,0,0,0,0,0,5,0,7,0,0,0,0,12,0,0,0.0,0,0,0.0,5,,false
+Mitchell,Mitchell 12,0,3,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,0.0,0,0,0.0,0,,false
+Mitchell,Mitchell 5,0,4,0,6,0,0,8,0,0,0,0,0,0,0,0,4,0,6,0,0,8,0,0,0.0,0,0,0.0,0,,false
+Mitchell,Mitchell 6,0,1,0,7,0,0,11,0,0,1,0,0,7,1,0,0,0,9,0,0,12,0,0,0.0,0,0,7.0,0,,false
+Mitchell,Mitchell 7,0,3,0,11,0,0,6,0,0,3,2,0,7,1,0,0,0,12,0,0,9,0,0,0.0,0,0,10.0,0,,false
+Mitchell,Mitchell 8,0,9,0,2,0,1,13,0,0,7,4,0,5,0,0,14,0,0,0,0,15,0,0,12.0,0,0,0.0,0,,false
+Mitchell,Mitchell 9,0,9,0,15,0,0,9,0,0,10,3,0,3,0,0,10,0,15,0,0,10,0,0,11.0,0,0,0.0,0,,false
+Mitchell,OSAGE 01 (Mitchell 5),0,8,0,3,0,0,6,0,0,6,0,0,4,5,0,11,0,0,0,0,8,0,0,8.0,0,0,0.0,5,,false
+Mitchell,OSAGE 02 (Mitchell 6),0,4,0,9,0,0,8,0,0,4,1,3,6,2,0,6,0,11,0,0,11,0,0,0.0,0,0,9.0,0,,false
+Mitchell,OSAGE 03 (Mitchell 7),0,5,0,3,0,0,10,0,0,2,0,0,7,1,0,6,0,0,0,0,14,0,0,0.0,0,0,7.0,0,,false
+Mitchell,OSAGE 04 (Mitchell 8),0,5,0,10,0,0,8,0,0,2,0,0,5,2,0,5,0,10,0,0,9,0,0,0.0,0,0,6.0,2,,false

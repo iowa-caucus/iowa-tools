@@ -4,8 +4,10 @@ FIRST = 'First Expression'
 FINAL = 'Final Expression'
 SDE = 'SDE'
 INC_VOTES = 'Final Vote Increase'
+DOCUMENTATION_URL = 'URL to Documentation'
+VALIDATED = 'Manually validated'
 
-STD_COL_ORDER = [COUNTY, PRECINCT, FIRST, FINAL, INC_VOTES, SDE]
+STD_COL_ORDER = [COUNTY, PRECINCT, FIRST, FINAL, INC_VOTES, DOCUMENTATION_URL, VALIDATED, SDE]
 
 BENNET = "Bennet"
 BIDEN = "Biden"
