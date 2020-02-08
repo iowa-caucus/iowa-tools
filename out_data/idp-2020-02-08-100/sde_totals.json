@@ -1,0 +1,2082 @@
+[
+    {
+        "County": "Adair",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 0.3922,
+            "Bloomberg": 0.0,
+            "Buttigieg": 0.7059,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 0.8629,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 0.9412,
+            "Steyer": 0.1569,
+            "Uncommitted": 0.0,
+            "Warren": 0.3922,
+            "Yang": 0.5491
+        }
+    },
+    {
+        "County": "Adams",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 0.7714,
+            "Bloomberg": 0.0,
+            "Buttigieg": 0.5142,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 0.7713,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 0.5142,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 0.4285,
+            "Yang": 0.0
+        }
+    },
+    {
+        "County": "Allamakee",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 1.0112,
+            "Bloomberg": 0.0,
+            "Buttigieg": 2.4889,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 1.4001,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 1.089,
+            "Steyer": 0.0778,
+            "Uncommitted": 0.0,
+            "Warren": 0.5446,
+            "Yang": 0.3889
+        }
+    },
+    {
+        "County": "Appanoose",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 1.84,
+            "Bloomberg": 0.0,
+            "Buttigieg": 2.32,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 0.48,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 0.96,
+            "Steyer": 0.24,
+            "Uncommitted": 0.0,
+            "Warren": 0.08,
+            "Yang": 0.08
+        }
+    },
+    {
+        "County": "Audubon",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 0.9,
+            "Bloomberg": 0.0,
+            "Buttigieg": 0.4,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 0.9,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 0.5,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 0.3,
+            "Yang": 0.0
+        }
+    },
+    {
+        "County": "Benton",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 4.65,
+            "Bloomberg": 0.0,
+            "Buttigieg": 4.35,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 1.5,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 3.525,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 0.975,
+            "Yang": 0.0
+        }
+    },
+    {
+        "County": "Black Hawk",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 17.574,
+            "Bloomberg": 0.0,
+            "Buttigieg": 22.826,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 10.302,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 31.714,
+            "Steyer": 0.808,
+            "Uncommitted": 0.0,
+            "Warren": 17.372,
+            "Yang": 0.808
+        }
+    },
+    {
+        "County": "Boone",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 1.52,
+            "Bloomberg": 0.0,
+            "Buttigieg": 5.89,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 2.28,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 5.32,
+            "Steyer": 0.19,
+            "Uncommitted": 0.0,
+            "Warren": 3.8,
+            "Yang": 0.0
+        }
+    },
+    {
+        "County": "Bremer",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 3.1734,
+            "Bloomberg": 0.0,
+            "Buttigieg": 5.6667,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 2.72,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 1.5868,
+            "Steyer": 0.0,
+            "Uncommitted": 0.2267,
+            "Warren": 3.6268,
+            "Yang": 0.0
+        }
+    },
+    {
+        "County": "Buchanan",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 3.8314,
+            "Bloomberg": 0.0,
+            "Buttigieg": 3.421,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 2.1892,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 1.5049,
+            "Steyer": 0.1368,
+            "Uncommitted": 0.5474,
+            "Warren": 0.8209,
+            "Yang": 0.4105
+        }
+    },
+    {
+        "County": "Buena Vista",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 1.8,
+            "Bloomberg": 0.0,
+            "Buttigieg": 1.6,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 1.2,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 2.4,
+            "Steyer": 0.2,
+            "Uncommitted": 0.0,
+            "Warren": 1.2,
+            "Yang": 0.6
+        }
+    },
+    {
+        "County": "Butler",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 1.3999,
+            "Bloomberg": 0.0,
+            "Buttigieg": 1.2832,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 1.1666,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 1.75,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 1.2833,
+            "Yang": 0.1167
+        }
+    },
+    {
+        "County": "Calhoun",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 1.0,
+            "Bloomberg": 0.0,
+            "Buttigieg": 2.0,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 0.5833,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 0.75,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 0.6666,
+            "Yang": 0.0
+        }
+    },
+    {
+        "County": "Carroll",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 2.75,
+            "Bloomberg": 0.0,
+            "Buttigieg": 3.74,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 1.98,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 1.43,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 0.99,
+            "Yang": 0.11
+        }
+    },
+    {
+        "County": "Cass",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 1.32,
+            "Bloomberg": 0.0,
+            "Buttigieg": 1.8,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 0.84,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 0.84,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 1.2,
+            "Yang": 0.0
+        }
+    },
+    {
+        "County": "Cedar",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 1.5428,
+            "Bloomberg": 0.0,
+            "Buttigieg": 3.0857,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 2.3999,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 2.7426,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 2.2285,
+            "Yang": 0.0
+        }
+    },
+    {
+        "County": "Cerro Gordo",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 5.4913,
+            "Bloomberg": 0.0,
+            "Buttigieg": 9.3885,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 7.4398,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 6.7312,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 1.7712,
+            "Yang": 0.1771
+        }
+    },
+    {
+        "County": "Cherokee",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 1.4183,
+            "Bloomberg": 0.0,
+            "Buttigieg": 1.091,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 0.6546,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 1.7456,
+            "Steyer": 0.1091,
+            "Uncommitted": 0.0,
+            "Warren": 0.3273,
+            "Yang": 0.2182
+        }
+    },
+    {
+        "County": "Chickasaw",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 1.54,
+            "Bloomberg": 0.0,
+            "Buttigieg": 2.31,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 1.05,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 0.49,
+            "Steyer": 0.35,
+            "Uncommitted": 0.07,
+            "Warren": 1.19,
+            "Yang": 0.0
+        }
+    },
+    {
+        "County": "Clarke",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 0.56,
+            "Bloomberg": 0.0,
+            "Buttigieg": 1.04,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 0.88,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 0.88,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 0.32,
+            "Yang": 0.32
+        }
+    },
+    {
+        "County": "Clay",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 2.1647,
+            "Bloomberg": 0.0,
+            "Buttigieg": 1.9766,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 1.4118,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 1.6001,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 0.6587,
+            "Yang": 0.0941
+        }
+    },
+    {
+        "County": "Clayton",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 1.6668,
+            "Bloomberg": 0.0,
+            "Buttigieg": 3.8336,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 2.3335,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 1.8334,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 0.3334,
+            "Yang": 0.0
+        }
+    },
+    {
+        "County": "Clinton",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 7.75,
+            "Bloomberg": 0.0,
+            "Buttigieg": 8.8572,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 3.3214,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 7.7502,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 3.1001,
+            "Yang": 0.2214
+        }
+    },
+    {
+        "County": "Crawford",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 2.4,
+            "Bloomberg": 0.0,
+            "Buttigieg": 0.9,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 0.75,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 1.5,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 0.3,
+            "Yang": 0.15
+        }
+    },
+    {
+        "County": "Dallas",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 11.6004,
+            "Bloomberg": 0.0,
+            "Buttigieg": 19.8864,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 7.0431,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 8.286,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 11.1861,
+            "Yang": 0.0
+        }
+    },
+    {
+        "County": "Davis",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 0.84,
+            "Bloomberg": 0.0,
+            "Buttigieg": 1.02,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 0.39,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 0.36,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 0.39,
+            "Yang": 0.0
+        }
+    },
+    {
+        "County": "Decatur",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 0.4706,
+            "Bloomberg": 0.0,
+            "Buttigieg": 1.2707,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 0.5648,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 0.9413,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 0.8,
+            "Yang": 0.0
+        }
+    },
+    {
+        "County": "Delaware",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 1.875,
+            "Bloomberg": 0.0,
+            "Buttigieg": 2.475,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 2.175,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 0.375,
+            "Steyer": 0.15,
+            "Uncommitted": 0.0,
+            "Warren": 1.95,
+            "Yang": 0.0
+        }
+    },
+    {
+        "County": "Des Moines",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 5.04,
+            "Bloomberg": 0.0,
+            "Buttigieg": 9.72,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 1.44,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 6.48,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 3.6,
+            "Yang": 0.72
+        }
+    },
+    {
+        "County": "Dickinson",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 2.25,
+            "Bloomberg": 0.0,
+            "Buttigieg": 3.0,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 1.875,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 2.0,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 0.875,
+            "Yang": 0.0
+        }
+    },
+    {
+        "County": "Dubuque",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 16.533,
+            "Bloomberg": 0.0,
+            "Buttigieg": 21.5999,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 6.1334,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 16.7999,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 10.933,
+            "Yang": 0.2667
+        }
+    },
+    {
+        "County": "Emmet",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 0.6858,
+            "Bloomberg": 0.0,
+            "Buttigieg": 1.143,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 0.5715,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 0.8001,
+            "Steyer": 0.3429,
+            "Uncommitted": 0.0,
+            "Warren": 0.4572,
+            "Yang": 0.0
+        }
+    },
+    {
+        "County": "Fayette",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 2.64,
+            "Bloomberg": 0.0,
+            "Buttigieg": 4.32,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 1.32,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 1.8,
+            "Steyer": 0.48,
+            "Uncommitted": 0.0,
+            "Warren": 1.32,
+            "Yang": 0.12
+        }
+    },
+    {
+        "County": "Floyd",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 2.2221,
+            "Bloomberg": 0.0,
+            "Buttigieg": 2.3331,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 2.3331,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 1.5554,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 1.5554,
+            "Yang": 0.0
+        }
+    },
+    {
+        "County": "Franklin",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 1.0001,
+            "Bloomberg": 0.0,
+            "Buttigieg": 1.2778,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 0.889,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 1.2779,
+            "Steyer": 0.1111,
+            "Uncommitted": 0.0,
+            "Warren": 0.3889,
+            "Yang": 0.0556
+        }
+    },
+    {
+        "County": "Fremont",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 0.675,
+            "Bloomberg": 0.0,
+            "Buttigieg": 0.825,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 0.6,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 0.75,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 0.15,
+            "Yang": 0.0
+        }
+    },
+    {
+        "County": "Greene",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 0.72,
+            "Bloomberg": 0.0,
+            "Buttigieg": 2.04,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 1.2,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 1.8,
+            "Steyer": 0.12,
+            "Uncommitted": 0.0,
+            "Warren": 0.12,
+            "Yang": 0.0
+        }
+    },
+    {
+        "County": "Grundy",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 1.2,
+            "Bloomberg": 0.0,
+            "Buttigieg": 1.7,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 1.2,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 1.3,
+            "Steyer": 0.0,
+            "Uncommitted": 0.1,
+            "Warren": 0.4,
+            "Yang": 0.1
+        }
+    },
+    {
+        "County": "Guthrie",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 0.6856,
+            "Bloomberg": 0.0,
+            "Buttigieg": 1.6286,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 1.5428,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 0.5142,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 1.1999,
+            "Yang": 0.4286
+        }
+    },
+    {
+        "County": "Hamilton",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 1.9,
+            "Bloomberg": 0.0,
+            "Buttigieg": 2.7,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 1.2,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 1.5,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 1.7,
+            "Yang": 0.0
+        }
+    },
+    {
+        "County": "Hancock",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 0.8,
+            "Bloomberg": 0.0,
+            "Buttigieg": 1.7,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 1.2,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 0.9,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 0.4,
+            "Yang": 0.0
+        }
+    },
+    {
+        "County": "Hardin",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 1.584,
+            "Bloomberg": 0.0,
+            "Buttigieg": 2.736,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 1.8,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 1.368,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 1.512,
+            "Yang": 0.0
+        }
+    },
+    {
+        "County": "Harrison",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 1.4,
+            "Bloomberg": 0.0,
+            "Buttigieg": 1.8666,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 0.9333,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 2.0532,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 0.84,
+            "Yang": 0.0
+        }
+    },
+    {
+        "County": "Henry",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 1.6667,
+            "Bloomberg": 0.0,
+            "Buttigieg": 2.8,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 0.7333,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 2.2667,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 1.2,
+            "Yang": 1.3333
+        }
+    },
+    {
+        "County": "Howard",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 1.0001,
+            "Bloomberg": 0.0,
+            "Buttigieg": 1.7145,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 0.7144,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 0.8573,
+            "Steyer": 0.1429,
+            "Uncommitted": 0.0,
+            "Warren": 0.2858,
+            "Yang": 0.2858
+        }
+    },
+    {
+        "County": "Humboldt",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 1.2446,
+            "Bloomberg": 0.0,
+            "Buttigieg": 1.2446,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 0.8001,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 0.3556,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 0.3556,
+            "Yang": 0.0
+        }
+    },
+    {
+        "County": "Ida",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 0.9,
+            "Bloomberg": 0.0,
+            "Buttigieg": 1.2,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 0.45,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 0.45,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 0.0,
+            "Yang": 0.0
+        }
+    },
+    {
+        "County": "Iowa",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 2.0,
+            "Bloomberg": 0.0,
+            "Buttigieg": 2.6,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 0.4,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 2.4,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 2.6,
+            "Yang": 0.0
+        }
+    },
+    {
+        "County": "Jackson",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 3.0854,
+            "Bloomberg": 0.0,
+            "Buttigieg": 3.7713,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 1.8857,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 1.3712,
+            "Steyer": 0.1714,
+            "Uncommitted": 0.0,
+            "Warren": 1.5427,
+            "Yang": 0.1714
+        }
+    },
+    {
+        "County": "Jasper",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 4.6,
+            "Bloomberg": 0.0,
+            "Buttigieg": 7.705,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 1.495,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 5.06,
+            "Steyer": 0.23,
+            "Uncommitted": 0.0,
+            "Warren": 3.22,
+            "Yang": 0.69
+        }
+    },
+    {
+        "County": "Jefferson",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 0.6546,
+            "Bloomberg": 0.0,
+            "Buttigieg": 1.5274,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 0.4364,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 5.8908,
+            "Steyer": 0.0,
+            "Uncommitted": 0.2182,
+            "Warren": 3.2727,
+            "Yang": 0.0
+        }
+    },
+    {
+        "County": "Johnson",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 5.67,
+            "Bloomberg": 0.0,
+            "Buttigieg": 33.615,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 17.415,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 52.245,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 53.055,
+            "Yang": 0.0
+        }
+    },
+    {
+        "County": "Jones",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 2.56,
+            "Bloomberg": 0.0,
+            "Buttigieg": 3.68,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 2.08,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 2.56,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 1.12,
+            "Yang": 0.0
+        }
+    },
+    {
+        "County": "Keokuk",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 0.5715,
+            "Bloomberg": 0.0,
+            "Buttigieg": 1.143,
+            "Delaney": 0,
+            "Gabbard": 0.1143,
+            "Klobuchar": 0.4572,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 0.9144,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 0.6858,
+            "Yang": 0.1143
+        }
+    },
+    {
+        "County": "Kossuth",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 2.1335,
+            "Bloomberg": 0.0,
+            "Buttigieg": 3.2004,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 1.6002,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 0.6223,
+            "Steyer": 0.0889,
+            "Uncommitted": 0.0,
+            "Warren": 0.3556,
+            "Yang": 0.0
+        }
+    },
+    {
+        "County": "Lee",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 5.32,
+            "Bloomberg": 0.0,
+            "Buttigieg": 7.56,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 0.98,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 4.34,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 2.24,
+            "Yang": 0.56
+        }
+    },
+    {
+        "County": "Linn",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 29.0082,
+            "Bloomberg": 0.0,
+            "Buttigieg": 46.59,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 19.7783,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 53.6236,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 39.5573,
+            "Yang": 0.4395
+        }
+    },
+    {
+        "County": "Louisa",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 1.0,
+            "Bloomberg": 0.0,
+            "Buttigieg": 0.7,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 0.4,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 1.2,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 1.0,
+            "Yang": 0.7
+        }
+    },
+    {
+        "County": "Lucas",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 1.2365,
+            "Bloomberg": 0.0,
+            "Buttigieg": 0.7273,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 0.5091,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 0.8726,
+            "Steyer": 0.1454,
+            "Uncommitted": 0.0,
+            "Warren": 0.3636,
+            "Yang": 0.1454
+        }
+    },
+    {
+        "County": "Lyon",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 0.5,
+            "Bloomberg": 0.0,
+            "Buttigieg": 0.6,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 0.9,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 0.5,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 0.5,
+            "Yang": 0.0
+        }
+    },
+    {
+        "County": "Madison",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 1.68,
+            "Bloomberg": 0.0,
+            "Buttigieg": 2.88,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 1.44,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 1.2,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 1.8,
+            "Yang": 0.0
+        }
+    },
+    {
+        "County": "Mahaska",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 1.12,
+            "Bloomberg": 0.0,
+            "Buttigieg": 2.08,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 0.64,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 2.08,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 1.28,
+            "Yang": 0.8
+        }
+    },
+    {
+        "County": "Marion",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 2.16,
+            "Bloomberg": 0.0,
+            "Buttigieg": 7.56,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 2.7,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 3.42,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 1.8,
+            "Yang": 0.36
+        }
+    },
+    {
+        "County": "Marshall",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 5.12,
+            "Bloomberg": 0.0,
+            "Buttigieg": 6.72,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 1.12,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 8.16,
+            "Steyer": 0.16,
+            "Uncommitted": 0.32,
+            "Warren": 2.4,
+            "Yang": 0.0
+        }
+    },
+    {
+        "County": "Mills",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 1.2446,
+            "Bloomberg": 0.0,
+            "Buttigieg": 2.3335,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 0.778,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 1.7113,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 0.9336,
+            "Yang": 0.0
+        }
+    },
+    {
+        "County": "Mitchell",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 1.05,
+            "Bloomberg": 0.0,
+            "Buttigieg": 1.425,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 2.025,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 0.6,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 0.75,
+            "Yang": 0.15
+        }
+    },
+    {
+        "County": "Monona",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 0.75,
+            "Bloomberg": 0.0,
+            "Buttigieg": 1.1,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 0.45,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 0.65,
+            "Steyer": 0.2,
+            "Uncommitted": 0.0,
+            "Warren": 0.85,
+            "Yang": 0.0
+        }
+    },
+    {
+        "County": "Monroe",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 0.5539,
+            "Bloomberg": 0.0,
+            "Buttigieg": 0.9231,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 0.5539,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 0.5539,
+            "Steyer": 0.0462,
+            "Uncommitted": 0.0,
+            "Warren": 0.3231,
+            "Yang": 0.0
+        }
+    },
+    {
+        "County": "Montgomery",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 0.72,
+            "Bloomberg": 0.0,
+            "Buttigieg": 1.44,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 0.48,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 0.88,
+            "Steyer": 0.08,
+            "Uncommitted": 0.0,
+            "Warren": 0.4,
+            "Yang": 0.0
+        }
+    },
+    {
+        "County": "Muscatine",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 4.3332,
+            "Bloomberg": 0.0,
+            "Buttigieg": 6.1668,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 1.8333,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 8.5001,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 3.667,
+            "Yang": 0.3334
+        }
+    },
+    {
+        "County": "O'Brien",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 0.8728,
+            "Bloomberg": 0.0,
+            "Buttigieg": 0.8001,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 0.7999,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 0.6545,
+            "Steyer": 0.2182,
+            "Uncommitted": 0.1455,
+            "Warren": 0.4364,
+            "Yang": 0.0727
+        }
+    },
+    {
+        "County": "Osceola",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 0.5,
+            "Bloomberg": 0.0,
+            "Buttigieg": 0.9,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 0.6,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 0.4,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 0.6,
+            "Yang": 0.0
+        }
+    },
+    {
+        "County": "Page",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 0.88,
+            "Bloomberg": 0.0,
+            "Buttigieg": 1.84,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 1.12,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 1.68,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 0.48,
+            "Yang": 0.0
+        }
+    },
+    {
+        "County": "Palo Alto",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 1.6667,
+            "Bloomberg": 0.0,
+            "Buttigieg": 1.1666,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 0.7501,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 0.9167,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 0.5001,
+            "Yang": 0.0
+        }
+    },
+    {
+        "County": "Plymouth",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 2.25,
+            "Bloomberg": 0.0,
+            "Buttigieg": 2.475,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 0.9,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 2.025,
+            "Steyer": 0.0,
+            "Uncommitted": 0.225,
+            "Warren": 0.9,
+            "Yang": 0.225
+        }
+    },
+    {
+        "County": "Pocahontas",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 0.66,
+            "Bloomberg": 0.0,
+            "Buttigieg": 1.02,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 0.66,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 0.3,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 0.24,
+            "Yang": 0.12
+        }
+    },
+    {
+        "County": "Polk",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 55.6802,
+            "Bloomberg": 0.0,
+            "Buttigieg": 102.9664,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 41.4104,
+            "Other": 0.2798,
+            "Patrick": 0,
+            "Sanders": 106.8836,
+            "Steyer": 0.2798,
+            "Uncommitted": 0.8394,
+            "Warren": 82.541,
+            "Yang": 0.2798
+        }
+    },
+    {
+        "County": "Pottawattamie",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 6.6,
+            "Bloomberg": 0.0,
+            "Buttigieg": 12.0,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 5.28,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 12.72,
+            "Steyer": 0.24,
+            "Uncommitted": 0.0,
+            "Warren": 9.0,
+            "Yang": 2.16
+        }
+    },
+    {
+        "County": "Poweshiek",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 0.56,
+            "Bloomberg": 0.0,
+            "Buttigieg": 1.82,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 2.1,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 5.04,
+            "Steyer": 0.0,
+            "Uncommitted": 0.56,
+            "Warren": 3.92,
+            "Yang": 0.0
+        }
+    },
+    {
+        "County": "Ringgold",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 1.0125,
+            "Bloomberg": 0.0,
+            "Buttigieg": 0.75,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 0.5625,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 0.1875,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 0.4875,
+            "Yang": 0.0
+        }
+    },
+    {
+        "County": "Sac",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 0.5333,
+            "Bloomberg": 0.0,
+            "Buttigieg": 1.2002,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 0.7334,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 0.9334,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 0.5333,
+            "Yang": 0.0667
+        }
+    },
+    {
+        "County": "Scott",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 19.8395,
+            "Bloomberg": 0.0,
+            "Buttigieg": 33.8928,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 16.9463,
+            "Other": 0.4133,
+            "Patrick": 0,
+            "Sanders": 34.7204,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 20.2524,
+            "Yang": 0.8266
+        }
+    },
+    {
+        "County": "Shelby",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 0.75,
+            "Bloomberg": 0.0,
+            "Buttigieg": 1.55,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 1.1,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 0.75,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 0.85,
+            "Yang": 0.0
+        }
+    },
+    {
+        "County": "Sioux",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 0.7875,
+            "Bloomberg": 0.0,
+            "Buttigieg": 1.225,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 1.6625,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 1.3125,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 1.575,
+            "Yang": 0.4375
+        }
+    },
+    {
+        "County": "Story",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 2.905,
+            "Bloomberg": 0.0,
+            "Buttigieg": 14.94,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 17.015,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 24.485,
+            "Steyer": 0.415,
+            "Uncommitted": 0.415,
+            "Warren": 20.75,
+            "Yang": 2.075
+        }
+    },
+    {
+        "County": "Tama",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 2.3293,
+            "Bloomberg": 0.0,
+            "Buttigieg": 2.9763,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 0.7764,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 3.2352,
+            "Steyer": 0.2588,
+            "Uncommitted": 0.0,
+            "Warren": 1.1646,
+            "Yang": 0.2588
+        }
+    },
+    {
+        "County": "Taylor",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 0.6,
+            "Bloomberg": 0.0,
+            "Buttigieg": 0.9,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 0.4,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 0.5,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 0.4,
+            "Yang": 0.2
+        }
+    },
+    {
+        "County": "Union",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 0.75,
+            "Bloomberg": 0.0,
+            "Buttigieg": 1.575,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 0.75,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 1.95,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 0.825,
+            "Yang": 0.15
+        }
+    },
+    {
+        "County": "Van Buren",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 0.5,
+            "Bloomberg": 0.0,
+            "Buttigieg": 1.2,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 0.0,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 0.7,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 0.6,
+            "Yang": 0.0
+        }
+    },
+    {
+        "County": "Wapello",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 3.96,
+            "Bloomberg": 0.0,
+            "Buttigieg": 5.67,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 0.0,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 5.31,
+            "Steyer": 0.09,
+            "Uncommitted": 0.0,
+            "Warren": 2.7,
+            "Yang": 0.27
+        }
+    },
+    {
+        "County": "Warren",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 5.133,
+            "Bloomberg": 0.0,
+            "Buttigieg": 11.8998,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 4.6665,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 5.8332,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 7.2333,
+            "Yang": 0.0
+        }
+    },
+    {
+        "County": "Washington",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 1.857,
+            "Bloomberg": 0.0,
+            "Buttigieg": 2.2284,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 2.4141,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 3.714,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 2.7855,
+            "Yang": 0.0
+        }
+    },
+    {
+        "County": "Wayne",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 0.375,
+            "Bloomberg": 0.0,
+            "Buttigieg": 0.525,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 0.975,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 0.525,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 0.6,
+            "Yang": 0.0
+        }
+    },
+    {
+        "County": "Webster",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 4.6666,
+            "Bloomberg": 0.0,
+            "Buttigieg": 8.0,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 1.2501,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 4.2498,
+            "Steyer": 0.3334,
+            "Uncommitted": 0.0,
+            "Warren": 1.4999,
+            "Yang": 0.0833
+        }
+    },
+    {
+        "County": "Winnebago",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 0.6,
+            "Bloomberg": 0.0,
+            "Buttigieg": 2.1,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 0.75,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 0.9,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 1.05,
+            "Yang": 0.45
+        }
+    },
+    {
+        "County": "Winneshiek",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 0.64,
+            "Bloomberg": 0.0,
+            "Buttigieg": 4.864,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 3.968,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 3.328,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 2.688,
+            "Yang": 0.512
+        }
+    },
+    {
+        "County": "Woodbury",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 12.75,
+            "Bloomberg": 0.0,
+            "Buttigieg": 11.05,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 2.3375,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 17.425,
+            "Steyer": 0.0,
+            "Uncommitted": 0.2125,
+            "Warren": 7.65,
+            "Yang": 0.6375
+        }
+    },
+    {
+        "County": "Worth",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 0.7333,
+            "Bloomberg": 0.0,
+            "Buttigieg": 0.9333,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 1.4667,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 0.8666,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 0.6001,
+            "Yang": 0.4
+        }
+    },
+    {
+        "County": "Wright",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 1.0665,
+            "Bloomberg": 0.1333,
+            "Buttigieg": 2.1333,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 1.1999,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 1.1999,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 0.2666,
+            "Yang": 0.0
+        }
+    },
+    {
+        "County": "Out of State Satellite",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 0.7066,
+            "Bloomberg": 0.0337,
+            "Buttigieg": 0.7711,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 1.0663,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 0.5638,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 0.8789,
+            "Yang": 0.0216
+        }
+    },
+    {
+        "County": "CD1 Satellite",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 0.6655,
+            "Bloomberg": 0.0,
+            "Buttigieg": 0.4777,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 0.7424,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 3.6532,
+            "Steyer": 0.067,
+            "Uncommitted": 0.0,
+            "Warren": 0.3942,
+            "Yang": 0.0
+        }
+    },
+    {
+        "County": "CD2 Satellite",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 0.6832,
+            "Bloomberg": 0.0,
+            "Buttigieg": 0.0262,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 1.2872,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 5.829,
+            "Steyer": 0.0,
+            "Uncommitted": 0.049,
+            "Warren": 2.3012,
+            "Yang": 0.8243
+        }
+    },
+    {
+        "County": "CD3 Satellite",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 2.9806,
+            "Bloomberg": 0.0,
+            "Buttigieg": 0.1858,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 1.3617,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 12.4478,
+            "Steyer": 0.0,
+            "Uncommitted": 0.0,
+            "Warren": 1.0929,
+            "Yang": 0.0345
+        }
+    },
+    {
+        "County": "CD4 Satellite",
+        "Precinct": "Total",
+        "SDE": {
+            "Bennet": 0,
+            "Biden": 0.2057,
+            "Bloomberg": 0.0426,
+            "Buttigieg": 0.2129,
+            "Delaney": 0,
+            "Gabbard": 0.0,
+            "Klobuchar": 0.2696,
+            "Other": 0.0,
+            "Patrick": 0,
+            "Sanders": 3.0142,
+            "Steyer": 0.0993,
+            "Uncommitted": 0.0284,
+            "Warren": 0.0284,
+            "Yang": 0.0993
+        }
+    }
+]
