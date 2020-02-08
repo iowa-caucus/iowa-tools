@@ -21,7 +21,7 @@ the delegate scores. Previous efforts have mostly used Google Sheets for this pr
 but hard to automate. GitHub, on the other hand, excels in automation, as well as in setting up proper reviewing processes.
 
 - The initial implementation has been done in Python, using the Pandas library for table management.
-- The last few data releases from the Iowa Democratic Party has been parsed and converted to both JSON and CSV formats
+- The last few data releases from the Iowa Democratic Party has been parsed and converted to both [JSON and CSV formats](out_data/idp-2020-02-08-100).
 - GitHub allows web-based editing of text files and CSV files, including transparent review processes using Pull Requests.
 - There are utility functions for converting from JSON data to Pandas DataFrames and back to both JSON and CSV files. More 
 conversion utilities should be easy to create.
