@@ -4,17 +4,19 @@ import argparse
 import re
 import dpath.util as du
 
-from iowa_tools.common import write_all, get_json_filenames, read_dataframe, split_dataframe, \
-    write_dataframe_as_json, write_dataframe_as_csv
 from iowa_tools.constants import FULL, VOTES, SDES, TOTALS, SDE_TOTALS, PRECINCT, COUNTY
+from iowa_tools.dataframe import split_dataframe
+from iowa_tools.formats import JsonDataset, convert_json_to_dataframe
+from iowa_tools.io import write_dataframe_as_json, write_dataframe_as_csv, get_html_filename, \
+    open_input_reference_file, write_json
 
 
-def parse_iowa_html(idp_html_file, out_dir):
+def parse_iowa_html(ipd_ref_dataset):
     headers = []
     data = []
 
-    with open(idp_html_file, 'r') as iowa:
-        for i, line in enumerate(iowa):
+    with open_input_reference_file(get_html_filename(ipd_ref_dataset)) as idp_file:
+        for i, line in enumerate(idp_file):
             line = line.strip()
             if i % 100 == 0:
                 print(i)
@@ -70,23 +72,22 @@ def parse_iowa_html(idp_html_file, out_dir):
 
                     col_idx += 1
 
-    data_fn, headers_fn = get_json_filenames(FULL)
-    write_all({data_fn: data, headers_fn: headers}, out_dir=out_dir)
-
-    full_df = read_dataframe(out_dir, FULL)
+    json_dataset = JsonDataset(data, headers)
+    full_df = convert_json_to_dataframe(json_dataset)
     votes_df, sdes_df, totals_df, sde_totals_df = split_dataframe(full_df)
-
     votes_df = votes_df.sort_values([COUNTY, PRECINCT], ascending=True)
 
-    write_dataframe_as_csv(votes_df, out_dir, VOTES)
-    write_dataframe_as_csv(sdes_df, out_dir, SDES)
-    write_dataframe_as_csv(totals_df, out_dir, TOTALS)
-    write_dataframe_as_csv(sde_totals_df, out_dir, SDE_TOTALS)
+    write_json(json_dataset, ipd_ref_dataset, FULL)
 
-    write_dataframe_as_json(votes_df, out_dir, VOTES)
-    write_dataframe_as_json(sdes_df, out_dir, SDES)
-    write_dataframe_as_json(totals_df, out_dir, TOTALS)
-    write_dataframe_as_json(sde_totals_df, out_dir, SDE_TOTALS)
+    write_dataframe_as_csv(votes_df, ipd_ref_dataset, VOTES)
+    write_dataframe_as_csv(sdes_df, ipd_ref_dataset, SDES)
+    write_dataframe_as_csv(totals_df, ipd_ref_dataset, TOTALS)
+    write_dataframe_as_csv(sde_totals_df, ipd_ref_dataset, SDE_TOTALS)
+
+    write_dataframe_as_json(votes_df, ipd_ref_dataset, VOTES)
+    write_dataframe_as_json(sdes_df, ipd_ref_dataset, SDES)
+    write_dataframe_as_json(totals_df, ipd_ref_dataset, TOTALS)
+    write_dataframe_as_json(sde_totals_df, ipd_ref_dataset, SDE_TOTALS)
 
 
 def main():
@@ -99,11 +100,10 @@ def main():
                     'county->precinct->header(->subheader)->value.'
                     '"cols.json" is a json structure organized with the following hierarchy: '
                     'header(->subheader)->county->precinct->list of values')
-    parser.add_argument('iowa_html_file', type=argparse.FileType('r'))
-    parser.add_argument('out_dir')
+    parser.add_argument('ipd_ref_dataset')
     args = parser.parse_args()
 
-    parse_iowa_html(args.iowa_html_file.name, args.out_dir)
+    parse_iowa_html(args.idp_ref_dataset)
 
 
 if __name__ == "__main__":
