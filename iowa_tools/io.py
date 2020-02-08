@@ -7,25 +7,30 @@ from iowa_tools.constants import JSON_DATA_SUFFIX, JSON_HEADERS_SUFFIX, VOTES, \
     CSV_SUFFIX, DATA_DIR, HTML_SUFFIX, REF_DATA_DIR
 
 
-def read_dataframe_from_json(input_dataset, subtype=VOTES):
+def read_dataset_from_json(input_dataset, subtype=VOTES):
     json_dataset = read_json(input_dataset, subtype)
     df = convert_json_to_dataframe(json_dataset)
     return df
 
 
-def read_dataframe_from_csv(input_dataset, subtype):
+def read_dataset_from_csv(input_dataset, subtype):
     with open_input_dataset_file(input_dataset, get_csv_filename(subtype)) as csv_file:
         csv_content = csv_file.read()
-    df = convert_csv_to_dataframe(csv_content)
-    return df
+    return convert_csv_to_dataframe(csv_content)
 
 
-def write_dataframe_as_json(df, output_dataset, subtype):
+def read_reference_dataset_from_csv(reference_dataset):
+    with open_input_reference_file(get_csv_filename(reference_dataset)) as csv_file:
+        csv_content = csv_file.read()
+    return convert_csv_to_dataframe(csv_content)
+
+
+def write_dataset_as_json(df, output_dataset, subtype):
     json_dataset = convert_dataframe_to_json(df)
     write_json(json_dataset, output_dataset, subtype)
 
 
-def write_dataframe_as_csv(df, output_dataset, subtype):
+def write_dataset_as_csv(df, output_dataset, subtype):
     csv_content = convert_dataframe_to_csv(df)
     with open_output_dataset_file(output_dataset, get_csv_filename(subtype)) as csv_file:
         csv_file.write(csv_content)

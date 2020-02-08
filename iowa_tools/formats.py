@@ -56,7 +56,9 @@ def convert_json_to_dataframe(json_dataset):
 
 
 def convert_csv_to_dataframe(csv_content):
-    pass
+    df = pd.read_csv(csv_content)
+    df = df.set_index(tuple(df.columns[0:2]))
+    return df
 
 
 # Util functions

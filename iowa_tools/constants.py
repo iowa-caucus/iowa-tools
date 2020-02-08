@@ -40,7 +40,8 @@ IDP_92_PERCENT = 'idp-2020-02-06-92'
 IDP_97_PERCENT = 'idp-2020-02-06-97'
 IDP_100_PERCENT = 'idp-2020-02-08-100'
 GOP_2008_RESULTS = 'iagop2008certifiedresults'
-PRECINCT_DELEGATES = 'precinct_delegates_spsteve'
+IDP_PRECINCT_DELEGATES = 'idp-precinct-delegates'
+SPSTEVE_PRECINCT_DELEGATES = 'spsteve_precinct_delegates'
 
 
 # OUTPUT DATASETS
