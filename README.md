@@ -23,8 +23,6 @@ but hard to automate. GitHub, on the other hand, excels in automation, as well a
 - The initial implementation has been done in Python, using the Pandas library for table management.
 - The last few data releases from the Iowa Democratic Party has been parsed and converted to both JSON and CSV formats
 - GitHub allows web-based editing of text files and CSV files, including transparent review processes using Pull Requests.
-- The [out_data/to_validate](out_data/to_validate) directory contains CSV and JSON versions of the voting data, which should be 
-validated towards evidence. Much has been done here, already, but not available and collected in a directly usable format.
 - There are utility functions for converting from JSON data to Pandas DataFrames and back to both JSON and CSV files. More 
 conversion utilities should be easy to create.
 - The [iowa_tools/analyze.py](iowa_tools/analyze.py) module contains a simple framework for adding analyses and discrepancy checks. 
@@ -34,6 +32,12 @@ permissions to the repo, please create an issue with some information about your
 work, we need to share the responsibilities, with a few people being granted the permissions to review the work of a larger group of 
 people doing the brunt work.
 - We need to hammer out the details as we go.
+
+Analysis features implemented:
+
+- Check on whether more people voted in the second round than in the first, with [the results here](out_data/more_final_votes/more_votes.csv)
+- The [out_data/to_validate](out_data/to_validate) directory contains CSV and JSON versions of the voting data, which should be 
+validated towards evidence. Here, non-programmers can contribute with manual validation of precinct data against evidence. Much has been done already, for instance [on Reddit](https://www.reddit.com/r/WayOfTheBern/comments/ezjlwq/crowd_source_help_needed_asap/), but the validated data is not so easily available for automated downstream calculations.
 
 What is planned to be added:
 
