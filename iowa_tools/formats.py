@@ -55,6 +55,7 @@ def convert_json_to_dataframe(json_dataset):
     df = pd.json_normalize(data, meta=headers)
     df = df.set_index(headers[0] + headers[1])  # use county and prefix and index
     df.columns = df.columns.str.split('.', expand=True)  # create hierarchical columns
+    df = get_dataframe_with_top_headers_sorted_by_std_order(df)
     return df
 
 
@@ -62,6 +63,7 @@ def convert_csv_to_dataframe(csv_content, header='infer', index_cols=None):
     df = pd.read_csv(StringIO(csv_content), header=header)
     if index_cols:
         df = df.set_index([df.columns[i] for i in index_cols])
+    df = get_dataframe_with_top_headers_sorted_by_std_order(df)
     return df
 
 

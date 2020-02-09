@@ -8,7 +8,11 @@ import pandas as pd
 
 from iowa_tools.constants import FIRST, FINAL, INC_VOTES, ST_VOTES, ST_MORE_VOTES, COUNTY, \
     DOCUMENTATION_URL, VALIDATED, IDP_PRECINCT_DELEGATES, GOP_2008_RESULTS, \
-    SPSTEVE_PRECINCT_DELEGATES, PRECINCT_SN, ST_MAPPING, ST_SDE_PRECINCT_TOTALS, ST_SDES, TOTAL_SDE
+    SPSTEVE_PRECINCT_DELEGATES, PRECINCT_SN, ST_MAPPING, ST_SDE_PRECINCT_TOTALS, ST_SDES, \
+    TOTAL_SDE, DUPLICATE, ST_FIRST_DUPLICATES, ST_FINAL_DUPLICATES, ST_FIRST_FINAL_DUPLICATES, \
+    ST_SDE_DUPLICATES, ST_FINAL_SDE_DUPLICATES, ST_FIRST_FINAL_SDE_DUPLICATES, DUP_FINAL, \
+    DUP_FIRST, DUP_FIRST_FINAL, DUP_SDE, DUP_FINAL_SDE, DUP_FULL, DUP_ANY, ST_ALL_DUPLICATES
+from iowa_tools.dataframe import extract_subtable_by_labels
 from iowa_tools.io import read_dataset_from_json, read_reference_dataset_from_csv, \
     write_dataset_as_json, write_dataset_as_csv
 
@@ -16,7 +20,8 @@ from iowa_tools.io import read_dataset_from_json, read_reference_dataset_from_cs
 ANALYSES = [
     'more_final_votes',
     'generate_validation_files',
-    'harmonize_precinct_metadata'
+    'harmonize_precinct_metadata',
+    'duplicated_precincts'
 ]
 
 
@@ -67,6 +72,52 @@ def harmonize_precinct_metadata(input_dataset, output_dataset):
     sdes_df = read_dataset_from_json(input_dataset, ST_SDES)
     guthrie_df = sdes_df.loc['Guthrie'].sum(axis=1).to_frame(TOTAL_SDE)
     write_dataset_as_csv(guthrie_df, output_dataset, 'guthrie_' + ST_SDE_PRECINCT_TOTALS)
+
+
+def duplicated_precincts(input_dataset, output_dataset):
+    votes_df = read_dataset_from_json(input_dataset, ST_VOTES)
+    sdes_df = read_dataset_from_json(input_dataset, ST_SDES)
+    full_df = votes_df.join(sdes_df)
+
+    first_duplicated_df = extract_subtable_by_labels(votes_df, col_labels=[FIRST], col_level=0)
+    final_duplicated_df = extract_subtable_by_labels(votes_df, col_labels=[FINAL], col_level=0)
+    votes_duplicated_df = votes_df.copy()
+    sdes_duplicated_df = sdes_df.copy()
+    final_sdes_duplicated_df = final_duplicated_df.join(sdes_df)
+    full_duplicated_df = full_df.copy()
+    all_duplications_df = full_df.copy()
+
+    first_duplicated_df[DUPLICATE, DUP_FIRST] = first_duplicated_df.duplicated(keep=False)
+    final_duplicated_df[DUPLICATE, DUP_FINAL] = final_duplicated_df.duplicated(keep=False)
+    votes_duplicated_df[DUPLICATE, DUP_FIRST_FINAL] = votes_duplicated_df.duplicated(keep=False)
+    sdes_duplicated_df[DUPLICATE, DUP_SDE] = sdes_duplicated_df.duplicated(keep=False)
+    final_sdes_duplicated_df[DUPLICATE, DUP_FINAL_SDE] = final_sdes_duplicated_df.duplicated(keep=False)
+    full_duplicated_df[DUPLICATE, DUP_FULL] = full_duplicated_df.duplicated(keep=False)
+
+    all_duplications_df[DUPLICATE, DUP_FIRST] = first_duplicated_df[DUPLICATE, DUP_FIRST].copy()
+    all_duplications_df[DUPLICATE, DUP_FINAL] = final_duplicated_df[DUPLICATE, DUP_FINAL].copy()
+    all_duplications_df[DUPLICATE, DUP_FIRST_FINAL] = votes_duplicated_df[DUPLICATE, DUP_FIRST_FINAL].copy()
+    all_duplications_df[DUPLICATE, DUP_SDE] = sdes_duplicated_df[DUPLICATE, DUP_SDE].copy()
+    all_duplications_df[DUPLICATE, DUP_FINAL_SDE] = final_sdes_duplicated_df[DUPLICATE, DUP_FINAL_SDE].copy()
+    all_duplications_df[DUPLICATE, DUP_FULL] = full_duplicated_df[DUPLICATE, DUP_FULL].copy()
+    all_duplications_df[DUPLICATE, DUP_ANY] = \
+        all_duplications_df[all_duplications_df.columns[-6:]].any(axis=1)
+
+    first_duplicated_df = first_duplicated_df[first_duplicated_df[first_duplicated_df.columns[-1]]]
+    final_duplicated_df = final_duplicated_df[final_duplicated_df[final_duplicated_df.columns[-1]]]
+    votes_duplicated_df = votes_duplicated_df[votes_duplicated_df[votes_duplicated_df.columns[-1]]]
+    sdes_duplicated_df = sdes_duplicated_df[sdes_duplicated_df[sdes_duplicated_df.columns[-1]]]
+    final_sdes_duplicated_df = final_sdes_duplicated_df[final_sdes_duplicated_df[final_sdes_duplicated_df.columns[-1]]]
+    full_duplicated_df = full_duplicated_df[full_duplicated_df[full_duplicated_df.columns[-1]]]
+    all_duplications_df = all_duplications_df[all_duplications_df[all_duplications_df.columns[-1]]]
+
+    write_dataset_as_csv(first_duplicated_df, output_dataset, ST_FIRST_DUPLICATES)
+    write_dataset_as_csv(final_duplicated_df, output_dataset, ST_FINAL_DUPLICATES)
+    write_dataset_as_csv(votes_duplicated_df, output_dataset, ST_FIRST_FINAL_DUPLICATES)
+    write_dataset_as_csv(sdes_duplicated_df, output_dataset, ST_SDE_DUPLICATES)
+    write_dataset_as_csv(final_sdes_duplicated_df, output_dataset, ST_FINAL_SDE_DUPLICATES)
+    write_dataset_as_csv(full_duplicated_df, output_dataset, ST_FIRST_FINAL_SDE_DUPLICATES)
+    write_dataset_as_csv(all_duplications_df, output_dataset, ST_ALL_DUPLICATES)
 
 
 def main():

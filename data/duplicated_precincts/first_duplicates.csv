@@ -1,0 +1,31 @@
+,,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,Duplicate
+,,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Patrick,Sanders,Steyer,Warren,Yang,Other,Uncommitted,First
+County,Precinct,,,,,,,,,,,,,,,
+CD1 Satellite,"Marshalltown, IA - UAW Local 893",0,0,0,0,0,0,0,0,0,0,0,0,0,0,True
+CD2 Satellite,"Centerville, IA - Centerville Speciality Care",0,0,0,0,0,0,0,0,0,0,0,0,0,0,True
+CD2 Satellite,"Ottumwa, IA - UAW Local 74",0,0,0,0,0,0,0,0,14,0,1,0,0,0,True
+CD2 Satellite,"Ottumwa, IA - UFCW Local 230",0,0,0,0,0,0,0,0,14,0,1,0,0,0,True
+CD2 Satellite,"West Burlington, IA - Southeastern Community College",0,0,0,0,0,0,0,0,3,0,0,0,0,0,True
+CD4 Satellite,"Manson, IA - Good Samaritan Society - Manson",0,0,0,0,0,0,0,0,0,0,0,0,0,0,True
+CD4 Satellite,"Storm Lake, IA - Methodist Manor",0,0,0,0,0,0,0,0,0,0,0,0,0,0,True
+Cass,Union Twp/Cumberland,0,0,0,2,0,0,0,0,2,0,1,0,0,0,True
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,0,0,0,2,0,1,2,0,1,0,2,0,0,0,True
+Decatur,DE/Decatur City,0,0,0,2,0,1,2,0,1,0,2,0,0,0,True
+Des Moines,PCT 3,0,35,0,80,0,0,50,0,56,0,45,29,0,0,True
+Henry,Mt. Pleasant Ward 4,0,3,1,19,0,0,0,0,12,0,5,8,0,0,True
+Henry,Northeast Precinct,0,3,1,19,0,0,0,0,12,0,5,8,0,0,True
+Humboldt,North Lake-East Vernon,0,1,0,1,0,0,0,0,1,0,0,0,0,0,True
+Ida,City of Galva,0,0,0,2,0,0,0,0,2,0,1,0,0,0,True
+Kossuth,GW- SN,0,1,0,1,0,0,0,0,1,0,0,0,0,0,True
+Out of State Satellite,"Tbilisi, Republic of Georgia - Home of Joshua Kucera",0,0,0,0,0,0,0,0,3,0,0,0,0,0,True
+Polk,DES MOINES-80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,True
+Scott,(B52) City of Bettendorf,0,72,2,87,0,0,69,0,65,5,36,15,0,5,True
+Scott,(BG) Blue Grass Township,0,18,0,18,0,0,0,0,40,0,18,0,0,0,True
+Scott,(D31) City of Davenport,0,18,0,18,0,0,0,0,40,0,18,0,0,0,True
+Scott,(D52) City of Davenport,0,72,2,87,0,0,69,0,65,5,36,15,0,5,True
+Story,Grant Township,3,1,0,10,0,0,9,0,0,0,4,5,0,0,True
+Story,Palestine Township,3,1,0,10,0,0,9,0,0,0,4,5,0,0,True
+Webster,Cooper,0,1,0,1,0,0,0,0,1,0,0,0,0,0,True
+Winneshiek,PCT 03 - DEW1/DETSUP2,0,35,0,80,0,0,50,0,56,0,45,29,0,0,True
+Woodbury,Sioux City 05,0,38,0,15,0,0,4,0,27,2,12,0,0,0,True
+Woodbury,Sioux City 20,0,38,0,15,0,0,4,0,27,2,12,0,0,0,True

@@ -10,6 +10,14 @@ INC_VOTES = 'Final Vote Increase'
 DOCUMENTATION_URL = 'URL to Documentation'
 VALIDATED = 'Manually validated'
 PRECINCT_SN = 'Precinct Short Name'
+DUPLICATE = 'Duplicate'
+DUP_FIRST = 'First'
+DUP_FINAL = 'Final'
+DUP_SDE = 'SDE'
+DUP_FIRST_FINAL = 'First & Final'
+DUP_FINAL_SDE = 'Final & SDE'
+DUP_FULL = 'Full'
+DUP_ANY = 'Any'
 
 STD_COL_ORDER = [COUNTY, PRECINCT, FIRST, FINAL, INC_VOTES, DOCUMENTATION_URL, VALIDATED, SDE]
 
@@ -51,6 +59,7 @@ SPSTEVE_PRECINCT_DELEGATES = 'spsteve_precinct_delegates'
 MORE_FINAL_VOTES = 'more_final_votes'
 TO_VALIDATE = 'to_validate'
 PRECINCTS = 'precinct_delegates'
+DUPLICATED_PRECINCTS = 'duplicated_precincts'
 
 
 # OUTPUT DATASET SUBTYPES
@@ -63,6 +72,14 @@ ST_SDE_COUNTY_TOTALS = 'sde_county_totals'
 ST_SDE_PRECINCT_TOTALS = 'sde_precinct_totals'
 ST_MORE_VOTES = 'more_votes'
 ST_MAPPING = 'name_mapping'
+ST_FIRST_DUPLICATES = 'first_duplicates'
+ST_FINAL_DUPLICATES = 'final_duplicates'
+ST_FIRST_FINAL_DUPLICATES = 'first_final_duplicates'
+ST_SDE_DUPLICATES = 'sde_duplicates'
+ST_FINAL_SDE_DUPLICATES = 'final_sde_duplicates'
+ST_FIRST_FINAL_SDE_DUPLICATES = 'first_final_sde_duplicates'
+ST_ALL_DUPLICATES = 'all_duplicates'
+
 
 # FILE SUFFIXES
 
