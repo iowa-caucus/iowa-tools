@@ -20,7 +20,7 @@ Also
   - [Republican-Party-of-Iowa-Iowa-GOP-Precinct-Caucus-Locations.pdf](docs/Republican-Party-of-Iowa-Iowa-GOP-Precinct-Caucus-Locations.pdf)
 - I also had to use Google Maps for some mapping, as in e.g.:
   - [Cass-County-Precincts-2012.pdf](docs/Cass-County-Precincts-2012.pdf)
-- Lastly, for the Guthrie precinct, where they hav coloc-coded the precincts, I had to use the IDP SDEs to confirm the identities of the Precincts. See:
+- Lastly, for the Guthrie precinct, where they hav color-coded the precincts, I had to use the IDP SDEs to confirm the identities of the Precincts. See:
   - [guthrie.pdf](docs/guthrie.pdf)
   - [guthrie_sde_precinct_totals.csv](guthrie_sde_precinct_totals.csv)
 - Here is my merged spreadsheet in [this repository](data/precinct_delegates/name_mapping.csv) and in [Google Sheets](https://docs.google.com/spreadsheets/d/1DW4FoAqhUCbX7Qm0ufGy94GwcVnBpYqnbpCZwsTjFCc/edit?usp=sharing)
