@@ -3,6 +3,11 @@
 Set of tools to be used for crowd sourcing the repair of the Iowa Caucus results of the 2020 Democratic Party presidential primaries.
 
 # UPDATE!
+New links:
+- [Reddit post 1](https://www.reddit.com/r/WayOfTheBern/comments/f185am/iowa_full_analysis_of_duplicated_precincts_needs/)
+- [Reddit post 2](https://www.reddit.com/r/WayOfTheBern/comments/f18vsk/breaking_46_iowa_precincts_found_with_full_or/)
+- [Twitter post](https://twitter.com/ker_shus/status/1226499391743238144)
+
 Analysis of [DUPLICATE PRECINCT RECORDS](data/duplicated_precincts) (of different combinations) have been added. Number of duplicated precincts found:
 - [Full duplicates](data/duplicated_precincts/first_final_sde_duplicates.csv): 8 (4+4)
 - Partial duplicates:
@@ -41,6 +46,7 @@ overview of many of the remaining issues/
 There have been a number of initiatives on social media sites, such as:
 
 - [Reddit: WayOfTheBern Crowd sourcing initiative](https://www.reddit.com/r/WayOfTheBern/comments/ezjlwq/crowd_source_help_needed_asap/)
+- [YUUUGE list of errors](https://www.reddit.com/r/SandersForPresident/comments/ezl7iw/iowa_caucus_list_of_errors_in_official_data/?sort=new)
 - [Twitter thread on inconsistencies](https://twitter.com/Taniel/status/1225597027851100160)
 - [Inconsistencies published by the Bernie Sanders campaign](https://twitter.com/IAStartingLine/status/1225615234196557825)
 - [2020 Iowa Caucus Precinct Errors](https://docs.google.com/spreadsheets/d/1JLQvIHaasTYTPOeEPKXquNPx9VCvJNNzCIJlxEkrBfQ/edit#gid=0)
