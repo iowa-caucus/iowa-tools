@@ -12,6 +12,7 @@ Analysis of [DUPLICATE PRECINCT RECORDS](data/duplicated_precincts) (of differen
   - [SDE counts only](data/duplicated_precincts/sde_duplicates.csv): 357 Duplicates (Many of these might happen by chance, so needs to be reviewed)
   - [Final votes including SDE counts](data/duplicated_precincts/final_sde_duplicates.csv): 10 (5+5) Duplicated precincts!
 - [All of the above](data/duplicated_precincts/all_duplicates.csv)
+- [All of the above (minus only SDE duplicates)](data/duplicated_precincts/all_duplicates_minus_sde.csv). This is the list of the in total 46 duplicated precincts that should be reviewed first.  
 
 In addition, 4 Satellite precincts are still missing data and are thus counted as duplicates!
 
