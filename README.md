@@ -2,6 +2,18 @@
 
 Set of tools to be used for crowd sourcing the repair of the Iowa Caucus results of the 2020 Democratic Party presidential primaries.
 
+# UPDATE!
+Analysis of [DUPLICATE PRECINCT RECORDS](data/duplicated_precincts) (of different combinations) have been added. Number of duplicated precincts found:
+- First round votes only: 24 (12+12) Duplicated precincts!
+- Final round votes only: 32 (16+16) Duplicated precincts!
+- First and final round votes: 14 (7+7) Duplicated precincts!
+- SDE counts only: 357 Duplicates (Many of these might happen by chance, so needs to be reviewed)
+- Final votes including SDE counts: 10 (5+5) Duplicated precincts!
+- Full duplicates: 8 (4+4)
+In addition, 4 Satellite precincts are still missing data and are thus counted as duplicates!
+
+# About
+
 As of Feb 8 2020, there is still a large amount of errors and inconsistencies in the results, and most media sites have not called the 
 winner. Bernie Sanders has won the popular vote, while Pete Buttigieg for now is marginally leading the State Delegate Equivalents.
 
