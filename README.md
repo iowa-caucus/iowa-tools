@@ -5,7 +5,7 @@ Set of tools to be used for crowd sourcing the repair of the Iowa Caucus results
 # UPDATE!
 Analysis of [DUPLICATE PRECINCT RECORDS](data/duplicated_precincts) (of different combinations) have been added. Number of duplicated precincts found:
 - [Full duplicates](data/duplicated_precincts/first_final_sde_duplicates.csv): 8 (4+4)
-- Partial duplicates(:
+- Partial duplicates:
   - [First round votes only](data/duplicated_precincts/first_duplicates.csv): 24 (12+12) Duplicated precincts!
   - [Final round votes only](data/duplicated_precincts/final_duplicates.csv): 32 (16+16) Duplicated precincts!
   - [First and final round votes](data/duplicated_precincts/first_final_duplicates.csv): 14 (7+7) Duplicated precincts!
