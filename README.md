@@ -2,7 +2,7 @@
 
 Set of tools to be used for crowd sourcing the repair of the Iowa Caucus results of the 2020 Democratic Party presidential primaries.
 
-# UPDATE!
+# UPDATES!
 New links:
 - [Reddit post 1](https://www.reddit.com/r/WayOfTheBern/comments/f185am/iowa_full_analysis_of_duplicated_precincts_needs/)
 - [Reddit post 2](https://www.reddit.com/r/WayOfTheBern/comments/f18vsk/breaking_46_iowa_precincts_found_with_full_or/)
@@ -23,7 +23,7 @@ In addition, 4 Satellite precincts are still missing data and are thus counted a
 
 Also:
 
-- A full overview of [County delegates per predinct](ref_data/ipd-precinct-delegates-mapped.csv) have been added, based on multiple mapping and manual review of precinct name codes
+- A full overview of [County delegates per precinct](ref_data/ipd-precinct-delegates-mapped.csv) have been added, based on multiple mapping and manual review of precinct name codes
 - Based upon this [spreadsheet](https://docs.google.com/spreadsheets/d/1mNtJ94lUrKwwX6-q2b_YQvg4EOQ92BsnKiCyLrgrBTo) by the Reddit user spsteve (see also WayOfTheBern link below)
 - His spreadsheet was merged with other data I found from three GOP primaries:
   - [iagop2008certifiedresults.xls](https://github.com/iowa-caucus/iowa-tools/blob/master/docs/iagop2008certifiedresults.xls)
