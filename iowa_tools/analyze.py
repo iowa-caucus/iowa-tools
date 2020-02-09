@@ -8,8 +8,7 @@ import pandas as pd
 
 from iowa_tools.constants import FIRST, FINAL, INC_VOTES, VOTES, MORE_VOTES, COUNTY, \
     DOCUMENTATION_URL, VALIDATED, IDP_PRECINCT_DELEGATES, GOP_2008_RESULTS, \
-    SPSTEVE_PRECINCT_DELEGATES, PRECINCT_SN, PRECINCTS, MAPPING
-from iowa_tools.dataframe import extract_subtable_by_labels
+    SPSTEVE_PRECINCT_DELEGATES, PRECINCT_SN, MAPPING, SDE_PRECINCT_TOTALS, SDES, TOTAL_SDE
 from iowa_tools.io import read_dataset_from_json, read_reference_dataset_from_csv, \
     write_dataset_as_json, write_dataset_as_csv
 
@@ -64,6 +63,10 @@ def harmonize_precinct_metadata(input_dataset, output_dataset):
     join_df = join_df.sort_values([COUNTY, PRECINCT_SN], ascending=True)
 
     write_dataset_as_csv(join_df, output_dataset, MAPPING)
+
+    sdes_df = read_dataset_from_json(input_dataset, SDES)
+    guthrie_df = sdes_df.loc['Guthrie'].sum(axis=1).to_frame(TOTAL_SDE)
+    write_dataset_as_csv(guthrie_df, output_dataset, 'guthrie_' + SDE_PRECINCT_TOTALS)
 
 
 def main():
