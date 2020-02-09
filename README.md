@@ -2,8 +2,10 @@
 
 Set of tools to be used for crowd sourcing the repair of the Iowa Caucus results of the 2020 Democratic Party presidential primaries.
 
-# UPDATES!
-New links:
+# Updates:
+Cool web app to use for browsing results: [iowa-results.now.sh](https://iowa-results.now.sh), [Tweet](https://t.co/UnZK3gipWB)
+
+New links about project:
 - [Reddit post 1](https://www.reddit.com/r/WayOfTheBern/comments/f185am/iowa_full_analysis_of_duplicated_precincts_needs/)
 - [Reddit post 2](https://www.reddit.com/r/WayOfTheBern/comments/f18vsk/breaking_46_iowa_precincts_found_with_full_or/)
 - [Twitter post](https://twitter.com/ker_shus/status/1226499391743238144)
