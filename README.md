@@ -12,6 +12,19 @@ Analysis of [DUPLICATE PRECINCT RECORDS](data/duplicated_precincts) (of differen
 - Full duplicates: 8 (4+4)
 In addition, 4 Satellite precincts are still missing data and are thus counted as duplicates!
 
+Also
+- A full overview of [County delegates per predinct](ref_data/ipd-precinct-delegates-mapped.csv) have been added, based on multiple mapping and manual review of precinct name codes
+- Based upon this [spreadsheet](https://docs.google.com/spreadsheets/d/1mNtJ94lUrKwwX6-q2b_YQvg4EOQ92BsnKiCyLrgrBTo) by the Reddit user spsteve (see also WayOfTheBern link below)
+- His spreadsheet was merged with other data I found from three GOP primaries:
+  - [iagop2008certifiedresults.xls](https://github.com/iowa-caucus/iowa-tools/blob/master/docs/iagop2008certifiedresults.xls)
+  - [Republican-Party-of-Iowa-Iowa-GOP-Precinct-Caucus-Locations.pdf](docs/Republican-Party-of-Iowa-Iowa-GOP-Precinct-Caucus-Locations.pdf)
+- I also had to use Google Maps for some mapping, as in e.g.:
+  - [Cass-County-Precincts-2012.pdf](docs/Cass-County-Precincts-2012.pdf)
+- Lastly, for the Guthrie precinct, where they hav coloc-coded the precincts, I had to use the IDP SDEs to confirm the identities of the Precincts. See:
+  - [guthrie.pdf](docs/guthrie.pdf)
+  - [guthrie_sde_precinct_totals.csv](guthrie_sde_precinct_totals.csv)
+- Here is my merged spreadsheet in [this repository](data/precinct_delegates/name_mapping.csv) and in [Google Sheets](https://docs.google.com/spreadsheets/d/1DW4FoAqhUCbX7Qm0ufGy94GwcVnBpYqnbpCZwsTjFCc/edit?usp=sharing)
+
 # About
 
 As of Feb 8 2020, there is still a large amount of errors and inconsistencies in the results, and most media sites have not called the 
