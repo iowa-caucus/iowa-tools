@@ -55,14 +55,14 @@ PRECINCTS = 'precinct_delegates'
 
 # OUTPUT DATASET SUBTYPES
 
-FULL = 'full'
-VOTES = 'votes'
-TOTALS = 'totals'
-SDES = 'sdes'
-SDE_COUNTY_TOTALS = 'sde_county_totals'
-SDE_PRECINCT_TOTALS = 'sde_precinct_totals'
-MORE_VOTES = 'more_votes'
-MAPPING = 'name_mapping'
+ST_FULL = 'full'
+ST_VOTES = 'votes'
+ST_TOTALS = 'totals'
+ST_SDES = 'sdes'
+ST_SDE_COUNTY_TOTALS = 'sde_county_totals'
+ST_SDE_PRECINCT_TOTALS = 'sde_precinct_totals'
+ST_MORE_VOTES = 'more_votes'
+ST_MAPPING = 'name_mapping'
 
 # FILE SUFFIXES
 

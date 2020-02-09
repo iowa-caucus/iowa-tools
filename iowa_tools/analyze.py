@@ -6,9 +6,9 @@ from collections import OrderedDict
 
 import pandas as pd
 
-from iowa_tools.constants import FIRST, FINAL, INC_VOTES, VOTES, MORE_VOTES, COUNTY, \
+from iowa_tools.constants import FIRST, FINAL, INC_VOTES, ST_VOTES, ST_MORE_VOTES, COUNTY, \
     DOCUMENTATION_URL, VALIDATED, IDP_PRECINCT_DELEGATES, GOP_2008_RESULTS, \
-    SPSTEVE_PRECINCT_DELEGATES, PRECINCT_SN, MAPPING, SDE_PRECINCT_TOTALS, SDES, TOTAL_SDE
+    SPSTEVE_PRECINCT_DELEGATES, PRECINCT_SN, ST_MAPPING, ST_SDE_PRECINCT_TOTALS, ST_SDES, TOTAL_SDE
 from iowa_tools.io import read_dataset_from_json, read_reference_dataset_from_csv, \
     write_dataset_as_json, write_dataset_as_csv
 
@@ -21,7 +21,7 @@ ANALYSES = [
 
 
 def more_final_votes(input_dataset, output_dataset):
-    df = read_dataset_from_json(input_dataset, VOTES)
+    df = read_dataset_from_json(input_dataset, ST_VOTES)
 
     first_votes = df[FIRST].sum(axis=1)
     final_votes = df[FINAL].sum(axis=1)
@@ -31,12 +31,12 @@ def more_final_votes(input_dataset, output_dataset):
     more_votes_df = df[diff_votes > 0]
     more_votes_df = more_votes_df.sort_values(INC_VOTES, ascending=False)
 
-    write_dataset_as_json(more_votes_df, output_dataset, MORE_VOTES)
-    write_dataset_as_csv(more_votes_df, output_dataset, MORE_VOTES)
+    write_dataset_as_json(more_votes_df, output_dataset, ST_MORE_VOTES)
+    write_dataset_as_csv(more_votes_df, output_dataset, ST_MORE_VOTES)
 
 
 def generate_validation_files(input_dataset, output_dataset):
-    df = read_dataset_from_json(input_dataset, VOTES)
+    df = read_dataset_from_json(input_dataset, ST_VOTES)
 
     df[DOCUMENTATION_URL] = ""
     df[VALIDATED] = "false"
@@ -62,11 +62,11 @@ def harmonize_precinct_metadata(input_dataset, output_dataset):
     join_df = join_df.join(spsteve_df, on=(COUNTY, PRECINCT_SN))
     join_df = join_df.sort_values([COUNTY, PRECINCT_SN], ascending=True)
 
-    write_dataset_as_csv(join_df, output_dataset, MAPPING)
+    write_dataset_as_csv(join_df, output_dataset, ST_MAPPING)
 
-    sdes_df = read_dataset_from_json(input_dataset, SDES)
+    sdes_df = read_dataset_from_json(input_dataset, ST_SDES)
     guthrie_df = sdes_df.loc['Guthrie'].sum(axis=1).to_frame(TOTAL_SDE)
-    write_dataset_as_csv(guthrie_df, output_dataset, 'guthrie_' + SDE_PRECINCT_TOTALS)
+    write_dataset_as_csv(guthrie_df, output_dataset, 'guthrie_' + ST_SDE_PRECINCT_TOTALS)
 
 
 def main():

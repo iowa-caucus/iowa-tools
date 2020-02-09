@@ -4,11 +4,11 @@ from collections import OrderedDict
 
 from iowa_tools.formats import JsonDataset, convert_dataframe_to_json, \
     convert_dataframe_to_csv, convert_json_to_dataframe, convert_csv_to_dataframe
-from iowa_tools.constants import JSON_DATA_SUFFIX, JSON_HEADERS_SUFFIX, VOTES, \
+from iowa_tools.constants import JSON_DATA_SUFFIX, JSON_HEADERS_SUFFIX, ST_VOTES, \
     CSV_SUFFIX, DATA_DIR, HTML_SUFFIX, REF_DATA_DIR
 
 
-def read_dataset_from_json(input_dataset, subtype=VOTES):
+def read_dataset_from_json(input_dataset, subtype=ST_VOTES):
     json_dataset = read_json(input_dataset, subtype)
     df = convert_json_to_dataframe(json_dataset)
     return df
