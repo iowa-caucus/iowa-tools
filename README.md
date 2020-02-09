@@ -4,12 +4,14 @@ Set of tools to be used for crowd sourcing the repair of the Iowa Caucus results
 
 # UPDATE!
 Analysis of [DUPLICATE PRECINCT RECORDS](data/duplicated_precincts) (of different combinations) have been added. Number of duplicated precincts found:
-- First round votes only: 24 (12+12) Duplicated precincts!
-- Final round votes only: 32 (16+16) Duplicated precincts!
-- First and final round votes: 14 (7+7) Duplicated precincts!
-- SDE counts only: 357 Duplicates (Many of these might happen by chance, so needs to be reviewed)
-- Final votes including SDE counts: 10 (5+5) Duplicated precincts!
-- Full duplicates: 8 (4+4)
+- [Full duplicates](data/duplicated_precincts/first_final_sde_duplicates.csv): 8 (4+4)
+- Partial duplicates(:
+  - [First round votes only](data/duplicated_precincts/first_duplicates.csv): 24 (12+12) Duplicated precincts!
+  - [Final round votes only](data/duplicated_precincts/final_duplicates.csv): 32 (16+16) Duplicated precincts!
+  - [First and final round votes](data/duplicated_precincts/first_final_duplicates.csv): 14 (7+7) Duplicated precincts!
+  - [SDE counts only](data/duplicated_precincts/sde_duplicates.csv): 357 Duplicates (Many of these might happen by chance, so needs to be reviewed)
+  - [Final votes including SDE counts](data/duplicated_precincts/final_sde_duplicates.csv): 10 (5+5) Duplicated precincts!
+- [All of the above](data/duplicated_precincts/first_final_sde_duplicates.csv)
 In addition, 4 Satellite precincts are still missing data and are thus counted as duplicates!
 
 Also
