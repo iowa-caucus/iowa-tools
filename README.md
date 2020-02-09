@@ -7,6 +7,7 @@ New links:
 - [Reddit post 1](https://www.reddit.com/r/WayOfTheBern/comments/f185am/iowa_full_analysis_of_duplicated_precincts_needs/)
 - [Reddit post 2](https://www.reddit.com/r/WayOfTheBern/comments/f18vsk/breaking_46_iowa_precincts_found_with_full_or/)
 - [Twitter post](https://twitter.com/ker_shus/status/1226499391743238144)
+- [Duplicated precinct records Google Sheet](https://docs.google.com/spreadsheets/d/12K0_gbjFjfY1Mgy3n5gSkwoPzvvEVZsiFYLU7p3EQWQ)
 
 Analysis of [DUPLICATE PRECINCT RECORDS](data/duplicated_precincts) (of different combinations) have been added. Number of duplicated precincts found:
 - [Full duplicates](data/duplicated_precincts/first_final_sde_duplicates.csv): 8 (4+4)
