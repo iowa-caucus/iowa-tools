@@ -6,7 +6,7 @@ from collections import OrderedDict
 
 import dpath.util as du
 
-from iowa_tools.constants import FULL, VOTES, SDES, TOTALS, SDE_TOTALS, PRECINCT, COUNTY
+from iowa_tools.constants import FULL, VOTES, SDES, TOTALS, SDE_COUNTY_TOTALS, PRECINCT, COUNTY
 from iowa_tools.dataframe import split_dataframe
 from iowa_tools.formats import JsonDataset, convert_json_to_dataframe
 from iowa_tools.io import write_dataset_as_json, write_dataset_as_csv, get_html_filename, \
@@ -89,12 +89,12 @@ def parse_iowa_html(ipd_ref_dataset):
     write_dataset_as_csv(votes_df, ipd_ref_dataset, VOTES)
     write_dataset_as_csv(sdes_df, ipd_ref_dataset, SDES)
     write_dataset_as_csv(totals_df, ipd_ref_dataset, TOTALS)
-    write_dataset_as_csv(sde_totals_df, ipd_ref_dataset, SDE_TOTALS)
+    write_dataset_as_csv(sde_totals_df, ipd_ref_dataset, SDE_COUNTY_TOTALS)
 
     write_dataset_as_json(votes_df, ipd_ref_dataset, VOTES)
     write_dataset_as_json(sdes_df, ipd_ref_dataset, SDES)
     write_dataset_as_json(totals_df, ipd_ref_dataset, TOTALS)
-    write_dataset_as_json(sde_totals_df, ipd_ref_dataset, SDE_TOTALS)
+    write_dataset_as_json(sde_totals_df, ipd_ref_dataset, SDE_COUNTY_TOTALS)
 
 
 def main():
