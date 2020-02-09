@@ -51,7 +51,7 @@ There have been a number of initiatives on social media sites, such as:
 - [Reddit: WayOfTheBern Crowd sourcing initiative](https://www.reddit.com/r/WayOfTheBern/comments/ezjlwq/crowd_source_help_needed_asap/)
 - [YUUUGE list of errors](https://www.reddit.com/r/SandersForPresident/comments/ezl7iw/iowa_caucus_list_of_errors_in_official_data/?sort=new)
 - [Twitter thread on inconsistencies](https://twitter.com/Taniel/status/1225597027851100160)
-- [Inconsistencies published by the Bernie Sanders campaign](https://twitter.com/IAStartingLine/status/1225615234196557825)
+- [Inconsistencies published by the Bernie Sanders campaign](https://www.reddit.com/r/bernieblindness/comments/f0lhrc/shocking_number_of_rounding_errors_all_moving)
 - [2020 Iowa Caucus Precinct Errors](https://docs.google.com/spreadsheets/d/1JLQvIHaasTYTPOeEPKXquNPx9VCvJNNzCIJlxEkrBfQ/edit#gid=0)
 
 What is lacking, though, is a way to merge all of these efforts together in a way that allows for easy contributions, while also 
