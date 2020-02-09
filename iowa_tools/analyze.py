@@ -6,9 +6,12 @@ from collections import OrderedDict
 
 import pandas as pd
 
-from iowa_tools.io import read_dataset_from_json, write_dataset_as_json, write_dataset_as_csv
 from iowa_tools.constants import FIRST, FINAL, INC_VOTES, VOTES, MORE_VOTES, COUNTY, \
-    DOCUMENTATION_URL, VALIDATED
+    DOCUMENTATION_URL, VALIDATED, IDP_PRECINCT_DELEGATES, GOP_2008_RESULTS, \
+    SPSTEVE_PRECINCT_DELEGATES, PRECINCT_SN, PRECINCTS, MAPPING
+from iowa_tools.dataframe import extract_subtable_by_labels
+from iowa_tools.io import read_dataset_from_json, read_reference_dataset_from_csv, \
+    write_dataset_as_json, write_dataset_as_csv
 
 
 ANALYSES = [
@@ -48,7 +51,19 @@ def generate_validation_files(input_dataset, output_dataset):
 
 
 def harmonize_precinct_metadata(input_dataset, output_dataset):
-    pass
+    idp_df = read_reference_dataset_from_csv(IDP_PRECINCT_DELEGATES)
+    gop_df = read_reference_dataset_from_csv(GOP_2008_RESULTS, index_cols=(19, 20))
+    spsteve_df = read_reference_dataset_from_csv(SPSTEVE_PRECINCT_DELEGATES)
+
+    gop_df.drop(gop_df.columns[20], axis=1, inplace=True)
+    gop_df.drop(gop_df.columns[range(1, 18)], axis=1, inplace=True)
+    spsteve_df.drop(spsteve_df.columns[range(0, 2)], axis=1, inplace=True)
+
+    join_df = idp_df.join(gop_df, on=(COUNTY, PRECINCT_SN))
+    join_df = join_df.join(spsteve_df, on=(COUNTY, PRECINCT_SN))
+    join_df = join_df.sort_values([COUNTY, PRECINCT_SN], ascending=True)
+
+    write_dataset_as_csv(join_df, output_dataset, MAPPING)
 
 
 def main():

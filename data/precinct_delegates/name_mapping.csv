@@ -1,0 +1,1682 @@
+County,Precinct Short Name,Delegates to County Convention,Long Name,State Delegate Equivalents,Unplaced County,Unplaced Precinct,caucusaddress,caucuscity,caucussite,caucuszip,congressionaldistrict,countycode,entrytype,precinctname
+Adair,01NW,8,1NW ADAIR,0.6274509803921569,,,,,,,,,,
+Adair,02NE,11,2NE STUART,0.8627450980392157,,,,,,,,,,
+Adair,03SW,9,3SW FONTANELLE,0.7058823529411764,,,,,,,,,,
+Adair,04SE,10,4SE ORIENT,0.7843137254901961,,,,,,,,,,
+Adair,05GF,13,5GF GREENFIELD,1.0196078431372548,,,,,,,,,,
+Adams,AD1,8,Adams 1,0.6857142857142857,,,,,,,,,,
+Adams,AD2,7,Adams 2,0.6,,,,,,,,,,
+Adams,AD3,8,Adams 3,0.6857142857142857,,,,,,,,,,
+Adams,AD4,7,Adams 4,0.6,,,,,,,,,,
+Adams,AD5,5,Adams 5,0.4285714285714286,,,,,,,,,,
+Allamakee,PCT 1,4,Pct 01 - WL/HV,0.3111111111111111,,,2876 Northview Rd.,Dorechester,Ernest Gavle Residence,52140,4.0,3.0,AUTO,WL/HV
+Allamakee,PCT 10,9,Pct 10 - Waukon 2,0.7,,,107 6th St NW,Waukon,Allamakee Community Schools East Elementary,52172,4.0,3.0,AUTO,WK 2 CITY
+Allamakee,PCT 11,9,Pct 11 - Waukon 3,0.7,,,107 6th St NW,Waukon,Allamakee Community Schools East Elementary,52172,4.0,3.0,AUTO,WK 3 CITY
+Allamakee,PCT 2,14,Pct 02 - FC/JF/LL/MK/UP,1.088888888888889,,,107 6th St NW,Waukon,Allamakee Community Schools East Elementary,52172,4.0,3.0,AUTO,UP/MK/FC/JF/LL
+Allamakee,PCT 3,3,Pct 03 - PO/FK,0.2333333333333333,,,312 Post St,Postville,Postville Community Schools Fine Arts Building,52162,4.0,3.0,AUTO,PO/FK
+Allamakee,PCT 4,8,Pct 04 - PV City,0.6222222222222222,,,312 Post St,Postville,Postville Community Schools Fine Arts Building,52162,4.0,3.0,AUTO,PV CITY
+Allamakee,PCT 5,4,Pct 05 - LT/PC/WV City,0.3111111111111111,,,107 6th St NW,Waukon,Allamakee Community Schools East Elementary,52172,4.0,3.0,AUTO,PC/LT/WV CITY
+Allamakee,PCT 6,7,Pct 06 - FV/TL/HF City,0.5444444444444445,,,118 N4th St,Harpers Ferry,American Legion Post 722,52146,4.0,3.0,MANUAL,FV/TL/HF CITY
+Allamakee,PCT 7,18,Pct 07 - CN/LF/LS/LS City,1.4,,,515 Main St,Lansing,Lansing City Library (use reardoor),52151,4.0,3.0,MANUAL,LF/CN/LS/LS CITY
+Allamakee,PCT 8,5,Pct 08 - IA/UC/NA City,0.3888888888888889,,,136 Elm St. NE,New Albin,New Albin Town House,52160,4.0,3.0,AUTO,UC/IA/NA CITY
+Allamakee,PCT 9,9,Pct 09 - Waukon 1,0.7,,,107 6th St NW,Waukon,Allamakee Community Schools East Elementary,52172,4.0,3.0,AUTO,WK 1 CITY
+Appanoose,BL,4,Bellair/Lincoln,0.32,,,600 CHSDrive,Centerville,Centerville High School,52544,2.0,4.0,MANUAL,Bellair Lincoln
+Appanoose,CV1,13,Centerville Ward 1,1.04,,,600 CHS Drive,Centerville,Centerville High School,52544,2.0,4.0,AUTO,Centerville W1
+Appanoose,CV2,11,Centerville Ward 2,0.88,,,600 CHS Drive,Centerville,Centerville High School,52544,2.0,4.0,AUTO,Centerville W2
+Appanoose,CV3,10,Centerville Ward 3,0.8,,,600 CHS Drive,Centerville,Centerville High School,52544,2.0,4.0,AUTO,Centerville W3
+Appanoose,CW,2,Caldwell Township,0.16,,,600 CHSDrive,Centerville,Centerville High School,52544,2.0,4.0,MANUAL,Caldwell
+Appanoose,JO,4,Johns/Independence,0.32,,,505 N Trussell St,Moravia,Moravia High School,52571,2.0,4.0,AUTO,Johns Independence
+Appanoose,PS,5,Pleasant/Franklin,0.4,,,600 CHS Drive,Centerville,Centerville High School,52544,2.0,4.0,AUTO,Pleasant Franklin
+Appanoose,TY,7,Taylor/Chariton,0.56,,,505 N Trussell St,Moravia,Moravia High School,52571,2.0,4.0,AUTO,Taylor Chariton
+Appanoose,UD,4,Union / Udell Township,0.32,,,600 CHS Drive,Centerville,Centerville High School,52544,2.0,4.0,AUTO,Udell
+Appanoose,VM,6,Vermillion/Douglas/Sharon,0.48,,,600 CHS Drive,Centerville,Centerville High School,52544,2.0,4.0,AUTO,Vermillion Douglas Sharon
+Appanoose,WALNUT,5,Walnut,0.4,,,,,,,,,,
+Appanoose,WS,4,Washington/Wells,0.32,,,123 S Main St,Moulton,Garrett Memorial Library,52572,2.0,4.0,AUTO,Washington Wells
+Audubon,1,15,Precinct 1,1.5,,,318 Leroy St.,Audubon,Audubon County Courthouse,50025,5.0,5.0,AUTO,Precinct 1
+Audubon,2,15,Precinct 2,1.5,,,318 Leroy St.,Audubon,Audubon County Courthouse,50025,5.0,5.0,AUTO,Precinct 2
+Benton,BG,9,Big Grove-Union-Van Horne,0.6749999999999999,,,114 Main St.,Van Horn,Van Horne Fire Station,52346,3.0,6.0,AUTO,Precinct Bg
+Benton,BN,22,Benton-Canton-Shellsburg,1.65,,,203 Cottage St,Shellsburg,Shellsburg Elementary School - Music Room,52332,3.0,6.0,AUTO,Precinct Bn
+Benton,BP1,6,Belle Plaine 1,0.45,,,1509 9th Ave,Belle Plaine,Lincoln Jr. High Cafeteria,52208,3.0,6.0,AUTO,Precinct Bp1
+Benton,BP2,5,Belle Plaine 2,0.375,,,1509 9th Ave,Belle Plaine,Lincoln Jr. High Cafeteria,52208,3.0,6.0,AUTO,Precinct Bp2
+Benton,BP3,6,Belle Plaine 3,0.45,,,1509 9th Ave,Belle Plaine,Lincoln Jr. High Cafeteria,52208,3.0,6.0,AUTO,Precinct Bp3
+Benton,BR,5,Bruce-Cedar-Mt Auburn,0.375,,,202 2nd St,Mt Auburn,Mt Auburn American Legion,52313,3.0,6.0,AUTO,Precinct Br
+Benton,ED,10,Eden-Harrison-Taylor,0.75,,,212 W 15th St,Vinton,Vinton Middle School (Washington),52349,3.0,6.0,AUTO,Precinct Ed
+Benton,EL,10,Eldorado-Newhall,0.75,,,220 1 Street E,Newhall,Newhall City Hall - Meeting Room,52315,3.0,6.0,AUTO,Precinct El
+Benton,FL,12,Florence-St Clair-Norway,0.8999999999999999,,,210South St.,Norway,Norway Elementary School Library,52318,3.0,6.0,MANUAL,Precinct Fl
+Benton,FR,22,Fremont-Atkins,1.65,,,Main Street,Atkins,Atkins Memorial Hall,52206,3.0,6.0,AUTO,Precinct Fr
+Benton,HO,6,Homer-Monroe-Jackson-Garrison,0.45,,,100 N Birch Ave,Garrison,Garrison Public Library,52229,3.0,6.0,AUTO,Precinct Ho
+Benton,IA,10,Iowa-Leroy-Luzerne-Blairstown,0.75,,,109 Spruce St NW,Blairstown,Blairstown Fire Station,52209,3.0,6.0,AUTO,Precinct Ia
+Benton,KA,6,Kane-Keystone,0.45,,,280 4th St.,Keystone,Keystone Elementary School - Lunch Room,52249,3.0,6.0,AUTO,Precinct Ka
+Benton,PO,20,Polk-Urbana,1.5,,,202 W Main,Urbana,Urbana Middle School - Media Center,52345,3.0,6.0,AUTO,Precinct Po
+Benton,VT1,12,Vinton 1,0.8999999999999999,,,212 W 15th St,Vinton,Vinton Middle School (Washington),52349,3.0,6.0,AUTO,Precinct Vt1
+Benton,VT2,8,Vinton 2,0.6,,,212 W 15th St,Vinton,Vinton Middle School (Washington),52349,3.0,6.0,AUTO,Precinct Vt2
+Benton,VT3,11,Vinton 3,0.825,,,212 W 15th St,Vinton,Vinton Middle School (Washington),52349,3.0,6.0,AUTO,Precinct Vt3
+Benton,VT4,10,Vinton 4,0.75,,,212 W 15th St,Vinton,Vinton Middle School (Washington),52349,3.0,6.0,AUTO,Precinct Vt4
+Benton,WA,10,Walford,0.75,,,120 5th st N,Walford,Walford City Hall - New Council Chambers,52351,3.0,6.0,AUTO,Precinct Wa
+Black Hawk,ALOO,5,,1.01,Black Hawk,Barclay Lester Dunkerton,,,,,,,,
+Black Hawk,B000,1,,0.20199999999999999,Black Hawk,Bennington,1350 Katoski Drive,Waterloo,Central Middle School,50701,1.0,7.0,AUTO,Bennington Twp
+Black Hawk,C000,8,,1.6159999999999999,Black Hawk,Big Creek La Porte,,,,,,,,
+Black Hawk,DK00,7,,1.414,Black Hawk,Black Hawk Hudson Lincoln,,,,,,,,
+Black Hawk,DM00,10,,2.02,Black Hawk,Cedar Orange,,,,,,,,
+Black Hawk,EO00,7,,1.414,Black Hawk,Eagle,,,,,,,,
+Black Hawk,G000,1,,0.20199999999999999,Black Hawk,Elk Run Heights &amp; Raymond,,,,,,,,
+Black Hawk,J100,4,Evansdale W1,0.8079999999999999,Black Hawk,,1350 Katoski Drive,Waterloo,Central Middle School,50701,1.0,7.0,AUTO,Evansdale Ward 1
+Black Hawk,J200,3,Evansdale W2,0.6060000000000001,Black Hawk,,1350 Katoski Drive,Waterloo,Central Middle School,50701,1.0,7.0,AUTO,Evansdale Ward 2
+Black Hawk,J300,4,Evansdale W3,0.8079999999999999,Black Hawk,,1350,Waterloo,Central Middle School,50701,1.0,7.0,MANUAL,Evansdale Ward 3
+Black Hawk,J400,4,Evansdale W4,0.8079999999999999,Black Hawk,,1350,Waterloo,Central Middle School,50701,1.0,7.0,MANUAL,Evansdale Ward 4
+Black Hawk,N000,4,,0.8079999999999999,Black Hawk,Mt Vernon,1350 Katoski Drive,Waterloo,Central Middle School,50701,1.0,7.0,AUTO,Mt Vernon Twp
+Black Hawk,PH01,3,Poyner P1 &amp; East Wloo,0.6060000000000001,Black Hawk,,1350 Katoski Drive,Waterloo,Central Middle School,50701,1.0,7.0,AUTO,Poyner P1/ E Wloo P1 Twps
+Black Hawk,PK02,7,Poyner P2 Fox Gilbert Jesup,1.414,Black Hawk,,1350 Katoski Drive,Waterloo,Central Middle School,50701,1.0,7.0,AUTO,Poyner P2/Fox Twps
+Black Hawk,Q000,1,,0.20199999999999999,Black Hawk,Spring Creek,,,,,,,,
+Black Hawk,R000,3,,0.6060000000000001,Black Hawk,Union,1350 Katoski Drive,Waterloo,Central Middle School,50701,1.0,7.0,AUTO,Union Township
+Black Hawk,S000,2,,0.40399999999999997,Black Hawk,Washington Janesville,1350 Katoski Drive,Waterloo,Central Middle School,50701,1.0,7.0,AUTO,Washington Twp
+Black Hawk,W101,10,WL 1-1,2.02,Black Hawk,,1350,Waterloo,Central Middle School,50701,1.0,7.0,MANUAL,Precinct W101
+Black Hawk,W102,9,WL 1-2,1.818,Black Hawk,,1350,Waterloo,Central Middle School,50701,1.0,7.0,MANUAL,Precinct W102
+Black Hawk,W103,8,WL 1-3,1.6159999999999999,Black Hawk,,1350 Katoski Drive,Waterloo,Central Middle School,50701,1.0,7.0,AUTO,Precinct W103
+Black Hawk,W104,9,WL 1-4,1.818,Black Hawk,,1350 Katoski Drive,Waterloo,Central Middle School,50701,1.0,7.0,AUTO,Precinct W104
+Black Hawk,W105,8,WL 1-5,1.6159999999999999,Black Hawk,,1350 Katoski Drive,Waterloo,Central Middle School,50701,1.0,7.0,AUTO,Precinct W105
+Black Hawk,W106,11,WL 1-6,2.222,Black Hawk,,1350 Katoski Drive,Waterloo,Central Middle School,50701,1.0,7.0,AUTO,Precinct W106
+Black Hawk,W201,6,WL 2-1,1.2120000000000002,Black Hawk,,1350 Katoski Drive,Waterloo,Central Middle School,50701,1.0,7.0,AUTO,Precinct W201
+Black Hawk,W202,7,WL 2-2,1.414,Black Hawk,,1350 Katoski Drive,Waterloo,Central Middle School,50701,1.0,7.0,AUTO,Precinct W202
+Black Hawk,W203,9,WL 2-3,1.818,Black Hawk,,1350 Katoski Drive,Waterloo,Central Middle School,50701,1.0,7.0,AUTO,Precinct W203
+Black Hawk,W204,14,WL 2-4,2.8280000000000003,Black Hawk,,1350 Katoski Drive,Waterloo,Central Middle School,50701,1.0,7.0,AUTO,Precinct W204
+Black Hawk,W205,9,WL 2-5,1.818,Black Hawk,,1350 Katoski Drive,Waterloo,Central Middle School,50701,1.0,7.0,AUTO,Precinct W205
+Black Hawk,W206,9,WL 2-6,1.818,Black Hawk,,1350 Katoski Drive,Waterloo,Central Middle School,50701,1.0,7.0,AUTO,Precinct W206
+Black Hawk,W301,8,WL 3-1,1.6159999999999999,Black Hawk,,1350 Katoski Drive,Waterloo,Central Middle School,50701,1.0,7.0,AUTO,Precinct W301
+Black Hawk,W302,9,WL 3-2,1.818,Black Hawk,,1350 Katoski Drive,Waterloo,Central Middle School,50701,1.0,7.0,AUTO,Precinct W302
+Black Hawk,W303,7,WL 3-3,1.414,Black Hawk,,1350 Katoski Drive,Waterloo,Central Middle School,50701,1.0,7.0,AUTO,Precinct W303
+Black Hawk,W304,7,WL 3-4,1.414,Black Hawk,,1350 Katoski Drive,Waterloo,Central Middle School,50701,1.0,7.0,AUTO,Precinct W304
+Black Hawk,W305,11,WL 3-5,2.222,Black Hawk,,1350,Waterloo,Central Middle School,50701,1.0,7.0,MANUAL,Precinct W305
+Black Hawk,W306,6,WL 3-6,1.2120000000000002,Black Hawk,,1350 Katoski Drive,Waterloo,Central Middle School,50701,1.0,7.0,AUTO,Precinct W306
+Black Hawk,W401,10,WL 4-1,2.02,Black Hawk,,1350 Katoski Drive,Waterloo,Central Middle School,50701,1.0,7.0,AUTO,Precinct W401
+Black Hawk,W402,7,WL 4-2,1.414,Black Hawk,,1350 Katoski Drive,Waterloo,Central Middle School,50701,1.0,7.0,AUTO,Precinct W402
+Black Hawk,W403,5,WL 4-3,1.01,Black Hawk,,1350 Katoski Drive,Waterloo,Central Middle School,50701,1.0,7.0,AUTO,Precinct W403
+Black Hawk,W404,7,WL 4-4,1.414,Black Hawk,,1350 Katoski Drive,Waterloo,Central Middle School,50701,1.0,7.0,AUTO,Precinct W404
+Black Hawk,W405,11,WL 4-5,2.222,Black Hawk,,1350 Katoski Drive,Waterloo,Central Middle School,50701,1.0,7.0,AUTO,Precinct W405
+Black Hawk,W406,5,WL 4-6,1.01,Black Hawk,,1350 Katoski Drive,Waterloo,Central Middle School,50701,1.0,7.0,AUTO,Precinct W406
+Black Hawk,W501,4,WL 5-1,0.8079999999999999,Black Hawk,,1350 Katoski Drive,Waterloo,Central Middle School,50701,1.0,7.0,AUTO,Precinct W501
+Black Hawk,W502,8,WL 5-2,1.6159999999999999,Black Hawk,,1350 Katoski Drive,Waterloo,Central Middle School,50701,1.0,7.0,AUTO,Precinct W502
+Black Hawk,W503,7,WL 5-3,1.414,Black Hawk,,1350,Waterloo,Central Middle School,50701,1.0,7.0,MANUAL,Precinct W503
+Black Hawk,W504,9,WL 5-4,1.818,Black Hawk,,1350 Katoski Drive,Waterloo,Central Middle School,50701,1.0,7.0,AUTO,Precinct W504
+Black Hawk,W505,10,WL 5-5,2.02,Black Hawk,,1350 Katoski Drive,Waterloo,Central Middle School,50701,1.0,7.0,AUTO,Precinct W505
+Black Hawk,W506,9,WL 5-6,1.818,Black Hawk,,1350 Katoski Drive,Waterloo,Central Middle School,50701,1.0,7.0,AUTO,Precinct W506
+Black Hawk,X101,8,CF W1 P1,1.6159999999999999,Black Hawk,,1350 Katoski Drive,Waterloo,Central Middle School,50701,1.0,7.0,AUTO,Precinct X101
+Black Hawk,X102,15,CF W1 P2,3.03,Black Hawk,,1350 Katoski Drive,Waterloo,Central Middle School,50701,1.0,7.0,AUTO,Precinct X102
+Black Hawk,X103,15,CF W1 P3,3.03,Black Hawk,,1350 Katoski Drive,Waterloo,Central Middle School,50701,1.0,7.0,AUTO,Precinct X103
+Black Hawk,X201,4,CF W2 P1,0.8079999999999999,Black Hawk,,1350,Waterloo,Central Middle School,50701,1.0,7.0,MANUAL,Precinct X201
+Black Hawk,X202,14,CF W2 P2 &amp; CF Twp,2.8280000000000003,Black Hawk,,1350 Katoski Drive,Waterloo,Central Middle School,50701,1.0,7.0,AUTO,Precinct X202
+Black Hawk,X203,19,CF W2 P3,3.838,Black Hawk,,1350 Katoski Drive,Waterloo,Central Middle School,50701,1.0,7.0,AUTO,Precinct X203
+Black Hawk,X301,10,CF W3 P1,2.02,Black Hawk,,1350,Waterloo,Central Middle School,50701,1.0,7.0,MANUAL,Precinct X301
+Black Hawk,X302,14,CF W3 P2,2.8280000000000003,Black Hawk,,1350 Katoski Drive,Waterloo,Central Middle School,50701,1.0,7.0,AUTO,Precinct X302 & Cf Twp
+Black Hawk,X303,9,CF W3 P3,1.818,Black Hawk,,1350 Katoski Drive,Waterloo,Central Middle School,50701,1.0,7.0,AUTO,Precinct X303
+Black Hawk,X401,13,CF W4 P1,2.6260000000000003,Black Hawk,,1350 Katoski Drive,Waterloo,Central Middle School,50701,1.0,7.0,AUTO,Precinct X401
+Black Hawk,X402,10,CF W4 P2,2.02,Black Hawk,,1350 Katoski Drive,Waterloo,Central Middle School,50701,1.0,7.0,AUTO,Precinct X402
+Black Hawk,X403,9,CF W4 P3,1.818,Black Hawk,,1350 Katoski Drive,Waterloo,Central Middle School,50701,1.0,7.0,AUTO,Precinct X403
+Black Hawk,X501,13,CF W5 P1,2.6260000000000003,Black Hawk,,1350 Katoski Drive,Waterloo,Central Middle School,50701,1.0,7.0,AUTO,Precinct X501
+Black Hawk,X502,13,CF W5 P2,2.6260000000000003,Black Hawk,,1350 Katoski Drive,Waterloo,Central Middle School,50701,1.0,7.0,AUTO,Precinct X502
+Black Hawk,X503,11,CF W5 P3,2.222,Black Hawk,,1350 Katoski Drive,Waterloo,Central Middle School,50701,1.0,7.0,AUTO,Precinct X503
+Boone,BN1,9,Boone 1st Ward,1.71,Boone,,1125 Hancock,Boone,DMACC Boone Campus - Gym,50036,4.0,8.0,AUTO,Boone 1
+Boone,BN2,10,Boone 2nd Ward,1.9,Boone,,1125 Hancock,Boone,DMACC Boone Campus - Gym,50036,4.0,8.0,AUTO,Boone 2
+Boone,BN3,10,Boone 3rd Ward,1.9,Boone,,1125 Hancock,Boone,DMACC Boone Campus - Gym,50036,4.0,8.0,AUTO,Boone 3
+Boone,BN4,12,Boone 4th Ward,2.28,Boone,,1125 Hancock,Boone,DMACC Boone Campus - Gym,50036,4.0,8.0,AUTO,Boone 4
+Boone,BN5,10,Boone 5th Ward,1.9,Boone,,1125 Hancock,Boone,DMACC Boone Campus - Gym,50036,4.0,8.0,AUTO,Boone 5
+Boone,MD1,4,Madrid 1st Ward,0.76,Boone,,599 N. Kennedy Ave.,Madrid,Madrid Jr-Sr High School-High School Wing,50156,4.0,8.0,AUTO,Madrid 1
+Boone,MD2,4,Madrid 2nd Ward,0.76,Boone,,599 N. Kennedy Ave.,Madrid,Madrid Jr-Sr High School-High School Wing,50156,4.0,8.0,AUTO,Madrid 2
+Boone,MD3,3,Madrid 3rd Ward,0.5700000000000001,Boone,,599 N. Kennedy Ave.,Madrid,Madrid Jr-Sr High School-High School Wing,50156,4.0,8.0,AUTO,Madrid 3
+Boone,OG,7,Ogden,1.33,Boone,,313 W. Sycamore,Ogden,Ogden Middle School,50212,4.0,8.0,AUTO,Ogden
+Boone,RP1,5,Rural Precinct 1,0.95,Boone,,599 N. Kennedy Ave.,Madrid,Madrid Jr-Sr High School-High School Wing,50156,4.0,8.0,AUTO,Rural Precinct 1
+Boone,RP2,7,Rural Precinct 2,1.33,Boone,,599 N. Kennedy Ave.,Madrid,Madrid Jr-Sr High School-High School Wing,50156,4.0,8.0,AUTO,Rural Precinct 2
+Boone,RP3,3,Rural Precinct 3,0.5700000000000001,Boone,,313 W. Sycamore,Ogden,Ogden Middle School,50212,4.0,8.0,AUTO,Rural Precinct 3
+Boone,RP4,7,Rural Precinct 4,1.33,Boone,,313 W. Sycamore,Ogden,Ogden Middle School,50212,4.0,8.0,AUTO,Rural Precinct 4
+Boone,RP5,3,Rural Precinct 5,0.5700000000000001,Boone,,313 W. Sycamore,Ogden,Ogden Middle School,50212,4.0,8.0,AUTO,Rural Precinct 5
+Boone,RP6,6,Rural Precinct 6,1.14,Boone,,1125 Hancock,Boone,DMACC Boone Campus - Gym,50036,4.0,8.0,AUTO,Rural Precinct 6
+Bremer,DV,9,CITY OF DENVER/JEFFERSON TWP,2.04,Bremer,,100 Washington Street,Denver,Denver Community Center,50622,1.0,9.0,AUTO,City Of Denver
+Bremer,FD,1,CITY OF FREDERIKA- FREDERIKA &amp; LEROY TWP,0.22666666666666666,Bremer,,209 8th Ave SW,Tipoli,Tripoli High School Cafeteria,50676,1.0,9.0,AUTO,Frederika Leroy City Of Frederika
+Bremer,JV,5,CITY OF JANESVILLE/JACKSON TWP,1.1333333333333333,Bremer,,505 W Barrick Rd,Janesville,Janesville Elementary Commons,50647,1.0,9.0,AUTO,City Of Janesville
+Bremer,LA,4,LAFAYETTE TWP/WARREN TWPS,0.9066666666666666,Bremer,,1405 4th Ave SW,Waverly,W-SR High School,50677,1.0,9.0,AUTO,Lafayette Warren
+Bremer,PL,3,CITY OF PLAINFIELD/POLK TWP/DOUGLAS TWP,0.6799999999999999,Bremer,,,,,,,,,
+Bremer,RD,4,CITY OF READLYN- MAXFIELD &amp; FRANKLIN TWP,0.9066666666666666,Bremer,,,,,,,,,
+Bremer,SU,6,CITY OF SUMNER/SUMNER TWP/DAYTON TWP,1.36,Bremer,,206 NRailroad St,Sumner,Sumner Library,50674,1.0,9.0,MANUAL,Sumner 2 City Of Sumner
+Bremer,TR,5,CITY OF TRIPOLI/FREMONT,1.1333333333333333,Bremer,,,,,,,,,
+Bremer,WL1,9,WAVERLY WARD I/E WASHINGTON TWP,2.04,Bremer,,1405 4th Ave SW,Waverly,W-SR High School,50677,1.0,9.0,AUTO,Waverly Ward 1
+Bremer,WL2,7,WAVERLY WARD II/NE 1/4 SEC 36 WASHINGTON TWP,1.586666666666667,Bremer,,1405 4th Ave SW,Waverly,W-SR High School,50677,1.0,9.0,AUTO,Waverly Ward 2
+Bremer,WL3,5,WAVERLY WARD III,1.1333333333333333,Bremer,,1405 4th Ave SW,Waverly,W-SR High School,50677,1.0,9.0,AUTO,Waverly Ward 3
+Bremer,WL4,8,WAVERLY WARD IV,1.8133333333333328,Bremer,,1405 4th Ave SW,Waverly,W-SR High School,50677,1.0,9.0,AUTO,Waverly Ward 4 Washington Jackson
+Bremer,WL5,9,WAVERLY WARD V/W WASHINGTON TWP,2.04,Bremer,,1405 4th Ave SW,Waverly,W-SR High School,50677,1.0,9.0,AUTO,Waverly Ward 5
+Buchanan,AR,5,Aurora,0.6842105263157895,Buchanan,,302 Warren St,Aurora,Legion Hall,50607,1.0,10.0,AUTO,Aurora
+Buchanan,BD,4,Brandon,0.5473684210526316,Buchanan,,400 North St,Brandon,Brandon City Hall,52210,1.0,10.0,AUTO,Brandon
+Buchanan,FB,5,Fairbank,0.6842105263157895,Buchanan,,505 Forest St,Fairbank,Fairbank Elementary School,50629,1.0,10.0,AUTO,Fairbank
+Buchanan,HT,4,Hazleton,0.5473684210526316,Buchanan,,111 - 3rd St. N.,Hazleton,City Hall (Clerks Office),50641,1.0,10.0,AUTO,Hazleton
+Buchanan,I1,12,Independence 1st Ward,1.642105263157895,Buchanan,,414 5th St. North,Winthrop,East Elementary School,50682,1.0,10.0,AUTO,Indep 1st Ward/Washington
+Buchanan,I2,6,Independence 2nd Ward,0.8210526315789475,Buchanan,,414 5th St. North,Winthrop,East Elementary School,50682,1.0,10.0,AUTO,Indep 2nd Ward
+Buchanan,I3,9,Independence 3rd Ward,1.2315789473684209,Buchanan,,414 5thSt. North,Winthrop,East Elementary School,50682,1.0,10.0,MANUAL,Indep 3rd Ward
+Buchanan,I4,6,Independence 4th Ward,0.8210526315789475,Buchanan,,414 5th St. North,Winthrop,East Elementary School,50682,1.0,10.0,AUTO,Indep 4th Ward
+Buchanan,I5,6,Independence 5th Ward,0.8210526315789475,Buchanan,,414 5th St. North,Winthrop,East Elementary School,50682,1.0,10.0,AUTO,Indep 5th Ward
+Buchanan,JS,11,Jesup,1.5052631578947369,Buchanan,,414 5th St. North,Winthrop,High School Rm. 253,50682,1.0,10.0,AUTO,Jesup
+Buchanan,MN,3,Middlefield-Newton,0.41052631578947374,Buchanan,,,,,,,,,
+Buchanan,PW,6,Perry-Westburg,0.8210526315789475,Buchanan,,641 Stevens Street,Jesup,Baptist School,50648,1.0,10.0,AUTO,Perry/Westburg
+Buchanan,QT,6,Quasqueton,0.8210526315789475,Buchanan,,212 E. Cedar St.,Qasqueton,Quasqueton Union Church,52326,1.0,10.0,AUTO,Quasqueton
+Buchanan,RW,5,Rowley,0.6842105263157895,Buchanan,,212 Park Ave.,Rowley,Presbyterian Church,52329,1.0,10.0,AUTO,Rowley
+Buchanan,WN,7,Winthrop,0.9578947368421054,Buchanan,,414 -5th Street North,Winthrop,East Buchanan School (Lunch Room),50682,1.0,10.0,MANUAL,Winthrop
+Buena Vista,1,7,STORM LAKE 01,1.4,Buena Vista,,,,,,,,,
+Buena Vista,2,4,STORM LAKE 02,0.8,Buena Vista,,,,,,,,,
+Buena Vista,3,7,STORM LAKE 03,1.4,Buena Vista,,,,,,,,,
+Buena Vista,4,8,STORM LAKE 04,1.6,Buena Vista,,,,,,,,,
+Buena Vista,ACFC,2,ALBERT CITY FAIRFIELD COON,0.4,Buena Vista,,621 Tornado Drive,Storm Lake,High School,50588,5.0,11.0,AUTO,Albert City Fairfield Coon
+Buena Vista,ALNE,5,ALTA NOKOMIS ELK,1.0,Buena Vista,,409 W 7th Street,Alta,Community Center,51002,5.0,11.0,AUTO,Alta Nokomis Elk
+Buena Vista,LKHM,3,LAKESIDE HAYES MAPLE VALLEY,0.6000000000000001,Buena Vista,,409 W 7th Street,Alta,CommunityCenter,51002,5.0,11.0,MANUAL,Lakeside Hayes Maple Valley
+Buena Vista,NENP,2,NEWELL NEWELL PROVIDENCE,0.4,Buena Vista,,621 Tornado Drive,Storm Lake,High School,50588,5.0,11.0,AUTO,Newell Newell Providence
+Buena Vista,S-M-L-R,5,SRL;LGB;RELS;MAP,1.0,Buena Vista,,,,,,,,,
+Buena Vista,TRWG,2,TRUESDALE WASHINGTON GRANT,0.4,Buena Vista,,409 W 7th Street,Alta,Community Center,51002,5.0,11.0,AUTO,Truesdale Washington Grant
+Butler,1-GR,10,1-GR,1.1666666666666667,Butler,,,,,,,,,
+Butler,2-CL,11,2-CL,1.2833333333333334,Butler,,,,,,,,,
+Butler,3-DU,4,3-DU,0.4666666666666667,Butler,,,,,,,,,
+Butler,4-AL,4,4-AL,0.4666666666666667,Butler,,,,,,,,,
+Butler,5-AP,5,5-AP,0.5833333333333334,Butler,,,,,,,,,
+Butler,6-SR,11,6-SR,1.2833333333333334,Butler,,,,,,,,,
+Butler,7-PB,10,7-PB,1.1666666666666667,Butler,,,,,,,,,
+Butler,8-NH,5,8-NH,0.5833333333333334,Butler,,,,,,,,,
+Calhoun,BUWM,6,Butler- Williams,0.5,Calhoun,,330 Brower St.,Rockwell City,Elementary School in Rockwell City,50579,4.0,13.0,AUTO,Butler Williams
+Calhoun,CEDAR,1,Cedar,0.08333333333333333,Calhoun,,330Brower St.,Rockwell City,Elementary School in Rockwell City,50579,4.0,13.0,MANUAL,Cedar
+Calhoun,CHJEGLK,15,Calhoun- Jackson- EG- LK,1.25,Calhoun,,330 Brower St.,Rockwell City,Elementary School in Rockwell City,50579,4.0,13.0,AUTO,Calhoun Jackson Elm Grove Lake Creek
+Calhoun,CNLGTGA,5,Center- Logan- TL- GA- L,0.4166666666666666,Calhoun,,330 Brower St.,Rockwell City,Elementary School in Rockwell City,50579,4.0,13.0,AUTO,Center Logan Twin Lakes Garfield
+Calhoun,GREENFI,2,Greenfield &amp; Lincoln 2,0.16666666666666666,Calhoun,,330 Brower St.,Rockwell City,Elementary School in Rockwell City,50579,4.0,13.0,AUTO,Greenfield
+Calhoun,LINCOLN,10,Lincoln 1,0.8333333333333333,Calhoun,,330 Brower St.,Rockwell City,Elementary School in Rockwell City,50579,4.0,13.0,AUTO,Lincoln
+Calhoun,READING,3,Reading,0.25,Calhoun,,330 Brower St.,Rockwell City,Elementary School in Rockwell City,50579,4.0,13.0,AUTO,Reading
+Calhoun,ROCKWEL,13,Rockwell City,1.0833333333333333,Calhoun,,330 Brower St.,Rockwell City,Elementary School in RockwellCity,50579,4.0,13.0,MANUAL,Rockwell City
+Calhoun,SHERMAN,3,Sherman,0.25,Calhoun,,330 Brower St.,Rockwell City,Elementary School in Rockwell City,50579,4.0,13.0,AUTO,Sherman
+Calhoun,UNION,2,Union,0.16666666666666666,Calhoun,,330Brower St.,Rockwell City,Elementary School in Rockwell City,50579,4.0,13.0,MANUAL,Union
+Carroll,1,14,,1.54,Carroll,Arcadia,906 N GrantRoad,Carroll,Carroll DMACC,51401,5.0,14.0,MANUAL,Carroll 1
+Carroll,10,3,,0.33,Carroll,Sheridan-Grant-Jasper,123 3rd Ave,Coon Rapids,Coon Rapids Municipal Building South Room,50058,5.0,14.0,AUTO,Pleasant Valley-Newton
+Carroll,11,8,,0.88,Carroll,Union,702 6th Street,Manning,Manning Rec Center,51455,5.0,14.0,AUTO,Ewoldt
+Carroll,12,2,,0.22,Carroll,Washington-Roselle,702 6th Street,Manning,Manning Rec Center,51455,5.0,14.0,AUTO,Eden
+Carroll,13,7,,0.77,Carroll,Wheatland-Kniest,123 3rd Ave,Coon Rapids,Coon Rapids Municiple Building South Room,50058,5.0,14.0,AUTO,Union
+Carroll,2,18,,1.98,Carroll,Carroll Ward Four,906 N Grant Road,Carroll,CarrollDMACC,51401,5.0,14.0,MANUAL,Carroll 2 North 1/2 Of Maple River Twp
+Carroll,3,13,,1.43,Carroll,Carroll Ward One,906 N Grant Road,Carroll,CarrollDMACC,51401,5.0,14.0,MANUAL,Carroll 3 South 1/2 Of Maple River Twp
+Carroll,4,13,,1.43,Carroll,Carroll Ward Three &amp;amp; S1/2 Maple River Twp,906 N GrantRoad,Carroll,Carroll DMACC,51401,5.0,14.0,MANUAL,Carroll 4
+Carroll,5,4,,0.44,Carroll,Carroll Ward Two &amp;amp; N1/2 Maple River Twp,118 East Tracy St.,Arcadia,Arcadia Zion Lutheran Church,51430,5.0,14.0,AUTO,Wheatland-Kniest
+Carroll,6,5,,0.55,Carroll,Eden,103 4th Street,Lidderdale,Lidderdale Emanuel Lutheran Church,51452,5.0,14.0,AUTO,Sheridan-Grant-Jasper
+Carroll,7,2,,0.22,Carroll,Ewoldt,118 East Tracy St.,Arcadia,Arcadia Zion Lutheran Church,51430,5.0,14.0,AUTO,Arcadia
+Carroll,8,7,,0.77,Carroll,Glidden-Richland,131 Idaho,Glidden,Glidden Community Building,57443,5.0,14.0,AUTO,Glidden-Richland
+Carroll,9,4,,0.44,Carroll,Pleasant Valley-Newton,702 6th Street,Manning,Manning Rec Center,51455,5.0,14.0,AUTO,Washington-Roselle
+Cass,AN,6,,0.72,Cass,,,,,,,,,
+Cass,AT1,4,Atlantic 1,0.48,Cass,,507 Poplar,Atlantic,Atlantic Library,50020,5.0,15.0,AUTO,Atlantic Ward 1
+Cass,AT2,5,Atlantic 2,0.6,Cass,,507 Polar,Atlantic,Atlantic Library,50020,5.0,15.0,AUTO,Atlantic Ward 2 And Grove
+Cass,AT3,5,Atlantic 3,0.6,Cass,,1203 SW 7th St,Atlantic,Atlantic Fire Station,50020,5.0,15.0,AUTO,Atlantic Ward 3
+Cass,AT4,6,Atlantic 4,0.72,Cass,,500 E. 14th St,Atlantic,Washington Elementary School,50020,5.0,15.0,AUTO,Atlantic Ward 4
+Cass,AT5,6,Atlantic 5,0.72,Cass,Bear Grove- Cass Twp/Lewis,1200 Brookridge Circle,Atlantic,Heritage House,50020,5.0,15.0,AUTO,Atlantic Ward 5
+Cass,BN,2,Benton- Franklin Twp/Wiota,0.24,Cass,,812 3rd St.,Anita,Anita Community Center,50020,5.0,15.0,AUTO,Benton Twp
+Cass,CU,1,Union Twp/Cumberland,0.12,Cass,Brighton- Grove- Pymosa- Washington Twp/Marne,,,,,,,,
+Cass,GS,5,,0.6,Cass,,,,,,,,,
+Cass,LW,3,,0.36,Cass,Grant- Lincoln Twp/Anita,,,,,,,,
+Cass,MR,4,,0.48,Cass,Massena Twp/Massena City,,,,,,,,
+Cass,MS,2,,0.24,Cass,Noble- Pleasant Twp/Griswold,100 Main St.,Massena,Massena Library,50853,5.0,15.0,AUTO,Massena Twp And City
+Cass,VI,1,Enda- Victoria Twp,0.12,Cass,,100 Main St.,Massena,Massena Library,50853,5.0,15.0,AUTO,Victoria Twp
+Cedar,CN,8,CASS/CENTER/IOWA/ROCHESTER,1.3714285714285714,Cedar,,400 Cedar Street,Tipton,Tipton Courthouse,52772,2.0,16.0,AUTO,Cass Center Iowa Rochester
+Cedar,DA,4,DAYTON/FAIRFIELD,0.6857142857142857,Cedar,,608 Lombard Street,Clarence,Clarence Telephone Company Meeting Room,52216,2.0,16.0,AUTO,Dayton Fairfield
+Cedar,FM,8,FARMINGTON/SUGAR CREEK,1.3714285714285714,Cedar,,712 5th Street,Durrant,Durant American Legion (Upstairs),52747-0511,2.0,16.0,AUTO,Farmington Sugar Creek
+Cedar,FR,3,FREMONT/RED OAK,0.5142857142857142,Cedar,,102 E. North Street,Stanwood,"North Cedar High School, Stanwood Room 103",52337,2.0,16.0,AUTO,Fremont Red Oak
+Cedar,GW,7,GOWER/SPRINGDALE,1.2,Cedar,,140 N Oliohant Street,West Branch,All Purpose Room Elementary Campus- Foster St. Ent,52358,2.0,16.0,AUTO,Gower Springdale
+Cedar,IN,2,INLAND,0.3428571428571429,Cedar,,300 Cedar Street,Bennett,Bennett School Lunchroom,52721,2.0,16.0,AUTO,Inland
+Cedar,LN,7,LINN/PIONEER,1.2,Cedar,,207 Monroe Street,Mechanicsville,New Elementary School Mechanicsville,52306,2.0,16.0,AUTO,Linn Pioneer
+Cedar,MA,4,MASSILLON/SPRINGFIELD,0.6857142857142857,Cedar,,501 Main Street,Lowdon,Lowdon City Hall,52255,2.0,16.0,AUTO,Massillon Springfield
+Cedar,TT1,4,TIPTON 1,0.6857142857142857,Cedar,,400 Cedar Street,Tipton,Tipton Courthouse,52772,2.0,16.0,AUTO,Tipton 1
+Cedar,TT2,4,TIPTON 2,0.6857142857142857,Cedar,,400 Cedar Street,Tipton,Tipton Courthouse,52772,2.0,16.0,AUTO,Tipton 2
+Cedar,TT3,5,TIPTON 3,0.8571428571428572,Cedar,,400 Cedar Street,Tipton,Tipton Courthouse,52772,2.0,16.0,AUTO,Tipton 3
+Cedar,WB1,14,WEST BRANCH 1,2.4,Cedar,,,,,,,,,
+Cerro Gordo,CL,7,Clear Lake - Grant - Union,1.24,Cerro Gordo,,125 N. 20th St.,Clear Lake,Clear LakeHigh School Cafeteria,50428,4.0,17.0,MANUAL,Clear Lake/Grant/Union Townships Pct
+Cerro Gordo,CL1,9,Clear Lake - Ward 1,1.594285714285714,Cerro Gordo,,125 N. 20th St.,Clear Lake,Clear Lake High School Cafeteria,50428,4.0,17.0,AUTO,Clear Lake Ward 1
+Cerro Gordo,CL2,11,Clear Lake - Ward 2,1.9485714285714284,Cerro Gordo,,125 N. 20th St.,Clear Lake,Clear Lake High School Cafeteria,50428,4.0,17.0,AUTO,Clear Lake Ward 2
+Cerro Gordo,CL3,9,Clear Lake - Ward 3,1.594285714285714,Cerro Gordo,,125 N. 20th St.,Clear Lake,Clear Lake High School Cafeteria,50428,4.0,17.0,AUTO,Clear Lake Ward 3
+Cerro Gordo,FLN,2,,0.35428571428571426,Cerro Gordo,Falls - Plymouth Pct,295 Illinois Ave,Mason City,John Adams Middle School Cafeteria,50401,4.0,17.0,AUTO,Falls Plymouth/Lime Creek/Mason N Pct
+Cerro Gordo,FLS,1,,0.17714285714285713,Cerro Gordo,Falls - Rock Falls Pct,295 Illinois Ave,Mason City,John AdamsMiddle School Cafeteria,50401,4.0,17.0,MANUAL,Falls Township/Rock Falls Precinct
+Cerro Gordo,GME,1,,0.17714285714285713,Cerro Gordo,,402 Main Street,Swaledale,Swalesdale City Hall,50477,4.0,17.0,AUTO,Grimes Township/Thornton Precinct
+Cerro Gordo,GMW,1,,0.17714285714285713,Cerro Gordo,Grimes - Meservey Pct,402 Main Street,Swaledale,Swalesdale City Hall,50477,4.0,17.0,AUTO,Grimes Township/Meservey Precinct
+Cerro Gordo,GN,5,Geneseo Twp Pct,0.8857142857142857,Cerro Gordo,Grimes - Thornton Pct,210 2nd Street,Rockwell,Rockwell High School,50469,4.0,17.0,AUTO,Geneseo/Bath Townships Precinct
+Cerro Gordo,LCN,2,Lake / Lincoln Twps Pct,0.35428571428571426,Cerro Gordo,,,,,,,,,
+Cerro Gordo,LK,2,Lime Creek / Mason N Twps,0.35428571428571426,Cerro Gordo,,125 N. 20th St.,Clear Lake,Clear Lake High School Cafeteria,50428,4.0,17.0,AUTO,Lake/Lincoln Townships Precinct
+Cerro Gordo,MC W1P1,8,Mason City W-1 P-1,1.417142857142857,Cerro Gordo,,,,,,,,,
+Cerro Gordo,MC W1P2,10,Mason City W-1 P-2,1.7714285714285714,Cerro Gordo,,,,,,,,,
+Cerro Gordo,MC W1P3,11,Mason City W-1 P-3,1.9485714285714284,Cerro Gordo,,,,,,,,,
+Cerro Gordo,MC W2P1,7,Mason City W-2 P-1,1.24,Cerro Gordo,,,,,,,,,
+Cerro Gordo,MC W2P2,13,Mason City W-2 P-2,2.3028571428571425,Cerro Gordo,,,,,,,,,
+Cerro Gordo,MC W2P3,8,Mason City W-2 P-3,1.417142857142857,Cerro Gordo,,,,,,,,,
+Cerro Gordo,MC W3P1,11,Mason City W-3 P-1,1.9485714285714284,Cerro Gordo,,,,,,,,,
+Cerro Gordo,MC W3P2,8,Mason City W-3 P-2,1.417142857142857,Cerro Gordo,,,,,,,,,
+Cerro Gordo,MC W3P3,14,Mason City W-3 P-3,2.48,Cerro Gordo,,,,,,,,,
+Cerro Gordo,MC W4P1,8,Mason City W-4 P-1,1.417142857142857,Cerro Gordo,,,,,,,,,
+Cerro Gordo,MC W4P2,9,Mason City W-4 P-2,1.594285714285714,Cerro Gordo,,,,,,,,,
+Cerro Gordo,MC W4P3,11,Mason City W-4 P-3,1.9485714285714284,Cerro Gordo,,,,,,,,,
+Cerro Gordo,MSB,2,Mason S / Bath Twps,0.35428571428571426,Cerro Gordo,,,,,,,,,
+Cerro Gordo,MV,2,Mt Vernon - Pl Valley Twps,0.35428571428571426,Cerro Gordo,,402 Main Street,Swaledale,Swalesdale City Hall,50477,4.0,17.0,AUTO,Mt Vernon/Pl Valley Townships Precinct
+Cerro Gordo,POD,3,Portland - Owen - Dougherty,0.5314285714285714,Cerro Gordo,,,,,,,,,
+Cherokee,1 AUR,8,#1 Aurelia,0.8727272727272727,Cherokee,,,,,,,,,
+Cherokee,2 CLEG,9,#2 Cleghorn,0.9818181818181818,Cherokee,,,,,,,,,
+Cherokee,3 QUIM,5,#3 Quimby,0.5454545454545454,Cherokee,,,,,,,,,
+Cherokee,4 CHER,6,#4 Cherokee,0.6545454545454545,Cherokee,,,,,,,,,
+Cherokee,5 CH W1,10,#5 Cherokee Ward 1,1.0909090909090908,Cherokee,,,,,,,,,
+Cherokee,6 CH W2,7,#6 Cherokee Ward 2,0.7636363636363636,Cherokee,,,,,,,,,
+Cherokee,7 CH W3,10,#7 Cherokee Ward 3,1.0909090909090908,Cherokee,,,,,,,,,
+Chickasaw,BD,18,Bradford,1.2600000000000002,Chickasaw,,307 N. Water,New Hampton,Chickasaw Center,50659,4.0,19.0,AUTO,Bradford
+Chickasaw,CH,4,Chickasaw,0.28,Chickasaw,,307 N. Water,New Hampton,Chickasaw Center,50659,4.0,19.0,AUTO,Chickasaw
+Chickasaw,DA-RD,4,Dayton-Richland,0.28,Chickasaw,,307 N. Water,New Hampton,Chickasaw Center,50659,4.0,19.0,AUTO,Dayton-Richland
+Chickasaw,DF-W2,6,Deerfield-Washington 2,0.42,Chickasaw,,307 N. Water,New Hampton,Chickasaw Center,50659,4.0,19.0,AUTO,Deerfield-Washington 2
+Chickasaw,DS-FB,12,Dresden-Fredericksburg,0.8400000000000001,Chickasaw,,307N. Water,New Hampton,Chickasaw Center,50659,4.0,19.0,MANUAL,Dresden-Fredericksburg
+Chickasaw,JA-UT,4,Jacksonville-Utica,0.28,Chickasaw,,307 N. Water,New Hampton,Chickasaw Center,50659,4.0,19.0,AUTO,Jacksonville-Utica
+Chickasaw,NH1,9,City of New Hampton Ward One,0.6300000000000001,Chickasaw,,307 N. Water,New Hampton,Chickasaw Center,50659,4.0,19.0,AUTO,New Hampton Ward 1
+Chickasaw,NH2,7,City of New Hampton Ward Two,0.4900000000000001,Chickasaw,,307 N. Water,New Hampton,Chickasaw Center,50659,4.0,19.0,AUTO,New Hampton Ward 2
+Chickasaw,NH3,10,City of New Hampton Ward Three,0.7000000000000001,Chickasaw,,307 N. Water,New Hampton,Chickasaw Center,50659,4.0,19.0,AUTO,New Hampton Ward 3
+Chickasaw,NH4,10,City of New Hampton Ward Four,0.7000000000000001,Chickasaw,,307 N. Water,New Hampton,Chickasaw Center,50659,4.0,19.0,AUTO,New Hampton Ward 4
+Chickasaw,NHR,5,New Hampton Rural,0.35000000000000003,Chickasaw,,307 N.Water,New Hampton,Chickasaw Center,50659,4.0,19.0,MANUAL,New Hampton Rural
+Chickasaw,ST,8,Stapleton,0.56,Chickasaw,,307 N. Water,New Hampton,Chickasaw Center,50659,4.0,19.0,AUTO,Stapleton
+Chickasaw,WA1,3,Washington 1 Township,0.21,Chickasaw,,,,,,,,,
+Clarke,MDL,6,Middle Precinct,0.48,Clarke,,,,,,,,,
+Clarke,MY,6,Murray Precinct,0.48,Clarke,,1103 N Main,Osceola,Clarke Electic - meeting room,50213,5.0,20.0,AUTO,Murray
+Clarke,NE,9,North East Precinct,0.72,Clarke,,,,,,,,,
+Clarke,OC1,8,Osceola 1st Ward Precinct,0.64,Clarke,,1103 N Main,Osceola,Clarke Electic - meeting room,50213,5.0,20.0,AUTO,Osceola Pct 1
+Clarke,OC2,8,Osceola 2nd Ward Precinct,0.64,Clarke,,1103 N Main,Osceola,Clarke Electic - meeting room,50213,5.0,20.0,AUTO,Osceola Pct 2
+Clarke,OC3,10,Osceola 3rd Ward Precinct,0.8,Clarke,,1103 N Main,Osceola,Clarke Electic - meeting room,50213,5.0,20.0,AUTO,Osceola Pct 3
+Clarke,WB,3,Woodburn Precinct,0.24,Clarke,,1103 N Main,Osceola,Clarke Electic - meeting room,50213,5.0,20.0,AUTO,Woodburn
+Clay,DGPE,3,Douglas-Peterson,0.2823529411764706,Clay,,800 West 18th Street,Spencer,Clay County Events Center,51301-3156,5.0,21.0,AUTO,Douglas/Peterson
+Clay,GFHD,2,Garfield-Herdland,0.18823529411764706,Clay,,800 West 18th Street,Spencer,Clay County Events Center,51301-3156,5.0,21.0,AUTO,Garfield/Herdland
+Clay,LAFR,3,Lake-Freeman,0.2823529411764706,Clay,,800 West 18th Street,Spencer,Clay County Events Center,51301-3156,5.0,21.0,AUTO,Lake/Freeman
+Clay,LGGG,2,Logan-Gillett Grove,0.18823529411764706,Clay,,800 West 18th Street,Spencer,Clay County Events Center,51301-3156,5.0,21.0,AUTO,Logan/Gillett Grove
+Clay,LNCL,4,Lincoln-Clay,0.3764705882352941,Clay,,800 West 18th Street,Spencer,Clay County Events Center,51301-3156,5.0,21.0,AUTO,Lincoln/Clay
+Clay,SP1,10,Spencer Ward 1,0.9411764705882352,Clay,,800 West 18th Street,Spencer,Clay County Events Center,51301-3156,5.0,21.0,AUTO,Spencer Ward 1
+Clay,SP2,12,Spencer Ward 2,1.1294117647058823,Clay,,800 West 18th Street,Spencer,Clay County Events Center,51301-3156,5.0,21.0,AUTO,Spencer Ward 2
+Clay,SP3,12,Spencer Ward 3,1.1294117647058823,Clay,,800 West18th Street,Spencer,Clay County Events Center,51301-3156,5.0,21.0,MANUAL,Spencer Ward 3
+Clay,SP4,13,Spencer Ward 4,1.223529411764706,Clay,,800 West 18th Street,Spencer,Clay County Events Center,51301-3156,5.0,21.0,AUTO,Spencer Ward 4
+Clay,SP5,13,Spencer Ward 5,1.223529411764706,Clay,,800 West 18th Street,Spencer,Clay County Events Center,51301-3156,5.0,21.0,AUTO,Spencer Ward 5
+Clay,SRSM,7,Summit-Riverton-Sioux-Meadow,0.6588235294117647,Clay,,,,,,,,,
+Clay,WFLT,4,Waterford-Lone Tree,0.3764705882352941,Clay,,800 West 18th Street,Spencer,Clay County Events Center,51301-3156,5.0,21.0,AUTO,Waterford/Lone Tree
+Clayton,BM-HI,9,BOARDMAN-HIGHLAND,1.5,Clayton,,200 North Main Street,Elkader,Central State Drive-Up Bank - Community Room,52043,1.0,22.0,AUTO,Boardman-Highland
+Clayton,BV,1,BUENA VISTA,0.16666666666666666,Clayton,,502First Street,Guttenberg,Guttenberg Hospital Dining Room,52052,1.0,22.0,MANUAL,Buena Vista
+Clayton,CC-SY,3,COX CREEK-SPERRY,0.5,Clayton,,401 Commercial,Strawberry Point,Strawberry Point Civic Center,52076,1.0,22.0,AUTO,Cox Creek-Sperry
+Clayton,CL-GV,4,CLAYTON-GARNAVILLO,0.6666666666666666,Clayton,,103 N Main Street,Garnavillo,Thoma Dairy Bar Cafe,52049,1.0,22.0,AUTO,Clayton-Garnavillo
+Clayton,CS,5,CASS,0.8333333333333333,Clayton,,401 Commercial,Strawberry Point,Strawberry Point Civic Center,52076,1.0,22.0,AUTO,Cass
+Clayton,ELMYVO,3,ELK-MALLORY-VOLGA,0.5,Clayton,,602 Hill Street,Garber,Garber Fire Station,52048,1.0,22.0,AUTO,Elk-Mallory-Volga
+Clayton,FB-WG,3,FARMERSBURG-WAGNER,0.5,Clayton,,109 S Main Street,Monona,Farmersburg Community Center,52047,1.0,22.0,AUTO,Farmersburg-Wagner
+Clayton,GDLUMO,7,GIARD-LUANA-MONONA,1.1666666666666663,Clayton,,700 Page Street,Monona,MFL School - Monona School Library,52047,1.0,22.0,AUTO,Giard-Luana-Monona
+Clayton,GM,1,GRAND MEADOW,0.16666666666666666,Clayton,,700 Page Street,Monona,MFL School - Monona School Library,52047,1.0,22.0,AUTO,Grand Meadow
+Clayton,JF-MV,12,JEFFERSON-MILLVILLE,2.0,Clayton,,502 First Street,Guttenberg,Guttenberg Hospital Dining Room,52052,1.0,22.0,AUTO,Jefferson-Millville
+Clayton,LM,2,LODOMILLO,0.3333333333333333,Clayton,,203 W. Union,Edgewood,Edgewood City Hall,52042,1.0,22.0,AUTO,Lodomillo
+Clayton,MN,8,MENDON,1.3333333333333333,Clayton,,334 Main Street,McGregor,McGregor City Hall,52157,1.0,22.0,AUTO,Mendon
+Clayton,MR,1,MARION,0.16666666666666666,Clayton,,700 Page Street,Monona,MFL School - Monona School Library,52047,1.0,22.0,AUTO,Marion
+Clayton,RD,1,READ,0.16666666666666666,Clayton,,200 North Main Street,Elkader,Central State Drive-Up Bank - Community Room,52043,1.0,22.0,AUTO,Read
+Clinton,BBRD,3,BLOOMFIELD BROOKFIELD DEL,0.6642857142857143,Clinton,,,,,,,,,
+Clinton,CAM1,8,CAMANCHE 1,1.7714285714285714,Clinton,,937 9th Ave,Camanche,Camanche High School,52730,1.0,23.0,AUTO,Camanche 1
+Clinton,CAM2,7,CAMANCHE 2,1.5499999999999998,Clinton,,937 9th Ave,Camanche,Camanche High School,52730,1.0,23.0,AUTO,Camanche 2
+Clinton,CENT,1,CENTER TWP,0.22142857142857145,Clinton,,3690 HWY 136,Goose Lake,Notheast High School,52750,1.0,23.0,AUTO,Center
+Clinton,CL11,7,CLINTON 1-1,1.5499999999999998,Clinton,,1421 S Bluff Blvd,Clinton,Bluff Elementary Library,52732,1.0,23.0,AUTO,Clinton W1p1
+Clinton,CL12,9,CLINTON 1-2,1.9928571428571429,Clinton,,1421 SBluff Blvd,Clinton,Bluff Elementary Library,52732,1.0,23.0,MANUAL,Clinton W1p2
+Clinton,CL21,7,CLINTON 2-1,1.5499999999999998,Clinton,,751 2nd Ave,Clinton,Washington Middle School,52750,1.0,23.0,AUTO,Clinton W2p1
+Clinton,CL22,12,CLINTON 2-2,2.657142857142857,Clinton,,1951 Manufacturing Dr.,Clinton,Graphics Arts Building,52732,1.0,23.0,AUTO,Clinton W2p2
+Clinton,CL31,10,CLINTON 3-1,2.2142857142857144,Clinton,,1401 11th Ave,Clinton,Erikson Community Center,52732,1.0,23.0,AUTO,Clinton W3p1
+Clinton,CL32,12,CLINTON 3-2,2.657142857142857,Clinton,,1401 11th Ave,Clinton,Erikson Community Center,52732,1.0,23.0,AUTO,Clinton W3p2
+Clinton,CL41,10,CLINTON 4-1,2.2142857142857144,Clinton,,2810 N 4TH Street,Clinton,Lyons Middle School,52732,1.0,23.0,AUTO,Clinton W4p1
+Clinton,CL42,10,CLINTON 4-2,2.2142857142857144,Clinton,,2810 N 4TH Street,Clinton,Lyons Middle School,52732,1.0,23.0,AUTO,Clinton W4p2
+Clinton,DCGL,2,DEEP CREEK GOOSE LAKE,0.4428571428571429,Clinton,,,,,,,,,
+Clinton,DEW1,8,DEWITT 1,1.7714285714285714,Clinton,,1010 4th Ave.,Dewitt,DeWitt Central Middle School,52742,1.0,23.0,AUTO,Dewitt 1
+Clinton,DEW2,10,DEWITT 2,2.2142857142857144,Clinton,,1010 4thAve.,Dewitt,DeWitt Central Middle School,52742,1.0,23.0,MANUAL,Dewitt 2
+Clinton,DEWT,4,DEWITT TWP,0.8857142857142857,Clinton,,1010 4th Ave.,Dewitt,DeWitt Central Middle School,52742,1.0,23.0,AUTO,Dewitt Twp
+Clinton,EDCM,1,EDEN CAMANCHE TWP,0.22142857142857145,Clinton,,,,,,,,,
+Clinton,ERHA,4,ELK RIVER HAMPSHIRE ANDOV,0.8857142857142857,Clinton,,,,,,,,,
+Clinton,LBTO,1,LIBERTY TORONTO,0.22142857142857145,Clinton,,,,,,,,,
+Clinton,LOMO,1,LOW MOOR,0.22142857142857145,Clinton,,,,,,,,,
+Clinton,OGCA,2,OLIVE GRANT CALAMUS,0.4428571428571429,Clinton,,,,,,,,,
+Clinton,ORGM,3,ORANGE GRAND MOUND,0.6642857142857143,Clinton,,,,,,,,,
+Clinton,SHLN,1,SHARON LOST NATION,0.22142857142857145,Clinton,,,,,,,,,
+Clinton,SRWH,3,SPRING ROCK WHEATLAND,0.6642857142857143,Clinton,,,,,,,,,
+Clinton,WFCH,1,WATERFORD CHARLOTTE,0.22142857142857145,Clinton,,,,,,,,,
+Clinton,WWAW,3,WELTON WASHINGTON WELTON,0.6642857142857143,Clinton,,,,,,,,,
+Crawford,CO,2,Charter Oak,0.3,Crawford,,321 Main,Charter Oak,COU High School,51439,5.0,24.0,AUTO,Charter Oak Precinct
+Crawford,D1,6,Denison Ward 1,0.8999999999999999,Crawford,,38 N 20th Street,Denison,Denison Elementary,51528,5.0,24.0,AUTO,Denison 1
+Crawford,D2-DT,8,Denison Ward 2-Denison Twp,1.2,Crawford,,,,,,,,,
+Crawford,D3-GR,8,Denison Ward 3-Goodrich Twp,1.2,Crawford,,,,,,,,,
+Crawford,DC-AB,4,DCAB,0.6,Crawford,,,,,,,,,
+Crawford,NE,4,Northeast,0.6,Crawford,,,,,,,,,
+Crawford,SE,5,Southeast,0.75,Crawford,,,,,,,,,
+Crawford,SRK,3,SRK,0.45,Crawford,,,,,,,,,
+Dallas,ADS,2,ADAMS,0.8285714285714286,Dallas,,,,,,,,,
+Dallas,AL1,3,ADEL 1,1.2428571428571429,Dallas,,,,,,,,,
+Dallas,AL2,4,ADEL 2,1.6571428571428573,Dallas,,,,,,,,,
+Dallas,BDM,4,BEAVER / DES MOINES,1.6571428571428573,Dallas,,,,,,,,,
+Dallas,CL5,5,CLIVE 5,2.071428571428572,Dallas,,,,,,,,,
+Dallas,CL6,6,CLIVE 6,2.4857142857142858,Dallas,,,,,,,,,
+Dallas,COA,2,COLFAX / ADEL,0.8285714285714286,Dallas,,,,,,,,,
+Dallas,DO,1,DESOTO,0.4142857142857143,Dallas,,1608 Grove St,Adel,ADM Elementary School,50003,4.0,25.0,AUTO,Desoto
+Dallas,LWL,1,LINCOLN /WASHINGTON /LINN,0.4142857142857143,Dallas,,,,,,,,,
+Dallas,PY1,4,PERRY 1,1.6571428571428573,Dallas,,1600-8th Street,Perry,Elementary School,50220,4.0,25.0,AUTO,Perry 1
+Dallas,PY2,4,PERRY 2,1.6571428571428573,Dallas,,1600-8th Street,Perry,Elementary School,50220,4.0,25.0,AUTO,Perry 2
+Dallas,PY3,3,PERRY 3,1.2428571428571429,Dallas,,1600-8th Street,Perry,Elementary School,50220,4.0,25.0,AUTO,Perry 3
+Dallas,SD,1,SPRING VALLEY / DALLAS,0.4142857142857143,Dallas,,,,,,,,,
+Dallas,SGDC,4,SUGAR GROVE / DALLAS CENTER,1.6571428571428573,Dallas,,,,,,,,,
+Dallas,UN,3,UNION,1.2428571428571429,Dallas,,,,,,,,,
+Dallas,URB13,7,URBANDALE 13,2.9000000000000004,Dallas,,,,,,,,,
+Dallas,URB14,5,URBANDALE 14,2.071428571428572,Dallas,,,,,,,,,
+Dallas,URB15,3,URBANDALE 15,1.2428571428571429,Dallas,,,,,,,,,
+Dallas,VM,4,VAN METER,1.6571428571428573,Dallas,,520 1st Ave,Van Meter,Van Meter School Activity Center,50261,4.0,25.0,AUTO,Van Meter
+Dallas,WGG,3,WALNUT / GRIMES / GRANT,1.2428571428571429,Dallas,,,,,,,,,
+Dallas,WK1,6,WAUKEE 1,2.4857142857142858,Dallas,,555 SE University Ave,Waukee,Waukee High School Commons,50263,4.0,25.0,AUTO,Waukee 1
+Dallas,WK2,6,WAUKEE 2,2.4857142857142858,Dallas,,555 SE University Ave,Waukee,Waukee High School Commons,50263,4.0,25.0,AUTO,Waukee 2
+Dallas,WK3,7,WAUKEE 3,2.9000000000000004,Dallas,,555 SE University Ave,Waukee,Waukee High School Commons,50263,4.0,25.0,AUTO,Waukee 3
+Dallas,WK4,5,WAUKEE 4,2.071428571428572,Dallas,,555 SEUniversity Ave,Waukee,Waukee High School Commons,50263,4.0,25.0,MANUAL,Waukee 4
+Dallas,WK5,5,WAUKEE 5,2.071428571428572,Dallas,,,,,,,,,
+Dallas,WK6,5,WAUKEE 6,2.071428571428572,Dallas,,,,,,,,,
+Dallas,WM221,8,WEST DES MOINES 221,3.3142857142857145,Dallas,,,,,,,,,
+Dallas,WM222,5,WEST DES MOINES 222,2.071428571428572,Dallas,,,,,,,,,
+Dallas,WM223,4,WEST DES MOINES 223,1.6571428571428573,Dallas,,,,,,,,,
+Dallas,WM224,1,WEST DES MOINES 224,0.4142857142857143,Dallas,,,,,,,,,
+Dallas,WM225,8,WEST DES MOINES 225,3.3142857142857145,Dallas,,,,,,,,,
+Dallas,WM226,4,WEST DES MOINES 226,1.6571428571428573,Dallas,,,,,,,,,
+Dallas,WM321,5,WEST DES MOINES 321,2.071428571428572,Dallas,,,,,,,,,
+Dallas,WM322,2,WEST DES MOINES 322,0.8285714285714286,Dallas,,,,,,,,,
+Davis,BF1,16,Bloomfield Ward 1,0.48,Davis,,20471 Old Highway 2,Bloomfield,4 H Building at the Fair Grounds,52537,2.0,26.0,AUTO,Bloomfield 1
+Davis,BF2,16,Bloomfield Ward 2,0.48,Davis,,20471 Old Highway 2,Bloomfield,4 H Building at the Fair Grounds,52537,2.0,26.0,AUTO,Bloomfield 2
+Davis,BF3,12,Bloomfield Ward 3,0.36,Davis,,20471 Old Highway 2,Bloomfield,4 H Building at the Fair Grounds,52537,2.0,26.0,AUTO,Bloomfield 3
+Davis,CN,16,Central,0.48,Davis,,20471 Old Highway 2,Bloomfield,4 H Building at the Fair Grounds,52537,2.0,26.0,AUTO,Central
+Davis,NE,12,Northeast,0.36,Davis,,20471 Old Highway 2,Bloomfield,4 H Building at the Fair Grounds,52537,2.0,26.0,AUTO,North East
+Davis,NW,11,Northwest,0.33,Davis,,20471Old Highway 2,Bloomfield,4 H Building at the Fair Grounds,52537,2.0,26.0,MANUAL,North West
+Davis,SE,10,Southeast,0.3,Davis,,20471 Old Highway 2,Bloomfield,4 H Building at the Fair Grounds,52537,2.0,26.0,AUTO,South East
+Davis,SW,7,Southwest,0.21,Davis,,20471Old Highway 2,Bloomfield,4 H Building at the Fair Grounds,52537,2.0,26.0,MANUAL,South West
+Decatur,BL,36,BL/FA/Lamoni,1.6941176470588235,Decatur,,108 South Chestnut,Lamoni,Lamoni Community Center,50140,5.0,27.0,AUTO,Bloomington Fayette Lamoni I
+Decatur,BU,4,BU/HA/MO/NB/Davis City/Pleasanton,0.18823529411764706,Decatur,,108 South Chestnut,Lamoni,Lamoni Community Center,50140,5.0,27.0,AUTO,Burrell New Buda Davis City
+Decatur,DE,3,DE/Decatur City,0.1411764705882353,Decatur,,203 N.E. 2nd,Leon,Leon Community Center,50144,5.0,27.0,AUTO,Decatur Decatur City
+Decatur,GG,7,GG/HP/WE/Garden Grove/LeRoy,0.32941176470588235,Decatur,,203 N.E. 2nd,Leon,Leon Community Center,50144,5.0,27.0,AUTO,Garden Grove Garden Grove Leroy
+Decatur,GR,4,GR/RL/Grand River,0.18823529411764706,Decatur,,203 N.E. 2nd,Leon,Leon Community Center,50144,5.0,27.0,AUTO,Grand River Richland Grand River
+Decatur,LC,9,FR/LC/Van Wert/Weldon,0.4235294117647059,Decatur,,203 N.E. 2nd,Leon,Leon Community Center,50144,5.0,27.0,AUTO,Long Creek Van Wert
+Decatur,LE,22,CE/ED/Leon,1.0352941176470587,Decatur,,203 N.E.2nd,Leon,Leon Community Center,50144,5.0,27.0,MANUAL,Leon
+Delaware,ADHG,7,Adams/Hazel Green,0.525,Delaware,,,,,,,,,
+Delaware,CL,5,Colony,0.375,Delaware,,1101 Doctor Street,Manchester,West Delaware Community Middle School,52057,1.0,28.0,AUTO,Colony
+Delaware,DH,7,Delhi/Delaware Corp,0.525,Delaware,,1101 Doctor Street,Manchester,West Delaware Community Middle School,52057,1.0,28.0,AUTO,Delhi Twp
+Delaware,DW,6,Delaware,0.45,Delaware,,,,,,,,,
+Delaware,HCEK,9,Honey Creek/Elk,0.6749999999999999,Delaware,,,,,,,,,
+Delaware,MC1,12,Manchester Ward 1,0.8999999999999999,Delaware,,1101 Doctor Street,Manchester,West Delaware Community Middle School,52057,1.0,28.0,AUTO,Manchester Pct 1
+Delaware,MC2,14,Manchester Ward 2,1.05,Delaware,,1101 Doctor Street,Manchester,West Delaware Community Middle School,52057,1.0,28.0,AUTO,Manchester Pct 2
+Delaware,MC3,16,Manchester Ward 3,1.2,Delaware,,1101 Doctor Street,Manchester,West Delaware Community Middle School,52057,1.0,28.0,AUTO,Manchester Pct 3
+Delaware,MLPR,12,Milo/Prairie,0.8999999999999999,Delaware,,,,,,,,,
+Delaware,ONNFBM,13,Oneida/N Fork/Bremen,0.975,Delaware,,,,,,,,,
+Delaware,RLCG,9,Richland/Coffins Grove,0.6749999999999999,Delaware,,,,,,,,,
+Delaware,SFUN,10,South Fork/Union,0.75,Delaware,,,,,,,,,
+Des Moines,BU1T,6,PCT 1T,2.16,Des Moines,,,,,,,,,
+Des Moines,BU2,7,PCT 2,2.52,Des Moines,,,,,,,,,
+Des Moines,BU3,5,PCT 3,1.7999999999999998,Des Moines,,,,,,,,,
+Des Moines,BU4,5,PCT 4,1.7999999999999998,Des Moines,,,,,,,,,
+Des Moines,BU5,5,PCT 5,1.7999999999999998,Des Moines,,,,,,,,,
+Des Moines,BU6,3,PCT 6,1.08,Des Moines,,,,,,,,,
+Des Moines,BU7,6,PCT 7,2.16,Des Moines,,,,,,,,,
+Des Moines,BU8C,8,PCT 8,2.88,Des Moines,,,,,,,,,
+Des Moines,BU9,7,PCT 9,2.52,Des Moines,,,,,,,,,
+Des Moines,DM,3,PCT DM,1.08,Des Moines,,419 South Main Street,Danville,Danville Jr/Sr High School,52623,2.0,29.0,AUTO,Danville Town / Danville Twp
+Des Moines,FM,5,PCT FM,1.7999999999999998,Des Moines,,13702 Washington Rd,West Burlington,Des Moines CoConservation,52655,2.0,29.0,MANUAL,Flint River Twp / Middletown
+Des Moines,HJ,2,PCT HJ,0.72,Des Moines,,5601 205th Street,Mediapolis,Two Rivers Office Building,52637,2.0,29.0,AUTO,Benton / Huron / Jackson Twps
+Des Moines,MY,4,PCT MY,1.44,Des Moines,,725 Northfield,Mediapolis,Mediapolis High School,52637,2.0,29.0,AUTO,Mediapolis Town / Franklin & Yellow Spring Twps
+Des Moines,PW,1,PCT PW,0.36,Des Moines,,20454 Eastern Avenue,Yarmouth,Yarmouth Fire Station,52660,2.0,29.0,AUTO,Pleasant Grove / Washington Twps
+Des Moines,UNION,2,PCT UNION,0.72,Des Moines,,,,,,,,,
+Des Moines,WB,6,PCT WB,2.16,Des Moines,,408 W Van Wiess Blvd,West Burlington,West Burlington Jr/Sr High School,52655,2.0,29.0,AUTO,West Burlington Town
+Dickinson,PCT 01,5,Precinct No. 01,0.625,Dickinson,,,,,,,,,
+Dickinson,PCT 02,5,Precinct No. 02,0.625,Dickinson,,,,,,,,,
+Dickinson,PCT 03,6,Precinct No. 03,0.75,Dickinson,,,,,,,,,
+Dickinson,PCT 04,2,Precinct No. 04,0.25,Dickinson,,,,,,,,,
+Dickinson,PCT 05,7,Precinct No. 05,0.875,Dickinson,,,,,,,,,
+Dickinson,PCT 06,2,Precinct No. 06,0.25,Dickinson,,,,,,,,,
+Dickinson,PCT 07,1,Precinct No. 07,0.125,Dickinson,,,,,,,,,
+Dickinson,PCT 08,14,Precinct No. 08,1.75,Dickinson,,,,,,,,,
+Dickinson,PCT 09,1,Precinct No. 09,0.125,Dickinson,,,,,,,,,
+Dickinson,PCT 10,4,Precinct No. 10-City-Wahpeton-W Okoboji,0.5,Dickinson,,,,,,,,,
+Dickinson,PCT 11,6,Precinct No. 11,0.75,Dickinson,,,,,,,,,
+Dickinson,PCT 12,4,Precinct No. 12,0.5,Dickinson,,,,,,,,,
+Dickinson,PCT 13,6,Precinct No. 13,0.75,Dickinson,,,,,,,,,
+Dickinson,PCT 14,4,Precinct No. 14,0.5,Dickinson,,,,,,,,,
+Dickinson,PCT 15,13,Precinct No. 15,1.625,Dickinson,,,,,,,,,
+Dubuque,09A,8,Dubuque_09a,2.1333333333333333,Dubuque,,,,,,,,,
+Dubuque,1,10,Dubuque_01,2.6666666666666665,Dubuque,,2001 Radford Road,Dubuque,Dubuque Roosevelt School,52002,1.0,31.0,AUTO,Precinct 01
+Dubuque,10,11,Dubuque_10,2.933333333333333,Dubuque,,1800 Clarke Drive,Dubuque,Dubuque Senior High School,52001,1.0,31.0,AUTO,Precinct 10
+Dubuque,11,8,Dubuque_11,2.1333333333333333,Dubuque,,1800 Clarke Drive,Dubuque,Dubuque Senior High School,52001,1.0,31.0,AUTO,Precinct 11
+Dubuque,12,10,Dubuque_12,2.6666666666666665,Dubuque,,1800 Clarke Drive,Dubuque,Dubuque Senior High School,52001,1.0,31.0,AUTO,Precinct 12
+Dubuque,13,7,Dubuque_13,1.8666666666666667,Dubuque,,1800 Clarke Drive,Dubuque,Dubuque Senior High School,52001,1.0,31.0,AUTO,Precinct 13
+Dubuque,14,6,Dubuque_14,1.6,Dubuque,,1800 Clarke Drive,Dubuque,Dubuque Senior High School,52001,1.0,31.0,AUTO,Precinct 14
+Dubuque,15,8,Dubuque_15,2.1333333333333333,Dubuque,,1800 Clarke Drive,Dubuque,Dubuque Senior High School,52001,1.0,31.0,AUTO,Precinct 15
+Dubuque,16,5,Dubuque_16,1.3333333333333333,Dubuque,,1800 Clarke Drive,Dubuque,Dubuque Senior High School,52001,1.0,31.0,AUTO,Precinct 16
+Dubuque,17,5,Dubuque_17,1.3333333333333333,Dubuque,,1800 Clarke Drive,Dubuque,Dubuque Senior High School,52001,1.0,31.0,AUTO,Precinct 17
+Dubuque,18,7,Dubuque_18,1.8666666666666667,Dubuque,,1800 Clarke Drive,Dubuque,Dubuque Senior High School,52001,1.0,31.0,AUTO,Precinct 18
+Dubuque,19,10,Dubuque_19,2.6666666666666665,Dubuque,,1800 Clarke Drive,Dubuque,Dubuque Senior High School,52001,1.0,31.0,AUTO,Precinct 19
+Dubuque,2,12,Dubuque_02,3.2,Dubuque,,2001 Radford Road,Dubuque,Dubuque Roosevelt School,52002,1.0,31.0,AUTO,Precinct 02
+Dubuque,20,11,Dubuque_20,2.933333333333333,Dubuque,,1800 Clarke Drive,Dubuque,Dubuque Senior High School,52001,1.0,31.0,AUTO,Precinct 20
+Dubuque,3,7,Dubuque_03,1.8666666666666667,Dubuque,,1800 Clarke Drive,Dubuque,Dubuque Senior High School,52001,1.0,31.0,AUTO,Precinct 03
+Dubuque,31,11,Dubuque_31,2.933333333333333,Dubuque,,2001 Radford Road,Dubuque,Dubuque Roosevelt School,52002,1.0,31.0,AUTO,Precinct 31
+Dubuque,32,10,Dubuque_32,2.6666666666666665,Dubuque,,703 13th Ave SE,Dyersville,Dyersville Royal Lanes and Supper Club,52040,1.0,31.0,AUTO,Precinct 32
+Dubuque,33,7,Dubuque_33,1.8666666666666667,Dubuque,,2001 Radford Road,Dubuque,Dubuque Roosevelt School,52002,1.0,31.0,AUTO,Precinct 33
+Dubuque,34,10,Dubuque_34,2.6666666666666665,Dubuque,,703 13th Ave SE,Dyersville,Dyersville Royal Lanes and Supper Club,52040,1.0,31.0,AUTO,Precinct 34
+Dubuque,35,4,Dubuque_35,1.0666666666666669,Dubuque,,703 13th Ave SE,Dyersville,Dyersville Royal Lanes and Supper Club,52040,1.0,31.0,AUTO,Precinct 35
+Dubuque,36,7,Dubuque_36,1.8666666666666667,Dubuque,,2001 Radford Road,Dubuque,Dubuque Roosevelt School,52002,1.0,31.0,AUTO,Precinct 36
+Dubuque,37,3,Dubuque_37,0.8,Dubuque,,703 13th Ave SE,Dyersville,Dyersville Royal Lanes and Supper Club,52040,1.0,31.0,AUTO,Precinct 37
+Dubuque,38,3,Dubuque_38,0.8,Dubuque,,703 13th Ave SE,Dyersville,Dyersville Royal Lanes and Supper Club,52040,1.0,31.0,AUTO,Precinct 38
+Dubuque,39,5,Dubuque_39,1.3333333333333333,Dubuque,,703 13th Ave SE,Dyersville,Dyersville Royal Lanes and Supper Club,52040,1.0,31.0,AUTO,Precinct 39
+Dubuque,4,12,Dubuque_04,3.2,Dubuque,,2001 Radford Road,Dubuque,Dubuque Roosevelt School,52002,1.0,31.0,AUTO,Precinct 04
+Dubuque,40,4,Dubuque_40,1.0666666666666669,Dubuque,,703 13th Ave SE,Dyersville,Dyersville Royal Lanes and Supper Club,52040,1.0,31.0,AUTO,Precinct 40
+Dubuque,41,7,Dubuque_41,1.8666666666666667,Dubuque,,1800 Clarke Drive,Dubuque,Dubuque Senior High School,52001,1.0,31.0,AUTO,Precinct 41
+Dubuque,42,7,Dubuque_42,1.8666666666666667,Dubuque,,703 13th Ave SE,Dyersville,Dyersville Royal Lanes and Supper Club,52040,1.0,31.0,AUTO,Precinct 42
+Dubuque,43,9,Dubuque_43,2.4,Dubuque,,703 13th Ave SE,Dyersville,Dyersville Royal Lanes and Supper Club,52040,1.0,31.0,AUTO,Precinct 43
+Dubuque,44,1,Dubuque_44,0.26666666666666666,Dubuque,,2001 Radford Road,Dubuque,Dubuque Roosevelt School,52002,1.0,31.0,AUTO,Precinct 44
+Dubuque,45,6,Dubuque_45,1.6,Dubuque,,1800 Clarke Drive,Dubuque,Dubuque Senior High School,52001,1.0,31.0,AUTO,Precinct 45
+Dubuque,5,11,Dubuque_05,2.933333333333333,Dubuque,,2001 Radford Road,Dubuque,Dubuque Roosevelt School,52002,1.0,31.0,AUTO,Precinct 05
+Dubuque,6,9,Dubuque_06,2.4,Dubuque,,2001 Radford Road,Dubuque,Dubuque Roosevelt School,52002,1.0,31.0,AUTO,Precinct 06
+Dubuque,7,12,Dubuque_07,3.2,Dubuque,,2001 Radford Road,Dubuque,Dubuque Roosevelt School,52002,1.0,31.0,AUTO,Precinct 07
+Dubuque,8,7,Dubuque_08,1.8666666666666667,Dubuque,,2001 Radford Road,Dubuque,Dubuque Roosevelt School,52002,1.0,31.0,AUTO,Precinct 08
+Emmet,1,4,,0.4571428571428571,Emmet,AG-IL-Armstrong,519 6th Street,Armstrong,Armstrong Community Center,50514,4.0,32.0,AUTO,AG-IL-ARMSTRONG
+Emmet,10,3,,0.3428571428571429,Emmet,Estherville Ward 5,421 1st Ave. N,Estherville,Emmet County Farm Bureau Building,51334,4.0,32.0,AUTO,EVILLE-WARD 5
+Emmet,11,2,,0.22857142857142854,Emmet,HL-TM-Wallingford,421 1st Ave. N,Estherville,Emmet County Farm Bureau Building,51334,4.0,32.0,AUTO,HL-TM-WALLINGFORD
+Emmet,2,1,,0.11428571428571427,Emmet,CN-SL-Gruver,519 6th Street,Armstrong,Armstrong Community Center,50514,4.0,32.0,AUTO,CN-SL-GRUVER
+Emmet,3,2,,0.22857142857142854,Emmet,DM-JC-Ringsted,519 6th Street,Armstrong,Armstrong Community Center,50514,4.0,32.0,AUTO,DM-JC-RINGSTED
+Emmet,4,1,,0.11428571428571427,Emmet,EL-LN-Dolliver,519 6th Street,Armstrong,Armstrong Community Center,50514,4.0,32.0,AUTO,EL-LN-DOLLIVER
+Emmet,5,2,,0.22857142857142854,Emmet,Emmet-Estherville,421 1st Ave. N,Estherville,Emmet County Farm Bureau Building,51334,4.0,32.0,AUTO,EM-ES
+Emmet,6,5,,0.5714285714285714,Emmet,Estherville Ward 1,421 1st Ave. N,Estherville,Emmet County Farm Bureau Building,51334,4.0,32.0,AUTO,EVILLE-WARD 1
+Emmet,7,5,,0.5714285714285714,Emmet,Estherville Ward 2,421 1st Ave. N,Estherville,Emmet County Farm Bureau Building,51334,4.0,32.0,AUTO,EVILLE-WARD 2
+Emmet,8,6,,0.6857142857142857,Emmet,Estherville Ward 3,421 1st Ave. N,Estherville,Emmet County Farm Bureau Building,51334,4.0,32.0,AUTO,EVILLE-WARD 3
+Emmet,9,4,,0.4571428571428571,Emmet,Estherville Ward 4,421 1st Ave. N,Estherville,Emmet County Farm Bureau Building,51334,4.0,32.0,AUTO,EVILLE-WARD 4
+Fayette,AU,2,AUBURN TWP,0.24,Fayette,,102 E. Main St.,Hawkeye,Hawkeye Community Hall,52147,1.0,33.0,AUTO,Auburn Twp
+Fayette,BF,4,BANKS-FREMONT TWP,0.48,Fayette,,135 3rdSt. S,Maynard,Maynard Comm Center,50655,1.0,33.0,MANUAL,Banks-Fremont Twp.
+Fayette,BW,4,BETHEL-WINDSOR TWP,0.48,Fayette,,102 E. Main St.,Hawkeye,Hawkeye Community Hall,52147,1.0,33.0,AUTO,Bethel-Windsor Twp.
+Fayette,CE,1,CENTER TWP,0.12,Fayette,,135 3rd St.S,Maynard,Maynard Comm Center,50655,1.0,33.0,MANUAL,Center Twp
+Fayette,CL,4,CLERMONT TWP,0.48,Fayette,,23493 Canoe Rd.,Elgin,Valley School Library,52141,1.0,33.0,AUTO,Clermont Twp
+Fayette,DV,2,DOVER TWP,0.24,Fayette,,210 N VineSt.,West Union,West Union Library,52175,1.0,33.0,MANUAL,Dover Twp
+Fayette,ED,2,EDEN TWP,0.24,Fayette,,102 E. Main St.,Hawkeye,Hawkeye Community Hall,52147,1.0,33.0,AUTO,Eden Twp
+Fayette,FB,3,FAIRBANK INC,0.36,Fayette,,307 8th Ave. SE,Oelwein,Oelwein Comm Center and High SchoolLibrary,50662,1.0,33.0,MANUAL,Fairbank Inc
+Fayette,FP,4,FAIRFIELD-PUTNAM TWP,0.48,Fayette,,711 Main St.,Arlington,Arlington Library,50606,1.0,33.0,AUTO,Fairfield-Putnam Twp.
+Fayette,HL,4,HARLAN TWP,0.48,Fayette,,135 3rd St.S,Maynard,Maynard Comm Center,50655,1.0,33.0,MANUAL,Harlan Twp
+Fayette,IL,3,ILLYRIA TWP,0.36,Fayette,,23493 Canoe Rd.,Elgin,Valley School Library,52141,1.0,33.0,AUTO,Illyria Twp
+Fayette,JF,3,JEFFERSON TWP,0.36,Fayette,,307 8th Ave. SE,Oelwein,Oelwein Comm Center and High School Library,50662,1.0,33.0,AUTO,Jefferson Twp
+Fayette,OE1,8,OELWEIN - WARD 1,0.96,Fayette,,307 8th Ave. SE,Oelwein,Oelwein Comm Center and High SchoolLibrary,50662,1.0,33.0,MANUAL,Oelwein Ward 1
+Fayette,OE2,7,OELWEIN - WARD 2,0.84,Fayette,,307 8th Ave. SE,Oelwein,Oelwein Comm Center and High SchoolLibrary,50662,1.0,33.0,MANUAL,Oelwein Ward 2
+Fayette,OE3,9,OELWEIN - WARD 3,1.08,Fayette,,307 8th Ave. SE,Oelwein,Oelwein Comm Center and High SchoolLibrary,50662,1.0,33.0,MANUAL,Oelwein Ward 3
+Fayette,OE4,11,OELWEIN - WARD 4,1.3199999999999998,Fayette,,307 8th Ave. SE,Oelwein,Oelwein Comm Center and High School Library,50662,1.0,33.0,AUTO,Oelwein Ward 4
+Fayette,OR,2,ORAN TWP,0.24,Fayette,,307 8th Ave. SE,Oelwein,Oelwein Comm Center and High SchoolLibrary,50662,1.0,33.0,MANUAL,Oran Twp
+Fayette,PL,5,PLEASANT VALLEY TWP,0.6,Fayette,,23493 Canoe Rd.,Elgin,Valley School Library,52141,1.0,33.0,AUTO,Pleasant Valley Twp
+Fayette,SC,1,SCOTT TWP,0.12,Fayette,,307 8th Ave. SE,Oelwein,Oelwein Comm Center and High School,50662,1.0,33.0,MANUAL,Scott Twp
+Fayette,SF,1,SMITHFIELD TWP,0.12,Fayette,,711 Main St.,Arlington,Arlington Library,50606,1.0,33.0,AUTO,Smithfield Twp
+Fayette,UN,1,UNION TWP,0.12,Fayette,,210 N VineSt.,West Union,West Union Library,52175,1.0,33.0,MANUAL,Union Twp
+Fayette,WE1,5,WEST UNION - WARD 1,0.6,Fayette,,210 N VineSt.,West Union,West Union Library,52175,1.0,33.0,MANUAL,West Union Ward 1
+Fayette,WE2,3,WEST UNION - WARD 2,0.36,Fayette,,210 N VineSt.,West Union,West Union Library,52175,1.0,33.0,MANUAL,West Union Ward 2
+Fayette,WE3,4,WEST UNION - WARD 3,0.48,Fayette,,210 N VineSt.,West Union,West Union Library,52175,1.0,33.0,MANUAL,West Union Ward 3
+Fayette,WF,7,WESTFIELD TWP,0.84,Fayette,,605 Washington St.,Fayette,Fayette Library,52142,1.0,33.0,AUTO,Westfield Twp
+Floyd,CC1,14,Charles City Corp/CC1,1.5555555555555554,Floyd,,1 Comet Drive,Charles City,Charles City High School,50616,4.0,34.0,AUTO,Charles City 1 (Library)
+Floyd,CC2,17,Charles City Corp/CC2,1.8888888888888888,Floyd,,1 Comet Drive,Charles City,Charles City High School,50616,4.0,34.0,AUTO,Charles City 2 (Messiah)
+Floyd,CC3,15,Charles City Corp/CC3,1.6666666666666663,Floyd,,1 Comet Drive,Charles City,Charles City High School,50616,4.0,34.0,AUTO,Charles City 3 (N Cedar Terrace)
+Floyd,FLCENI,8,Floyd-Cedar-Niles,0.8888888888888888,Floyd,,,,,,,,,
+Floyd,RFUL,8,Rockford-Ulster,0.8888888888888888,Floyd,,,,,,,,,
+Floyd,RGRU,13,Rock Grove-Rudd,1.4444444444444444,Floyd,,,,,,,,,
+Floyd,SCRV,10,St Charles-Riverton,1.1111111111111112,Floyd,,,,,,,,,
+Floyd,SCUNPG,5,Scott-Union-Pleasant Grove,0.5555555555555556,Floyd,,,,,,,,,
+Franklin,GNIGEM,6,GENEVA/ INGHAM/ EAST MOTT,0.3333333333333333,Franklin,,,,,,,,,
+Franklin,GROC,4,GRANT/ OSCEOLA,0.2222222222222222,Franklin,,,,,,,,,
+Franklin,HLLERV,5,HAMILTON/ LEE/ REEVE,0.2777777777777778,Franklin,,,,,,,,,
+Franklin,HP1,8,HAMPTON 1,0.4444444444444444,Franklin,,101 12th Ave.,Latimer,Hampton-Dumont High School-Cafeteria,50452,4.0,35.0,AUTO,Hampton 1
+Franklin,HP2,10,HAMPTON 2,0.5555555555555556,Franklin,,101 12th Ave.,Latimer,Hampton-Dumont High School-Cafeteria,50452,4.0,35.0,AUTO,Hampton 2
+Franklin,HP3,12,HAMPTON 3,0.6666666666666666,Franklin,,101 12th Ave.,Latimer,Hampton-Dumont High School-Cafeteria,50452,4.0,35.0,AUTO,Hampton 3
+Franklin,HP4,11,HAMPTON 4,0.6111111111111109,Franklin,,101 12th Ave.,Latimer,Hampton-Dumont High School-Cafeteria,50452,4.0,35.0,AUTO,Hampton 4
+Franklin,MA,5,MARION,0.2777777777777778,Franklin,,,,,,,,,
+Franklin,OKMG,5,OAKLAND/ MORGAN,0.2777777777777778,Franklin,,1441 Gull Ave.,Latimer,C.A.L. Community School Cafeteria,50452,4.0,35.0,AUTO,Oakland/Morgan
+Franklin,RLRSWF,16,RICHLAND/ ROSS/ WEST FORK,0.8888888888888888,Franklin,,,,,,,,,
+Franklin,WMO,4,WEST MOTT TOWNSHIP,0.2222222222222222,Franklin,,,,,,,,,
+Franklin,WRSC,4,WISNER/ SCOTT,0.2222222222222222,Franklin,,1441 Gull Ave.,Latimer,C.A.L. Community School Cafeteria,50452,4.0,35.0,AUTO,Wisner/Scott
+Fremont,FG,8,Farragut,0.6,Fremont,,907 Hartford  Ave.,Farragut,Farragut Community School,51639,5.0,36.0,MANUAL,Farragut Pct
+Fremont,GNRSSC,11,Green Riverside Scott,0.825,Fremont,,626 Main Street,Tabor City,Tabor City Hall,51653,5.0,36.0,AUTO,Green Riverside Scott Pct
+Fremont,HB,7,Hamburg/Washington,0.525,Fremont,,,,,,,,,
+Fremont,RT,2,Riverton,0.15,Fremont,,907 Hartford  Ave.,Farragut,Farragut Community School Library,51639,5.0,36.0,AUTO,Riverton Pct
+Fremont,SN,12,Sidney,0.8999999999999999,Fremont,,800 Illinois St.,Sydney,"First Community Bank, Community Room",51652,5.0,36.0,AUTO,Sidney Pct
+Greene,CENTRAL,5,Central Precinct,0.6,Greene,,1000 West Lincoln Way,Jefferson,"Clover Hall, Greene County Hospital",50129,4.0,37.0,AUTO,Central Precinct
+Greene,EAST,7,East Precinct,0.84,Greene,,,Grand Junction,Grand Junction Community Center,50107,4.0,37.0,AUTO,East Precinct
+Greene,J1,8,Jefferson 1 Precinct,0.96,Greene,,220 N Chestnut Street,Jefferson,City Hall,50129,4.0,37.0,AUTO,Jefferson 1
+Greene,J2,8,Jefferson 2 Precinct,0.96,Greene,,219 E Lincolnway,Jefferson,Greene County Fairgrounds,50129,4.0,37.0,AUTO,Jefferson 2
+Greene,J3,12,Jefferson 3 Precinct,1.44,Greene,,1000 West Lincoln Way,Jefferson,"Public Health Room, Green County Hospital",50129,4.0,37.0,AUTO,Jefferson 3
+Greene,NORTH,6,North Precinct,0.72,Greene,,414 Sand St,Churdan,Churdan Library,50050,4.0,37.0,AUTO,North Precinct
+Greene,WEST,4,West Precinct,0.48,Greene,,737 220th St.,Seranton,Home of Curly Eason,51462,4.0,37.0,AUTO,West Precinct
+Grundy,P1,9,PRECINCT 1,0.9,Grundy,,610 East Center St.,Conrad,Conrad High School,50621,3.0,38.0,AUTO,P1 Conrad/Beaman
+Grundy,P2,3,PRECINCT 2,0.30000000000000004,Grundy,,706 G Ave,Grundy Center,"Courthouse, 3rd Floor",50638,3.0,38.0,AUTO,P2 Palermo/Washington
+Grundy,P3,4,PRECINCT 3,0.4,Grundy,,515 N. Adams St.,Wellsburg,Library,50680,3.0,38.0,AUTO,P3 Wellsburg
+Grundy,P4,3,PRECINCT 4,0.30000000000000004,Grundy,,21755 GrundyHighway 35,Holland,New Hope Fellowship,50642,3.0,38.0,MANUAL,P4 Holland
+Grundy,P5,14,PRECINCT 5,1.4,Grundy,,133 E. Elder St.,Dike,"Library, East door",50624,3.0,38.0,AUTO,P5 Dike
+Grundy,P6,13,PRECINCT 6,1.3,Grundy,,208 Broad Street,Reinbeck,Memorial Building,50669,3.0,38.0,AUTO,P6 Reinbeck
+Grundy,P7,14,PRECINCT 7,1.4,Grundy,,706 G. Ave.,Grundy Center,Courthouse,50638,3.0,38.0,AUTO,P7 Grundy Center
+Guthrie ,1,5,,0.4285714285714286,,,,,,,,,,
+Guthrie ,2,16,,1.3714285714285714,,,,,,,,,,
+Guthrie ,3,6,,0.5142857142857142,,,,,,,,,,
+Guthrie ,4,14,,1.2,,,,,,,,,,
+Guthrie ,5,8,,0.6857142857142857,,,,,,,,,,
+Guthrie ,6,16,,1.3714285714285714,,,,,,,,,,
+Guthrie ,7,3,,0.2571428571428571,,,,,,,,,,
+Guthrie ,8,2,,0.17142857142857146,,,,,,,,,,
+Hamilton,PCT 1,7,PCT 1 CASS FREEDOM FREMONT INDEPENDENCE,0.7000000000000001,Hamilton,,,,,,,,,
+Hamilton,PCT 2,5,PCT 2 BLAIRSBURG LIBERTY WILLIAMS,0.5,Hamilton,,,,,,,,,
+Hamilton,PCT 3,11,PCT 3 CLEAR LAKE HAMILTON MARION WEBSTER,1.1,Hamilton,,,,,,,,,
+Hamilton,PCT 4,12,PCT 4 LYON ELLSWORTH,1.2000000000000002,Hamilton,,,,,,,,,
+Hamilton,PCT 5,6,PCT 5 LINCOLN ROSE GROVE SCOTT,0.6000000000000001,Hamilton,,,,,,,,,
+Hamilton,WC1,17,Webster City 1,1.7000000000000002,Hamilton,,1001 Lynx Avenue,Webster City,Webster City High School,50595,4.0,40.0,AUTO,Webster City 1
+Hamilton,WC2,20,Webster City 2,2.0,Hamilton,,1001 Lynx Avenue,Webster City,Webster City High School,50595,4.0,40.0,AUTO,Webster City 2
+Hamilton,WC3,12,Webster City 3,1.2000000000000002,Hamilton,,1001 Lynx Avenue,Webster City,Webster City High School,50595,4.0,40.0,AUTO,Webster City 3
+Hancock,1,6,Precinct 01,0.6000000000000001,Hancock,,305 Walnut Street,Forest City,Forest City Christian School,50436,4.0,41.0,AUTO,Madison Ellington (F.C.)
+Hancock,10,2,Precinct 10,0.2,Hancock,,204 E. Main,Klemme,Klemme Community Center Council Room,50449,4.0,41.0,AUTO,"Avery, Goodell"
+Hancock,2,2,Precinct 02,0.2,Hancock,,170 Main Ave. South,Britt,Britt Municipal Building,50423,4.0,41.0,AUTO,"Crystal Township, Crystal Lake"
+Hancock,3,2,Precinct 03,0.2,Hancock,,170 Main Ave. South,Britt,Britt Municipal Building,50423,4.0,41.0,AUTO,"Bingham, Woden"
+Hancock,4,10,Precinct 04,1.0,Hancock,,170 Main Ave. South,Britt,Britt Municipal Building,50423,4.0,41.0,AUTO,"Britt, Erin, Orthel"
+Hancock,5,1,Precinct 05,0.1,Hancock,,875 State Street,Garner,Law Enforcement Center Supervisors Office,50438,4.0,41.0,AUTO,Garfield
+Hancock,6,17,Precinct 06,1.7000000000000002,Hancock,,875 State Street,Garner,Law Enforcement Center Basement,50438,4.0,41.0,AUTO,Concord Garner
+Hancock,7,4,Precinct 07,0.4,Hancock,,204 E. Main,Klemme,Klemme Community Center Council Room,50449,4.0,41.0,AUTO,"Ell Liberty, Klemme"
+Hancock,8,2,Precinct 08,0.2,Hancock,,110 Wayne Street,Corwith,Corwith Community Center,50430,4.0,41.0,AUTO,Boone Magor Corwith
+Hancock,9,4,Precinct 09,0.4,Hancock,,423 E. 5th Street,Kanawha,West Hancock Junior High School Lunchroom,50447,4.0,41.0,AUTO,Amsterdam Twin Lakes
+Hardin,AL,10,Alden/Buckeye,0.72,Hardin,,209 Center Street,Alden,Alden School,50006,4.0,42.0,AUTO,Alden/Buckeye Pct
+Hardin,CC,16,Concord/Sherman/Grant/Tip,1.1520000000000001,Hardin,,102 Menominee,Radcliffe,EMS Building,50230,4.0,42.0,AUTO,Concord/Sherman/Grant/Tipton Pct
+Hardin,EL,12,Eldora/Pleasant/Prov/Unio,0.8639999999999999,Hardin,,1101 10th Street,Eldora,Elementary School Gymnasium,50672,4.0,42.0,AUTO,Eldora City Pct
+Hardin,ELC,17,Eldora City,1.224,Hardin,,,,,,,,,
+Hardin,ET,17,Etna/Clay,1.224,Hardin,,918 - 4th,Ackley,AGWSR High School Common Room,50601,4.0,42.0,MANUAL,Etna Pct
+Hardin,HA,12,Hardin/Ellis/Jackson,0.8639999999999999,Hardin,,1124 Union Street,Iowa Falls,Riverbend Middle School,50126,4.0,42.0,AUTO,Hardin/Ellis/Jackson Pct
+Hardin,IF1,19,Iowa Falls #1,1.368,Hardin,,1124 Union Street,Iowa Falls,Riverbend Middle School,50126,4.0,42.0,AUTO,Iowa Falls 1 Pct
+Hardin,IF2,22,Iowa Falls #2,1.584,Hardin,,1124 Union Street,Iowa Falls,Riverbend Middle School,50126,4.0,42.0,AUTO,Iowa Falls 2 Pct
+Harrison,BO,3,Precinct #06-Boyer/Lincoln,0.28,Harrison,,509 Lincolnway St.,Woodbine,Woodbine Methodist Church,51579,5.0,43.0,AUTO,Douglas Lincoln Boyer
+Harrison,HS,9,,0.8400000000000001,Harrison,Precinct #02-Pisgah,1102 Iowa Ave,Dunlap,Dunlap School Library,51529,5.0,43.0,AUTO,Harrison Dunlap
+Harrison,JA,3,,0.28,Harrison,Precinct #03-Dunlap,398 Front St.,Pisgah,Pisgah Methodist Church,51564,5.0,43.0,AUTO,Jackson Allen Pisgah
+Harrison,JF,3,Precinct #09-Jefferson/LaGrange,0.28,Harrison,Precinct #04-Mondamin,304 East 7th Street,Logan,"Extension Office,Logan",51546,5.0,43.0,MANUAL,Calhoun Jefferson Lagrange
+Harrison,LO,8,Precinct #10 - Logan,0.7466666666666667,Harrison,Precinct #05-Magnolia,304 East 7th Street,Logan,"Extension Office, Logan",51546,5.0,43.0,AUTO,Logan City
+Harrison,LS,2,Precinct #01-Little Sioux,0.18666666666666668,Harrison,,398 Front St.,Pisgah,Pisgah Methodist Church,51564,5.0,43.0,AUTO,Little Sioux
+Harrison,MA,5,,0.4666666666666667,Harrison,,372 Magnolia St.,Magnolia,Magnolia Fire Hall,51550,5.0,43.0,AUTO,Magnolia
+Harrison,MR,4,,0.37333333333333335,Harrison,Precinct #08-Modale,207 N. Noves Street,Mondamin,Mondamin Christian Church,51557,5.0,43.0,AUTO,Morgan Raglan Mondamin
+Harrison,MV,14,Precinct #12 - Missouri Valley,1.3066666666666666,Harrison,,119 North 5th St.,Missouri Valley,Missouri Valley Library,51555,5.0,43.0,AUTO,Missouri Valley City
+Harrison,SJ,7,Precinct #11 - St. John,0.6533333333333333,Harrison,,119 North 5th St.,Missouri Valley,Missouri Valley Library,51555,5.0,43.0,AUTO,St John Twp
+Harrison,TA,5,,0.4666666666666667,Harrison,,207 N. Noves Street,Mondamin,Mondamin Christian Church,51557,5.0,43.0,AUTO,Clay Taylor Cincinnati Modale
+Harrison,WB,8,Precinct #07 - Woodbine,0.7466666666666667,Harrison,,509 Lincolnway St.,Woodbine,Woodbine Methodist Church,51579,5.0,43.0,AUTO,Woodbine City
+Harrison,WS,4,,0.37333333333333335,Harrison,Precinct #13-Persia,3824 - 280th St.,Persia,Jeremy and Amy Zacharias Home,51563,5.0,43.0,AUTO,Cass Union Washington Persia
+Henry,CE,20,Central Precinct,1.3333333333333333,Henry,,,,,,,,,
+Henry,MP1,16,Mt. Pleasant Ward 1,1.0666666666666669,Henry,,307 E. Monroe St.,Mt. Pleasant,Mount Pleasant High School,52641,2.0,44.0,AUTO,Mt Pleasant I
+Henry,MP2,18,Mt. Pleasant Ward 2,1.2,Henry,,307 E. Monroe St.,Mt. Pleasant,Mount Pleasant High School,52641,2.0,44.0,AUTO,Mt Pleasant II
+Henry,MP3,17,Mt. Pleasant Ward 3,1.1333333333333333,Henry,,307 E. Monroe St.,Mt. Pleasant,Mount Pleasant High School,52641,2.0,44.0,AUTO,Mt Pleasant III
+Henry,MP4,13,Mt. Pleasant Ward 4,0.8666666666666667,Henry,,307 E. Monroe St.,Mt. Pleasant,Mount Pleasant High School,52641,2.0,44.0,AUTO,Mt Pleasant Pct IV
+Henry,NE,13,Northeast Precinct,0.8666666666666667,Henry,,208 S. Olive,Winfield,Winfield Mt. Union High School/Small Gym,52659,2.0,44.0,AUTO,Northeast Precinct
+Henry,NW,13,Northwest Precinct,0.8666666666666667,Henry,,218 West Main St.,Wayland,Wayland Community Center,52654,2.0,44.0,AUTO,Northwest Precinct
+Henry,SE,30,Southeast Precinct,2.0,Henry,,101 Jack Wilson Dr.,New London,New London High School/ Band Room,52654,2.0,44.0,AUTO,Southeast Precinct
+Henry,SW,10,Southwest Precinct,0.6666666666666666,Henry,,412 E Jackson St,Salem,Salem Elementary School,52649,2.0,44.0,AUTO,Southwest Precinct
+Howard,AF,6,Afton/Howard/Paris,0.8571428571428571,Howard,,,,,,4.0,45.0,AUTO,Afton Howard Paris II
+Howard,AL,3,Albion/Forest City,0.42857142857142855,Howard,,,,,,4.0,45.0,AUTO,Albion Forest City
+Howard,CR1A,2,Cresco 1 A,0.2857142857142857,Howard,,1020 - 2nd Ave SE,Cresco,Northeast Iowa Community College - Cresco Center,52136,4.0,45.0,AUTO,Cresco 1A
+Howard,CR1B,5,Vernon Springs,0.7142857142857142,Howard,,1020 - 2nd Ave SE,Cresco,Northeast Iowa Community,52136,4.0,45.0,MANUAL,Vernon Springs Cresco 1B
+Howard,CR2,6,Cresco 2,0.8571428571428571,Howard,,1020 - 2nd Ave SE,Cresco,Northeast Iowa Community College - Cresco Center,52136,4.0,45.0,AUTO,Cresco 2
+Howard,CR3,5,Cresco 3,0.7142857142857142,Howard,,1020 - 2nd Ave SE,Cresco,Northeast Iowa Community College - Cresco Center,52136,4.0,45.0,AUTO,Cresco 3
+Howard,NO,3,New Oregon,0.42857142857142855,Howard,,,,,,4.0,45.0,AUTO,New Oregon Paris I
+Howard,RJO,2,Jamestown/Oakdale,0.2857142857142857,Howard,,,,,,,,,
+Howard,SHC,3,Saratoga/Howard Ctr/Chest,0.42857142857142855,Howard,,,,,,,,,
+Humboldt,A-NW,3,Avery-North Weaver,0.26666666666666666,Humboldt,,,,,,,,,
+Humboldt,D-W-NR,3,Delana-Wacousta-North Rutland,0.26666666666666666,Humboldt,,,,,,,,,
+Humboldt,DC-GR,5,Dakota City-Grove,0.4444444444444445,Humboldt,,,,,,,,,
+Humboldt,H-WV,2,Humboldt-West Vernon,0.17777777777777778,Humboldt,,,,,,,,,
+Humboldt,H1-C-SW,10,Humboldt 1-Corinth-South Weaver,0.8888888888888891,Humboldt,,,,,,,,,
+Humboldt,H2-B-SN,9,Humboldt 2-Beaver-South Norway,0.8,Humboldt,,,,,,,,,
+Humboldt,H3-SR,10,Humboldt 3-South Rutland,0.8888888888888891,Humboldt,,,,,,,,,
+Humboldt,NL-EV,2,North Lake-East Vernon,0.17777777777777778,Humboldt,,,,,,,,,
+Humboldt,SL-NN,1,South Lake-North Norway,0.08888888888888889,Humboldt,,,,,,,,,
+Ida,BL,2,City of Battle Creek &amp; Grant Township,0.3,Ida,City of Arthur,519 Maple,Holstein,Calva Holstein H.S.,51025,5.0,47.0,AUTO,Blaine Hayes S1/2 Silver Creek
+Ida,GG,6,,0.8999999999999999,Ida,,519 Maple,Holstein,Calva Holstein H.S.,51025,5.0,47.0,AUTO,Griggs Douglas
+Ida,GV,1,,0.15,Ida,City of Galva,519 Maple,Holstein,Calva Holstein H.S.,51025,5.0,47.0,AUTO,Galva N1/2 Silver Creek
+Ida,IG1,2,Ida Grove Ward 1,0.3,Ida,City of Holstein,519,Holstein,Calva Holstein H.S.,51025,5.0,47.0,MANUAL,Ida Grove 1
+Ida,IG2,2,Ida Grove Ward 2,0.3,Ida,,519 Maple,Holstein,Calva Holstein H.S.,51025,5.0,47.0,AUTO,Ida Grove 2
+Ida,IG3,3,Ida Grove Ward 3,0.45,Ida,,519 Maple,Holstein,Calva Holstein H.S.,51025,5.0,47.0,AUTO,Ida Grove 3 Corwin
+Ida,MP,4,,0.6,Ida,,519 Maple,Holstein,Calva Holstein H.S.,51025,5.0,47.0,AUTO,Maple Garfield Grant Battle Logan
+Iowa,DA,3,Dayton/English I,0.30000000000000004,Iowa,,North of 310 St House,Millersburg,Millersburg School,52308,3.0,48.0,AUTO,Dayton English 1
+Iowa,EN,6,English II,0.6000000000000001,Iowa,,200 S MainSt,North English,North English City Hall,52316,3.0,48.0,MANUAL,English 2
+Iowa,FM,8,Fillmore/Greene,0.8,Iowa,,200 S MainSt,North English,North English City Hall,52316,3.0,48.0,MANUAL,Fillmore Greene
+Iowa,HC,3,Honey Creek/Marengo Rural,0.30000000000000004,Iowa,,1387A Ave,Belle Plaine,Alice & Dan DeRycke,52208,3.0,48.0,AUTO,Honey Creek Marengo Washington
+Iowa,HL,6,Hartford II/Lincoln,0.6000000000000001,Iowa,,707 2nd St.,Victor,Victor City Hall,52347,3.0,48.0,AUTO,Hartford 2 Lincoln
+Iowa,HS,3,Hartford I/Sumner,0.30000000000000004,Iowa,,707 2nd St.,Victor,Victor City Hall,52347,3.0,48.0,AUTO,Hartford 1 Sumner
+Iowa,HT,8,Hilton/Washington,0.8,Iowa,,550 7th Avenue,Conroy,Hilton Hall,52220,3.0,48.0,AUTO,Hilton Iowa
+Iowa,LX,20,Lenox/Iowa,2.0,Iowa,,3023-220th trl,Middle Amana,Amana Elementary Lunchroom,52307,3.0,48.0,AUTO,Lenox
+Iowa,MR,14,Marengo City,1.4,Iowa,,359 E Hilton,Marengo,Marengo High School Media Center,52301,3.0,48.0,AUTO,Marengo City
+Iowa,PI,6,Pilot/Troy/York,0.6000000000000001,Iowa,,810 Walnut St.,Williamsburg,Williamsburg Highschool,52361,3.0,48.0,MANUAL,Pilot Troy York
+Iowa,WM,23,Williamsburg,2.3000000000000003,Iowa,,810 West Walnut Street,Williamsburg,High School,52361,3.0,48.0,AUTO,Williamsburg City
+Jackson,1,13,Jackson 01,2.2285714285714286,Jackson,,1601 State St.,Bellevue,Bellevue High School Library,52031,1.0,49.0,AUTO,Pct 01
+Jackson,10,2,Jackson 10,0.3428571428571429,Jackson,,439 Wilson St.,Miles,East Central High School,52064,1.0,49.0,AUTO,Pct 10
+Jackson,11,2,Jackson 11,0.3428571428571429,Jackson,,439 Wilson St.,Miles,East Central High School,52064,1.0,49.0,AUTO,Pct 11
+Jackson,12,4,Jackson 12,0.6857142857142857,Jackson,,200 E Locust St.,Maquoketa,Maquoketa Middle School,52060,1.0,49.0,AUTO,Pct 12
+Jackson,13,3,Jackson 13,0.5142857142857142,Jackson,,200 E Locust St.,Maquoketa,Maquoketa Middle School,52060,1.0,49.0,AUTO,Pct 13
+Jackson,14,4,Jackson 14,0.6857142857142857,Jackson,,200 E Locust St.,Maquoketa,Maquoketa Middle School,52060,1.0,49.0,AUTO,Pct 14
+Jackson,15,5,Jackson 15,0.8571428571428572,Jackson,,200 E Locust St.,Maquoketa,Maquoketa Middle School,52060,1.0,49.0,AUTO,Pct 15
+Jackson,16,6,Jackson 16,1.0285714285714285,Jackson,,200 E Locust St.,Maquoketa,Maquoketa Middle School,52060,1.0,49.0,AUTO,Pct 16
+Jackson,2,3,Jackson 02,0.5142857142857142,Jackson,,1601 State St.,Bellevue,Bellevue High School Library,52031,1.0,49.0,AUTO,Pct 02
+Jackson,3,3,Jackson 03,0.5142857142857142,Jackson,,1601 State St.,Bellevue,Bellevue High School Library,52031,1.0,49.0,AUTO,Pct 03
+Jackson,4,4,Jackson 04,0.6857142857142857,Jackson,,15025 Bellevue-Cascade rd.,Zwingle,Steve and Mary Stroyan Residence,52079,1.0,49.0,AUTO,Pct 04
+Jackson,5,3,Jackson 05,0.5142857142857142,Jackson,,200 E Locust St.,Maquoketa,Maquoketa Middle School,52060,1.0,49.0,AUTO,Pct 05
+Jackson,6,4,Jackson 06,0.6857142857142857,Jackson,,13 South Marion St.,Maquoketa,Andrew High School Cafeteria,52060,1.0,49.0,AUTO,Pct 06
+Jackson,7,6,Jackson 07,1.0285714285714285,Jackson,,200 E Locust St.,Maquoketa,Maquoketa Middle School,52060,1.0,49.0,AUTO,Pct 07
+Jackson,8,3,Jackson 08,0.5142857142857142,Jackson,,1601 State St.,Bellevue,Bellevue High School Library,52031,1.0,49.0,AUTO,Pct 08
+Jackson,9,5,Jackson 09,0.8571428571428572,Jackson,,439 Wilson St.,Miles,East Central High School,52064,1.0,49.0,AUTO,Pct 09
+Jasper,CF-1,4,Colfax Ward 1,0.46,Jasper,,,,,,,,,
+Jasper,CF-2,5,Colfax Ward 2,0.5750000000000001,Jasper,,,,,,,,,
+Jasper,CF-3,4,Colfax Ward 3,0.46,Jasper,,,,,,,,,
+Jasper,CP,9,Clear Creek/Poweshiek,1.035,Jasper,,202 E State,Baxter,Baxter Community SchoolCafeteria,50028,3.0,50.0,AUTO,Clearcreek Poweshiek  Cp
+Jasper,DM,11,Des Moines,1.265,Jasper,,704 SMonroe,Praire City,PCM Middle School Library,50228,3.0,50.0,MANUAL,Des Moines  Dm
+Jasper,EL,4,Elk Creek/Lynngrove,0.46,Jasper,,,,,,,,,
+Jasper,FV,13,Fairview,1.495,Jasper,,704 SMonroe,Praire City,PCM Middle School Library,50228,3.0,50.0,MANUAL,Fairview Fv
+Jasper,HR,17,HG/K/RC/BV/RL,1.955,Jasper,,1900N 5th Ave E,Newton,Berg Middle School Cafeteria,50208,3.0,50.0,MANUAL,Hickory Grove Hr
+Jasper,IMM,12,Indep/Malaka/Mariposa,1.38,Jasper,,,,,,,,,
+Jasper,MW,6,Mound Prairie/Washington,0.6900000000000001,Jasper,,704 S Monroe,Praire City,PCM Middle SchoolLibrary,50228,3.0,50.0,MANUAL,Mound Prairie Washington  Mw
+Jasper,NS,13,Newton/Sherman,1.495,Jasper,,1900 N 5th Ave E,Newton,Berg Middle SchoolCafeteria,50208,3.0,50.0,MANUAL,Newton Sherman  Ns
+Jasper,NT1-1,13,Newton 1-1,1.495,Jasper,,,,,,,,,
+Jasper,NT1-2,10,Newton 1-2,1.15,Jasper,,,,,,,,,
+Jasper,NT2-1,14,Newton 2-1,1.61,Jasper,,,,,,,,,
+Jasper,NT2-2,11,Newton 2-2,1.265,Jasper,,,,,,,,,
+Jasper,NT3-1,14,Newton 3-1,1.61,Jasper,,,,,,,,,
+Jasper,NT3-2,10,Newton 3-2,1.15,Jasper,,,,,,,,,
+Jasper,NT4-1,16,Newton 4-1,1.84,Jasper,,,,,,,,,
+Jasper,NT4-2,9,Newton 4-2,1.035,Jasper,,,,,,,,,
+Jasper,PA,5,Palo Alto,0.5750000000000001,Jasper,,1900 N 5th Ave E,Newton,Berg Middle School Cafeteria,50208,3.0,50.0,AUTO,Palo Alto  Pa
+Jefferson,BH-PO,1,Blackhawk-Polk-Packwood,0.21818181818181814,Jefferson,,,,,,,,,
+Jefferson,BU,2,Buchanan Township,0.4363636363636363,Jefferson,,605 EBroadway Ave,Fairfield,Fairfield Sr. High School,52556,2.0,51.0,MANUAL,Buchanan
+Jefferson,CT,8,Center-Cedar-Maharishi Vedic City,1.7454545454545454,Jefferson,,605 EBroadway Ave,Fairfield,Fairfield Sr. High School,52556,2.0,51.0,MANUAL,Center Cedar
+Jefferson,DM,1,Des Moines-Liberty-Libertyville,0.21818181818181814,Jefferson,,605 E Broadway,Fairfield,Fairfield Sr. HighSchool,52556,2.0,51.0,MANUAL,Des Moines Liberty
+Jefferson,FF1,9,Fairfield 1st Ward,1.963636363636364,Jefferson,,605 EBroadway,Fairfield,Fairfield Sr. High School,52556,2.0,51.0,MANUAL,Fairfield 1
+Jefferson,FF2,11,Fairfield 2nd Ward,2.4,Jefferson,,605 EBroadway,Fairfield,Fairfield Sr. High School,52556,2.0,51.0,MANUAL,Fairfield 2
+Jefferson,FF3,4,Fairfield 3rd Ward,0.8727272727272727,Jefferson,,605 EBroadway,Fairfield,Fairfield Sr. High School,52556,2.0,51.0,MANUAL,Fairfield 3
+Jefferson,FF4,8,Fairfield 4th Ward,1.7454545454545454,Jefferson,,605 EBroadway,Fairfield,Fairfield Sr. High School,52556,2.0,51.0,MANUAL,Fairfield 4
+Jefferson,FF5,7,Fairfield 5th Ward,1.5272727272727271,Jefferson,,605 EBroadway,Fairfield,Fairfield Sr. High School,52556,2.0,51.0,MANUAL,Fairfield 5
+Jefferson,LG,1,Locust Grove-Batavia,0.21818181818181814,Jefferson,,1006 3rdSt,Batavia,Senior Center,52533,2.0,51.0,MANUAL,Locust Grove
+Jefferson,PN,1,Penn-Pleasant Plain,0.21818181818181814,Jefferson,,,,,,,,,
+Jefferson,WLR,2,Lockridge-Round Prairie-Walnut-Lockridge City-Coppock,0.4363636363636363,Jefferson,,,,,,,,,
+Johnson,BG,4,BIG GROVE TOWNSHIP,1.62,Johnson,,600 W. 5th St.,Solon,Solon High School,52333,2.0,52.0,AUTO,Big Grove
+Johnson,CC,8,CLEAR CREEK/TIFFIN,3.24,Johnson,,311 West Marengo Road,Tiffin,Clear Creek/Amana H.S.,52340,2.0,52.0,MANUAL,Clear Creek
+Johnson,CE,1,CEDAR TOWNSHIP,0.405,Johnson,,600 W. 5th St.,Solon,Solon High School,52333,2.0,52.0,AUTO,Cedar
+Johnson,CV.01,9,CORALVILLE 01,3.645000000000001,Johnson,,1220First Avenue,Coralville,Coralville Holiday Inn,52241,2.0,52.0,MANUAL,Coralville 01
+Johnson,CV.02,8,CORALVILLE 02,3.24,Johnson,,1220First Avenue,Coralville,Coralville Holiday Inn,52241,2.0,52.0,MANUAL,Coralville 02
+Johnson,CV.03,5,CORALVILLE 03,2.0250000000000004,Johnson,,1220 First Avenue,Coralville,Coralville Holiday Inn,52241,2.0,52.0,AUTO,Coralville 03
+Johnson,CV.04,7,CORALVILLE 04,2.835,Johnson,,1220First Avenue,Coralville,Coralville Holiday Inn,52241,2.0,52.0,MANUAL,Coralville 04
+Johnson,CV.05,7,CORALVILLE 05,2.835,Johnson,,1220First Avenue,Coralville,Coralville Holiday Inn,52241,2.0,52.0,MANUAL,Coralville 05
+Johnson,CV.06,10,CORALVILLE 06,4.050000000000002,Johnson,,1220First Avenue,Coralville,Coralville Holiday Inn,52241,2.0,52.0,MANUAL,Coralville 06
+Johnson,CV.07,9,CORALVILLE 07,3.645000000000001,Johnson,,,,,,,,,
+Johnson,FR,4,FREMONT-LINCOLN (INCLUDES,1.62,Johnson,,303 S DevoeSt.,Lone Tree,Lone Tree Elementary,52755,2.0,52.0,MANUAL,Fremont
+Johnson,GR,1,GRAHAM TOWNSHIP,0.405,Johnson,,600 West 5th St.,Solon,Solon High School,52240,2.0,52.0,AUTO,Graham
+Johnson,HD,1,HARDIN TOWNSHIP,0.405,Johnson,,230 W. Wilson St.,Oxford,Oxford Elementary,52322,2.0,52.0,AUTO,Hardin
+Johnson,HS,2,HILLS,0.81,Johnson,,,,,,,,,
+Johnson,IC.01,12,IOWA CITY 01,4.86,Johnson,,611 Greenwood Dr.,Iowa City,Roosevelt Elementary Media Center,52240,2.0,52.0,AUTO,Iowa City 01
+Johnson,IC.02,10,IOWA CITY 02,4.050000000000002,Johnson,,600 Koser Avenue,Iowa City,Horn Elementary Media Center,52246,2.0,52.0,AUTO,Iowa City 02
+Johnson,IC.03,7,IOWA CITY 03,2.835,Johnson,,130 N. Madison St.,Iowa City,Iowa Memorial Union,52242,2.0,52.0,AUTO,Iowa City 03
+Johnson,IC.04,10,IOWA CITY 04,4.050000000000002,Johnson,,300 Teeters Court,Iowa City,Lincoln Elementary,52246,2.0,52.0,AUTO,Iowa City 04
+Johnson,IC.05,9,IOWA CITY 05,3.645000000000001,Johnson,,130 N. Madison St.,Iowa City,Iowa Memorial Union,52242,2.0,52.0,AUTO,Iowa City 05
+Johnson,IC.06,11,IOWA CITY 06,4.455,Johnson,,2501 Bradford Dr.,Iowa City,SE Junior High Media Center,52240,2.0,52.0,AUTO,Iowa City 06
+Johnson,IC.07,8,IOWA CITY 07,3.24,Johnson,,2901 Melrose Ave,Iowa City,West High School Band Room,52246,2.0,52.0,AUTO,Iowa City 07
+Johnson,IC.08,10,IOWA CITY 08,4.050000000000002,Johnson,,3850 Rohret Rd.,Iowa City,Weber Elementary,52246,2.0,52.0,AUTO,Iowa City 08
+Johnson,IC.09,9,IOWA CITY 09,3.645000000000001,Johnson,,2901 Melrose Ave,Iowa City,West High School Room 112,52246,2.0,52.0,AUTO,Iowa City 09
+Johnson,IC.10,7,IOWA CITY 10/ELSW,2.835,Johnson,,130 N. Madison St.,Iowa City,Iowa Memorial Union,52242,2.0,52.0,AUTO,Iowa City 10
+Johnson,IC.11,8,IOWA CITY 11,3.24,Johnson,,130 N. Madison St.,Iowa City,Iowa Memorial Union,52242,2.0,52.0,AUTO,Iowa City 11
+Johnson,IC.12,9,IOWA CITY 12/EAST LUCAS SE,3.645000000000001,Johnson,,1930 Lakeside Drive,Iowa City,Grant Wood Elementary,52240,2.0,52.0,AUTO,Iowa City 12
+Johnson,IC.13,7,IOWA CITY 13,2.835,Johnson,,611 Greenwood Dr.,Iowa City,Roosevelt Elementary Room 14,52240,2.0,52.0,AUTO,Iowa City 13
+Johnson,IC.14,9,IOWA CITY 14,3.645000000000001,Johnson,,1355 Deforest Ave.,Iowa City,Twain Elementary Media Center,52240,2.0,52.0,AUTO,Iowa City 14
+Johnson,IC.15,6,IOWA CITY 15,2.43,Johnson,,1355 Deforest Ave.,Iowa City,"Twain Elementary Room 21, 24 or 25",52240,2.0,52.0,AUTO,Iowa City 15
+Johnson,IC.16,11,IOWA CITY 16,4.455,Johnson,,830 Southlawn Drive,Iowa City,Robert Lucas Elementary,52240,2.0,52.0,AUTO,Iowa City 16
+Johnson,IC.17,12,IOWA CITY 17,4.86,Johnson,,2200 East Court,Iowa City,Hoover Elementary MediaCenter,52240,2.0,52.0,MANUAL,Iowa City 17
+Johnson,IC.18,12,IOWA CITY 18,4.86,Johnson,,1130 Seymour Ave.,Iowa City,Longfellow Elementary,52240,2.0,52.0,AUTO,Iowa City 18
+Johnson,IC.19,7,IOWA CITY 19,2.835,Johnson,,130 N. Madison St.,Iowa City,Iowa Memorial Union Penn State Room,52242,2.0,52.0,AUTO,Iowa City 19
+Johnson,IC.20,9,IOWA CITY 20,3.645000000000001,Johnson,,521 N Dodge Street,Iowa City,Horace Mann,52245,2.0,52.0,AUTO,Iowa City 20
+Johnson,IC.21,10,IOWA CITY 21,4.050000000000002,Johnson,,521 N Dodge Street,Iowa City,Horace Mann,52245,2.0,52.0,AUTO,Iowa City 21
+Johnson,IC.22,8,IOWA CITY 22,3.24,Johnson,,1400 Grisell Place,Iowa City,Shimek Elementary Media Center,52240,2.0,52.0,AUTO,Iowa City 22
+Johnson,IC.23,12,IOWA CITY 23,4.86,Johnson,,1900 Morningside Dr.,Iowa City,Iowa City High School,52245,2.0,52.0,AUTO,Iowa City 23
+Johnson,IC.24,12,IOWA CITY 24,4.86,Johnson,,1900 Morningside Dr.,Iowa City,Iowa City High School,52245,2.0,52.0,AUTO,Iowa City 24
+Johnson,JE,5,JEFFERSON EAST/SHUEYVILLE,2.0250000000000004,Johnson,,3271 Sandy Breach,Solon,Camp Io-Dis-E-Ca,52333,2.0,52.0,AUTO,Jefferson East
+Johnson,JW,5,JW/MN/SW,2.0250000000000004,Johnson,,3271 Sandy Breach,Solon,Camp Io-Dis-E-Ca,52333,2.0,52.0,AUTO,Jefferson West
+Johnson,LB,2,LIBERTY-PLEASANT VALLEY,0.81,Johnson,,301 MainStreet,Hills,Hills Elementary,52235,2.0,52.0,MANUAL,Liberty
+Johnson,NL.01,7,NORTH LIBERTY 01,2.835,Johnson,,180 E. Forevergreen Rd.,North Liberty,Noth Central Junior High Gym,52317,2.0,52.0,AUTO,North Liberty 01
+Johnson,NL.02,7,NORTH LIBERTY 02,2.835,Johnson,,180 E. Forevergreen Rd.,North Liberty,North Central Junior High Cafeteria,52317,2.0,52.0,AUTO,North Liberty 02
+Johnson,NL.03,9,NORTH LIBERTY 03 (PW),3.645000000000001,Johnson,,,,,,,,,
+Johnson,NL.04,6,NORTH LIBERTY 04,2.43,Johnson,,,,,,,,,
+Johnson,NL.05,6,NORTH LIBERTY 05,2.43,Johnson,,,,,,,,,
+Johnson,NL.06,11,NL06/MADISON /CCN,4.455,Johnson,,,,,,,,,
+Johnson,NP,7,NEWPORT TOWNSHIP,2.835,Johnson,,600 W. 5th St.,Solon,Solon High School,52333,2.0,52.0,AUTO,Newport
+Johnson,OX,3,OXFORD TOWNSHIP/OXFORD,1.215,Johnson,,230 W. Wilson St.,Oxford,Oxford Elementary,52322,2.0,52.0,AUTO,Oxford
+Johnson,PN,10,PENN/ EAST LUCAS NORTH,4.050000000000002,Johnson,,230 N Dubuque St.,North Liberty,Penn Elementary,52317,2.0,52.0,AUTO,Penn
+Johnson,SC,4,SCOTT TWP-WEST BRANCH,1.62,Johnson,,2501 Bradford Dr.,Iowa City,SE Junior High Room 215,52240,2.0,52.0,AUTO,Scott
+Johnson,SN,1,SHARON TOWNSHIP,0.405,Johnson,,4892 Kansas Ave SW,Sharon,Weeber Pavilion,50025,2.0,52.0,AUTO,Sharon
+Johnson,SO,6,SOLON,2.43,Johnson,,600 W. 5th St.,Solon,Solon High School,52333,2.0,52.0,AUTO,Solon
+Johnson,UH,4,UNION TOWNSHIP,1.62,Johnson,,600 Koser Avenue,Iowa City,Horn Elementary,52246,2.0,52.0,AUTO,University Heights
+Johnson,UN,2,UNIVERSITY HEIGHTS,0.81,Johnson,,2901 Melrose Ave,Iowa City,West High School,52246,2.0,52.0,AUTO,Union
+Johnson,WL,3,WASHINGTON TOWNSHIP,1.215,Johnson,,301 Main Street,Hills,Hills Elementary,52235,2.0,52.0,AUTO,West Lucas
+Johnson,WS,1,WEST LUCAS TOWNSHIP,0.405,Johnson,,5318 Derby Ave SW,Washington,Washington Township School,52353,2.0,52.0,AUTO,Washington
+Jones ,ANN,9,,1.44,,,,,,,,,,
+Jones ,ANS,13,,2.08,,,,,,,,,,
+Jones ,CGLW,8,,1.28,,,,,,,,,,
+Jones ,FV,8,,1.28,,,,,,,,,,
+Jones ,GF,3,,0.48,,,,,,,,,,
+Jones ,MN1,4,,0.64,,,,,,,,,,
+Jones ,MN2,4,,0.64,,,,,,,,,,
+Jones ,MN3,4,,0.64,,,,,,,,,,
+Jones ,MN4,4,,0.64,,,,,,,,,,
+Jones ,OX,2,,0.32,,,,,,,,,,
+Jones ,RLWS,4,,0.64,,,,,,,,,,
+Jones ,ROHA,5,,0.8,,,,,,,,,,
+Jones ,SGMC,4,,0.64,,,,,,,,,,
+Jones ,WY,3,,0.48,,,,,,,,,,
+Keokuk,AD,2,Adams,0.22857142857142854,Keokuk,,124 S. Iron St.,Keswick,Keswick City Hall,50136,3.0,54.0,AUTO,Adams
+Keokuk,BN,3,Benton/Steady Run,0.3428571428571429,Keokuk,,Main Street,Hedrick,American Legion,52563,3.0,54.0,AUTO,Benton Steady Run
+Keokuk,ER,4,English River/Liberty,0.4571428571428571,Keokuk,,502 Broadway,South English,Modern Telephone Coop,52335,3.0,54.0,AUTO,English River Liberty
+Keokuk,JA,1,Jackson,0.11428571428571427,Keokuk,,100 E. MainStreet,Richland,Richland Public Library,52585,3.0,54.0,MANUAL,Jackson
+Keokuk,LC,1,East/West Lancaster,0.11428571428571427,Keokuk,,17891 - 270th St.,Sigourney,Richard & Ann Kerkove,52591,3.0,54.0,AUTO,East West Lancaster
+Keokuk,LF/CC,6,Lafayette/Clear Creek,0.6857142857142857,Keokuk,,,,,,,,,
+Keokuk,PR,1,Prairie,0.11428571428571427,Keokuk,,124 S. Iron Street,Keswick,Keswick City Hall,50136,3.0,54.0,AUTO,Prairie
+Keokuk,RL,2,Richland,0.22857142857142854,Keokuk,,100 E. Main Street,Richland,Richland Public Library,52585,3.0,54.0,AUTO,Richland
+Keokuk,SG1,2,Sigourney 1st Ward,0.22857142857142854,Keokuk,,120 N. Jefferson,Sigourney,Court House - Supervisors Room,52591,3.0,54.0,AUTO,Sigourney 1
+Keokuk,SG2,2,Sigourney 2nd Ward,0.22857142857142854,Keokuk,,120 N. Jefferson,Sigourney,Court House - Jury Room,52591,3.0,54.0,AUTO,Sigourney 2
+Keokuk,SG3,2,Sigourney 3rd Ward,0.22857142857142854,Keokuk,,120 N. Jefferson,Sigourney,Court House - District Court Room,52591,3.0,54.0,AUTO,Sigourney 3
+Keokuk,SG4,2,Sigourney 4th Ward,0.22857142857142854,Keokuk,,120 N. Jefferson,Sigourney,Court House - Magistrate Court Room,52591,3.0,54.0,AUTO,Sigourney 4
+Keokuk,SGR,3,Sigourney/Plank/Van Buren,0.3428571428571429,Keokuk,,900 S. Stone,Sigourney,Sigourney Care Center,52591,3.0,54.0,AUTO,Sigourney Plank Van Buren
+Keokuk,WC,3,What Cheer/Washington,0.3428571428571429,Keokuk,,10972 - 170th Street,What Cheer,Betty DeBoef,50268,3.0,54.0,AUTO,What Cheer Washington
+Keokuk,WN,1,Warren,0.11428571428571427,Keokuk,,10972 - 170th Street,What Cheer,Betty DeBoef,50268,3.0,54.0,AUTO,Warren
+Kossuth,AL1,9,AL1,0.8,Kossuth,,213 South Harlan Street,Algona,O.B. Laing Middle School Auditorium,50511,4.0,55.0,AUTO,Algona 1 Cresco
+Kossuth,AL2,12,AL2,1.0666666666666669,Kossuth,,213 South Harlan Street,Algona,O.B. Laing Middle School Auditorium,50511,4.0,55.0,AUTO,Algona 2
+Kossuth,AL3,10,AL3,0.8888888888888891,Kossuth,,213 South Harlan Street,Algona,O.B. Laing Middle School Auditorium,50511,4.0,55.0,AUTO,Algona 3
+Kossuth,AL4,8,AL4,0.7111111111111111,Kossuth,,213 South Harlan Street,Algona,O.B. Laing Middle School Auditorium,50511,4.0,55.0,AUTO,Algona 4 Cresco
+Kossuth,BF,5,BF- PT,0.4444444444444445,Kossuth,,213 South Harlan Street,Algona,O.B. Laing Middle School Auditorium,50511,4.0,55.0,AUTO,Buffalo German Wesley 5
+Kossuth,BT,8,BT- FT- UN,0.7111111111111111,Kossuth,,213 South Harlan Street,Algona,O.B. Laing Middle School Auditorium,50511,4.0,55.0,AUTO,Burt
+Kossuth,CR,6,CR- IV- RV,0.5333333333333333,Kossuth,,213 South Harlan Street,Algona,O.B. Laing Middle School Auditorium,50511,4.0,55.0,AUTO,Cresco
+Kossuth,CR 1,1,CR 1,0.08888888888888889,Kossuth,,,,,,,,,
+Kossuth,CR 2,2,CR 2,0.17777777777777778,Kossuth,,,,,,,,,
+Kossuth,EG,5,EG- GT- HS- SW,0.4444444444444445,Kossuth,,213 South Harlan Street,Algona,O.B. Laing Middle School Auditorium,50511,4.0,55.0,AUTO,Eagle Grant Harrison Swea
+Kossuth,GF,4,GF- WM,0.3555555555555556,Kossuth,,213 South Harlan Street,Algona,O.B. Laing Middle School Auditorium,50511,4.0,55.0,AUTO,Garfield Riverdale
+Kossuth,GM,5,GM- RM,0.4444444444444445,Kossuth,,,,,,,,,
+Kossuth,GW,1,GW- SN,0.08888888888888889,Kossuth,,213 South Harlan Street,Algona,O.B. Laing Middle School Auditorium,50511,4.0,55.0,AUTO,Greenwood
+Kossuth,HB,4,HB- LY- LN- SF,0.3555555555555556,Kossuth,,213 South Harlan Street,Algona,O.B. Laing Middle School Auditorium,50511,4.0,55.0,AUTO,Hebron Ledyard 1 Lincoln
+Kossuth,IV,1,IV- PC,0.08888888888888889,Kossuth,,213 South Harlan Street,Algona,O.B. Laing Middle School Auditorium,50511,4.0,55.0,AUTO,Irvington Prairie
+Kossuth,LC,1,LC,0.08888888888888889,Kossuth,,213 South Harlan Street,Algona,O.B. Laing Middle School Auditorium,50511,4.0,55.0,AUTO,Lotts Creek
+Kossuth,LV,2,LV- SM,0.17777777777777778,Kossuth,,213 South Harlan Street,Algona,O.B. Laing Middle School Auditorium,50511,4.0,55.0,AUTO,Luverne Sherman
+Kossuth,PC,1,PC,0.08888888888888889,Kossuth,,213 South Harlan Street,Algona,O.B. Laing Middle School Auditorium,50511,4.0,55.0,AUTO,Plum Creek Union
+Kossuth,PR,4,PR- WL,0.3555555555555556,Kossuth,,,,,,,,,
+Kossuth,UN,1,UN,0.08888888888888889,Kossuth,,,,,,,,,
+Lee,CH VB,6,Charleston/DSM/Van Buren,0.8400000000000001,Lee,,2001 Avenue B,Fort Madison,Fort Madison Senior High School,52627,2.0,56.0,AUTO,Charleston Van Buren Des Moines
+Lee,FM1,5,Fort Madison 1,0.7000000000000001,Lee,,2001 Avenue B,Fort Madison,Fort Madison Senior High School,52627,2.0,56.0,AUTO,FM 1
+Lee,FM2,9,Fort Madison 2,1.2600000000000002,Lee,,2001 Avenue B,Fort Madison,Fort Madison Senior High School,52627,2.0,56.0,AUTO,FM 2
+Lee,FM3,11,Fort Madison 3,1.54,Lee,,2001 Avenue B,Fort Madison,Fort Madison Senior High School,52627,2.0,56.0,AUTO,FM 3
+Lee,FM4A,11,Fort Madison 4,1.54,Lee,,2001 Avenue B,Fort Madison,Fort Madison Senior High School,52627,2.0,56.0,AUTO,FM 4A
+Lee,FM4B,0,,0.0,Lee,,2001 Avenue B,Fort Madison,Fort Madison Senior High School,52627,2.0,56.0,AUTO,FM4B
+Lee,FM5,12,Fort Madison 5,1.6800000000000002,Lee,,2001 Avenue B,Fort Madison,Fort Madison Senior High School,52627,2.0,56.0,AUTO,FM5/Madison Twp
+Lee,FR CE,10,Franklin/Cedar/Marion/Harison,1.4,Lee,,1341 Pilot Grove Road,Pilot Grove,"Pilot Grove Savings Bank Community Room,Donnellson",52648-0005,2.0,56.0,AUTO,Franklin Cedar Marion
+Lee,HR,0,,0.0,Lee,,2001 Avenue B,Fort Madison,Fort Madison Senior High School,52627,2.0,56.0,AUTO,Harrison
+Lee,JF,4,Jefferson,0.56,Lee,,2001 Avenue B,Fort Madison,Fort Madison Senior High School,52627,2.0,56.0,AUTO,Jefferson
+Lee,JK,7,Jackson,0.98,Lee,,2285 Middle Road,Keokuk,Keokuk Senior High School,52632,2.0,56.0,AUTO,Jackson
+Lee,KE1,5,Keokuk 1,0.7000000000000001,Lee,,2285 Middle Road,Keokuk,Keokuk Senior High School,52632,2.0,56.0,AUTO,KE1
+Lee,KE2A,5,Keokuk 2,0.7000000000000001,Lee,,2285 MiddleRoad,Keokuk,Keokuk Senior High School,52632,2.0,56.0,MANUAL,KE2A
+Lee,KE2B,0,,0.0,Lee,,2285 Middle Road,Keokuk,Keokuk Senior High School,52632,2.0,56.0,AUTO,KE2B
+Lee,KE3,6,Keokuk 3,0.8400000000000001,Lee,,2285 Middle Road,Keokuk,Keokuk Senior High School,52632,2.0,56.0,AUTO,KE3
+Lee,KE4,6,Keokuk 4,0.8400000000000001,Lee,,2285 Middle Road,Keokuk,Keokuk Senior High School,52632,2.0,56.0,AUTO,KE4
+Lee,KE5,8,Keokuk 5,1.12,Lee,,2285 Middle Road,Keokuk,Keokuk Senior High School,52632,2.0,56.0,AUTO,KE5
+Lee,KE6,7,Keokuk 6,0.98,Lee,,2285 Middle Road,Keokuk,Keokuk Senior High School,52632,2.0,56.0,AUTO,KE6
+Lee,KE7,8,Keokuk 7,1.12,Lee,,2285 Middle Road,Keokuk,Keokuk Senior High School,52632,2.0,56.0,AUTO,KE7
+Lee,MO,7,Montrose,0.98,,,2285 Middle Road,Keokuk,Keokuk Senior High School,52632,2.0,56.0,AUTO,Montrose
+Lee,WPPRDN,13,West Point/Pleasant Ridge/Denmark,1.8200000000000005,,,,,,,,,,
+Lee,WS GB,10,Green Bay/Washington,1.4,,,,,,,,,,
+Linn,CR01,5,Cedar Rapids 01,2.1976744186046506,Linn,,,,,,,,,
+Linn,CR02,5,Cedar Rapids 02,2.1976744186046506,Linn,,,,,,,,,
+Linn,CR03,5,Cedar Rapids 03,2.1976744186046506,Linn,,,,,,,,,
+Linn,CR04,5,Cedar Rapids 04,2.1976744186046506,Linn,,,,,,,,,
+Linn,CR05,6,Cedar Rapids 05,2.6372093023255814,Linn,,,,,,,,,
+Linn,CR06,6,Cedar Rapids 06,2.6372093023255814,Linn,,,,,,,,,
+Linn,CR07,4,Cedar Rapids 07,1.7581395348837208,Linn,,,,,,,,,
+Linn,CR08,5,Cedar Rapids 08,2.1976744186046506,Linn,,,,,,,,,
+Linn,CR09,5,Cedar Rapids 09,2.1976744186046506,Linn,,,,,,,,,
+Linn,CR10,7,Cedar Rapids 10,3.076744186046512,Linn,,,,,,,,,
+Linn,CR11,6,Cedar Rapids 11,2.6372093023255814,Linn,,,,,,,,,
+Linn,CR12,8,Cedar Rapids 12,3.5162790697674415,Linn,,,,,,,,,
+Linn,CR13,6,Cedar Rapids 13,2.6372093023255814,Linn,,,,,,,,,
+Linn,CR14,6,Cedar Rapids 14,2.6372093023255814,Linn,,,,,,,,,
+Linn,CR15,5,Cedar Rapids 15,2.1976744186046506,Linn,,,,,,,,,
+Linn,CR16,6,Cedar Rapids 16,2.6372093023255814,Linn,,,,,,,,,
+Linn,CR17,6,Cedar Rapids 17,2.6372093023255814,Linn,,,,,,,,,
+Linn,CR18,4,Cedar Rapids 18,1.7581395348837208,Linn,,,,,,,,,
+Linn,CR19,7,Cedar Rapids 19,3.076744186046512,Linn,,,,,,,,,
+Linn,CR20,7,Cedar Rapids 20,3.076744186046512,Linn,,,,,,,,,
+Linn,CR21,7,Cedar Rapids 21,3.076744186046512,Linn,,,,,,,,,
+Linn,CR22,4,Cedar Rapids 22,1.7581395348837208,Linn,,,,,,,,,
+Linn,CR23,6,Cedar Rapids 23,2.6372093023255814,Linn,,,,,,,,,
+Linn,CR24,8,Cedar Rapids 24,3.5162790697674415,Linn,,,,,,,,,
+Linn,CR25,9,Cedar Rapids 25,3.955813953488372,Linn,,,,,,,,,
+Linn,CR26,9,Cedar Rapids 26,3.955813953488372,Linn,,,,,,,,,
+Linn,CR27,5,Cedar Rapids 27,2.1976744186046506,Linn,,,,,,,,,
+Linn,CR28,7,Cedar Rapids 28,3.076744186046512,Linn,,,,,,,,,
+Linn,CR29,6,Cedar Rapids 29,2.6372093023255814,Linn,,,,,,,,,
+Linn,CR30,7,Cedar Rapids 30,3.076744186046512,Linn,,,,,,,,,
+Linn,CR31,8,Cedar Rapids 31,3.5162790697674415,Linn,,,,,,,,,
+Linn,CR32,6,Cedar Rapids 32,2.6372093023255814,Linn,,,,,,,,,
+Linn,CR33,6,Cedar Rapids 33,2.6372093023255814,Linn,,,,,,,,,
+Linn,CR34,6,Cedar Rapids 34,2.6372093023255814,Linn,,,,,,,,,
+Linn,CR35,6,Cedar Rapids 35,2.6372093023255814,Linn,,,,,,,,,
+Linn,CR36,8,Cedar Rapids 36,3.5162790697674415,Linn,,,,,,,,,
+Linn,CR37,7,Cedar Rapids 37,3.076744186046512,Linn,,,,,,,,,
+Linn,CR38,5,Cedar Rapids 38,2.1976744186046506,Linn,,,,,,,,,
+Linn,CR39,8,Cedar Rapids 39,3.5162790697674415,Linn,,,,,,,,,
+Linn,CR40,5,Cedar Rapids 40,2.1976744186046506,Linn,,,,,,,,,
+Linn,CR41,7,Cedar Rapids 41,3.076744186046512,Linn,,,,,,,,,
+Linn,CR42,5,Cedar Rapids 42,2.1976744186046506,Linn,,,,,,,,,
+Linn,CR43,4,Cedar Rapids 43,1.7581395348837208,Linn,,,,,,,,,
+Linn,CR44,3,Cedar Rapids 44,1.318604651162791,Linn,,,,,,,,,
+Linn,FAI,5,Fairfax City,2.1976744186046506,Linn,,,,,,,,,
+Linn,HIA01,6,Hiawatha 1,2.6372093023255814,Linn,,,,,,,,,
+Linn,HIA02,4,Hiawatha 2,1.7581395348837208,Linn,,,,,,,,,
+Linn,HIA03,2,Hiawatha 3,0.8790697674418605,Linn,,,,,,,,,
+Linn,HIA04,1,Hiawatha4,0.4395348837209303,Linn,,,,,,,,,
+Linn,MR01,5,Marion 01,2.1976744186046506,Linn,,,,,,,,,
+Linn,MR02,3,Marion 02,1.318604651162791,Linn,,,,,,,,,
+Linn,MR03,5,Marion 03,2.1976744186046506,Linn,,,,,,,,,
+Linn,MR04,4,Marion 04,1.7581395348837208,Linn,,,,,,,,,
+Linn,MR05,8,Marion 05,3.5162790697674415,Linn,,,,,,,,,
+Linn,MR06,7,Marion 06,3.076744186046512,Linn,,,,,,,,,
+Linn,MR07,6,Marion 07,2.6372093023255814,Linn,,,,,,,,,
+Linn,MR08,6,Marion 08,2.6372093023255814,Linn,,,,,,,,,
+Linn,MR09,5,Marion 09,2.1976744186046506,Linn,,,,,,,,,
+Linn,MR10,5,Marion 10,2.1976744186046506,Linn,,,,,,,,,
+Linn,MR11,6,Marion 11,2.6372093023255814,Linn,,,,,,,,,
+Linn,MR12,3,Marion 12,1.318604651162791,Linn,,,,,,,,,
+Linn,MR13,6,Marion 13,2.6372093023255814,Linn,,,,,,,,,
+Linn,MR14,4,Marion 14,1.7581395348837208,Linn,,,,,,,,,
+Linn,MVN,4,Mount Vernon north,1.7581395348837208,Linn,,213 1stStreet,W Mt. Vernon,MTV Council Chambers,52314,2.0,57.0,MANUAL,Mt Vernon North
+Linn,MVS,7,Mount Vernon South,3.076744186046512,Linn,,213 1stStreet,W Mt. Vernon,MTV Council Chambers,52314,2.0,57.0,MANUAL,Mt Vernon South
+Linn,ROB,6,Robins,2.6372093023255814,Linn,,,,,,,,,
+Linn,TBER,7,Bertram,3.076744186046512,Linn,,,,,,,,,
+Linn,TBOU,1,Boulder,0.4395348837209303,Linn,,,,,,,,,
+Linn,TBRO,3,Brown,1.318604651162791,Linn,,,,,,,,,
+Linn,TBUF,1,Buffalo,0.4395348837209303,Linn,,,,,,,,,
+Linn,TCLI,2,Clinton,0.8790697674418605,Linn,,,,,,,,,
+Linn,TCOL,1,College,0.4395348837209303,Linn,,,,,,,,,
+Linn,TFAI,3,Fairfax Township,1.318604651162791,Linn,,,,,,,,,
+Linn,TFAY,2,Fayette,0.8790697674418605,Linn,,,,,,,,,
+Linn,TFRA,6,Franklin,2.6372093023255814,Linn,,,,,,,,,
+Linn,TGRA,2,Grant,0.8790697674418605,Linn,,,,,,,,,
+Linn,TJAC,2,Jackson,0.8790697674418605,Linn,,,,,,,,,
+Linn,TLIN,1,Linn,0.4395348837209303,Linn,,,,,,,,,
+Linn,TMAI,3,Maine,1.318604651162791,Linn,,,,,,,,,
+Linn,TMAR,2,Marion township,0.8790697674418605,Linn,,,,,,,,,
+Linn,TMON1,3,Monroe 1,1.318604651162791,Linn,,,,,,,,,
+Linn,TMON2,3,Monroe 2,1.318604651162791,Linn,,,,,,,,,
+Linn,TOTT,2,Otter Creek,0.8790697674418605,Linn,,,,,,,,,
+Linn,TPUT,5,Putnam,2.1976744186046506,Linn,,,,,,,,,
+Linn,TSPR,1,Spring Grove,0.4395348837209303,Linn,,,,,,,,,
+Linn,TWAS,6,Washington,2.6372093023255814,Linn,,,,,,,,,
+Louisa,CJ,9,Columbus Junction,0.9,Louisa,,99 2ndSt.,Columbus Junction,American Legion,52738,2.0,58.0,MANUAL,Columbus Jct City
+Louisa,GV,9,Grandview-Port Louisa,0.9,Louisa,,14354 170th St.,Letts,Louisa and Muscatine High School,52754,2.0,58.0,AUTO,Grandview North Port
+Louisa,MS,6,Morning Sun - Marshall,0.6000000000000001,Louisa,,Division,Morning Sun,American Legion Hall,52640,2.0,58.0,AUTO,Morningsun Marshall
+Louisa,SEL,15,Southeast Louisa,1.5,Louisa,,,,,,,,,
+Louisa,WL,11,West Louisa,1.1,Louisa,,Market & Columbus Streets,Columbus City,Columbus City Masonic Lodge,52737,2.0,58.0,AUTO,West Louisa Lodge
+Lucas,C1,14,Chariton Precinct 1,1.018181818181818,Lucas,,Oseceola Ave.,Chariton,Hy-Vee Administrative Building,50049,3.0,59.0,AUTO,Chariton Ward #1
+Lucas,C2,13,Chariton Precinct 2,0.9454545454545454,Lucas,,1801 Osceola Ave,Chariton,Hy-Vee Administrative Building,50049,3.0,59.0,AUTO,Chariton Ward #2
+Lucas,EX,4,Lucas-Extension Office Precinct,0.2909090909090909,Lucas,,1801 Osceola Ave,Chariton,Hy-Vee Administrative Building,50049,3.0,59.0,AUTO,Extension Precinct
+Lucas,LC,6,Lucas,0.4363636363636363,Lucas,,1801 Osceola Ave,Chariton,Hy-Vee Administrative Building,50049,3.0,59.0,AUTO,Lucas Precinct
+Lucas,POM,5,Pine Oak Marsh,0.3636363636363637,Lucas,,,,,,,,,
+Lucas,RS,6,City of Russell- Cedar and Washington Townships,0.4363636363636363,Lucas,,1801 Osceola Ave,Chariton,Hy-Vee Administrative Building,50049,3.0,59.0,AUTO,Russell Precinct
+Lucas,WM,7,Williamson,0.509090909090909,Lucas,,1801 Osceola Ave,Chariton,Hy-Vee Administrative Building,50049,3.0,59.0,AUTO,Williamson Precinct
+Lyon,P1,5,PCT 1 GEORGE,0.5,Lyon,,117 South Main Street,George,George Community Center-South Side,51232,5.0,60.0,AUTO,Pct 1 George
+Lyon,P2,2,PCT 2 DOON,0.2,Lyon,,207 Barton Avenue,Doon,Doon Community Center-South Door,51235,5.0,60.0,AUTO,Pct 2 Doon
+Lyon,P3,3,PCT 3 INWOOD,0.30000000000000004,Lyon,,103 South Main Street,Inwood,Inwood Community Center,51240,5.0,60.0,AUTO,Pct 3 Inwood
+Lyon,P4,7,PCT 4 LARCHWOOD,0.7000000000000001,Lyon,,909 Broadway,Larchwood,Larchwood Community Center,51241,5.0,60.0,AUTO,Pct 4 Larchwood
+Lyon,P5,2,PCT 5 LESTER,0.2,Lyon,,2124 IA Hwy 9,Larchwood,Aunt Rebas Bed & Breakfast,51241,5.0,60.0,AUTO,Pct 5 Lester
+Lyon,P6,1,PCT 6 LITTLE ROCK,0.1,Lyon,,140 1st Avenue,Little Rock,Little Rock Community School Library,51243,5.0,60.0,AUTO,Pct 6 Little Rock
+Lyon,P7,4,PCT 7 ROCK RAPIDS,0.4,Lyon,,404-1st Avenue,Rock Rapids,Forster Community Center-East Entrance,51246,5.0,60.0,AUTO,Pct 7 Rock Rapids
+Lyon,P8,6,PCT 8 ROCK RAPIDS,0.6000000000000001,Lyon,,404-1st Avenue,Rock Rapids,Forster Community Center-East Entrance,51246,5.0,60.0,AUTO,Pct 8 Rock Rapids
+Madison,GMW,3,Grand River-Monroe-Webster,0.36,Madison,,,,,,,,,
+Madison,JDL,6,Jackson-Douglas-Lincoln,0.72,Madison,,,,,,,,,
+Madison,JL,7,Jefferson-Lee,0.84,Madison,,624 W Husky Dr,Winterset,Winterset High School,50273,4.0,61.0,AUTO,Precinct Jl (Jefferson Lee)
+Madison,PM,10,Penn-Madison,1.2,Madison,,624 W Husky Dr,Winterset,Winterset High School,50273,4.0,61.0,AUTO,Precinct Pm (Penn Madison)
+Madison,S,7,South,0.84,Madison,,,,,,,,,
+Madison,UCS,11,Union-Crawford-Scott,1.3199999999999998,Madison,,,,,,,,,
+Madison,WO,5,Walnut-Ohio,0.6,Madison,,624 W Husky Dr,Winterset,Winterset High School,50273,4.0,61.0,AUTO,Precinct Wo  (Walnut-Ohio)
+Madison,WT1,13,Winterset 1,1.56,Madison,,624 W Husky Dr,Winterset,Winterset High School,50273,4.0,61.0,AUTO,Precinct Wt1 (Winterset I North)
+Madison,WT2,13,Winterset 2,1.56,Madison,,624 W Husky Dr,Winterset,Winterset High School,50273,4.0,61.0,AUTO,Precinct Wt2 (Winterset II South)
+Mahaska,AD,2,ADAMS - MONROE - PLEASANT GROVE - UNION,0.32,Mahaska,,1405 Parkin Ave.,Union Mills,Union Mills Church,50207,3.0,62.0,AUTO,Adams -  Monroe - Pleasant Grove - Union
+Mahaska,BO,2,BLACK OAK SCOTT,0.32,Mahaska,,411 Otley St.,Leighton,Leighton Christian ReformedChurch,50143,3.0,62.0,MANUAL,Black Oak Scott
+Mahaska,CE,4,CEDAR - HARRISON - WHITE OAK,0.64,Mahaska,,107 East Main Street,Fremont,Fremont Community Center,52561,3.0,62.0,AUTO,Cedar - White Oak
+Mahaska,ED,2,E&amp;W DES MOINES - JEFFERSON,0.32,Mahaska,,101 Lakonta Oak St.,Edyville,Traux County Shop,52553,3.0,62.0,AUTO,E & W Des Moines-Harrison-Jefferson
+Mahaska,GF,3,GARFIELD-LINCOLN-MADISON,0.48,Mahaska,,2074 Old Hwy. 163,Oskaloosa,Mahaska County Shop,52577,3.0,62.0,AUTO,Garfield-Lincoln-Madison
+Mahaska,OS1,6,OSKALOOSA WARD 1,0.96,Mahaska,,212 North I Street,Oskaloosa,Mahaska County Extension Building,52577,3.0,62.0,AUTO,Oskaloosa Ward 1
+Mahaska,OS2,7,OSKALOOSA WARD 2,1.12,Mahaska,,A Ave. West & North I Street,Oskaloosa,Fellowship Bible Church Activity Building,52577,3.0,62.0,AUTO,Oskaloosa Ward 2
+Mahaska,OS3,9,OSKALOOSA WARD 3 - UNIVERSITY PARK,1.44,Mahaska,,South 7th St.,Oskaloosa,Webster School 3rd grade classroom,52577,3.0,62.0,AUTO,Oskaloosa Ward 3
+Mahaska,OS4,8,OSKALOOSA WARD 4,1.28,Mahaska,,1704 North 3rd Street,Oskaloosa,Oskaloosa Middle SchoolCommons,52577,3.0,62.0,MANUAL,Oskaloosa Ward 4
+Mahaska,PR,4,PRAIRIE - RICHLAND,0.64,Mahaska,,201 East Market,New Sharon,New Sharon Fire Station,50207,3.0,62.0,AUTO,Prairie - Richland
+Mahaska,SP,3,SPRING CREEK,0.48,Mahaska,,1315 A Ave. East,Oskaloosa,Americas Best ValueInn,52577,3.0,62.0,MANUAL,Spring Creek - University Park
+Marion,CL,2,Clay,0.36,Marion,,1005 N.Lincoln,Knoxville,Celebrate Church,50138,3.0,63.0,MANUAL,Clay Township
+Marion,DA,6,Dallas,1.08,Marion,,1005 N.Lincoln,Knoxville,Celebrate Church,50138,3.0,63.0,MANUAL,Dallas
+Marion,IN,2,Indiana Township,0.36,Marion,,1005 N.Lincoln,Knoxville,Celebrate Church,50138,3.0,63.0,MANUAL,Indiana
+Marion,KX1,6,Knoxville 1,1.08,Marion,,1005 N.Lincoln,Knoxville,Celebrate Church,50138,3.0,63.0,MANUAL,Knoxville City Ward 1
+Marion,KX2,6,Knoxville 2,1.08,Marion,,1005 N.Lincoln,Knoxville,Celebrate Church,50138,3.0,63.0,MANUAL,Knoxville City Ward 2
+Marion,KX3,9,Knoxville 3,1.62,Marion,,1005 N.Lincoln,Knoxville,Celebrate Church,50138,3.0,63.0,MANUAL,Knoxville City Ward 3
+Marion,KX4,5,Knoxville 4,0.8999999999999999,Marion,,1005 N.Lincoln,Knoxville,Celebrate Church,50138,3.0,63.0,MANUAL,Knoxville City Ward 4
+Marion,KXT,9,Knoxville Township,1.62,Marion,,1005 N.Lincoln,Knoxville,Celebrate Church,50138,3.0,63.0,MANUAL,Knoxville Twp
+Marion,LB,2,Liberty,0.36,Marion,,1005 N.Lincoln,Knoxville,Celebrate Church,50138,3.0,63.0,MANUAL,Liberty
+Marion,LP,5,Lake Prairie Township,0.8999999999999999,Marion,,712 UnionStreet,Pella,Pella Community Center,50219,3.0,63.0,MANUAL,Lake Prairie
+Marion,OTLEY,6,Otley,1.08,Marion,,712 Union Street,Pella,Pella Community Center,50219,3.0,63.0,AUTO,Otley
+Marion,PE1,7,Pella 1,1.26,Marion,,712 Union Street,Pella,Pella Community Center,50219,3.0,63.0,AUTO,Pella City Ward 1
+Marion,PE2,7,Pella 2,1.26,Marion,,712 Union Street,Pella,Pella Community Center,50219,3.0,63.0,AUTO,Pella City Ward 2
+Marion,PE3,8,Pella 3,1.44,Marion,,712 Union Street,Pella,Pella Community Center,50219,3.0,63.0,AUTO,Pella City Ward 3
+Marion,PE4,6,Pella 4,1.08,Marion,,712 Union Street,Pella,Pella Community Center,50219,3.0,63.0,AUTO,Pella City Ward 4
+Marion,PVLLE,12,Pleasantville,2.16,Marion,,1005 N.Lincoln,Knoxville,Celebrate Church,50138,3.0,63.0,MANUAL,Pleasantville
+Marion,WS,2,Washington Township,0.36,Marion,,1005 N.Lincoln,Knoxville,Celebrate Church,50138,3.0,63.0,MANUAL,Washington
+Marshall,1 BA-LS,3,BANGOR/LISCOMB,0.48,Marshall,,,,,,,,,
+Marshall,10 1-2,9,MARSHALLTOWN 1-2,1.44,Marshall,,,,,,,,,
+Marshall,11 2-1,12,MARSHALLTOWN 2-1,1.92,Marshall,,,,,,,,,
+Marshall,12 2-2,15,MARSHALLTOWN 2-2,2.4,Marshall,,,,,,,,,
+Marshall,13 3-1,14,MARSHALLTOWN 3-1,2.24,Marshall,,,,,,,,,
+Marshall,14 3-2,18,MARSHALLTOWN 3-2,2.88,Marshall,,,,,,,,,
+Marshall,15 4-1,13,MARSHALLTOWN 4-1,2.08,Marshall,,,,,,,,,
+Marshall,16 4-2,14,MARSHALLTOWN 4-2,2.24,Marshall,,,,,,,,,
+Marshall,17 SC,7,STATE CENTER,1.12,Marshall,,,,,,,,,
+Marshall,18 TA,5,TAYLOR,0.8,Marshall,,,,,,,,,
+Marshall,19 TC,4,TIMBER CREEK,0.64,Marshall,,,,,,,,,
+Marshall,2 ED-LO,7,EDEN / LOGAN,1.12,Marshall,,,,,,,,,
+Marshall,3 GC,3,GREEN CASTLE,0.48,Marshall,,,,,,,,,
+Marshall,4 JF,3,JEFFERSON,0.48,Marshall,,,,,,,,,
+Marshall,5 LG,6,LEGRAND,0.96,Marshall,,,,,,,,,
+Marshall,6 LB-MI,2,LIBERTY / MINERVA,0.32,Marshall,,,,,,,,,
+Marshall,7 MA-WA,2,MARIETTA / WASHINGTON,0.32,Marshall,,,,,,,,,
+Marshall,8 MR-VI,4,MARION / VIENNA,0.64,Marshall,,,,,,,,,
+Marshall,9 1-1,9,MARSHALLTOWN 1-1,1.44,Marshall,,,,,,,,,
+Mills,DR,1,Deer Creek/White Cloud,0.15555555555555556,Mills,,64632 360th St,Hastings,Strahan Methodist Church,51540,5.0,65.0,AUTO,Precinct Dr
+Mills,EM,2,Emerson/Hastings/Indian Creek,0.3111111111111111,Mills,,306 Manchester,Emerson,American Legion Hall,51533,5.0,65.0,AUTO,Precinct Em
+Mills,GW1,5,Glenwood Ward 1,0.7777777777777778,Mills,,410 S Locust,Glenwood,Hughes Realty,51534,5.0,65.0,AUTO,Precinct Gw1
+Mills,GW2,5,Glenwood Ward 2,0.7777777777777778,Mills,,410 S Locust,Glenwood,Hughes Realty,51534,5.0,65.0,AUTO,Precinct Gw2
+Mills,GW3,7,Glenwood Ward 3,1.088888888888889,Mills,,410 S Locust,Glenwood,Hughes Realty,51534,5.0,65.0,AUTO,Precinct Gw3
+Mills,GWR,4,Glenwood Township,0.6222222222222222,Mills,,410 S Locust,Glenwood,Hughes Realty,51534,5.0,65.0,AUTO,Precinct Gwr
+Mills,HN,1,Henderson/Anderson,0.15555555555555556,Mills,,310 Maple St.,Henderson,Henderson Library,51544,5.0,65.0,AUTO,Precinct Hn
+Mills,MV,8,Malvern/Tabor/Center Twp/Rawles Twp/Silver Creek,1.2444444444444445,Mills,,315 Main,Malvern,Latte Da,51551,5.0,65.0,AUTO,Precinct Mv
+Mills,OK,8,Oak/St. Mary,1.2444444444444445,Mills,,53086 260th,Glenwood,Rick Foster,51534,5.0,65.0,AUTO,Precinct Ok
+Mills,PJ,3,Pacific Junction/Lyons/Platville,0.4666666666666667,Mills,,410 S Locust,Glenwood,Hughes Realty,51534,5.0,65.0,AUTO,Precinct Pj
+Mills,SV,1,Silver City/Ingraham,0.15555555555555556,Mills,,611 Main,Silver City,McNutt Home,51571,5.0,65.0,AUTO,Precinct Sv
+Mitchell,10,5,Mitchell 10,0.375,Mitchell,,,,,,,,,
+Mitchell,11,3,Mitchell 11,0.225,Mitchell,,,,,,,,,
+Mitchell,12,2,Mitchell 12,0.15,Mitchell,,,,,,,,,
+Mitchell,5,4,Mitchell 5,0.3,Mitchell,,,,,,,,,
+Mitchell,6,8,Mitchell 6,0.6,Mitchell,,,,,,,,,
+Mitchell,7,9,Mitchell 7,0.6749999999999999,Mitchell,,,,,,,,,
+Mitchell,8,7,Mitchell 8,0.525,Mitchell,,,,,,,,,
+Mitchell,9,12,Mitchell 9,0.8999999999999999,Mitchell,,,,,,,,,
+Mitchell,OS1,8,OSAGE 01 (Mitchell 5),0.6,Mitchell,,820 Sawyer Dr,Osage,Osage High School,50461,4.0,66.0,AUTO,Osage Pct 1
+Mitchell,OS2,6,OSAGE 02 (Mitchell 6),0.45,Mitchell,,820 Sawyer Dr,Osage,Osage High School,50461,4.0,66.0,AUTO,Osage Pct 2
+Mitchell,OS3,7,OSAGE 03 (Mitchell 7),0.525,Mitchell,,820 Sawyer Dr,Osage,Osage High School,50461,4.0,66.0,AUTO,Osage Pct 3
+Mitchell,OS4,9,OSAGE 04 (Mitchell 8),0.6749999999999999,Mitchell,,820 Sawyer Dr,Osage,Osage High School,50461,4.0,66.0,AUTO,Osage Pct 4
+Monona,AS001,8,ASHTON BELVIDERE KENNEBEC LINCOLN FRANKLIN TURIN,0.4,Monona,,,,,,,,,
+Monona,CN002,4,CASTANA CENTER JORDAN,0.2,Monona,,,,,,,,,
+Monona,CP003,15,COOPER MAPLE MAPLETON,0.75,Monona,,,,,,,,,
+Monona,FV004,11,FAIRVIEW GRANT LAKE RODNEY WEST FORK WHITING,0.55,Monona,,,,,,,,,
+Monona,MH005,7,MOORHEAD SOLDIER SOLDIER CITY SPRING VALLEY WILLOW,0.35000000000000003,Monona,,,,,,,,,
+Monona,ON106,6,ONAWA Ward 1,0.30000000000000004,Monona,,,,,,,,,
+Monona,ON207,7,ONAWA Ward 2- NE Franklin,0.35000000000000003,Monona,,,,,,,,,
+Monona,ON308,7,ONAWA Ward 3,0.35000000000000003,Monona,,,,,,,,,
+Monona,ON409,5,ONAWA Ward 4,0.25,Monona,,,,,,,,,
+Monona,SH010,6,SHERMAN SE FRANKLIN BLENCOE SIOUX,0.30000000000000004,Monona,,,,,,,,,
+Monona,STC11,4,ST CLAIR UTE,0.2,Monona,,,,,,,,,
+Monroe,AL1,10,No. 1-Albia First Ward,0.4615384615384616,Monroe,,222 N 2nD St,Albia,Lincoln Center,52531,3.0,68.0,AUTO,Precinct Al1
+Monroe,AL2,6,No. 2-Albia Second Ward,0.2769230769230769,Monroe,,222 N 2nD St,Albia,Lincoln Center,52531,3.0,68.0,AUTO,Precinct Al2
+Monroe,AL3,8,No. 3-Albia Third Ward,0.3692307692307693,Monroe,,222 N 2nD St,Albia,Lincoln Center,52531,3.0,68.0,AUTO,Precinct Al3
+Monroe,AL4,9,No. 4-Albia Fourth Ward,0.4153846153846154,Monroe,,222 N 2nD St,Albia,Lincoln Center,52531,3.0,68.0,AUTO,Precinct Al4
+Monroe,CTHSE,17,CTHSE - Monroe Precinct 5,0.7846153846153847,Monroe,,222 N 2nD St,Albia,Lincoln Center,52531,3.0,68.0,AUTO,Precinct Courthouse(TR/MT/UR/MN/PL)
+Monroe,LOVILIA,9,LOVILIA - Monroe Precinct 6,0.4153846153846154,Monroe,,222 N 2nD St,Albia,Lincoln Center,52531,3.0,68.0,AUTO,Precinct Lovilia(CE/UN/BC/GL/LV)
+Monroe,MELROSE,6,MELROSE - Monroe Precinct 7,0.2769230769230769,Monroe,,222 N 2nD St,Albia,Lincoln Center,52531,3.0,68.0,AUTO,Precinct Melrose(JK/WY/FR/ML)
+Montgomery,1,10,WARD1 PILOT GROVE FRANKFORT RO TWP,0.8,Montgomery,,1809 N 4th,Red Oak,Red Oak: Gold Fair Building,51566,5.0,69.0,AUTO,Ward1 Grant Ro Twp Coburg
+Montgomery,2,10,WARD2 SHERMAN RO TWP,0.8,Montgomery,,1809 N 4th,Red Oak,Red Oak: Gold Fair Building,51566,5.0,69.0,AUTO,Ward2 Ro West Grant Twp
+Montgomery,3,12,WARD3 SHERMAN PILOT GROVE FRANKFORT RO TWP,0.96,Montgomery,,1809 N 4th,Red Oak,Red Oak: Gold Fair Building,51566,5.0,69.0,AUTO,Ward 3 Ro Twp Wst Twp Grant
+Montgomery,4,3,4 GRFLD LNCLN SHER PILOT GROVE TWP ELLIOTT,0.24,Montgomery,,1809 N 4th,Red Oak,Red Oak: Gold Fair Building,51566,5.0,69.0,AUTO,Wst Grfld Lncln Sher Elliott
+Montgomery,5,3,5 PILOT GROVE FRANKFORT DOUGLAS WASH TWP GRANT,0.24,Montgomery,,310 Eastern Avenue,Stanton,Stanton: Community Room (Fire Station),51573,5.0,69.0,AUTO,Pilot Grove Frankfort Stanton
+Montgomery,6,5,6 WEST GRANT SCOTT TWP COBURG STANTON,0.4,Montgomery,,207 S 3rd Ave,Villisca,Villisca: Community Room,50864,5.0,69.0,AUTO,Douglas Washington Twps  Grant
+Montgomery,7,7,7 SCOTT EAST TWP VILLISCA,0.56,Montgomery,,207 S 3rd Ave,Villisca,Villisca: Community Room,50864,5.0,69.0,AUTO,Scott East Twp Villisca
+Muscatine,76CE,3,Seventy-Six/Cedar-Seventy,0.5,Muscatine,,,,,,,,,
+Muscatine,BL,9,Bloomington,1.5,Muscatine,,,,,,,,,
+Muscatine,F1,4,Fruitland One-City,0.6666666666666666,Muscatine,,2705 CedarStreet,Muscatine,MHS,52761,2.0,70.0,MANUAL,Fruitland 1
+Muscatine,F2LA,3,Fruitland Two/Lake-Fruitl,0.5,Muscatine,,,,,,,,,
+Muscatine,FUMO,5,Fulton/Montpelier-City,0.8333333333333333,Muscatine,,,,,,,,,
+Muscatine,GO,2,Goshen-City,0.3333333333333333,Muscatine,,2705 Cedar Street,Muscatine,MHS,52761,2.0,70.0,AUTO,Goshen
+Muscatine,MU01,11,Muscatine 01st,1.8333333333333333,Muscatine,,2705 Cedar Street,Muscatine,MHS,52761,2.0,70.0,AUTO,Muscatine 1
+Muscatine,MU02,8,Muscatine 02nd,1.3333333333333333,Muscatine,,2705 Cedar Street,Muscatine,MHS,52761,2.0,70.0,AUTO,Muscatine 2
+Muscatine,MU03,8,Muscatine 03rd,1.3333333333333333,Muscatine,,2705 Cedar Street,Muscatine,MHS,52761,2.0,70.0,AUTO,Muscatine 3
+Muscatine,MU04,7,Muscatine 04th,1.1666666666666663,Muscatine,,2705 Cedar Street,Muscatine,MHS,52761,2.0,70.0,AUTO,Muscatine 4
+Muscatine,MU05,7,Muscatine 05th,1.1666666666666663,Muscatine,,2705 Cedar Street,Muscatine,MHS,52761,2.0,70.0,AUTO,Muscatine 5
+Muscatine,MU06,11,Muscatine 06th,1.8333333333333333,Muscatine,,2705 Cedar Street,Muscatine,MHS,52761,2.0,70.0,AUTO,Muscatine 6
+Muscatine,MU07,7,Muscatine 07th,1.1666666666666663,Muscatine,,2705 Cedar Street,Muscatine,MHS,52761,2.0,70.0,AUTO,Muscatine 7
+Muscatine,MU08,6,Muscatine 08th,1.0,Muscatine,,2705 Cedar Street,Muscatine,MHS,52761,2.0,70.0,AUTO,Muscatine 8
+Muscatine,MU09,9,Muscatine 09th,1.5,Muscatine,,2705 CedarStreet,Muscatine,MHS,52761,2.0,70.0,MANUAL,Muscatine 9
+Muscatine,MU10,9,Muscatine 10th,1.5,Muscatine,,2705 Cedar Street,Muscatine,MHS,52761,2.0,70.0,AUTO,Muscatine 10
+Muscatine,OR,1,Orono-City,0.16666666666666666,Muscatine,,2705 CedarStreet,Muscatine,MHS,52761,2.0,70.0,MANUAL,Orono
+Muscatine,PI,2,Pike-City,0.3333333333333333,Muscatine,,2705 Cedar Street,Muscatine,MHS,52761,2.0,70.0,AUTO,Pike
+Muscatine,SW,6,Sweetland,1.0,Muscatine,,2705 CedarStreet,Muscatine,MHS,52761,2.0,70.0,MANUAL,Sweetland
+Muscatine,WC,10,Wilton City,1.6666666666666663,Muscatine,,2705 Cedar Street,Muscatine,MHS,52761,2.0,70.0,AUTO,Wilton City
+Muscatine,WL2,7,West Liberty 2,1.1666666666666663,Muscatine,,,,,,,,,
+Muscatine,WLWA,12,West Liberty/Wapsie-WL1 C,2.0,Muscatine,,,,,,,,,
+Muscatine,WTMW,3,Wilton/Moscow-Wilton,0.5,Muscatine,,2705 Cedar Street,Muscatine,MHS,52761,2.0,70.0,AUTO,Wilton Twp/Moscow
+O'Brien,P1,2,,0.14545454545454545,O'Brien,Carroll-Floyd,,,,,,,,
+O'Brien,P2,4,,0.2909090909090909,O'Brien,Franklin,,,,,,,,
+O'Brien,P3,11,,0.7999999999999999,O'Brien,Hartley-Lincoln-Omega,,,,,,,,
+O'Brien,P4,7,,0.509090909090909,O'Brien,Sheldon 1st Ward,,,,,,,,
+O'Brien,P5,5,,0.3636363636363637,O'Brien,Sheldon 2nd Ward,,,,,,,,
+O'Brien,P6,5,,0.3636363636363637,O'Brien,Sheldon 3rd Ward,,,,,,,,
+O'Brien,P7,8,,0.5818181818181818,O'Brien,Summit-Center-Dale-Highland,,,,,,,,
+O'Brien,P8,7,,0.509090909090909,O'Brien,Union-Baker-Caledonia,,,,,,,,
+O'Brien,P9,6,,0.4363636363636363,O'Brien,Waterman-Grant-Liberty,,,,,,,,
+Osceola,AT,3,Ashton Precinct 0100,0.30000000000000004,Osceola,,300 7th Street,Sibley,Osceola County Courthouse,51249,5.0,72.0,AUTO,Ashton
+Osceola,HA,1,Harris Precinct 0200,0.1,Osceola,,300 7th Street,Sibley,Osceola County Courthouse,51249,5.0,72.0,AUTO,Harris
+Osceola,MC,2,May City Precint 0300,0.2,Osceola,,300 7th Street,Sibley,Osceola County Courthouse,51249,5.0,72.0,AUTO,May City
+Osceola,MV,2,Melvin Precinct 0400,0.2,Osceola,,300 7th Street,Sibley,Osceola County Courthouse,51249,5.0,72.0,AUTO,Melvin
+Osceola,OS1,4,Osceola 1 Precinct 0600,0.4,Osceola,,,,,,,,,
+Osceola,OS2,7,Osceola 2 Precinct 0700,0.7000000000000001,Osceola,,,,,,,,,
+Osceola,OS3,8,Osceola 3 Precinct 0800,0.8,Osceola,,,,,,,,,
+Osceola,OX,3,Ocheyedan Precinct 0500,0.30000000000000004,Osceola,,300 7th Street,Sibley,Osceola County Courthouse,51249,5.0,72.0,AUTO,Ocheyedan
+Page,CL1,9,Clarinda Ward 1,0.72,Page,,100 N Cardinal Dr.,Clarinda,Clarinda High School,51632,5.0,73.0,AUTO,Clarinda 1
+Page,CL2,17,Clarinda Ward 2,1.36,Page,,100 N Cardinal Dr.,Clarinda,Clarinda High School,51632,5.0,73.0,AUTO,Clarinda 2
+Page,ER,10,Am-Bu-ER-Doug-Har-Neb-Nod-Val-Brad-CS-He-Sh-Yt,0.8,Page,,100 N Cardinal Dr.,Clarinda,Clarinda High School,51632,5.0,73.0,AUTO,DG-ER-NK-NW-VY-HB-YT
+Page,GT,7,Cx-Gr-Linc-Mort-Tarkio-Wash-Blan-Coin-Nboro,0.56,Page,,1000 Mustang Drive,Shenadoah,Shenandoah High School,51601,5.0,73.0,AUTO,GT-MT-TK
+Page,PC,5,"Pierce and Fremont Townships, Essex",0.4,Page,,412 Iowa Avenue,Essex,Essex Town Hall,51638,5.0,73.0,AUTO,PC-FM-EX
+Page,SD1,6,Shenandoah 1,0.48,Page,,1000 Mustang Drive,Shenadoah,Shenandoah High School,51601,5.0,73.0,AUTO,Shenandoah 1
+Page,SD2,10,Shenandoah 2,0.8,Page,,1000 Mustang Drive,Shenadoah,Shenandoah High School,51601,5.0,73.0,AUTO,Shenandoah 2
+Page,SD3,11,Shenandoah 3,0.88,Page,,1000 Mustang Drive,Shenadoah,Shenandoah High School,51601,5.0,73.0,AUTO,Shenandoah 3
+Palo Alto,EM1,8,Emmetsburg Ward 1,0.6666666666666666,Palo Alto,,3200 College Drive,Emmetsburg,Iowa Lakes Community College Auditorium,50536,4.0,74.0,AUTO,Emmetsburg Ward 1 Freedom NW
+Palo Alto,EM2,8,Emmetsburg Ward 2,0.6666666666666666,Palo Alto,,3200 College Drive,Emmetsburg,Iowa Lakes Community College Auditorium,50536,4.0,74.0,AUTO,Emmetsburg Ward 2
+Palo Alto,EM3,13,EM Ward 3/Ayrshire/pt. HL&amp;WL&amp;EM,1.0833333333333333,Palo Alto,,3200 College Drive,Emmetsburg,Iowa Lakes Community College Auditorium,50536,4.0,74.0,AUTO,Emmetsburg Ward 3 Emmetsburg SE
+Palo Alto,EM4,12,EM Ward 4/FV/FR/VN/pt. EM,1.0,Palo Alto,,3200 College Drive,Emmetsburg,Iowa Lakes Community College Auditorium,50536,4.0,74.0,AUTO,Emmetsburg Ward 4
+Palo Alto,GR RV,11,GR/RV/LI/pt. HL&amp;WL,0.9166666666666666,Palo Alto,,,,,,,,,
+Palo Alto,WB,8,City of WB/EL/RL/BO/GO/NV,0.6666666666666666,Palo Alto,,3200 College Drive,Emmetsburg,Iowa Lakes Community College Auditorium,50536,4.0,74.0,AUTO,Fairfield SE Fern Valley West Bend
+Plymouth,AK,3,Plymouth 01/Ak,0.675,Plymouth,,350 Reed St.,Akron,Akron Public Library,51001,5.0,75.0,AUTO,Akron
+Plymouth,BV,2,Plymouth 04/Bv,0.45,Plymouth,,305 Oak St.,Brunsville,Brunsville Legion Hall,51008,5.0,75.0,AUTO,Brunsville
+Plymouth,HT,4,Plymouth 09/Ht,0.9,Plymouth,,205 W Main,Hinton,Hinton Community Center,51024,5.0,75.0,AUTO,Hinton
+Plymouth,KL,3,Plymouth 10/Kl,0.675,Plymouth,,1 East 2nd st.,Kingsley,Kingsley State Bank,51028,5.0,75.0,AUTO,Kingsley
+Plymouth,LM11,6,Plymouth 11/Le Mars 1,1.35,Plymouth,,1601 S. Main Avenue,LeMars,Prime Bank-LeMars (Basement),51250,5.0,75.0,AUTO,Le Mars Pct 11
+Plymouth,LM12,6,Plymouth 12/Le Mars 2,1.35,Plymouth,,1601 S. Main Avenue,LeMars,Prime Bank-LeMars (Basement),51250,5.0,75.0,AUTO,Le Mars Pct 12
+Plymouth,LM13,4,Plymouth 13/Le Mars 3,0.9,Plymouth,,1601 S. Main Avenue,LeMars,Prime Bank-LeMars (Basement),51250,5.0,75.0,AUTO,Le Mars Pct 13
+Plymouth,MR,3,Plymouth 07/Mr,0.675,Plymouth,,321 4th St.,Merrill,Merrill Civic Center,51038,5.0,75.0,AUTO,Merrill
+Plymouth,MRHG,1,Plymouth 02/Mrhg,0.225,Plymouth,,,,,,,,,
+Plymouth,PY,3,Plymouth 08/Py,0.675,Plymouth,,17073 C60,Sioux City,Ed and Sandy FravelResidence,51109,5.0,75.0,MANUAL,Perry Hancock Twp
+Plymouth,RM,3,Plymouth 05/Rm,0.675,Plymouth,,511 Roosevelt St.,Remsen,Remsen-Union High School Auditorium,51050,5.0,75.0,AUTO,Remsen
+Plymouth,SB,1,Plymouth 03/Sb,0.225,Plymouth,,1601 S. Main Avenue,LeMars,Prime Bank-LeMars (Basement),51250,5.0,75.0,AUTO,Struble
+Plymouth,WF,1,Plymouth 06/Wf,0.225,Plymouth,,350 Reed St.,Akron,Akron Public Library,51001,5.0,75.0,AUTO,Westfield
+Pocahontas,BV,3,Bellville-Lizard-S Lake-S Lincoln,0.18,Pocahontas,,"520 Hansen, Ave",Palmer,Palmer PublicLibrary,50571,4.0,76.0,MANUAL,Bellville Lizard S Lincoln
+Pocahontas,CD,8,Cedar-Colfax-Dover,0.48,Pocahontas,,104 W. 2nd Street,Fonda,Fonda Community Center,50540,4.0,76.0,AUTO,Cedar Colfax
+Pocahontas,DM,9,DSM-Cummins-Pow-N Garf-N Sherm-N Roose,0.54,Pocahontas,,320 Garfield,Rolfe,Rolfe Community Center,50581,4.0,76.0,AUTO,Clinton Des Moines N Garfield
+Pocahontas,GT,2,Grant-S Marshall-S Sherman,0.12,Pocahontas,,500 NE 6th Street,Pocahontas,AEA Building,50574,4.0,76.0,AUTO,Grant S Sherman
+Pocahontas,PH1,14,Pocahontas #1,0.84,Pocahontas,,500 NE 6th Street,Pocahontas,AEA Building,50574,4.0,76.0,AUTO,Pocahontas Pct 1
+Pocahontas,PH2,5,Pocahontas #2,0.3,Pocahontas,,500NE 6th Street,Pocahontas,AEA Building,50574,4.0,76.0,MANUAL,Center-S Roosevelt-N Lincoln
+Pocahontas,SW,9,Swan Lake-N Marshall,0.54,Pocahontas,,272 N. 3rd,Laurens,Laurens City Hall Basement,50554,4.0,76.0,AUTO,Swan Lake N Marshall
+Polk,ALLEMAN,2,ALLEMAN-01,0.5596002855103498,Polk,,315 Ne 141st Ave,Alleman,North Polk Junior-Senior High School,50007,3.0,77.0,AUTO,Alleman 1 (401) Lincoln 1
+Polk,ALLEN 1,1,ALLEN-01,0.2798001427551749,Polk,,8325 Ne University,Runnells,Southeast Polk High School,50237,3.0,77.0,AUTO,Allen 1(405)
+Polk,ALT 1,5,ALTOONA-01,1.3990007137758744,Polk,,910 7th Ave,Altoona,Centennial Elementary,50009,3.0,77.0,AUTO,Altoona 1 (411)
+Polk,ALT 2,9,ALTOONA-02,2.5182012847965742,Polk,,301 SixthStreet SW,Altoona,Altoona Elementary,50009,3.0,77.0,MANUAL,Altoona 2 (412)
+Polk,ALT 3,12,ALTOONA-03,3.3576017130620985,Polk,,300 17th Ave,Altoona,Willowbrook Elementary,50009,3.0,77.0,AUTO,Altoona 3 (413)
+Polk,ALT 4,10,ALTOONA-04,2.798001427551749,Polk,,3200 First Ave S,Altoona,Clay Elementary,50009,3.0,77.0,AUTO,Altoona 4 (414)
+Polk,ALT 5,11,ALTOONA-05,3.077801570306924,Polk,,,,,,,,,
+Polk,ANK 01,19,ANKENY-01,5.316202712348323,Polk,,,,,,,,,
+Polk,ANK 02,10,ANKENY-02,2.798001427551749,Polk,,,,,,,,,
+Polk,ANK 03,9,ANKENY-03,2.5182012847965742,Polk,,,,,,,,,
+Polk,ANK 04,9,ANKENY-04,2.5182012847965742,Polk,,,,,,,,,
+Polk,ANK 05,10,ANKENY-05,2.798001427551749,Polk,,,,,,,,,
+Polk,ANK 06,10,ANKENY-06,2.798001427551749,Polk,,,,,,,,,
+Polk,ANK 07,8,ANKENY-07,2.2384011420413987,Polk,,,,,,,,,
+Polk,ANK 08,10,ANKENY-08,2.798001427551749,Polk,,,,,,,,,
+Polk,ANK 09,10,ANKENY-09,2.798001427551749,Polk,,,,,,,,,
+Polk,ANK 10,8,ANKENY-10,2.2384011420413987,Polk,,2920 NW Ninth St,Ankeny,Westwood Elementary,50323,3.0,77.0,AUTO,Ankeny 10 (425)
+Polk,ANK 11,9,ANKENY-11,2.5182012847965742,Polk,,1202 W First St,Ankeny,North West Elementary,50323,3.0,77.0,AUTO,Ankeny 11 (426)
+Polk,ANK 12,17,ANKENY-12,4.756602426837972,Polk,,2920 NWNinth St,Ankeny,Westwood Elementary,50323,3.0,77.0,AUTO,Ankeny 12 (427)
+Polk,ANK 13,14,ANKENY-13,3.9172019985724487,Polk,,,,,,,,,
+Polk,ANK 14,10,ANKENY-14,2.798001427551749,Polk,,,,,,,,,
+Polk,ANK 15,9,ANKENY-15,2.5182012847965742,Polk,,,,,,,,,
+Polk,BOND 1,6,BONDURANT-01,1.6788008565310495,Polk,,200 2nd St,Bondurant,Bondurant City Hall,50035,3.0,77.0,AUTO,Bondurant 1 (431)
+Polk,BOND 2,7,BONDURANT-02,1.9586009992862243,Polk,,,,,,,,,
+Polk,CLAY 1,3,CLAY-01,0.8394004282655247,Polk,,3200 First Ave S,Runnells,Clay Elementary,50237,3.0,77.0,AUTO,Clay 1 (435)
+Polk,CLIVE 1,6,CLIVE-01,1.6788008565310495,Polk,,8355 Franklin Ave,Clive,Crestview Elementary,50325,3.0,77.0,AUTO,Clive 1 (441)
+Polk,CLIVE 2,9,CLIVE-02,2.5182012847965742,Polk,,9401 Indian Hills Drive,"Clive, IA 50325",Indian Hills Junior High,50325,3.0,77.0,AUTO,Clive 2 (442)
+Polk,CLIVE 3,11,CLIVE-03,3.077801570306924,Polk,,1140 35th St,West Des Moines,Valley HighSchool,50266,3.0,77.0,AUTO,Clive 3 (443)
+Polk,CLIVE 4,10,CLIVE-04,2.798001427551749,Polk,,13001 University Avenue,Clive,DeWaay Capital Management,50325,3.0,77.0,AUTO,Clive 4 (444)
+Polk,CROCK 1,6,CROCKER-01,1.6788008565310495,Polk,,,,,,,,,
+Polk,CROCK 2,4,CROCKER-02,1.1192005710206996,Polk,,,,,,,,,
+Polk,DEL 1,5,DELAWARE-01,1.3990007137758744,Polk,,2945 E Broadway Ave,Des Moines,Norwoodville School,50317,3.0,77.0,AUTO,Delaware 1 (451)
+Polk,DEL 2,2,DELAWARE-02,0.5596002855103498,Polk,,2945 E Broadway Ave,Des Moines,Norwoodville School,50317,3.0,77.0,AUTO,Delaware 2 (452)
+Polk,DM 001,4,DES MOINES-01,1.1192005710206996,Polk,,,,,,,,,
+Polk,DM 002,7,DES MOINES-02,1.9586009992862243,Polk,,,,,,,,,
+Polk,DM 003,9,DES MOINES-03,2.5182012847965742,Polk,,,,,,,,,
+Polk,DM 004,6,DES MOINES-04,1.6788008565310495,Polk,,,,,,,,,
+Polk,DM 005,4,DES MOINES-05,1.1192005710206996,Polk,,,,,,,,,
+Polk,DM 006,5,DES MOINES-06,1.3990007137758744,Polk,,,,,,,,,
+Polk,DM 007,9,DES MOINES-07,2.5182012847965742,Polk,,,,,,,,,
+Polk,DM 008,6,DES MOINES-08,1.6788008565310495,Polk,,,,,,,,,
+Polk,DM 009,9,DES MOINES-09,2.5182012847965742,Polk,,,,,,,,,
+Polk,DM 010,10,DES MOINES-10,2.798001427551749,Polk,,,,,,,,,
+Polk,DM 011,11,DES MOINES-11,3.077801570306924,Polk,,,,,,,,,
+Polk,DM 012,5,DES MOINES-12,1.3990007137758744,Polk,,,,,,,,,
+Polk,DM 013,6,DES MOINES-13,1.6788008565310495,Polk,,,,,,,,,
+Polk,DM 014,6,DES MOINES-14,1.6788008565310495,Polk,,,,,,,,,
+Polk,DM 015,16,DES MOINES-15,4.4768022840827975,Polk,,,,,,,,,
+Polk,DM 016,15,DES MOINES-16,4.197002141327624,Polk,,,,,,,,,
+Polk,DM 017,6,DES MOINES-17,1.6788008565310495,Polk,,,,,,,,,
+Polk,DM 018,5,DES MOINES-18,1.3990007137758744,Polk,,,,,,,,,
+Polk,DM 019,4,DES MOINES-19,1.1192005710206996,Polk,,,,,,,,,
+Polk,DM 020,8,DES MOINES-20,2.2384011420413987,Polk,,,,,,,,,
+Polk,DM 021,9,DES MOINES-21,2.5182012847965742,Polk,,,,,,,,,
+Polk,DM 022,8,DES MOINES-22,2.2384011420413987,Polk,,,,,,,,,
+Polk,DM 023,7,DES MOINES-23,1.9586009992862243,Polk,,,,,,,,,
+Polk,DM 024,4,DES MOINES-24,1.1192005710206996,Polk,,,,,,,,,
+Polk,DM 025,6,DES MOINES-25,1.6788008565310495,Polk,,,,,,,,,
+Polk,DM 026,8,DES MOINES-26,2.2384011420413987,Polk,,,,,,,,,
+Polk,DM 027,5,DES MOINES-27,1.3990007137758744,Polk,,,,,,,,,
+Polk,DM 028,10,DES MOINES-28,2.798001427551749,Polk,,,,,,,,,
+Polk,DM 029,7,DES MOINES-29,1.9586009992862243,Polk,,,,,,,,,
+Polk,DM 030,6,DES MOINES-30,1.6788008565310495,Polk,,,,,,,,,
+Polk,DM 031,7,DES MOINES-31,1.9586009992862243,Polk,,,,,,,,,
+Polk,DM 032,7,DES MOINES-32,1.9586009992862243,Polk,,,,,,,,,
+Polk,DM 033,6,DES MOINES-33,1.6788008565310495,Polk,,,,,,,,,
+Polk,DM 034,3,DES MOINES-34,0.8394004282655247,Polk,,,,,,,,,
+Polk,DM 035,4,DES MOINES-35,1.1192005710206996,Polk,,,,,,,,,
+Polk,DM 036,8,DES MOINES-36,2.2384011420413987,Polk,,,,,,,,,
+Polk,DM 037,7,DES MOINES-37,1.9586009992862243,Polk,,,,,,,,,
+Polk,DM 038,6,DES MOINES-38,1.6788008565310495,Polk,,,,,,,,,
+Polk,DM 039,15,DES MOINES-39,4.197002141327624,Polk,,,,,,,,,
+Polk,DM 040,7,DES MOINES-40,1.9586009992862243,Polk,,,,,,,,,
+Polk,DM 041,17,DES MOINES-41,4.756602426837972,Polk,,,,,,,,,
+Polk,DM 042,13,DES MOINES-42,3.6374018558172736,Polk,,,,,,,,,
+Polk,DM 043,11,DES MOINES-43,3.077801570306924,Polk,,,,,,,,,
+Polk,DM 044,12,DES MOINES-44,3.3576017130620985,Polk,,,,,,,,,
+Polk,DM 045,6,DES MOINES-45,1.6788008565310495,Polk,,,,,,,,,
+Polk,DM 046,6,DES MOINES-46,1.6788008565310495,Polk,,,,,,,,,
+Polk,DM 047,8,DES MOINES-47,2.2384011420413987,Polk,,,,,,,,,
+Polk,DM 048,2,DES MOINES-48,0.5596002855103498,Polk,,,,,,,,,
+Polk,DM 049,3,DES MOINES-49,0.8394004282655247,Polk,,,,,,,,,
+Polk,DM 050,8,DES MOINES-50,2.2384011420413987,Polk,,,,,,,,,
+Polk,DM 051,5,DES MOINES-51,1.3990007137758744,Polk,,,,,,,,,
+Polk,DM 052,5,DES MOINES-52,1.3990007137758744,Polk,,,,,,,,,
+Polk,DM 053,4,DES MOINES-53,1.1192005710206996,Polk,,,,,,,,,
+Polk,DM 054,4,DES MOINES-54,1.1192005710206996,Polk,,,,,,,,,
+Polk,DM 055,14,DES MOINES-55,3.9172019985724487,Polk,,,,,,,,,
+Polk,DM 056,13,DES MOINES-56,3.6374018558172736,Polk,,,,,,,,,
+Polk,DM 057,8,DES MOINES-57,2.2384011420413987,Polk,,,,,,,,,
+Polk,DM 058,11,DES MOINES-58,3.077801570306924,Polk,,,,,,,,,
+Polk,DM 059,11,DES MOINES-59,3.077801570306924,Polk,,,,,,,,,
+Polk,DM 060,10,DES MOINES-60,2.798001427551749,Polk,,,,,,,,,
+Polk,DM 061,10,DES MOINES-61,2.798001427551749,Polk,,,,,,,,,
+Polk,DM 062,19,DES MOINES-62,5.316202712348323,Polk,,,,,,,,,
+Polk,DM 063,11,DES MOINES-63,3.077801570306924,Polk,,,,,,,,,
+Polk,DM 064,8,DES MOINES-64,2.2384011420413987,Polk,,,,,,,,,
+Polk,DM 065,11,DES MOINES-65,3.077801570306924,Polk,,,,,,,,,
+Polk,DM 066,12,DES MOINES-66,3.3576017130620985,Polk,,,,,,,,,
+Polk,DM 067,2,DES MOINES-67,0.5596002855103498,Polk,,,,,,,,,
+Polk,DM 068,5,DES MOINES-68,1.3990007137758744,Polk,,,,,,,,,
+Polk,DM 069,8,DES MOINES-69,2.2384011420413987,Polk,,,,,,,,,
+Polk,DM 070,6,DES MOINES-70,1.6788008565310495,Polk,,,,,,,,,
+Polk,DM 071,10,DES MOINES-71,2.798001427551749,Polk,,,,,,,,,
+Polk,DM 072,1,DES MOINES-72,0.2798001427551749,Polk,,,,,,,,,
+Polk,DM 073,9,DES MOINES-73,2.5182012847965742,Polk,,,,,,,,,
+Polk,DM 074,4,DES MOINES-74,1.1192005710206996,Polk,,,,,,,,,
+Polk,DM 075,7,DES MOINES-75,1.9586009992862243,Polk,,,,,,,,,
+Polk,DM 076,7,DES MOINES-76,1.9586009992862243,Polk,,,,,,,,,
+Polk,DM 077,6,DES MOINES-77,1.6788008565310495,Polk,,,,,,,,,
+Polk,DM 078,7,DES MOINES-78,1.9586009992862243,Polk,,,,,,,,,
+Polk,DM 079,8,DES MOINES-79,2.2384011420413987,Polk,,,,,,,,,
+Polk,DM 080,10,DES MOINES-80,2.798001427551749,Polk,,,,,,,,,
+Polk,DM 081,7,DES MOINES-81,1.9586009992862243,Polk,,,,,,,,,
+Polk,DM 082,6,DES MOINES-82,1.6788008565310495,Polk,,,,,,,,,
+Polk,DM 083,8,DES MOINES-83,2.2384011420413987,Polk,,,,,,,,,
+Polk,DM 084,5,DES MOINES-84,1.3990007137758744,Polk,,,,,,,,,
+Polk,DOUGLAS,3,DOUGLAS-01,0.8394004282655247,Polk,,105 Northwest Pleasant Street,Ankeny,Park View Middle School,50021,3.0,77.0,AUTO,Douglas 1 (455)
+Polk,ELKHART,4,ELKHART-01,1.1192005710206996,Polk,,219 East Main Street,Elkhart,Elkhart City Hall/FireStation,50073,3.0,77.0,MANUAL,Elkhart 1 (461)
+Polk,FOUR MI,6,FOUR MILE-01,1.6788008565310495,Polk,,670 Se 68th St,Pleasant Hill,Four Mile Elementary School,50327,3.0,77.0,AUTO,Four Mile 1 (465)
+Polk,FRANKLI,4,FRANKLIN-01,1.1192005710206996,Polk,,4th And Garfield,Bondurant,Anderson Elementary School,50035,3.0,77.0,AUTO,Franklin 1 (471)
+Polk,GRANGER,1,GRANGER-01,0.2798001427551749,Polk,,,,,,,,,
+Polk,GRIMES1,13,GRIMES-01,3.6374018558172736,Polk,,410 S Main Street,Grimes,Grimes Community Center,50111,3.0,77.0,AUTO,Grimes 1 (475)
+Polk,GRIMES2,11,GRIMES-02,3.077801570306924,Polk,,500 S James St,Grimes,Grimes Elementary,50111,3.0,77.0,AUTO,Grimes 2 (476)
+Polk,GRIMES3,7,GRIMES-03,1.9586009992862243,Polk,,,,,,,,,
+Polk,JEFF 1,5,JEFFERSON-01,1.3990007137758744,Polk,,9901 NW 62nd Ave,Johnston,Johnston Evangelical Free Church,50131,3.0,77.0,AUTO,Jefferson 1 (481)
+Polk,JOHN 1,12,JOHNSTON-01,3.3576017130620985,Polk,,9500 Windsor Parkway,Johnston,Summit Middle School,50131,3.0,77.0,AUTO,Johnston 1 (485)
+Polk,JOHN 2,12,JOHNSTON-02,3.3576017130620985,Polk,,6207 NW 62nd Ave,Johnston,Johnston Middle School,50131,3.0,77.0,AUTO,Johnston 2 (486)
+Polk,JOHN 3,8,JOHNSTON-03,2.2384011420413987,Polk,,6207 NW 62nd Ave,Johnston,Johnston Middle School,50131,3.0,77.0,AUTO,Johnston 3 (487)
+Polk,JOHN 4,10,JOHNSTON-04,2.798001427551749,Polk,,,,,,,,,
+Polk,JOHN 5,16,JOHNSTON-05,4.4768022840827975,Polk,,,,,,,,,
+Polk,JOHN 6,6,JOHNSTON-06,1.6788008565310495,Polk,,,,,,,,,
+Polk,MADISON,1,MADISON-01,0.2798001427551749,Polk,,,,,,,,,
+Polk,MITCHEL,6,MITCHELLVILLE-01,1.6788008565310495,Polk,,308 Elm Ave NW,Mitchellville,Mitchellville Elementary School,50169,3.0,77.0,AUTO,Mitchellville 1 (491)
+Polk,PH 1,9,PLEASANT HILL-01,2.5182012847965742,Polk,,2941 Dean Avenue,Pleasant Hill,Willard Elementary,50327,3.0,77.0,AUTO,Pleasant Hill 1 (495)
+Polk,PH 2,9,PLEASANT HILL-02,2.5182012847965742,Polk,,4825 Copper Creek Dr,Pleasant Hill,Copper Creek Golf Club,50327,3.0,77.0,AUTO,Pleasant Hill 2 (496)
+Polk,PH 3,9,PLEASANT HILL-03,2.5182012847965742,Polk,,8325 Ne University,Runnells,Southeast Polk High School,50237,3.0,77.0,AUTO,Pleasant Hill 3 (497)
+Polk,POLK CI,11,POLK CITY-01,3.077801570306924,Polk,,"112 3rd St, Po Box 426",Polk City,Polk City Community Center,50266,3.0,77.0,AUTO,Polk City 1 (501)
+Polk,RUNNELL,5,RUNNELLS-01,1.3990007137758744,Polk,,6575 Se 116th Street,Runnells,Runnells Elementary School,50237,3.0,77.0,AUTO,Runnells 1 (505)
+Polk,SAYLOR1,8,SAYLOR-01,2.2384011420413987,Polk,,3928 6th Ave,Des Moines,Oak Park Elementary,50313,3.0,77.0,AUTO,Saylor 1 (511)
+Polk,SAYLOR2,6,SAYLOR-02,1.6788008565310495,Polk,,6429 NW 6th Dr.,Des Moines,Saylorville Baptist Church,50313,3.0,77.0,AUTO,Saylor 2 (512)
+Polk,SHELDAH,1,SHELDAHL-01,0.2798001427551749,Polk,,315 Ne 141st Ave,Polk City,North Polk Junior-Senior High School,50266,3.0,77.0,AUTO,Sheldahl 1 Union Twp (515)
+Polk,URB 01,9,URBANDALE-01,2.5182012847965742,Polk,,,,,,,,,
+Polk,URB 02,11,URBANDALE-02,3.077801570306924,Polk,,,,,,,,,
+Polk,URB 03,10,URBANDALE-03,2.798001427551749,Polk,,,,,,,,,
+Polk,URB 04,9,URBANDALE-04,2.5182012847965742,Polk,,,,,,,,,
+Polk,URB 05,10,URBANDALE-05,2.798001427551749,Polk,,,,,,,,,
+Polk,URB 06,11,URBANDALE-06,3.077801570306924,Polk,,,,,,,,,
+Polk,URB 07,11,URBANDALE-07,3.077801570306924,Polk,,,,,,,,,
+Polk,URB 08,10,URBANDALE-08,2.798001427551749,Polk,,,,,,,,,
+Polk,URB 09,11,URBANDALE-09,3.077801570306924,Polk,,,,,,,,,
+Polk,URB 10,10,URBANDALE-10,2.798001427551749,Polk,,3520 86th Street,Urbandale,Urbandale Public Library,50323,3.0,77.0,AUTO,Urbandale 10 (530)
+Polk,URB 11,9,URBANDALE-11,2.5182012847965742,Polk,,13007 Douglas Parkway,Urbandale,Des Moines Christian School,50323,3.0,77.0,AUTO,Urbandale 11 (531)
+Polk,WASH 1,1,WASHINGTON-01,0.2798001427551749,Polk,,8600 NE 126th Ave.,Maxwell,Chichaqua Bottom Greenbelt Longhouse,50161,3.0,77.0,AUTO,Washington 1 (535)
+Polk,WB 1,2,WEBSTER-01,0.5596002855103498,Polk,,4800 Aurora Ave,Des Moines,Hoover High School,50310,3.0,77.0,AUTO,Webster 1 (541)
+Polk,WDM-111,8,WDM-111,2.2384011420413987,Polk,,713 8th St,West Des Moines,Hillside Elementary,50265,3.0,77.0,AUTO,West Des Moines 111 (546)
+Polk,WDM-112,5,WDM-112,1.3990007137758744,Polk,,415 7th St,West Des Moines,Phenix Elementary Early Childhood,50265,3.0,77.0,AUTO,West Des Moines 112 (547)
+Polk,WDM-113,8,WDM-113,2.2384011420413987,Polk,,1401 Vine St,West Des Moines,Rex Mathes Elementary,50265,3.0,77.0,AUTO,West Des Moines 113 (548)
+Polk,WDM-114,12,WDM-114,3.3576017130620985,Polk,,807 23rd St,West Des Moines,Fairmeadows Elementary,50265,3.0,77.0,AUTO,West Des Moines 114 (549)
+Polk,WDM-115,7,WDM-115,1.9586009992862243,Polk,,713 8th St,West Des Moines,Hillside Elementary,50265,3.0,77.0,AUTO,West Des Moines 115 (550)
+Polk,WDM-116,9,WDM-116,2.5182012847965742,Polk,,1601 Vine St,West Des Moines,Stilwell Junior High,50265,3.0,77.0,AUTO,West Des Moines 116 (551)
+Polk,WDM-117,9,WDM-117,2.5182012847965742,Polk,,,,,,,,,
+Polk,WDM-118,9,WDM-118,2.5182012847965742,Polk,,,,,,,,,
+Polk,WDM-211,7,WDM-211,1.9586009992862243,Polk,,1140 35th St,West Des Moines,Valley HighSchool,50266,3.0,77.0,AUTO,West Des Moines 211 (552)
+Polk,WDM-212,11,WDM-212,3.077801570306924,Polk,,1140 35th St,West Des Moines,ValleyHighSchool,50266,3.0,77.0,MANUAL,West Des Moines 212 (553)
+Polk,WDM-213,6,WDM-213,1.6788008565310495,Polk,,600 39th St,West Des Moines,Western HillsElementary,50265,3.0,77.0,AUTO,West Des Moines 213 (554)
+Polk,WDM-311,10,WDM-311,2.798001427551749,Polk,,1140 35th St,West Des Moines,Valley HighSchool,50266,3.0,77.0,AUTO,West Des Moines 311 (557)
+Polk,WDM-312,10,WDM-312,2.798001427551749,Polk,,807 23rd St,West Des Moines,FairmeadowsElementary,50265,3.0,77.0,MANUAL,West Des Moines 312 (558)
+Polk,WDM-313,4,WDM-313,1.1192005710206996,Polk,,4105 Fuller Rd,West Des Moines,Jordan Creek Elementary,50265,3.0,77.0,AUTO,West Des Moines 313 (559)
+Polk,WDM-314,6,WDM-314,1.6788008565310495,Polk,,625 S 35th St,West Des Moines,Valley Southwoods,50265,3.0,77.0,AUTO,West Des Moines 314 (560)
+Polk,WDM-315,8,WDM-315,2.2384011420413987,Polk,,625 S 35th St,West Des Moines,Valley Southwoods,50266,3.0,77.0,AUTO,West Des Moines 315 (561)
+Polk,WDM-316,11,WDM-316,3.077801570306924,Polk,,4105 Fuller Rd,West Des Moines,Jordan Creek Elementary,50265,3.0,77.0,AUTO,West Des Moines 316 (562)
+Polk,WDM-317,9,WDM-317,2.5182012847965742,Polk,,,,,,,,,
+Polk,WDM-318,3,WDM-318,0.8394004282655247,Polk,,,,,,,,,
+Polk,WHTS 1,6,WINDSOR HEIGHTS-01,1.6788008565310495,Polk,,6301 University Ave,Des Moines,Windsor Presbyterian Church,50311,3.0,77.0,AUTO,Windsor Heights 1 (565)
+Polk,WHTS 2,7,WINDSOR HEIGHTS-02,1.9586009992862243,Polk,,1600 73rd St,Urbandale,Clive Elementary,50322,3.0,77.0,AUTO,Windsor Heights 2 (566)
+Polk,WHTS 3,9,WINDSOR HEIGHTS-03,2.5182012847965742,Polk,,953 73rd St,Windsor Hieghts,"3E - Electrical, Engineering, Equipment Company",50312,3.0,77.0,AUTO,Windsor Heights 3 (567)
+Pottawattamie,AVOCA,8,Avoca,0.96,Pottawattamie,,,,,,,,,
+Pottawattamie,CARSON,3,Carson,0.36,Pottawattamie,,,,,,,,,
+Pottawattamie,CB 01,9,Council Bluff 01,1.08,Pottawattamie,,,,,,,,,
+Pottawattamie,CB 02,12,Council Bluff 02,1.44,Pottawattamie,,,,,,,,,
+Pottawattamie,CB 03,10,Council Bluff 03,1.2,Pottawattamie,,,,,,,,,
+Pottawattamie,CB 04,10,Council Bluff 04,1.2,Pottawattamie,,,,,,,,,
+Pottawattamie,CB 05,10,Council Bluff 05,1.2,Pottawattamie,,,,,,,,,
+Pottawattamie,CB 06,15,Council Bluff 06,1.7999999999999998,Pottawattamie,,,,,,,,,
+Pottawattamie,CB 07,15,Council Bluff 07,1.7999999999999998,Pottawattamie,,,,,,,,,
+Pottawattamie,CB 08,18,Council Bluff 08,2.16,Pottawattamie,,,,,,,,,
+Pottawattamie,CB 09,13,Council Bluff 09,1.56,Pottawattamie,,,,,,,,,
+Pottawattamie,CB 10A,20,Council Bluff 10A,2.4,Pottawattamie,,,,,,,,,
+Pottawattamie,CB 10B,15,Council Bluff 10B,1.7999999999999998,Pottawattamie,,,,,,,,,
+Pottawattamie,CB 11,17,Council Bluff 11,2.04,Pottawattamie,,,,,,,,,
+Pottawattamie,CB 12,14,Council Bluff 12,1.68,Pottawattamie,,,,,,,,,
+Pottawattamie,CB 13,10,Council Bluff 13,1.2,Pottawattamie,,,,,,,,,
+Pottawattamie,CB 14,10,Council Bluff 14,1.2,Pottawattamie,,,,,,,,,
+Pottawattamie,CB 15,11,Council Bluff 15,1.3199999999999998,Pottawattamie,,,,,,,,,
+Pottawattamie,CB 16,11,Council Bluff 16,1.3199999999999998,Pottawattamie,,,,,,,,,
+Pottawattamie,CB 17,15,Council Bluff 17,1.7999999999999998,Pottawattamie,,,,,,,,,
+Pottawattamie,CB 18,12,Council Bluff 18,1.44,Pottawattamie,,,,,,,,,
+Pottawattamie,CB 19,9,Council Bluff 19,1.08,Pottawattamie,,,,,,,,,
+Pottawattamie,CB 20,9,Council Bluff 20,1.08,Pottawattamie,,,,,,,,,
+Pottawattamie,CB 21,8,Council Bluff 21,0.96,Pottawattamie,,,,,,,,,
+Pottawattamie,CL 1,7,Carter Lake 1,0.84,Pottawattamie,,,,,,,,,
+Pottawattamie,CL 2,7,Carter Lake 2,0.84,Pottawattamie,,,,,,,,,
+Pottawattamie,CRESC,13,Crescent,1.56,Pottawattamie,,,,,,,,,
+Pottawattamie,GARNER,14,Garner,1.68,Pottawattamie,,,,,,,,,
+Pottawattamie,GLWCW,3,GLWCW,0.36,Pottawattamie,,,,,,,,,
+Pottawattamie,HANCOCK,2,Hancock,0.24,Pottawattamie,,,,,,,,,
+Pottawattamie,LEWIS 1,11,Lewis 1,1.3199999999999998,Pottawattamie,,,,,,,,,
+Pottawattamie,LEWIS 2,11,Lewis 2,1.3199999999999998,Pottawattamie,,,,,,,,,
+Pottawattamie,MACEDON,1,Macedonia,0.12,Pottawattamie,,,,,,,,,
+Pottawattamie,MCCLELL,3,McClelland,0.36,Pottawattamie,,,,,,,,,
+Pottawattamie,MINDEN,5,Minden,0.6,Pottawattamie,,,,,,,,,
+Pottawattamie,NEOLA,8,Neola,0.96,Pottawattamie,,,,,,,,,
+Pottawattamie,OAKLAND,8,Oakland,0.96,Pottawattamie,,,,,,,,,
+Pottawattamie,TREYNOR,6,Treynor,0.72,Pottawattamie,,,,,,,,,
+Pottawattamie,UNDERW,13,Underwood,1.56,Pottawattamie,,,,,,,,,
+Pottawattamie,WALNUT,4,Walnut,0.48,Pottawattamie,,,,,,,,,
+Poweshiek,10,5,,0.7000000000000001,Poweshiek,MONTEZUMA - 11.11MO,302 E. Main St.,Montezuma,County Courthouse,50171,3.0,79.0,AUTO,JUPS
+Poweshiek,11,4,,0.56,Poweshiek,MS,302 E. Main St.,Montezuma,County Courthouse,50171,3.0,79.0,AUTO,Montezuma
+Poweshiek,2,11,,1.54,Poweshiek,1ST WARD - 06.06GR,1090 Jackson St,Brooklyn,Brooklyn School,52211,3.0,79.0,AUTO,BMWJ
+Poweshiek,3,2,,0.28,Poweshiek,2ND WARD - 07.07GR,305 Main,Deep River,Deep River Legion Hall,52222,3.0,79.0,AUTO,DRL
+Poweshiek,4,3,,0.42,Poweshiek,3RD WARD - 08.08GR,107 2nd St.,Malcom,Heartland Elevator,50157,3.0,79.0,AUTO,MS
+Poweshiek,5,6,,0.8400000000000001,Poweshiek,4TH WARD - 09.09GR,S. East St,Grinell,Grinnell Middle Schools Mini Theatre,50112,3.0,79.0,AUTO,CGWS
+Poweshiek,6,24,,3.3600000000000003,Poweshiek,BMWJ,1310 Hobart St.,Grinell,Fairview School,50112,3.0,79.0,AUTO,1st Ward
+Poweshiek,7,17,,2.3800000000000003,Poweshiek,CGWS,1333 Sunset Grinnell,Grinell,Grinnell High Schools Media Center,50112,3.0,79.0,AUTO,2nd Ward
+Poweshiek,8,12,,1.6800000000000002,Poweshiek,DRL,616 Broad St.,Grinell,Mayflower Home,50112,3.0,79.0,AUTO,3rd Ward
+Poweshiek,9,16,,2.24,Poweshiek,JUPS,818 Hamilton Ave,Grinell,Davis Schools Library,50112,3.0,79.0,AUTO,4th Ward
+Ringgold,AT,9,Athens,0.3375,Ringgold,,109 West Madison St.,Mount Ayr,Ringgold County Courthouse - AssemblyRoom,50854,5.0,80.0,MANUAL,Athens
+Ringgold,CL,6,Clinton,0.225,Ringgold,,109 West Madison St.,Mount Ayr,Ringgold County Courthouse - AssemblyRoom,50854,5.0,80.0,MANUAL,Clinton
+Ringgold,M1,22,Mount Ayr 1,0.825,Ringgold,,109 West Madison St.,Mount Ayr,Ringgold County Courthouse -Assembly Room,50854,5.0,80.0,MANUAL,Mt Ayr Ward 1
+Ringgold,M2,21,Mount Ayr 2,0.7875,Ringgold,,109 West Madison St.,Mount Ayr,Ringgold County Courthouse -Assembly Room,50854,5.0,80.0,MANUAL,Mt Ayr Ward 2
+Ringgold,TG,3,Tingley,0.1125,Ringgold,,109 West Madison St.,Mount Ayr,Ringgold County Courthouse - AssemblyRoom,50854,5.0,80.0,MANUAL,Tingley
+Ringgold,UN,9,Union,0.3375,Ringgold,,109 West Madison St.,Mount Ayr,Ringgold County Courthouse - AssemblyRoom,50854,5.0,80.0,MANUAL,Union
+Ringgold,WS,10,Washington,0.375,Ringgold,,109 West Madison St.,Mount Ayr,Ringgold County Courthouse - AssemblyRoom,50854,5.0,80.0,MANUAL,Washington
+Sac,1,7,,0.4666666666666667,Sac,Auburn,101 East 1st Street,Schaller,Schaller Fire Station,51053,5.0,81.0,AUTO,Schaller Pct 1
+Sac,2,2,,0.13333333333333333,Sac,Early,Main Street,Nemaha,Nemaha Fire Station,50567,5.0,81.0,AUTO,Nemaha Pct 2
+Sac,3,5,,0.3333333333333333,Sac,Lake View,112 North Main,Early,The Center,50535,5.0,81.0,AUTO,Early Pct 3
+Sac,4,18,,1.2,Sac,Lytton,1001 West Main Street,Sac City,Sac City Public Library,50583,5.0,81.0,AUTO,Sac City Pct 4
+Sac,5,3,,0.2,Sac,Nemaha,Main Street,Lytton,Lytton Community Center,50561,5.0,81.0,AUTO,Lytton Pct 5
+Sac,6,6,,0.4,Sac,Odebolt,200 S. Walnut St.,Odeblot,Odebolt Public Library,51458,5.0,81.0,AUTO,Odeboldt Pct 6
+Sac,7,11,,0.7333333333333333,Sac,Sac City,418 NBlossom,Lake View,Speaker Park Centennial Shelter,51450,5.0,81.0,MANUAL,Lake View Pct 7
+Sac,8,3,,0.2,Sac,Schaller,418 NBlossom,Lake View,Speaker Park Centennial Shelter,51450,5.0,81.0,AUTO,Auburn Pct 8
+Sac,9,5,,0.3333333333333333,Sac,Wall Lake,108 West 1st Street,Wall Lake,Wall Lake Community Building (Downstairs meeting),51466,5.0,81.0,AUTO,Wall Lake Pct 9
+Scott,AG,1,(AG) Allen's Grove Township,0.4133333333333333,Scott,,,,,,,,,
+Scott,B11,7,(B11) City of Bettendorf,2.893333333333333,Scott,,,,,,,,,
+Scott,B12,6,(B12) City of Bettendorf,2.48,Scott,,,,,,,,,
+Scott,B21,4,(B21) City of Bettendorf,1.653333333333333,Scott,,,,,,,,,
+Scott,B22,6,(B22) City of Bettendorf,2.48,Scott,,,,,,,,,
+Scott,B23,1,(B23) City of Bettendorf,0.4133333333333333,Scott,,,,,,,,,
+Scott,B31,6,(B31) City of Bettendorf,2.48,Scott,,,,,,,,,
+Scott,B32,6,(B32) City of Bettendorf,2.48,Scott,,,,,,,,,
+Scott,B41,7,(B41) City of Bettendorf,2.893333333333333,Scott,,,,,,,,,
+Scott,B42,7,(B42) City of Bettendorf,2.893333333333333,Scott,,,,,,,,,
+Scott,B51,7,(B51) City of Bettendorf,2.893333333333333,Scott,,,,,,,,,
+Scott,B52,10,(B52) City of Bettendorf,4.133333333333333,Scott,,,,,,,,,
+Scott,BF,1,(BF) City of Buffalo,0.4133333333333333,Scott,,,,,,,,,
+Scott,BG,4,(BG) Blue Grass Township,1.653333333333333,Scott,,,,,,,,,
+Scott,BU,5,(BU) Buffalo Township,2.0666666666666664,Scott,,,,,,,,,
+Scott,D11,5,(D11) City of Davenport,2.0666666666666664,Scott,,,,,,,,,
+Scott,D12,6,(D12) City of Davenport,2.48,Scott,,,,,,,,,
+Scott,D13,6,(D13) City of Davenport,2.48,Scott,,,,,,,,,
+Scott,D14,5,(D14) City of Davenport,2.0666666666666664,Scott,,,,,,,,,
+Scott,D21,6,(D21) City of Davenport,2.48,Scott,,,,,,,,,
+Scott,D22,4,(D22) City of Davenport,1.653333333333333,Scott,,,,,,,,,
+Scott,D23,4,(D23) City of Davenport,1.653333333333333,Scott,,,,,,,,,
+Scott,D24,6,(D24) City of Davenport,2.48,Scott,,,,,,,,,
+Scott,D31,5,(D31) City of Davenport,2.0666666666666664,Scott,,,,,,,,,
+Scott,D32,4,(D32) City of Davenport,1.653333333333333,Scott,,,,,,,,,
+Scott,D33,4,(D33) City of Davenport,1.653333333333333,Scott,,,,,,,,,
+Scott,D34,5,(D34) City of Davenport,2.0666666666666664,Scott,,,,,,,,,
+Scott,D41,7,(D41) City of Davenport,2.893333333333333,Scott,,,,,,,,,
+Scott,D42,5,(D42) City of Davenport,2.0666666666666664,Scott,,,,,,,,,
+Scott,D43,5,(D43) City of Davenport,2.0666666666666664,Scott,,,,,,,,,
+Scott,D44,5,(D44) City of Davenport,2.0666666666666664,Scott,,,,,,,,,
+Scott,D51,7,(D51) City of Davenport,2.893333333333333,Scott,,,,,,,,,
+Scott,D52,6,(D52) City of Davenport,2.48,Scott,,,,,,,,,
+Scott,D53,6,(D53) City of Davenport,2.48,Scott,,,,,,,,,
+Scott,D54,5,(D54) City of Davenport,2.0666666666666664,Scott,,,,,,,,,
+Scott,D61,6,(D61) City of Davenport,2.48,Scott,,,,,,,,,
+Scott,D62,6,(D62) City of Davenport,2.48,Scott,,,,,,,,,
+Scott,D63,7,(D63) City of Davenport,2.893333333333333,Scott,,,,,,,,,
+Scott,D64,9,(D64) City of Davenport,3.72,Scott,,,,,,,,,
+Scott,D71,7,(D71) City of Davenport,2.893333333333333,Scott,,,,,,,,,
+Scott,D72,7,(D72) City of Davenport,2.893333333333333,Scott,,,,,,,,,
+Scott,D73,6,(D73) City of Davenport,2.48,Scott,,,,,,,,,
+Scott,D74,4,(D74) City of Davenport,1.653333333333333,Scott,,,,,,,,,
+Scott,D81,5,(D81) City of Davenport,2.0666666666666664,Scott,,,,,,,,,
+Scott,D82,7,(D82) City of Davenport,2.893333333333333,Scott,,,,,,,,,
+Scott,D83,7,(D83) City of Davenport,2.893333333333333,Scott,,,,,,,,,
+Scott,D84,5,(D84) City of Davenport,2.0666666666666664,Scott,,,,,,,,,
+Scott,DH,1,(DH) City of Donahue,0.4133333333333333,Scott,,,,,,,,,
+Scott,EL1,6,(EL1) City of Eldridge,2.48,Scott,,,,,,,,,
+Scott,EL2,5,(EL2) City of Eldridge,2.0666666666666664,Scott,,,,,,,,,
+Scott,HG,1,(HG) Hickory Grove Township,0.4133333333333333,Scott,,,,,,,,,
+Scott,LB,1,(LB) Liberty Township,0.4133333333333333,Scott,,,,,,,,,
+Scott,LC1,4,(LC1) City of LeClaire,1.653333333333333,Scott,,,,,,,,,
+Scott,LC2,4,(LC2) City of LeClaire,1.653333333333333,Scott,,,,,,,,,
+Scott,LCT,2,(LCT) LeClaire Township,0.8266666666666667,Scott,,,,,,,,,
+Scott,LG,2,(LG) City of Long Grove,0.8266666666666667,Scott,,,,,,,,,
+Scott,MC,1,(MC) McCausland,0.4133333333333333,Scott,,,,,,,,,
+Scott,PKV,4,(PKV) Park View,1.653333333333333,Scott,,,,,,,,,
+Scott,PR,2,(PR) Princeton Township,0.8266666666666667,Scott,,,,,,,,,
+Scott,PV,2,(PV) Pleasant Valley,0.8266666666666667,Scott,,,,,,,,,
+Scott,RV,1,(RV) City of Riverdale,0.4133333333333333,Scott,,,,,,,,,
+Scott,WC,3,(WC) Walcott Precinct,1.24,Scott,,,,,,,,,
+Scott,WF,1,(WF) Winfield Township,0.4133333333333333,Scott,,,,,,,,,
+Shelby,10,10,,0.5,Shelby,Harlan 4,706 Victoria St,Harlan,C.G. Therkildsen ActivityCenter,51537,5.0,83.0,MANUAL,HARLAN - WARD 4
+Shelby,2,13,,0.65,Shelby,Cass-Center-Jackson-Lincoln,706 Victoria St,Harlan,C.G. Therkildsen ActivityCenter,51537,5.0,83.0,MANUAL,CASS-CENTER-JACKSON-LINCOLN
+Shelby,3,10,,0.5,Shelby,Clay-Monroe,706Victoria St,Harlan,C.G. Therkildsen Activity Center,51537,5.0,83.0,MANUAL,CLAY-MONROE
+Shelby,4,7,,0.35000000000000003,Shelby,Douglas-Greeley-Jefferson-Polk,706 Victoria St,Harlan,C.G. TherkildsenActivity Center,51537,5.0,83.0,MANUAL,DOUGLAS-GREELEY-JEFFERSON-POLK
+Shelby,5,10,,0.5,Shelby,Fairview-Shelby,706 Victoria St,Harlan,C.G. Therkildsen ActivityCenter,51537,5.0,83.0,MANUAL,FAIRVIEW-SHELBY
+Shelby,6,15,,0.75,Shelby,Grove-Union-Washington-Westphalia,706 Victoria St,Harlan,C.G. TherkildsenActivity Center,51537,5.0,83.0,MANUAL,GROVE-UNION-WASHINGTON-WESTPHALIA
+Shelby,7,10,,0.5,Shelby,Harlan 1,706 Victoria St,Harlan,C.G. Therkildsen ActivityCenter,51537,5.0,83.0,MANUAL,HARLAN - WARD 1
+Shelby,8,12,,0.6000000000000001,Shelby,Harlan 2,706 Victoria St,Harlan,C.G. Therkildsen ActivityCenter,51537,5.0,83.0,MANUAL,HARLAN - WARD 2
+Shelby,9,13,,0.65,Shelby,Harlan 3,706 Victoria St,Harlan,C.G. Therkildsen ActivityCenter,51537,5.0,83.0,MANUAL,HARLAN - WARD 3
+Sioux,AT,7,Alton/Nassau/East Orange,0.6124999999999999,Sioux,,1101 3rd Ave,Alton,Alton Community Building,51003,5.0,84.0,AUTO,Alton Nassau
+Sioux,FL,3,Floyd/Lynn,0.2625,Sioux,,211 Main,Hospers,Hospers Community Building,51238,5.0,84.0,AUTO,Floyd Lynn
+Sioux,GT,3,Grant/Sheridan,0.2625,Sioux,,609 Web St,Boyden,Boyden Public Library,51234,5.0,84.0,AUTO,Grant
+Sioux,HW,12,HW/BC/LG/WA/EG S,1.0499999999999998,Sioux,,803 10th St,Hawarden,Hawarden Library,51023,5.0,84.0,AUTO,Hawarden Buncombe Logan Washington
+Sioux,LN,4,Lincoln,0.35,Sioux,,723 1st St,Hull,Boyden-Hull High School Little Theatre,51239,5.0,84.0,AUTO,Lincoln
+Sioux,OC1,10,OC 1/Holland West,0.875,Sioux,,615 8th St SE,Orange City,MOC/FV High School,51041,5.0,84.0,AUTO,Orange City 1
+Sioux,OC2,11,OC2/Holland E/NS 4-9,0.9625,Sioux,,615 8th St SE,Orange City,MOC/FV High School,51041,5.0,84.0,AUTO,Orange City 2
+Sioux,PL,2,PL/GF/ST/SX/EG N,0.175,Sioux,,1712 20th Ave,Rock Valley,Rock Valley HighSchool,51247,5.0,84.0,AUTO,Plato Garfield Settlers Sioux S 1/2
+Sioux,RD,2,Reading/Center South,0.175,Sioux,,316 Main St,Ireton,Ireton City Office,51027,5.0,84.0,AUTO,Reading
+Sioux,RVE,4,Rock Valley East,0.35,Sioux,,,,,,,,,
+Sioux,RVW,3,Rock Valley West/Rock,0.2625,Sioux,,,,,,,,,
+Sioux,SCC,7,Sioux Center Central,0.6124999999999999,Sioux,,,,,,,,,
+Sioux,SCN,4,SCN/Capel/Welcome,0.35,Sioux,,,,,,,,,
+Sioux,SCS,6,Sioux Center South,0.5249999999999999,Sioux,,,,,,,,,
+Sioux,SM,1,Sherman,0.0875,Sioux,,615 8th St SE,Orange City,MOC/FV High School,51041,5.0,84.0,AUTO,Sherman
+Sioux,WB,1,West Branch/Center North,0.0875,Sioux,,,,,,,,,
+Story,1,6,,2.49,Story,Ames 1-1,3521 Jewel Dr,Ames,Kate Mitchell Gym,50010,4.0,85.0,AUTO,Ames11
+Story,10,9,,3.735,Story,Ames 2-5,1517 Northwestern,Ames,Bethesda Lutheran,50010,4.0,85.0,AUTO,Ames25
+Story,11,9,,3.735,Story,Ames 3-1,3915 Mortensen Rd,Ames,Ames Middle  B112A,50014,4.0,85.0,AUTO,Ames31
+Story,12,5,,2.075,Story,Ames 3-2,3915 Mortensen Rd,Ames,Ames Middle B111A,50014,4.0,85.0,AUTO,Ames32
+Story,13,5,,2.075,Story,Ames 3-3,3915 Mortensen Rd,Ames,Ames Middle E205,50014,4.0,85.0,AUTO,Ames33
+Story,14,8,,3.32,Story,Ames 3-4,3915 Mortensen Rd,Ames,Ames Middle F204,50014,4.0,85.0,AUTO,Ames34
+Story,15,8,,3.32,Story,Ames 3-5,3915 MortensenRd,Ames,Ames Middle F206,50014,4.0,85.0,MANUAL,Ames35
+Story,16,6,,2.49,Story,Ames 4-1,209 Colorado,Ames,St Andrews Church,50014,4.0,85.0,AUTO,Ames41
+Story,17,4,,1.66,Story,Ames 4-2,3915 Mortensen Rd,Ames,Ames Middle G203,50014,4.0,85.0,AUTO,Ames42
+Story,18,5,,2.075,Story,Ames 4-3,209 Colorado,Ames,St Andrews Church,50014,4.0,85.0,AUTO,Ames43
+Story,19,7,,2.905,Story,Ames 4-4,209 Colorado,Ames,St Andrews Church,50014,4.0,85.0,AUTO,Ames44
+Story,2,8,,3.32,Story,Ames 1-2,615 South 16th Street,Ames,Coldwater Golf Links,50010,4.0,85.0,AUTO,Ames12
+Story,20,8,,3.32,Story,Ames 4-5,209 Colorado,Ames,St. Andrews Church,50014,4.0,85.0,AUTO,Ames45
+Story,21,1,,0.415,Story,Collins Twp-Collins,416 4th,Collins,Collins Elementary- Lunch Room,50055,4.0,85.0,AUTO,Collins/Collins Twp
+Story,22,7,,2.905,Story,Franklin Twp-Gilbert,103 Mathews Drive,Gilbert,Gilbert High School Media Center,50105,4.0,85.0,AUTO,Gilbert/Franklin Twp
+Story,23,1,,0.415,Story,Grant Township,56829 U.S. Highway 30,Ames,Cornerstone Church- activity room,50010,4.0,85.0,AUTO,Grant Twp
+Story,24,3,,1.245,Story,Howard Twp-Roland,206 S Main St,Roland,Roland-Story Middle School,50236,4.0,85.0,AUTO,Roland/Howard Twp
+Story,25,6,,2.49,Story,Huxley,400 Metcalf Street,Maxwell,Collins Maxwell Middle School,50161,4.0,85.0,AUTO,Maxwell/Indian Creek Twp
+Story,26,2,,0.83,Story,Indian Creek Twp-Maxwell,111 Grace Street,Kelly,Kelly City Hall - Council Chambers,50134,4.0,85.0,AUTO,Kelley
+Story,27,1,,0.415,Story,Lafayette Township,1009 Story St,Story City,Roland-Story High School,50248,4.0,85.0,AUTO,Story City 2/Lafayette Twp
+Story,28,1,,0.415,Story,Lincoln Twp-Zearing,407 N. Center,Zearing,Colo Nesco Middle School -Lunch,50278,4.0,85.0,MANUAL,Zearing/Lincoln Twp
+Story,29,1,,0.415,Story,Milford Township,56829 Highway 30,Ames,Cornerstone Church- equipping room,50010,4.0,85.0,AUTO,Milford Twp
+Story,3,6,,2.49,Story,Ames 1-3 - Grant Twp 2,515 Douglas,Ames,Ames Public Library,50010,4.0,85.0,AUTO,Ames13
+Story,30,3,,1.245,Story,Nevada 1,825-15th,Nevada,Gates Hall,50201,4.0,85.0,AUTO,Nevada 1
+Story,31,3,,1.245,Story,Nevada 2,825-15th,Nevada,Gates Hall,50201,4.0,85.0,AUTO,Nevada 2
+Story,32,3,,1.245,Story,Nevada 3-Grant Twp 3,825-15th,Nevada,Gates Hall,50201,4.0,85.0,AUTO,Nevada 3
+Story,33,3,,1.245,Story,Nevada 4,825-15th,Nevada,Gates Hall,50201,4.0,85.0,AUTO,Nevada 4
+Story,34,1,,0.415,Story,Nevada Township,825-15th,Nevada,Gates Hall,50201,4.0,85.0,AUTO,Nevada Twp
+Story,35,2,,0.83,Story,New Albany Twp-Colo,919 West Street,Colo,Colo Nesco High School,50056,4.0,85.0,AUTO,Colo/New Albany Twp
+Story,36,1,,0.415,Story,Palestine Township,515 N. Main,Huxley,Huxley Community Center,50124,4.0,85.0,AUTO,Huxley/Palestine 1 Twp
+Story,37,1,,0.415,Story,Richland Township,301 Tama,Slater,Senior Center,50244,4.0,85.0,AUTO,Slater/Sheldahl/Palestine 2twp
+Story,38,1,,0.415,Story,Sherman Township,825-15th,Nevada,Gates Hall,50201,4.0,85.0,AUTO,Richland Twp
+Story,39,3,,1.245,Story,Slater-Sheldahl-Pal 2,919 West Street,Colo,Colo Nesco High School,50056,4.0,85.0,AUTO,Sherman Twp
+Story,4,8,,3.32,Story,Ames 1-4,1921 Ames High Drive,Ames,Ames High School Multi-Purpose Rm,50010,4.0,85.0,AUTO,Ames14
+Story,40,6,,2.49,Story,Story City,1009 Story St,Story City,Roland-Story High School,50248,4.0,85.0,AUTO,Story City 1
+Story,41,2,,0.83,Story,Union Twp-Cambridge,222 Water St.,Cambridge,Legion House of Knowledge,50046,4.0,85.0,AUTO,Cambridge/Union Twp
+Story,42,1,,0.415,Story,Warren Twp-McCallsburg,400 Latrobe,McCallsburg,Colo Nesco Elementary School-  Lunch room,50154,4.0,85.0,AUTO,Mccallsburg/Warren Twp
+Story,43,2,,0.83,Story,Washington Twp-Kelley,3915 Mortensen Rd,Ames,Ames Middle School - VocalMusic,50014,4.0,85.0,AUTO,Washington 1 Twp
+Story,5,9,,3.735,Story,Ames 1-5,300 20thStreet,Ames,Meeker Gym,50010,4.0,85.0,MANUAL,Ames15
+Story,6,10,,4.15,Story,Ames 2-1,1921 Ames High Drive,Ames,Ames High Band Room 1,50010,4.0,85.0,AUTO,Ames21
+Story,7,7,,2.905,Story,Ames 2-2,1921 Ames High Drive,Ames,Ames High Band Room 2,50010,4.0,85.0,AUTO,Ames22
+Story,8,8,,3.32,Story,Ames 2-3,1400 Mckinley Drive,Ames,Fellows Gym,50010,4.0,85.0,AUTO,Ames23
+Story,9,9,,3.735,Story,Ames 2-4,3611 Eisenhower Dr.,Ames,Stonebrook Church,50010,4.0,85.0,AUTO,Ames24
+Tama,CB/TM,16,COLUMBIA/TAMA,2.0705882352941183,Tama,,,,,,,,,
+Tama,CK/GE,9,CLARK/GENESEO,1.1647058823529413,Tama,,320 Main,Dysart,Norma Anders Library,52224,3.0,86.0,AUTO,Clark Geneseo
+Tama,CRONNOC,3,CARROLL/ONEIDA/N OTTER CR,0.3882352941176471,Tama,,,,,,,,,
+Tama,CT,4,CARLTON,0.5176470588235295,Tama,,306 Park St.,Garwin,Garwin School,50632,3.0,86.0,AUTO,Carlton
+Tama,GR,1,GRANT,0.12941176470588234,Tama,,212 North Main,Traer,North Tama Activity Center,50675,3.0,86.0,AUTO,Grant
+Tama,H/TL,5,HOWARD/TOLEDO,0.6470588235294118,Tama,,,,,,,,,
+Tama,HL/IV/T,4,HIGHLAND/INDIAN VILLAGE,0.5176470588235295,Tama,,,,,,,,,
+Tama,IS,9,INDIAN SETTLEMENT,1.1647058823529413,Tama,,1007 Prospect Drive,Toledo,Reinig Community Center,52342,3.0,86.0,AUTO,Indian Settlement
+Tama,LI,1,LINCOLN,0.12941176470588234,Tama,,No Address,Lincoln,Lincoln Fire Station,50652,3.0,86.0,AUTO,Lincoln
+Tama,PY/CY/B,10,PERRY/BUCKINGHAM/E CRYSTA,1.2941176470588236,Tama,,212 North Main,Traer,North Tama Activity Center,50675,3.0,86.0,AUTO,Perry E Crystal Buckingham
+Tama,RL/ST,3,RICHLAND/SALT CREEK,0.3882352941176471,Tama,,707 Station St.,Chelsea,Chelsea Fire Station,52215,3.0,86.0,AUTO,Richland Salt Creek
+Tama,SOC,1,S. OTTER CREEK,0.12941176470588234,Tama,,,,,,,,,
+Tama,SP/WC,6,SPRING CREEK/W CRYSTAL,0.7764705882352942,Tama,,319 2nd St.,Gladbrook,Gladbrook Community Center,50635,3.0,86.0,AUTO,Spring Creek West Crystal
+Tama,TLCITY,11,TOLEDO CITY,1.4235294117647062,Tama,,,,,,,,,
+Tama,YK,2,YORK,0.25882352941176473,Tama,,No Address,Vining,Vining City Hall,52348,3.0,86.0,AUTO,York
+Taylor,3TWNSHP,3,7-3 Legion,0.30000000000000004,Taylor,,,,,,,,,
+Taylor,BECITY,6,6-3 City of Bedford,0.6000000000000001,Taylor,,,,,,,,,
+Taylor,BK,2,1-1 Blockton,0.2,Taylor,,906 Penn. Street,Bedford,Bedford Elementary School Library,50833,5.0,87.0,AUTO,Blockton Jefferson Gay Athelstan
+Taylor,CF,2,2-1 Clearfield,0.2,Taylor,,Main Street,Lenox,Bender Insurance Office Meeting Room,50851,5.0,87.0,AUTO,Clearfield Grant
+Taylor,GRAVITY,2,3-1 Gravity,0.2,Taylor,,,,,,,,,
+Taylor,LX,11,5-2 Lenox,1.1,Taylor,,,,,,,,,
+Taylor,NM,4,4-1 New Market,0.4,Taylor,,906 Penn. Street,Bedford,Bedford Elementary School Library,50833,5.0,87.0,AUTO,New Market N Polk Mason S Dallas
+Union,AF,9,Afton,0.6749999999999999,Union,,115 East Kansas,Afton,Afton City Hall,50830,5.0,88.0,AUTO,Afton
+Union,AR,2,Arispe,0.15,Union,,2295 Pole Road,Creston,Ted & Dawn Ide Residence,50801,5.0,88.0,AUTO,Arispe
+Union,CS1,10,Creston 1,0.75,Union,,800 Laurel Street & Hwy 34,Creston,Supertel Motel,50801,5.0,88.0,AUTO,Creston Pct 1
+Union,CS2,18,Creston 2 - SWCC,1.35,Union,,800 Laurel Street & Hwy 34,Creston,Supertel Motel,50801,5.0,88.0,AUTO,Creston Pct 2
+Union,CS3,13,Creston 3,0.975,Union,,800 Laurel Street & Hwy 34,Creston,Supertel Motel,50801,5.0,88.0,AUTO,Creston Pct 3
+Union,CS4,11,Creston 4 - Supertel,0.825,Union,,800 Laurel Street & Hwy 34,Creston,Supertel Motel,50801,5.0,88.0,AUTO,Creston Pct 4
+Union,CS5,13,Creston 5,0.975,Union,,800 Laurel Street & Hwy 34,Creston,Supertel Motel,50801,5.0,88.0,AUTO,Creston Pct 5
+Union,LR,4,Lorimor,0.3,Union,,Main Street,Lorimer,Lorimer City Hall,,5.0,88.0,AUTO,Lorimor
+Van Buren,BI,4,Birmingham,0.4,Van Buren,,131 East Cedar,Birmingham,Birmingham Fire Station,52535,2.0,89.0,AUTO,Birmingham Pct
+Van Buren,BO,4,Bonaparte,0.4,Van Buren,,614 1st Street,Bonaparte,Bonaparte Opera House,52620,2.0,89.0,AUTO,Bonaparte Pct
+Van Buren,CN,2,Cantril,0.2,Van Buren,,104 W 3rd St.,Cantril,Cantril City Hall,52542,2.0,89.0,AUTO,Cantril Pct
+Van Buren,DO,3,Douds,0.30000000000000004,Van Buren,,14159 Hwy 98,Douds,Douds Community Center,52551,2.0,89.0,AUTO,Douds Pct
+Van Buren,FM,4,Farmington,0.4,Van Buren,,201 N. 4th St.,Farmington,Farmington Community Center,52626,2.0,89.0,AUTO,Farmington Pct
+Van Buren,KE,10,Keosauqua,1.0,Van Buren,,801 Front Street,Keosauqua,Keosauqua Senior Center,52565,2.0,89.0,AUTO,Keosauqua Pct
+Van Buren,ML,2,Milton,0.2,Van Buren,,301 North Main Street,Milton,Heritage House,52570,2.0,89.0,AUTO,Milton Pct
+Van Buren,SP,1,Stockport,0.1,Van Buren,,110 UnionStreet,Stockport,Stockport Fire Station,52651,2.0,89.0,MANUAL,Stockport Pct
+Wapello,AD,6,Adams/Blakesburg/Polk,0.54,Wapello,,501 East 2nd Street,Ottumwa,Ottumwa HighSchool,52501,2.0,90.0,MANUAL,"Adams Twp, Blakesurg City, Po"
+Wapello,AG,8,Agency/Agency/Pleasant,0.72,Wapello,,501 East 2nd Street,Ottumwa,Ottumwa HighSchool,52501,2.0,90.0,MANUAL,"Agency City, Twp, Pleasant Twp"
+Wapello,CB,5,Columbia/Eddyville,0.45,Wapello,,501 East2nd Street,Ottumwa,Ottumwa High School,52501,2.0,90.0,MANUAL,Columbia Township
+Wapello,CN,8,Center Twp,0.72,Wapello,,501 East 2nd Street,Ottumwa,Ottumwa High School,52501,2.0,90.0,AUTO,Center Township
+Wapello,CP,1,Competine Twp,0.09,Wapello,,,,,,,,,
+Wapello,CS,1,Cass/Chillicothe,0.09,Wapello,,501 East 2nd Street,Ottumwa,Ottumwa High School,52501,2.0,90.0,AUTO,Cass Township
+Wapello,DA,3,Dahlonega Twp,0.27,Wapello,,501 East 2nd Street,Ottumwa,Ottumwa High School,52501,2.0,90.0,AUTO,Dahlonega Township
+Wapello,GR,4,Green Twp,0.36,Wapello,,501 East 2ndStreet,Ottumwa,Ottumwa High School,52501,2.0,90.0,MANUAL,Green Township
+Wapello,HI,1,Highland Twp,0.09,Wapello,,501 East 2nd Street,Ottumwa,Ottumwa High School,52501,2.0,90.0,AUTO,"Highland Twp, Competine Twp"
+Wapello,KE,4,Keokuk Twp,0.36,Wapello,,501 East 2nd Street,Ottumwa,Ottumwa High School,52501,2.0,90.0,AUTO,Keokuk Township
+Wapello,OT01,14,Ottumwa Pct 01,1.26,Wapello,,501 East 2nd Street,Ottumwa,Ottumwa High School,52501,2.0,90.0,AUTO,Ottumwa 1
+Wapello,OT02,20,Ottumwa Pct 02,1.7999999999999998,Wapello,,501 East 2nd Street,Ottumwa,Ottumwa High School,52501,2.0,90.0,AUTO,Ottumwa 2
+Wapello,OT03,22,Ottumwa Pct 03,1.98,Wapello,,501 East 2nd Street,Ottumwa,Ottumwa High School,52501,2.0,90.0,AUTO,Ottumwa 3
+Wapello,OT04,11,Ottumwa Pct 04,0.99,Wapello,,501 East 2ndStreet,Ottumwa,Ottumwa High School,52501,2.0,90.0,MANUAL,Ottumwa 4
+Wapello,OT05,12,Ottumwa Pct 05,1.08,Wapello,,501 East 2nd Street,Ottumwa,Ottumwa High School,52501,2.0,90.0,AUTO,Ottumwa 5
+Wapello,OT06,12,Ottumwa Pct 06,1.08,Wapello,,501 East 2nd Street,Ottumwa,Ottumwa High School,52501,2.0,90.0,AUTO,Ottumwa 6
+Wapello,OT07,12,Ottumwa Pct 07,1.08,Wapello,,501 East 2nd Street,Ottumwa,Ottumwa High School,52501,2.0,90.0,AUTO,Ottumwa 7
+Wapello,OT08,13,Ottumwa Pct 08,1.17,Wapello,,501 East 2nd Street,Ottumwa,Ottumwa High School,52501,2.0,90.0,AUTO,Ottumwa 8
+Wapello,OT09,19,Ottumwa Pct 09,1.71,Wapello,,501 East 2nd Street,Ottumwa,Ottumwa High School,52501,2.0,90.0,AUTO,Ottumwa 9
+Wapello,OT10,15,Ottumwa Pct 10,1.35,Wapello,,501 East 2ndStreet,Ottumwa,Ottumwa High School,52501,2.0,90.0,MANUAL,Ottumwa 10
+Wapello,RL,3,Richland/Kirkville,0.27,Wapello,,501 East 2nd Street,Ottumwa,Ottumwa High School,52501,2.0,90.0,AUTO,Richland Township
+Wapello,WA,6,Washington/Eldon,0.54,Wapello,,501 East 2nd Street,Ottumwa,Ottumwa High School,52501,2.0,90.0,AUTO,Washington Township
+Warren,AL2,6,ALLEN 2,1.4,Warren,,430 School Street,Carlisle,Carlise High School Media Room,50047,4.0,91.0,AUTO,Allen 2
+Warren,AL3,8,ALLEN 3,1.8666666666666667,Warren,,,,,,,,,
+Warren,BM,1,BELMONT TWP,0.2333333333333333,Warren,,Main St.,Milo,Legion Hall,50166,4.0,91.0,AUTO,Belmont
+Warren,CM WDM,2,CUMMING/ WDM,0.4666666666666667,Warren,,,,,,,,,
+Warren,GR1,5,GREENFIELD 1 TWP,1.1666666666666667,Warren,,996 County LineRoad,Greenfield,Grace Baptist Church,50849,4.0,91.0,MANUAL,Greenfield 1
+Warren,GR1DM85,6,GREENFIELD 1/ DM85,1.4,Warren,,,,,,,,,
+Warren,GR1DM86,1,GR1-DM86 CITY,0.2333333333333333,Warren,,,,,,,,,
+Warren,GR2LC2,7,GREENFIELD 2/ LINCOLN 2,1.6333333333333333,Warren,,,,,,,,,
+Warren,IN1,5,INDIANOLA 1,1.1666666666666667,Warren,,1304 East 1st Av.,Indianola,Indianola High School Media Center,51025,4.0,91.0,AUTO,Indianola 1
+Warren,IN2,9,INDIANOLA 2,2.1,Warren,,West Clinton Avenue,Indianola,Simpson College- Carver Science Hall,51025,4.0,91.0,AUTO,Indianola 2
+Warren,IN3,5,INDIANOLA 3,1.1666666666666667,Warren,,1306 W. Salem Av.,Indianola,Whittier Elementary School- Multi Purpose Room,51025,4.0,91.0,AUTO,Indianola 3
+Warren,IN4,11,INDIANOLA 4,2.566666666666667,Warren,,1304 East 1st Av.,Indianola,Indianola High School Media Center,51025,4.0,91.0,AUTO,Indianola 4
+Warren,IN5,6,INDIANOLA 5,1.4,Warren,,,,,,,,,
+Warren,IN6,5,INDIANOLA 6,1.1666666666666667,Warren,,,,,,,,,
+Warren,IN7,9,INDIANOLA 7,2.1,Warren,,,,,,,,,
+Warren,JF,4,JEFFERSON,0.9333333333333332,Warren,,Highway 28 and Hoover Street,Martensdale,Martensdale Community Church,50160,4.0,91.0,AUTO,Jefferson
+Warren,JK,3,JACKSON,0.7,Warren,,Highway 28 and Hoover Street,Martensdale,Martensdale Community Church,50160,4.0,91.0,AUTO,Jackson
+Warren,LB,1,LIBERTY TWP,0.2333333333333333,Warren,,16331 Tyler Street,Liberty Center,Southeast Warren High School,50145,4.0,91.0,AUTO,Liberty
+Warren,LC1,2,LINCOLN TWP,0.4666666666666667,Warren,,,,,,,,,
+Warren,NW1,8,NORWALK 1,1.8666666666666667,Warren,,1201 North Ave.,Norwalk,Norwalk Middle School Cafeteria,50211,4.0,91.0,AUTO,Norwalk 1
+Warren,NW2 GR1,7,NORWALK 2/ GREENFIELD,1.6333333333333333,Warren,,,,,,,,,
+Warren,NW3 LN,12,NORWALK 3/ LINN,2.8,Warren,,,,,,,,,
+Warren,NWK4,10,NORWALK 4 CITY,2.333333333333333,Warren,,,,,,,,,
+Warren,OT ML,4,OTTER/ MILO,0.9333333333333332,Warren,,,,,,,,,
+Warren,PM,1,PALMYRA TWP,0.2333333333333333,Warren,,500 N Vine Street,Hartford,Hartford Elementary School,50118,4.0,91.0,AUTO,Palmyra
+Warren,RL,3,RICHLAND/ PALMYRA,0.7,Warren,,500 N Vine Street,Hartford,Hartford Elementary School,50118,4.0,91.0,AUTO,Richland
+Warren,SQC,2,SQUAW CREEK TWP,0.4666666666666667,Warren,,,,,,,,,
+Warren,UN,1,UNION,0.2333333333333333,Warren,,6645 Iowa Street,Sandyville,Sandyville Community Center,50001,4.0,91.0,AUTO,Union
+Warren,VA,2,VIRGINIA,0.4666666666666667,Warren,,No Address,New Virginia,New Virginia Legion Hall,50210,4.0,91.0,AUTO,Virginia
+Warren,WB,1,WHITE BREAST,0.2333333333333333,Warren,,104 North Washington Av.,Lacona,Lacona Community Center,50139,4.0,91.0,AUTO,White Breast
+Warren,WHO,3,WHITE OAK TWP,0.7,Warren,,,,,,,,,
+Washington,AW,8,Ainsworth,1.4857142857142858,Washington,,,,,,,,,
+Washington,BMC,5,Brighton/Marion/Crawford,0.9285714285714286,Washington,,,,,,,,,
+Washington,KA,9,Kalona,1.6714285714285717,Washington,,,,,,,,,
+Washington,RS,7,Riverside,1.3,Washington,,,,,,,,,
+Washington,WC,3,West Chester,0.5571428571428572,Washington,,,,,,,,,
+Washington,WL,9,Wellman,1.6714285714285717,Washington,,,,,,,,,
+Washington,WS1,6,Washington Ward 1,1.1142857142857143,Washington,,,,,,,,,
+Washington,WS2,7,Washington Ward 2,1.3,Washington,,,,,,,,,
+Washington,WS3,8,Washington Ward 3,1.4857142857142858,Washington,,,,,,,,,
+Washington,WS4,8,Washington Ward 4,1.4857142857142858,Washington,,,,,,,,,
+Wayne,A01,8,A-01 Allerton-Clio-Lineville,0.6,Wayne,,,,,,,,,
+Wayne,C02,13,C-02 Corydon,0.975,Wayne,,,,,,,,,
+Wayne,H03,10,H-03 Humeston-Millerton,0.75,Wayne,,,,,,,,,
+Wayne,S04,9,S-04 Seymour-Promise City,0.6749999999999999,Wayne,,,,,,,,,
+Webster,1,19,Fort Dodge 01,1.5833333333333333,Webster,,819 zn. 25th Street,Fort Dodge,Fort Dodge Senior High School,50501,4.0,94.0,AUTO,Fd #1
+Webster,10,15,Fort Dodge 10,1.25,Webster,,819 zn. 25th Street,Fort Dodge,Fort Dodge Senior High School,50501,4.0,94.0,AUTO,Fd #10
+Webster,11,18,Fort Dodge 11,1.5,Webster,,819 zn. 25th Street,Fort Dodge,Fort Dodge Senior High School,50501,4.0,94.0,AUTO,Fd #11
+Webster,12,14,Fort Dodge 12,1.1666666666666663,Webster,,819 zn. 25th Street,Fort Dodge,Fort Dodge Senior High School,50501,4.0,94.0,AUTO,Fd #12
+Webster,2,16,Fort Dodge 02,1.3333333333333333,Webster,,819 zn. 25th Street,Fort Dodge,Fort Dodge Senior High School,50501,4.0,94.0,AUTO,Fd #2
+Webster,3,13,Fort Dodge 03,1.0833333333333333,Webster,,819 zn. 25th Street,Fort Dodge,Fort Dodge Senior High School,50501,4.0,94.0,AUTO,Fd #3
+Webster,4,14,Fort Dodge 04,1.1666666666666663,Webster,,819 zn. 25th Street,Fort Dodge,Fort Dodge Senior High School,50501,4.0,94.0,AUTO,Fd #4
+Webster,5,9,Fort Dodge 05,0.75,Webster,,819 zn. 25th Street,Fort Dodge,Fort Dodge Senior High School,50501,4.0,94.0,AUTO,Fd #5
+Webster,6,6,Fort Dodge 06,0.5,Webster,,819 zn. 25th Street,Fort Dodge,Fort Dodge Senior High School,50501,4.0,94.0,AUTO,Fd #6
+Webster,7,14,Fort Dodge 07,1.1666666666666663,Webster,,819 zn. 25th Street,Fort Dodge,Fort Dodge Senior High School,50501,4.0,94.0,AUTO,Fd #7
+Webster,8,13,Fort Dodge 08,1.0833333333333333,Webster,,819 zn. 25th Street,Fort Dodge,Fort Dodge Senior High School,50501,4.0,94.0,AUTO,Fd #8
+Webster,9,13,Fort Dodge 09,1.0833333333333333,Webster,,819 zn. 25th Street,Fort Dodge,Fort Dodge Senior High School,50501,4.0,94.0,AUTO,Fd #9
+Webster,BD/NWC,9,Badger-NW Cooper,0.75,Webster,,,,,,,,,
+Webster,CD,4,Colfax-Duncombe,0.3333333333333333,Webster,,819 zn. 25th Street,Fort Dodge,Fort Dodge Senior High School,50501,4.0,94.0,AUTO,Colfax-Duncombe Township
+Webster,CP,2,Cooper,0.16666666666666666,Webster,,,,,,,,,
+Webster,CR,3,Clay-Roland,0.25,Webster,,819 zn. 25th Street,Fort Dodge,Fort Dodge Senior High School,50501,4.0,94.0,AUTO,Clay-Roland Township
+Webster,DA/BU,9,Dayton-Burnside,0.75,Webster,,819 zn. 25th Street,Fort Dodge,Fort Dodge Senior High School,50501,4.0,94.0,AUTO,Dayton-Burnside Township
+Webster,DJ,4,Deer Creek-Jackson,0.3333333333333333,Webster,,819 zn. 25th Street,Fort Dodge,Fort Dodge Senior High School,50501,4.0,94.0,AUTO,Deer Creek-Jackson Township
+Webster,DO,8,Douglas,0.6666666666666666,Webster,,819 zn. 25th Street,Fort Dodge,Fort Dodge Senior High School,50501,4.0,94.0,AUTO,Douglas Township
+Webster,EL,5,Elkhorn,0.4166666666666666,Webster,,819 zn. 25th Street,Fort Dodge,Fort Dodge Senior High School,50501,4.0,94.0,AUTO,Elkhorn Township
+Webster,FU,2,Fulton,0.16666666666666666,Webster,,819zn. 25th Street,Fort Dodge,Fort Dodge Senior High School,50501,4.0,94.0,MANUAL,Fulton Township
+Webster,GO,7,Gowrie,0.5833333333333333,Webster,,819 zn. 25th Street,Fort Dodge,Fort Dodge Senior High School,50501,4.0,94.0,AUTO,Gowrie Township
+Webster,JO,3,Johnson,0.25,Webster,,819 zn. 25th Street,Fort Dodge,Fort Dodge Senior High School,50501,4.0,94.0,AUTO,Johnson Township
+Webster,LG,2,Lost Grove,0.16666666666666666,Webster,,819 zn. 25th Street,Fort Dodge,Fort Dodge Senior High School,50501,4.0,94.0,AUTO,Lost Grove Township
+Webster,NE,2,Newark,0.16666666666666666,Webster,,819 zn. 25th Street,Fort Dodge,Fort Dodge Senior High School,50501,4.0,94.0,AUTO,Newark Township
+Webster,OT/PV,9,Otho-Pleasant Valley,0.75,Webster,,,,,,,,,
+Webster,SWYH,5,Sumner-Webster-Yell-Hardi,0.4166666666666666,Webster,,819 zn. 25th Street,Fort Dodge,Fort Dodge Senior High School,50501,4.0,94.0,AUTO,Sumner-Webster-Yell-Hardin Township
+Webster,WA,2,Washington,0.16666666666666666,Webster,,,,,,,,,
+Winnebago,BUGRLC,5,Buffalo Grant Lincoln,0.75,Winnebago,,,,,,,,,
+Winnebago,CENTER,10,Center,1.5,Winnebago,,,,,,,,,
+Winnebago,EDLONO,2,Eden Logan Norway,0.3,Winnebago,,102 S 4th Ave E,Lake Mills,Lake Mills High School,50450,4.0,95.0,AUTO,Eden Logan Norway Precinct
+Winnebago,FC 1,5,Forest City Ward 1,0.75,Winnebago,,206 West School St,Forest City,Forest City High School,50436,4.0,95.0,AUTO,Forest City Ward 1 Precinct
+Winnebago,FC 2,4,Forest City Ward 2,0.6,Winnebago,,206 West School St,Forest City,Forest City High School,50436,4.0,95.0,AUTO,Forest City Ward 2 Precinct
+Winnebago,FC 4,3,Forest City Ward 3,0.45,Winnebago,,206 West School St,Forest City,Forest City HighSchool,50436,4.0,95.0,MANUAL,Forest City Ward 4 Precinct
+Winnebago,FC3D3,4,Forest City Ward 4,0.6,Winnebago,,206 West School St,Forest City,Forest City High School,50436,4.0,95.0,AUTO,FC3 Forest D3 Precinct
+Winnebago,KILI,2,King Linden,0.3,Winnebago,,"111 3rd Ave, NW",Buffalo Center,Noth Iowa High School,50424,4.0,95.0,AUTO,King Linden Precinct
+Winnebago,MVFOD2,2,Mt. Valley,0.3,Winnebago,,206 West School St,Forest City,Forest City High School,50436,4.0,95.0,AUTO,Mt. Valley Forest D2 Precinct
+Winnebago,NEFOD1,3,Newton Forest,0.45,Winnebago,,206 West School St,Forest City,Forest City High School,50436,4.0,95.0,AUTO,Newton Forest D1 Precinct
+Winneshiek,1,7,PCT 01 - HE/HI/PL,0.8959999999999999,Winneshiek,,3495 N. Winn Rd,Decorah,North Winneshiek School - Cafeteria,52101,4.0,96.0,AUTO,Bluffton Burr Oak Canoe Hesper Highland Pleasant
+Winneshiek,10,6,PCT 10 - JA/SU/WA,0.768,Winneshiek,,210 Vernon Street,Decorah,Carrie Lee Elementary School,52101,4.0,96.0,AUTO,Decorah 2nd Ward
+Winneshiek,11,1,PCT 11- DESUP5 (Decorah Twp Sup 5),0.128,Winneshiek,,210 Vernon Street,Decorah,Carrie Lee ElementarySchool,52101,4.0,96.0,MANUAL,Decorah 3A Ward
+Winneshiek,2,22,PCT 02 - FR/GL/DEW3/ DETSUP1,2.8160000000000003,Winneshiek,,435 County St.,Ridgeway,Ridgeway School,52165,4.0,96.0,AUTO,Fremont Lincoln (RI) Orleans Sumner
+Winneshiek,3,18,PCT 03 - DEW1/DETSUP2,2.3040000000000003,Winneshiek,,435 County St.,Ridgeway,Ridgeway School,52165,4.0,96.0,AUTO,Madison
+Winneshiek,4,16,PCT 04 - DEW2 (Decorah Ward 2),2.048,Winneshiek,,203 W South Street,Calmar,South Winneshiek School - Cafeteria,52132,4.0,96.0,AUTO,Calmar Twp (CA) (SP)
+Winneshiek,5,17,PCT 05 - CN/DEW4/ DETSUP3,2.176,Winneshiek,,203 W South Street,Calmar,South Winneshiek School - Cafeteria,52132,4.0,96.0,AUTO,Jackson Washington (JJ) (FA)
+Winneshiek,6,13,PCT 06 - DEW5 (Decorah Ward 5),1.664,Winneshiek,,203 W South Street,Calmar,South Winneshiek School - Cafeteria,52132,4.0,96.0,AUTO,Military (OS)
+Winneshiek,7,10,PCT 07 - CA/SP,1.28,Winneshiek,,1725 Washington Praire Rd,Decorah,Washington Prairie Church,52101,4.0,96.0,AUTO,Bloomfield (CS) Frankville Glenwood
+Winneshiek,8,6,PCT 08 - MI/BLM,0.768,Winneshiek,,210 Vernon Street,Decorah,Carrie Lee Elementary School,52101,4.0,96.0,AUTO,"Decorah Twp, Springfield"
+Winneshiek,9,9,PCT 09 - BLF/BO/FR/LI/MA/ OR,1.152,Winneshiek,,210 Vernon Street,Decorah,Carrie Lee Elementary School,52101,4.0,96.0,AUTO,Decorah 1st Ward
+Woodbury,1,8,Sioux City 01,1.7,Woodbury,,2101 Outer Dr. N.,Sioux City,North Middle School,51108,5.0,97.0,AUTO,01 Sioux City
+Woodbury,10,8,Sioux City 10,1.7,Woodbury,,2101 Outer Dr. N.,Sioux City,North Middle School,51108,5.0,97.0,AUTO,10 Sioux City
+Woodbury,11,4,Sioux City 11,0.85,Woodbury,,5011 Mayhew Ave,Sioux City,East High School,51106,5.0,97.0,AUTO,11 Sioux City
+Woodbury,12,9,Sioux City 12,1.9125,Woodbury,,2101 Outer Dr. N.,Sioux City,North Middle School,51108,5.0,97.0,AUTO,12 Sioux City
+Woodbury,13,4,Sioux City 13,0.85,Woodbury,,5011 Mayhew Ave,Sioux City,East High School,51106,5.0,97.0,AUTO,13 Sioux City
+Woodbury,14,6,Sioux City 14,1.275,Woodbury,,2101 Outer Dr. N.,Sioux City,North Middle School,51108,5.0,97.0,AUTO,14 Sioux City
+Woodbury,15,7,Sioux City 15,1.4875,Woodbury,,2101 Outer Dr. N.,Sioux City,North Middle School,51108,5.0,97.0,AUTO,15 Sioux City
+Woodbury,16,7,Sioux City 16,1.4875,Woodbury,,2101 Outer Dr. N.,Sioux City,North Middle School,51108,5.0,97.0,AUTO,16 Sioux City
+Woodbury,17,9,Sioux City 17,1.9125,Woodbury,,2101 Outer Dr. N.,Sioux City,North Middle School,51108,5.0,97.0,AUTO,17 Sioux City
+Woodbury,18,8,Sioux City 18,1.7,Woodbury,,2101 Outer Dr. N.,Sioux City,North Middle School,51108,5.0,97.0,AUTO,18 Sioux City
+Woodbury,19,9,Sioux City 19,1.9125,Woodbury,,2101 Outer Dr. N.,Sioux City,North Middle School,51108,5.0,97.0,AUTO,19 Sioux City
+Woodbury,2,8,Sioux City 02,1.7,Woodbury,,2101 Outer Dr. N,Sioux City,North Middle School,51108,5.0,97.0,AUTO,02 Sioux City
+Woodbury,20,5,Sioux City 20,1.0625,Woodbury,,5011 Mayhew Ave,Sioux City,East High School,51106,5.0,97.0,AUTO,20 Sioux City
+Woodbury,21,7,Sioux City 21,1.4875,Woodbury,,5011 Mayhew Ave,Sioux City,East High School,51106,5.0,97.0,AUTO,21 Sioux City
+Woodbury,22,8,Sioux City 23,1.7,Woodbury,,5011 Mayhew Ave,Sioux City,East High School,51106,5.0,97.0,AUTO,22 Sioux City
+Woodbury,23,7,Woodbury 22,1.4875,Woodbury,,5011 Mayhew Ave,Sioux City,East High School,51106,5.0,97.0,AUTO,23 Sioux City
+Woodbury,24,7,Woodbury 24,1.4875,Woodbury,,5011 Mayhew Ave,Sioux City,East High School,51106,5.0,97.0,AUTO,24 Sioux City
+Woodbury,25,7,Woodbury 25,1.4875,Woodbury,,5011 Mayhew Ave,Sioux City,East High School,51106,5.0,97.0,AUTO,25 Sioux City
+Woodbury,26,8,Woodbury 26,1.7,Woodbury,,5011 Mayhew Ave,Sioux City,East High School,51106,5.0,97.0,AUTO,26 Sioux City
+Woodbury,27,8,Woodbury 27,1.7,Woodbury,,5011 Mayhew Ave,Sioux City,East High School,51106,5.0,97.0,AUTO,27 Sioux City
+Woodbury,28,13,Woodbury 28,2.7625,Woodbury,,5011 Mayhew Ave,Sioux City,East High School,51106,5.0,97.0,AUTO,28 Sioux City
+Woodbury,29,7,29 Sergeant Bluff East/ Woodbury,1.4875,Woodbury,,708 Warrior Rd,Sergeant Bluff,Sgt Bluff HS,51054,5.0,97.0,AUTO,29 Woodbury
+Woodbury,3,8,Sioux City 03,1.7,Woodbury,,2101 Outer Dr. N,Sioux City,North Middle School,51108,5.0,97.0,AUTO,03 Sioux City
+Woodbury,30,6,30 Sergeant Bluff West,1.275,Woodbury,,423 Evans,Sloan,Sloan Town Hall,57055,5.0,97.0,AUTO,30 Sloan (City)
+Woodbury,31,3,31 Salix/Liberty/Lakeport,0.6375,Woodbury,,306 Main Street,Hornick,Hornick Legion Hall,51026,5.0,97.0,AUTO,31 Willow
+Woodbury,32,2,32 Bronson/Floyd/Grange,0.425,Woodbury,,401 E. Bridge St.,Anthon,United Methodist Church of Anthon,51004,5.0,97.0,AUTO,32 Oto (City)
+Woodbury,33,1,33-Pierson/Rutland,0.2125,Woodbury,,321 4th St.,Pierson,Kingsley-Pierson Middle School,51048,5.0,97.0,AUTO,33 Rutland
+Woodbury,34,2,34 Correctionville/Kedron/Union,0.425,Woodbury,,708 Warrior Rd,Sergeant Bluff,Sgt Bluff HS,51054,5.0,97.0,AUTO,34 Sergeant Bluff (City)
+Woodbury,35,5,35 Moville/Arlington/Wolf Creek,1.0625,Woodbury,,815 Main St.,Moville,Moville Area Community Center,51039,5.0,97.0,AUTO,35 Arl/Mov/Wol
+Woodbury,36,2,36 Lawton/Banner,0.425,Woodbury,,300 Cedar Street,Lawton,Friendship Center,51030,5.0,97.0,AUTO,36 Ban/Con
+Woodbury,37,1,37 Climbing Hill/Grant/West Fork,0.2125,Woodbury,,115 W. 1st St,Bronson,Bronson Elementary School,51007,5.0,97.0,AUTO,37 Floyd
+Woodbury,38,2,38 Sloan,0.425,Woodbury,,603 Poplar St.,Salix,Salix Community United Methodist Church,51052,5.0,97.0,AUTO,38 Grg/Lib/Lak
+Woodbury,39,1,39 Hornick/Willow,0.2125,Woodbury,,77 Deer Run Trail,Climbing Hill,The Barn,51015,5.0,97.0,AUTO,39 Grt/Wes
+Woodbury,4,5,Sioux City 04,1.0625,Woodbury,,2101 Outer Dr.N,Sioux City,North Middle School,51108,5.0,97.0,MANUAL,04 Sioux City
+Woodbury,40,1,40 Anthon/Miller,0.2125,Woodbury,,916 Hackberry,Correctionville,River Valley Community School,51016,5.0,97.0,AUTO,40 Union
+Woodbury,41,1,41 Danbury/Liston/Morgan,0.2125,Woodbury,,202 Main St.,Danbury,First State Bank,51019,5.0,97.0,AUTO,41 Lis/Mor
+Woodbury,42,1,42 Smithland/Little Sioux,0.2125,Woodbury,,3102 Hwy 141,Smithland,Adlene Bromander home,51056,5.0,97.0,AUTO,42 Little Sioux
+Woodbury,43,1,43 Oto/Oto Township,0.2125,Woodbury,,401 E. Bridge St,Anthon,United Methodist Church of Anthon,51004,5.0,97.0,AUTO,43 Ked/Mil
+Woodbury,44,1,44 Cushing/Rock,0.2125,Woodbury,,916 Hackberry,Correctionville,River Valley Community School,51016,5.0,97.0,AUTO,44 Rock
+Woodbury,5,8,Sioux City 05,1.7,Woodbury,,2101 Outer Dr. N,Sioux City,North Middle School,51108,5.0,97.0,AUTO,05 Sioux City
+Woodbury,6,9,Sioux City 06,1.9125,Woodbury,,2101 Outer Dr.N,Sioux City,North Middle School,51108,5.0,97.0,MANUAL,06 Sioux City
+Woodbury,7,8,Sioux City 07,1.7,Woodbury,,2101 Outer Dr. N,Sioux City,North Middle School,51108,5.0,97.0,AUTO,07 Sioux City
+Woodbury,8,5,Sioux City 08,1.0625,Woodbury,,2101 Outer Dr. N,Sioux City,North Middle School,51108,5.0,97.0,AUTO,08 Sioux City
+Woodbury,9,3,Sioux City 09,0.6375,Woodbury,,2101 Outer Dr. N,Sioux City,North Middle School,51108,5.0,97.0,AUTO,09 Sioux City
+Worth,W11,9,,0.6,Worth,Barton/Deer Creek/Union/Grafton,1000 Central Avenue,Northwood,Worth County Courthouse,50459,4.0,98.0,AUTO,Grafton Union Barton
+Worth,W12,18,,1.2,Worth,Bristol/Silver Lake/Joice,1000 Central Avenue,Northwood,Worth County Courthouse,50459,4.0,98.0,AUTO,Manly Lincoln Danville
+Worth,W21,7,,0.4666666666666667,Worth,Brookfield/Kensett,1000 CentralAvenue,Northwood,Worth County Courthouse,50459,4.0,98.0,MANUAL,Silver Lake
+Worth,W22,7,,0.4666666666666667,Worth,Danville/Hanlontown,1000 Central Avenue,Northwood,Worth County Courthouse,50459,4.0,98.0,AUTO,Joice Bristol
+Worth,W23,5,,0.3333333333333333,Worth,Deer Creek/Grove/Hartland/Northwood,1000 Central Avenue,Northwood,Worth County Courthouse,50459,4.0,98.0,AUTO,Brookfield
+Worth,W24,5,,0.3333333333333333,Worth,Fertile,1000 Central Avenue,Northwood,Worth County Courthouse,50459,4.0,98.0,AUTO,Kensett
+Worth,W31,24,,1.6,Worth,Lincoln/Manly,1000 Central Avenue,Northwood,Worth County Courthouse,50459,4.0,98.0,AUTO,Northwood Hartland Grove Deer Creek
+Wright,BIG_6,4,Eagle Grove/Troy,0.5333333333333333,Wright,,,,,,,,,
+Wright,BM,14,Belmond,1.8666666666666667,Wright,,319 3rd Ave. NE,Clarion,Clarion Elementary School Gymnasium,50525,4.0,99.0,AUTO,Belmond
+Wright,CL,9,Clarion,1.2,Wright,,319 3rd Ave. NE,Clarion,Clarion Elementary School Gymnasium,50525,4.0,99.0,AUTO,Clarion
+Wright,DOWS,3,Dows,0.4,Wright,,,,,,,,,
+Wright,EG1,2,Eagle Grove #1,0.26666666666666666,Wright,,319 3rd Ave. NE,Clarion,Clarion Elementary School Gymnasium,50525,4.0,99.0,AUTO,Eagle Grove Pct 1
+Wright,EG2,3,Eagle Grove #2,0.4,Wright,,319 3rd Ave. NE,Clarion,Clarion Elementary School Gymnasium,50525,4.0,99.0,AUTO,Eagle Grove Pct 2
+Wright,EG3,3,Eagle Grove #3,0.4,Wright,,319 3rd Ave. NE,Clarion,Clarion Elementary School Gymnasium,50525,4.0,99.0,AUTO,Eagle Grove Pct 3
+Wright,EG4,3,Eagle Grove #4,0.4,Wright,,319 3rd Ave. NE,Clarion,Clarion Elementary School Gymnasium,50525,4.0,99.0,AUTO,Eagle Grove Pct 4
+Wright,GLDFLD,2,Goldfield,0.26666666666666666,Wright,,,,,,,,,
+Wright,RURALEG,2,Rural Clarion,0.26666666666666666,Wright,,,,,,,,,

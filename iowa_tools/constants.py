@@ -8,6 +8,7 @@ SDE = 'SDE'
 INC_VOTES = 'Final Vote Increase'
 DOCUMENTATION_URL = 'URL to Documentation'
 VALIDATED = 'Manually validated'
+PRECINCT_SN = 'Precinct Short Name'
 
 STD_COL_ORDER = [COUNTY, PRECINCT, FIRST, FINAL, INC_VOTES, DOCUMENTATION_URL, VALIDATED, SDE]
 
@@ -48,6 +49,7 @@ SPSTEVE_PRECINCT_DELEGATES = 'spsteve_precinct_delegates'
 
 MORE_FINAL_VOTES = 'more_final_votes'
 TO_VALIDATE = 'to_validate'
+PRECINCTS = 'precinct_delegates'
 
 
 # OUTPUT DATASET SUBTYPES
@@ -58,7 +60,7 @@ TOTALS = 'totals'
 SDES = 'sdes'
 SDE_TOTALS = 'sde_totals'
 MORE_VOTES = 'more_votes'
-
+MAPPING = 'name_mapping'
 
 # FILE SUFFIXES
 
