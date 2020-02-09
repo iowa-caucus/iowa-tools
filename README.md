@@ -12,9 +12,11 @@ Analysis of [DUPLICATE PRECINCT RECORDS](data/duplicated_precincts) (of differen
   - [SDE counts only](data/duplicated_precincts/sde_duplicates.csv): 357 Duplicates (Many of these might happen by chance, so needs to be reviewed)
   - [Final votes including SDE counts](data/duplicated_precincts/final_sde_duplicates.csv): 10 (5+5) Duplicated precincts!
 - [All of the above](data/duplicated_precincts/first_final_sde_duplicates.csv)
+
 In addition, 4 Satellite precincts are still missing data and are thus counted as duplicates!
 
-Also
+Also:
+
 - A full overview of [County delegates per predinct](ref_data/ipd-precinct-delegates-mapped.csv) have been added, based on multiple mapping and manual review of precinct name codes
 - Based upon this [spreadsheet](https://docs.google.com/spreadsheets/d/1mNtJ94lUrKwwX6-q2b_YQvg4EOQ92BsnKiCyLrgrBTo) by the Reddit user spsteve (see also WayOfTheBern link below)
 - His spreadsheet was merged with other data I found from three GOP primaries:
