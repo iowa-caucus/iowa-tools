@@ -2,24 +2,8 @@
     {
         "County": "Page",
         "Precinct": "Am-Bu-ER-Doug-Har-Neb-Nod-Val-Brad-CS-He-Sh-Yt",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 8,
-            "Bloomberg": 0,
-            "Buttigieg": 11,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 12,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 8.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 9.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 8,
@@ -35,29 +19,29 @@
             "Uncommitted": 0,
             "Warren": 9,
             "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 8,
+            "Bloomberg": 0,
+            "Buttigieg": 11,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 12,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 8.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 9.0,
+            "Yang": 0
         }
     },
     {
         "County": "Page",
         "Precinct": "Clarinda Ward 1",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 0,
-            "Bloomberg": 0,
-            "Buttigieg": 20,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 18,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 9.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 0.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 1,
@@ -73,29 +57,29 @@
             "Uncommitted": 0,
             "Warren": 2,
             "Yang": 4
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 0,
+            "Bloomberg": 0,
+            "Buttigieg": 20,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 18,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 9.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 0.0,
+            "Yang": 0
         }
     },
     {
         "County": "Page",
         "Precinct": "Clarinda Ward 2",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 15,
-            "Bloomberg": 0,
-            "Buttigieg": 19,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 14,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 27.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 0.0,
-            "Yang": 5
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 12,
@@ -111,29 +95,29 @@
             "Uncommitted": 3,
             "Warren": 9,
             "Yang": 4
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 15,
+            "Bloomberg": 0,
+            "Buttigieg": 19,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 14,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 27.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 0.0,
+            "Yang": 5
         }
     },
     {
         "County": "Page",
         "Precinct": "Cx-Gr-Linc-Mort-Tarkio-Wash-Blan-Coin-Nboro",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 10,
-            "Bloomberg": 0,
-            "Buttigieg": 12,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 10,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 0.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 11.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 7,
@@ -149,29 +133,29 @@
             "Uncommitted": 0,
             "Warren": 10,
             "Yang": 2
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 10,
+            "Bloomberg": 0,
+            "Buttigieg": 12,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 10,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 0.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 11.0,
+            "Yang": 0
         }
     },
     {
         "County": "Page",
         "Precinct": "Pierce and Fremont Townships, Essex",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 6,
-            "Bloomberg": 0,
-            "Buttigieg": 10,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 0,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 11.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 0.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 5,
@@ -187,29 +171,29 @@
             "Uncommitted": 1,
             "Warren": 4,
             "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 6,
+            "Bloomberg": 0,
+            "Buttigieg": 10,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 0,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 11.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 0.0,
+            "Yang": 0
         }
     },
     {
         "County": "Page",
         "Precinct": "Shenandoah 1",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 3,
-            "Bloomberg": 0,
-            "Buttigieg": 10,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 2,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 24.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 2.0,
-            "Yang": 2
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 2,
@@ -225,29 +209,29 @@
             "Uncommitted": 0,
             "Warren": 3,
             "Yang": 2
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 3,
+            "Bloomberg": 0,
+            "Buttigieg": 10,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 2,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 24.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 2.0,
+            "Yang": 2
         }
     },
     {
         "County": "Page",
         "Precinct": "Shenandoah 2",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 0,
-            "Bloomberg": 0,
-            "Buttigieg": 13,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 11,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 14.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 12.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 1,
@@ -263,29 +247,29 @@
             "Uncommitted": 0,
             "Warren": 11,
             "Yang": 2
-        }
-    },
-    {
-        "County": "Page",
-        "Precinct": "Shenandoah 3",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 15,
+            "Biden": 0,
             "Bloomberg": 0,
-            "Buttigieg": 25,
+            "Buttigieg": 13,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 11,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 15.0,
+            "Sanders": 14.0,
             "Steyer": 0,
             "Uncommitted": 0,
-            "Warren": 0.0,
+            "Warren": 12.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Page",
+        "Precinct": "Shenandoah 3",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 13,
@@ -301,6 +285,22 @@
             "Uncommitted": 0,
             "Warren": 7,
             "Yang": 2
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 15,
+            "Bloomberg": 0,
+            "Buttigieg": 25,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 11,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 15.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 0.0,
+            "Yang": 0
         }
     }
 ]

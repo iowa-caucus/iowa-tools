@@ -2,7 +2,24 @@
     {
         "County": "Webster",
         "Precinct": "Badger-NW Cooper",
+        "URL to Documentation": "",
         "Manually validated": "false",
+        "First Expression": {
+            "Bennet": 0,
+            "Biden": 11,
+            "Bloomberg": 0,
+            "Buttigieg": 15,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 12,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 10,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 4,
+            "Yang": 0
+        },
         "Final Expression": {
             "Bennet": 0,
             "Biden": 11,
@@ -18,46 +35,13 @@
             "Uncommitted": 0,
             "Warren": 3.0,
             "Yang": 0
-        },
-        "URL to Documentation": "",
-        "First Expression": {
-            "Bennet": 0,
-            "Biden": 11,
-            "Bloomberg": 0,
-            "Buttigieg": 15,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 12,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 10,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 4,
-            "Yang": 0
         }
     },
     {
         "County": "Webster",
         "Precinct": "Clay-Roland",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 3,
-            "Bloomberg": 0,
-            "Buttigieg": 7,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 0,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 3.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 0.0,
-            "Yang": 4
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 3,
@@ -73,29 +57,29 @@
             "Uncommitted": 1,
             "Warren": 2,
             "Yang": 3
-        }
-    },
-    {
-        "County": "Webster",
-        "Precinct": "Colfax-Duncombe",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 12,
+            "Biden": 3,
             "Bloomberg": 0,
-            "Buttigieg": 8,
+            "Buttigieg": 7,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 0.0,
+            "Sanders": 3.0,
             "Steyer": 0,
             "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        },
+            "Yang": 4
+        }
+    },
+    {
+        "County": "Webster",
+        "Precinct": "Colfax-Duncombe",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 12,
@@ -111,29 +95,29 @@
             "Uncommitted": 0,
             "Warren": 2,
             "Yang": 0
-        }
-    },
-    {
-        "County": "Webster",
-        "Precinct": "Cooper",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 1,
+            "Biden": 12,
             "Bloomberg": 0,
-            "Buttigieg": 1,
+            "Buttigieg": 8,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 1.0,
+            "Sanders": 0.0,
             "Steyer": 0,
             "Uncommitted": 0,
             "Warren": 0.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Webster",
+        "Precinct": "Cooper",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 1,
@@ -149,29 +133,29 @@
             "Uncommitted": 0,
             "Warren": 0,
             "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 1,
+            "Bloomberg": 0,
+            "Buttigieg": 1,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 0,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 1.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 0.0,
+            "Yang": 0
         }
     },
     {
         "County": "Webster",
         "Precinct": "Dayton-Burnside",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 10,
-            "Bloomberg": 0,
-            "Buttigieg": 16,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 8,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 0.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 12.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 10,
@@ -187,29 +171,29 @@
             "Uncommitted": 0,
             "Warren": 9,
             "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 10,
+            "Bloomberg": 0,
+            "Buttigieg": 16,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 8,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 0.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 12.0,
+            "Yang": 0
         }
     },
     {
         "County": "Webster",
         "Precinct": "Deer Creek-Jackson",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 5,
-            "Bloomberg": 0,
-            "Buttigieg": 6,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 0,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 4.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 6.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 3,
@@ -225,12 +209,45 @@
             "Uncommitted": 0,
             "Warren": 5,
             "Yang": 2
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 5,
+            "Bloomberg": 0,
+            "Buttigieg": 6,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 0,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 4.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 6.0,
+            "Yang": 0
         }
     },
     {
         "County": "Webster",
         "Precinct": "Douglas",
+        "URL to Documentation": "",
         "Manually validated": "false",
+        "First Expression": {
+            "Bennet": 0,
+            "Biden": 0,
+            "Bloomberg": 0,
+            "Buttigieg": 0,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 2,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 0,
+            "Steyer": 3,
+            "Uncommitted": 0,
+            "Warren": 3,
+            "Yang": 0
+        },
         "Final Expression": {
             "Bennet": 0,
             "Biden": 23,
@@ -246,46 +263,13 @@
             "Uncommitted": 0,
             "Warren": 0.0,
             "Yang": 0
-        },
-        "URL to Documentation": "",
-        "First Expression": {
-            "Bennet": 0,
-            "Biden": 0,
-            "Bloomberg": 0,
-            "Buttigieg": 0,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 2,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 0,
-            "Steyer": 3,
-            "Uncommitted": 0,
-            "Warren": 3,
-            "Yang": 0
         }
     },
     {
         "County": "Webster",
         "Precinct": "Elkhorn",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 7,
-            "Bloomberg": 0,
-            "Buttigieg": 8,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 0,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 0.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 4.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 7,
@@ -301,29 +285,29 @@
             "Uncommitted": 1,
             "Warren": 4,
             "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 7,
+            "Bloomberg": 0,
+            "Buttigieg": 8,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 0,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 0.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 4.0,
+            "Yang": 0
         }
     },
     {
         "County": "Webster",
         "Precinct": "Fort Dodge 01",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 18,
-            "Bloomberg": 0,
-            "Buttigieg": 46,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 16,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 18.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 0.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 17,
@@ -339,29 +323,29 @@
             "Uncommitted": 0,
             "Warren": 10,
             "Yang": 6
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 18,
+            "Bloomberg": 0,
+            "Buttigieg": 46,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 16,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 18.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 0.0,
+            "Yang": 0
         }
     },
     {
         "County": "Webster",
         "Precinct": "Fort Dodge 02",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 29,
-            "Bloomberg": 0,
-            "Buttigieg": 58,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 0,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 22.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 0.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 1,
             "Biden": 24,
@@ -377,29 +361,29 @@
             "Uncommitted": 0,
             "Warren": 11,
             "Yang": 6
-        }
-    },
-    {
-        "County": "Webster",
-        "Precinct": "Fort Dodge 03",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 16,
+            "Biden": 29,
             "Bloomberg": 0,
-            "Buttigieg": 32,
+            "Buttigieg": 58,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 12.0,
+            "Sanders": 22.0,
             "Steyer": 0,
             "Uncommitted": 0,
-            "Warren": 17.0,
+            "Warren": 0.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Webster",
+        "Precinct": "Fort Dodge 03",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 3,
             "Biden": 14,
@@ -415,29 +399,29 @@
             "Uncommitted": 0,
             "Warren": 15,
             "Yang": 0
-        }
-    },
-    {
-        "County": "Webster",
-        "Precinct": "Fort Dodge 04",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 19,
+            "Biden": 16,
             "Bloomberg": 0,
-            "Buttigieg": 17,
+            "Buttigieg": 32,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 27.0,
+            "Sanders": 12.0,
             "Steyer": 0,
             "Uncommitted": 0,
-            "Warren": 0.0,
+            "Warren": 17.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Webster",
+        "Precinct": "Fort Dodge 04",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 15,
@@ -453,12 +437,45 @@
             "Uncommitted": 0,
             "Warren": 5,
             "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 19,
+            "Bloomberg": 0,
+            "Buttigieg": 17,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 0,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 27.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 0.0,
+            "Yang": 0
         }
     },
     {
         "County": "Webster",
         "Precinct": "Fort Dodge 05",
+        "URL to Documentation": "",
         "Manually validated": "false",
+        "First Expression": {
+            "Bennet": 0,
+            "Biden": 6,
+            "Bloomberg": 0,
+            "Buttigieg": 21,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 4,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 10,
+            "Steyer": 3,
+            "Uncommitted": 0,
+            "Warren": 4,
+            "Yang": 1
+        },
         "Final Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -474,29 +491,29 @@
             "Uncommitted": 0,
             "Warren": 8.0,
             "Yang": 0
-        },
-        "URL to Documentation": "",
-        "First Expression": {
-            "Bennet": 0,
-            "Biden": 6,
-            "Bloomberg": 0,
-            "Buttigieg": 21,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 4,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 10,
-            "Steyer": 3,
-            "Uncommitted": 0,
-            "Warren": 4,
-            "Yang": 1
         }
     },
     {
         "County": "Webster",
         "Precinct": "Fort Dodge 06",
+        "URL to Documentation": "",
         "Manually validated": "false",
+        "First Expression": {
+            "Bennet": 0,
+            "Biden": 5,
+            "Bloomberg": 0,
+            "Buttigieg": 5,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 1,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 4,
+            "Steyer": 5,
+            "Uncommitted": 0,
+            "Warren": 4,
+            "Yang": 0
+        },
         "Final Expression": {
             "Bennet": 0,
             "Biden": 5,
@@ -512,46 +529,13 @@
             "Uncommitted": 0,
             "Warren": 4.0,
             "Yang": 0
-        },
-        "URL to Documentation": "",
-        "First Expression": {
-            "Bennet": 0,
-            "Biden": 5,
-            "Bloomberg": 0,
-            "Buttigieg": 5,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 1,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 4,
-            "Steyer": 5,
-            "Uncommitted": 0,
-            "Warren": 4,
-            "Yang": 0
         }
     },
     {
         "County": "Webster",
         "Precinct": "Fort Dodge 07",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 10,
-            "Bloomberg": 0,
-            "Buttigieg": 19,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 0,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 15.0,
-            "Steyer": 0,
-            "Uncommitted": 3,
-            "Warren": 0.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 9,
@@ -567,29 +551,29 @@
             "Uncommitted": 0,
             "Warren": 4,
             "Yang": 4
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 10,
+            "Bloomberg": 0,
+            "Buttigieg": 19,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 0,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 15.0,
+            "Steyer": 0,
+            "Uncommitted": 3,
+            "Warren": 0.0,
+            "Yang": 0
         }
     },
     {
         "County": "Webster",
         "Precinct": "Fort Dodge 08",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 11,
-            "Bloomberg": 0,
-            "Buttigieg": 10,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 8,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 15.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 0.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 11,
@@ -605,29 +589,29 @@
             "Uncommitted": 0,
             "Warren": 3,
             "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 11,
+            "Bloomberg": 0,
+            "Buttigieg": 10,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 8,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 15.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 0.0,
+            "Yang": 0
         }
     },
     {
         "County": "Webster",
         "Precinct": "Fort Dodge 09",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 9,
-            "Bloomberg": 0,
-            "Buttigieg": 16,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 0,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 13.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 13.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 7,
@@ -643,29 +627,29 @@
             "Uncommitted": 0,
             "Warren": 7,
             "Yang": 4
-        }
-    },
-    {
-        "County": "Webster",
-        "Precinct": "Fort Dodge 10",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 17,
+            "Biden": 9,
             "Bloomberg": 0,
-            "Buttigieg": 39,
+            "Buttigieg": 16,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 12.0,
+            "Sanders": 13.0,
             "Steyer": 0,
-            "Uncommitted": 5,
-            "Warren": 0.0,
+            "Uncommitted": 0,
+            "Warren": 13.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Webster",
+        "Precinct": "Fort Dodge 10",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 1,
             "Biden": 15,
@@ -681,29 +665,29 @@
             "Uncommitted": 0,
             "Warren": 6,
             "Yang": 1
-        }
-    },
-    {
-        "County": "Webster",
-        "Precinct": "Fort Dodge 11",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 30,
+            "Biden": 17,
             "Bloomberg": 0,
-            "Buttigieg": 45,
+            "Buttigieg": 39,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 0.0,
+            "Sanders": 12.0,
             "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 15.0,
+            "Uncommitted": 5,
+            "Warren": 0.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Webster",
+        "Precinct": "Fort Dodge 11",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 24,
@@ -719,29 +703,29 @@
             "Uncommitted": 0,
             "Warren": 10,
             "Yang": 4
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 30,
+            "Bloomberg": 0,
+            "Buttigieg": 45,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 0,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 0.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 15.0,
+            "Yang": 0
         }
     },
     {
         "County": "Webster",
         "Precinct": "Fort Dodge 12",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 0,
-            "Bloomberg": 0,
-            "Buttigieg": 27,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 16,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 18.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 15.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -757,29 +741,29 @@
             "Uncommitted": 1,
             "Warren": 14,
             "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 0,
+            "Bloomberg": 0,
+            "Buttigieg": 27,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 16,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 18.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 15.0,
+            "Yang": 0
         }
     },
     {
         "County": "Webster",
         "Precinct": "Fulton",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 3,
-            "Bloomberg": 0,
-            "Buttigieg": 6,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 0,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 0.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 2.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 3,
@@ -795,29 +779,29 @@
             "Uncommitted": 0,
             "Warren": 1,
             "Yang": 1
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 3,
+            "Bloomberg": 0,
+            "Buttigieg": 6,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 0,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 0.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 2.0,
+            "Yang": 0
         }
     },
     {
         "County": "Webster",
         "Precinct": "Gowrie",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 13,
-            "Bloomberg": 0,
-            "Buttigieg": 12,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 14,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 10.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 0.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 12,
@@ -833,29 +817,29 @@
             "Uncommitted": 2,
             "Warren": 3,
             "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 13,
+            "Bloomberg": 0,
+            "Buttigieg": 12,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 14,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 10.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 0.0,
+            "Yang": 0
         }
     },
     {
         "County": "Webster",
         "Precinct": "Johnson",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 5,
-            "Bloomberg": 0,
-            "Buttigieg": 9,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 0,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 0.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 1.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 5,
@@ -871,29 +855,29 @@
             "Uncommitted": 0,
             "Warren": 1,
             "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 5,
+            "Bloomberg": 0,
+            "Buttigieg": 9,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 0,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 0.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 1.0,
+            "Yang": 0
         }
     },
     {
         "County": "Webster",
         "Precinct": "Lost Grove",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 0,
-            "Bloomberg": 0,
-            "Buttigieg": 0,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 12,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 6.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 0.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 5,
@@ -909,29 +893,29 @@
             "Uncommitted": 0,
             "Warren": 0,
             "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 0,
+            "Bloomberg": 0,
+            "Buttigieg": 0,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 12,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 6.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 0.0,
+            "Yang": 0
         }
     },
     {
         "County": "Webster",
         "Precinct": "Newark",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 0,
-            "Bloomberg": 0,
-            "Buttigieg": 4,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 0,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 0.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 2.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 1,
@@ -947,29 +931,29 @@
             "Uncommitted": 0,
             "Warren": 0,
             "Yang": 0
-        }
-    },
-    {
-        "County": "Webster",
-        "Precinct": "Otho-Pleasant Valley",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 9,
+            "Biden": 0,
             "Bloomberg": 0,
-            "Buttigieg": 25,
+            "Buttigieg": 4,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 13.0,
+            "Sanders": 0.0,
             "Steyer": 0,
             "Uncommitted": 0,
-            "Warren": 0.0,
+            "Warren": 2.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Webster",
+        "Precinct": "Otho-Pleasant Valley",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 5,
@@ -985,29 +969,29 @@
             "Uncommitted": 0,
             "Warren": 4,
             "Yang": 2
-        }
-    },
-    {
-        "County": "Webster",
-        "Precinct": "Sumner-Webster-Yell-Hardi",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
             "Biden": 9,
             "Bloomberg": 0,
-            "Buttigieg": 7,
+            "Buttigieg": 25,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 7.0,
+            "Sanders": 13.0,
             "Steyer": 0,
             "Uncommitted": 0,
             "Warren": 0.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Webster",
+        "Precinct": "Sumner-Webster-Yell-Hardi",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 6,
@@ -1023,29 +1007,29 @@
             "Uncommitted": 0,
             "Warren": 2,
             "Yang": 2
-        }
-    },
-    {
-        "County": "Webster",
-        "Precinct": "Washington",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 2,
+            "Biden": 9,
             "Bloomberg": 0,
-            "Buttigieg": 1,
+            "Buttigieg": 7,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 0.0,
-            "Steyer": 4,
+            "Sanders": 7.0,
+            "Steyer": 0,
             "Uncommitted": 0,
-            "Warren": 2.0,
+            "Warren": 0.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Webster",
+        "Precinct": "Washington",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 1,
@@ -1060,6 +1044,22 @@
             "Steyer": 4,
             "Uncommitted": 0,
             "Warren": 2,
+            "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 2,
+            "Bloomberg": 0,
+            "Buttigieg": 1,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 0,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 0.0,
+            "Steyer": 4,
+            "Uncommitted": 0,
+            "Warren": 2.0,
             "Yang": 0
         }
     }

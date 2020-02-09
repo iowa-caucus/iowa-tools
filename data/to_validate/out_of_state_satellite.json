@@ -2,24 +2,8 @@
     {
         "County": "Out of State Satellite",
         "Precinct": 0,
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 0,
-            "Bloomberg": 0,
-            "Buttigieg": 0,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 0,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 0.0629,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 0.1258,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -35,12 +19,45 @@
             "Uncommitted": 0,
             "Warren": 33,
             "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 0,
+            "Bloomberg": 0,
+            "Buttigieg": 0,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 0,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 0.0629,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 0.1258,
+            "Yang": 0
         }
     },
     {
         "County": "Out of State Satellite",
         "Precinct": "Ann Arbor, MI - Ann Arbor District Library",
+        "URL to Documentation": "",
         "Manually validated": "false",
+        "First Expression": {
+            "Bennet": 0,
+            "Biden": 0,
+            "Bloomberg": 0,
+            "Buttigieg": 1,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 0,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 3,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 5,
+            "Yang": 0
+        },
         "Final Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -56,29 +73,29 @@
             "Uncommitted": 0,
             "Warren": 5.0,
             "Yang": 0
-        },
-        "URL to Documentation": "",
-        "First Expression": {
-            "Bennet": 0,
-            "Biden": 0,
-            "Bloomberg": 0,
-            "Buttigieg": 1,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 0,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 3,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 5,
-            "Yang": 0
         }
     },
     {
         "County": "Out of State Satellite",
         "Precinct": "Brooklyn, NY - Brooklyn Public Library",
+        "URL to Documentation": "",
         "Manually validated": "false",
+        "First Expression": {
+            "Bennet": 0,
+            "Biden": 0,
+            "Bloomberg": 0,
+            "Buttigieg": 0,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 1,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 7,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 3,
+            "Yang": 0
+        },
         "Final Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -94,46 +111,13 @@
             "Uncommitted": 0,
             "Warren": 4.0,
             "Yang": 0
-        },
-        "URL to Documentation": "",
-        "First Expression": {
-            "Bennet": 0,
-            "Biden": 0,
-            "Bloomberg": 0,
-            "Buttigieg": 0,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 1,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 7,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 3,
-            "Yang": 0
         }
     },
     {
         "County": "Out of State Satellite",
         "Precinct": "Cambridge, MA - Democracy Center",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 0,
-            "Bloomberg": 0,
-            "Buttigieg": 8,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 0,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 22.0,
-            "Steyer": 0,
-            "Uncommitted": 1,
-            "Warren": 20.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -149,29 +133,29 @@
             "Uncommitted": 0,
             "Warren": 19,
             "Yang": 3
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 0,
+            "Bloomberg": 0,
+            "Buttigieg": 8,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 0,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 22.0,
+            "Steyer": 0,
+            "Uncommitted": 1,
+            "Warren": 20.0,
+            "Yang": 0
         }
     },
     {
         "County": "Out of State Satellite",
         "Precinct": "Chicago, IL - Humbolt Park Branch CPL",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 0,
-            "Bloomberg": 0,
-            "Buttigieg": 0,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 3,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 11.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 6.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -187,12 +171,45 @@
             "Uncommitted": 0,
             "Warren": 6,
             "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 0,
+            "Bloomberg": 0,
+            "Buttigieg": 0,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 3,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 11.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 6.0,
+            "Yang": 0
         }
     },
     {
         "County": "Out of State Satellite",
         "Precinct": "Chicago, IL - University Church of Chicago",
+        "URL to Documentation": "",
         "Manually validated": "false",
+        "First Expression": {
+            "Bennet": 0,
+            "Biden": 0,
+            "Bloomberg": 0,
+            "Buttigieg": 4,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 0,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 9,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 11,
+            "Yang": 0
+        },
         "Final Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -208,29 +225,29 @@
             "Uncommitted": 0,
             "Warren": 11.0,
             "Yang": 0
-        },
-        "URL to Documentation": "",
-        "First Expression": {
-            "Bennet": 0,
-            "Biden": 0,
-            "Bloomberg": 0,
-            "Buttigieg": 4,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 0,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 9,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 11,
-            "Yang": 0
         }
     },
     {
         "County": "Out of State Satellite",
         "Precinct": "Fairfax, VA - George Mason University",
+        "URL to Documentation": "",
         "Manually validated": "false",
+        "First Expression": {
+            "Bennet": 0,
+            "Biden": 0,
+            "Bloomberg": 0,
+            "Buttigieg": 0,
+            "Delaney": 0,
+            "Gabbard": 1,
+            "Klobuchar": 2,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 4,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 8,
+            "Yang": 0
+        },
         "Final Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -246,46 +263,13 @@
             "Uncommitted": 0,
             "Warren": 8.0,
             "Yang": 0
-        },
-        "URL to Documentation": "",
-        "First Expression": {
-            "Bennet": 0,
-            "Biden": 0,
-            "Bloomberg": 0,
-            "Buttigieg": 0,
-            "Delaney": 0,
-            "Gabbard": 1,
-            "Klobuchar": 2,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 4,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 8,
-            "Yang": 0
         }
     },
     {
         "County": "Out of State Satellite",
         "Precinct": "Glasgow, Scotland - Home of Colyn Burbank",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 0,
-            "Bloomberg": 0,
-            "Buttigieg": 3,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 0,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 9.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 6.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -301,29 +285,29 @@
             "Uncommitted": 0,
             "Warren": 4,
             "Yang": 2
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 0,
+            "Bloomberg": 0,
+            "Buttigieg": 3,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 0,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 9.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 6.0,
+            "Yang": 0
         }
     },
     {
         "County": "Out of State Satellite",
         "Precinct": "Green Valley, AZ - Sunrise Point Club House",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 13,
-            "Bloomberg": 0,
-            "Buttigieg": 14,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 23,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 0.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 0.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 12,
@@ -339,20 +323,15 @@
             "Uncommitted": 0,
             "Warren": 2,
             "Yang": 0
-        }
-    },
-    {
-        "County": "Out of State Satellite",
-        "Precinct": "Gulf Breeze, FL - Emerald Dolphin Condominium",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
             "Biden": 13,
             "Bloomberg": 0,
-            "Buttigieg": 9,
+            "Buttigieg": 14,
             "Delaney": 0,
             "Gabbard": 0,
-            "Klobuchar": 20,
+            "Klobuchar": 23,
             "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
@@ -360,8 +339,13 @@
             "Uncommitted": 0,
             "Warren": 0.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Out of State Satellite",
+        "Precinct": "Gulf Breeze, FL - Emerald Dolphin Condominium",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 13,
@@ -377,29 +361,29 @@
             "Uncommitted": 0,
             "Warren": 3,
             "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 13,
+            "Bloomberg": 0,
+            "Buttigieg": 9,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 20,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 0.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 0.0,
+            "Yang": 0
         }
     },
     {
         "County": "Out of State Satellite",
         "Precinct": "Milwaukee, WI - Marquette University Alumni Memorial Union",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 0,
-            "Bloomberg": 0,
-            "Buttigieg": 0,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 2,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 2.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 3.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -415,29 +399,29 @@
             "Uncommitted": 0,
             "Warren": 3,
             "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 0,
+            "Bloomberg": 0,
+            "Buttigieg": 0,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 2,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 2.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 3.0,
+            "Yang": 0
         }
     },
     {
         "County": "Out of State Satellite",
         "Precinct": "Miramar Beach, FL - Tops'l Club and Fitness Center",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 18,
-            "Bloomberg": 9,
-            "Buttigieg": 13,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 18,
-            "Other": 2,
-            "Patrick": 0,
-            "Sanders": 0.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 0.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 3,
             "Biden": 15,
@@ -453,12 +437,45 @@
             "Uncommitted": 0,
             "Warren": 5,
             "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 18,
+            "Bloomberg": 9,
+            "Buttigieg": 13,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 18,
+            "Other": 2,
+            "Patrick": 0,
+            "Sanders": 0.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 0.0,
+            "Yang": 0
         }
     },
     {
         "County": "Out of State Satellite",
         "Precinct": "Nashville, TN - McCabe Community Center",
+        "URL to Documentation": "",
         "Manually validated": "false",
+        "First Expression": {
+            "Bennet": 0,
+            "Biden": 0,
+            "Bloomberg": 0,
+            "Buttigieg": 2,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 0,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 3,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 2,
+            "Yang": 0
+        },
         "Final Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -474,46 +491,13 @@
             "Uncommitted": 0,
             "Warren": 2.0,
             "Yang": 0
-        },
-        "URL to Documentation": "",
-        "First Expression": {
-            "Bennet": 0,
-            "Biden": 0,
-            "Bloomberg": 0,
-            "Buttigieg": 2,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 0,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 3,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 2,
-            "Yang": 0
         }
     },
     {
         "County": "Out of State Satellite",
         "Precinct": "Northfield, MN - St. Olaf College, Buntrock Commons",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 0,
-            "Bloomberg": 0,
-            "Buttigieg": 0,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 0,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 4.0,
-            "Steyer": 0,
-            "Uncommitted": 1,
-            "Warren": 6.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -529,29 +513,29 @@
             "Uncommitted": 0,
             "Warren": 6,
             "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 0,
+            "Bloomberg": 0,
+            "Buttigieg": 0,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 0,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 4.0,
+            "Steyer": 0,
+            "Uncommitted": 1,
+            "Warren": 6.0,
+            "Yang": 0
         }
     },
     {
         "County": "Out of State Satellite",
         "Precinct": "Palm Springs, CA - Palm Springs Public Library Learning Center",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 29,
-            "Bloomberg": 0,
-            "Buttigieg": 21,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 49,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 0.0,
-            "Steyer": 0,
-            "Uncommitted": 9,
-            "Warren": 0.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 24,
@@ -567,29 +551,29 @@
             "Uncommitted": 0,
             "Warren": 8,
             "Yang": 1
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 29,
+            "Bloomberg": 0,
+            "Buttigieg": 21,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 49,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 0.0,
+            "Steyer": 0,
+            "Uncommitted": 9,
+            "Warren": 0.0,
+            "Yang": 0
         }
     },
     {
         "County": "Out of State Satellite",
         "Precinct": "Paris, France - CIEE Student Housing",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 0,
-            "Bloomberg": 0,
-            "Buttigieg": 0,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 3,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 6.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 8.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -605,29 +589,29 @@
             "Uncommitted": 0,
             "Warren": 7,
             "Yang": 0
-        }
-    },
-    {
-        "County": "Out of State Satellite",
-        "Precinct": "Philadelphia, PA - Houston Hall at Penn University",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
             "Biden": 0,
             "Bloomberg": 0,
-            "Buttigieg": 4,
+            "Buttigieg": 0,
             "Delaney": 0,
             "Gabbard": 0,
-            "Klobuchar": 0,
+            "Klobuchar": 3,
             "Other": 0,
             "Patrick": 0,
             "Sanders": 6.0,
             "Steyer": 0,
             "Uncommitted": 0,
-            "Warren": 4.0,
+            "Warren": 8.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Out of State Satellite",
+        "Precinct": "Philadelphia, PA - Houston Hall at Penn University",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 1,
@@ -643,29 +627,29 @@
             "Uncommitted": 0,
             "Warren": 3,
             "Yang": 2
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 0,
+            "Bloomberg": 0,
+            "Buttigieg": 4,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 0,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 6.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 4.0,
+            "Yang": 0
         }
     },
     {
         "County": "Out of State Satellite",
         "Precinct": "Port Charlotte, FL - UUFCC",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 33,
-            "Bloomberg": 0,
-            "Buttigieg": 43,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 56,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 0.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 0.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 33,
@@ -681,29 +665,29 @@
             "Uncommitted": 0,
             "Warren": 12,
             "Yang": 1
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 33,
+            "Bloomberg": 0,
+            "Buttigieg": 43,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 56,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 0.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 0.0,
+            "Yang": 0
         }
     },
     {
         "County": "Out of State Satellite",
         "Precinct": "Providence, RI - MacMillian Hall at Brown University",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 0,
-            "Bloomberg": 0,
-            "Buttigieg": 0,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 0,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 6.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 4.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -719,29 +703,29 @@
             "Uncommitted": 0,
             "Warren": 3,
             "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 0,
+            "Bloomberg": 0,
+            "Buttigieg": 0,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 0,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 6.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 4.0,
+            "Yang": 0
         }
     },
     {
         "County": "Out of State Satellite",
         "Precinct": "Queen Creek, AZ - Harkins Theatres Queen Creek 14",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 33,
-            "Bloomberg": 0,
-            "Buttigieg": 41,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 54,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 0.0,
-            "Steyer": 0,
-            "Uncommitted": 3,
-            "Warren": 31.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 30,
@@ -757,29 +741,29 @@
             "Uncommitted": 3,
             "Warren": 25,
             "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 33,
+            "Bloomberg": 0,
+            "Buttigieg": 41,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 54,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 0.0,
+            "Steyer": 0,
+            "Uncommitted": 3,
+            "Warren": 31.0,
+            "Yang": 0
         }
     },
     {
         "County": "Out of State Satellite",
         "Precinct": "St. Paul, MN - MLK Recreation Center",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 0,
-            "Bloomberg": 0,
-            "Buttigieg": 0,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 0,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 11.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 14.0,
-            "Yang": 7
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -795,29 +779,29 @@
             "Uncommitted": 0,
             "Warren": 11,
             "Yang": 5
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 0,
+            "Bloomberg": 0,
+            "Buttigieg": 0,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 0,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 11.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 14.0,
+            "Yang": 7
         }
     },
     {
         "County": "Out of State Satellite",
         "Precinct": "St. Petersburg, FL - St. Andrew Lutheran Church",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 17,
-            "Bloomberg": 0,
-            "Buttigieg": 21,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 48,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 0.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 18.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 15,
@@ -833,29 +817,29 @@
             "Uncommitted": 0,
             "Warren": 11,
             "Yang": 5
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 17,
+            "Bloomberg": 0,
+            "Buttigieg": 21,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 48,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 0.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 18.0,
+            "Yang": 0
         }
     },
     {
         "County": "Out of State Satellite",
         "Precinct": "Stanford, CA - Stanford Hass Center for Public Service",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 0,
-            "Bloomberg": 0,
-            "Buttigieg": 0,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 5,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 15.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 10.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 3,
@@ -871,12 +855,7 @@
             "Uncommitted": 0,
             "Warren": 10,
             "Yang": 2
-        }
-    },
-    {
-        "County": "Out of State Satellite",
-        "Precinct": "Tbilisi, Republic of Georgia - Home of Joshua Kucera",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -884,16 +863,21 @@
             "Buttigieg": 0,
             "Delaney": 0,
             "Gabbard": 0,
-            "Klobuchar": 0,
+            "Klobuchar": 5,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 3.0,
+            "Sanders": 15.0,
             "Steyer": 0,
             "Uncommitted": 0,
-            "Warren": 0.0,
+            "Warren": 10.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Out of State Satellite",
+        "Precinct": "Tbilisi, Republic of Georgia - Home of Joshua Kucera",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -909,29 +893,29 @@
             "Uncommitted": 0,
             "Warren": 0,
             "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 0,
+            "Bloomberg": 0,
+            "Buttigieg": 0,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 0,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 3.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 0.0,
+            "Yang": 0
         }
     },
     {
         "County": "Out of State Satellite",
         "Precinct": "Tucson, AZ - Flowing Wells Library",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 16,
-            "Bloomberg": 0,
-            "Buttigieg": 11,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 21,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 12.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 12.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 16,
@@ -947,29 +931,29 @@
             "Uncommitted": 0,
             "Warren": 11,
             "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 16,
+            "Bloomberg": 0,
+            "Buttigieg": 11,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 21,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 12.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 12.0,
+            "Yang": 0
         }
     },
     {
         "County": "Out of State Satellite",
         "Precinct": "Tucson, AZ - Home of Ellyn Harris-Hesli",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 7,
-            "Bloomberg": 0,
-            "Buttigieg": 7,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 0,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 0.0,
-            "Steyer": 0,
-            "Uncommitted": 2,
-            "Warren": 0.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 5,
@@ -985,29 +969,29 @@
             "Uncommitted": 0,
             "Warren": 2,
             "Yang": 0
-        }
-    },
-    {
-        "County": "Out of State Satellite",
-        "Precinct": "Washington DC - IBEW International Union",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 20,
+            "Biden": 7,
             "Bloomberg": 0,
-            "Buttigieg": 23,
+            "Buttigieg": 7,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 15.0,
+            "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 42.0,
+            "Uncommitted": 2,
+            "Warren": 0.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Out of State Satellite",
+        "Precinct": "Washington DC - IBEW International Union",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 15,
@@ -1023,6 +1007,22 @@
             "Uncommitted": 0,
             "Warren": 40,
             "Yang": 2
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 20,
+            "Bloomberg": 0,
+            "Buttigieg": 23,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 0,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 15.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 42.0,
+            "Yang": 0
         }
     }
 ]

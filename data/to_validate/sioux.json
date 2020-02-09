@@ -2,24 +2,8 @@
     {
         "County": "Sioux",
         "Precinct": "Alton/Nassau/East Orange",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 9,
-            "Bloomberg": 0,
-            "Buttigieg": 0,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 12,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 11.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 16.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 9,
@@ -35,12 +19,45 @@
             "Uncommitted": 0,
             "Warren": 14,
             "Yang": 5
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 9,
+            "Bloomberg": 0,
+            "Buttigieg": 0,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 12,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 11.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 16.0,
+            "Yang": 0
         }
     },
     {
         "County": "Sioux",
         "Precinct": "Floyd/Lynn",
+        "URL to Documentation": "",
         "Manually validated": "false",
+        "First Expression": {
+            "Bennet": 0,
+            "Biden": 3,
+            "Bloomberg": 0,
+            "Buttigieg": 0,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 2,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 0,
+            "Steyer": 0,
+            "Uncommitted": 1,
+            "Warren": 5,
+            "Yang": 0
+        },
         "Final Expression": {
             "Bennet": 0,
             "Biden": 3,
@@ -56,46 +73,13 @@
             "Uncommitted": 0,
             "Warren": 5.0,
             "Yang": 0
-        },
-        "URL to Documentation": "",
-        "First Expression": {
-            "Bennet": 0,
-            "Biden": 3,
-            "Bloomberg": 0,
-            "Buttigieg": 0,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 2,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 0,
-            "Steyer": 0,
-            "Uncommitted": 1,
-            "Warren": 5,
-            "Yang": 0
         }
     },
     {
         "County": "Sioux",
         "Precinct": "Grant/Sheridan",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 0,
-            "Bloomberg": 0,
-            "Buttigieg": 5,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 0,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 10.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 0.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 1,
@@ -111,29 +95,29 @@
             "Uncommitted": 0,
             "Warren": 1,
             "Yang": 0
-        }
-    },
-    {
-        "County": "Sioux",
-        "Precinct": "HW/BC/LG/WA/EG S",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 18,
+            "Biden": 0,
             "Bloomberg": 0,
-            "Buttigieg": 28,
+            "Buttigieg": 5,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 45.0,
+            "Sanders": 10.0,
             "Steyer": 0,
-            "Uncommitted": 1,
+            "Uncommitted": 0,
             "Warren": 0.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Sioux",
+        "Precinct": "HW/BC/LG/WA/EG S",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 14,
@@ -149,29 +133,29 @@
             "Uncommitted": 0,
             "Warren": 6,
             "Yang": 2
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 18,
+            "Bloomberg": 0,
+            "Buttigieg": 28,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 0,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 45.0,
+            "Steyer": 0,
+            "Uncommitted": 1,
+            "Warren": 0.0,
+            "Yang": 0
         }
     },
     {
         "County": "Sioux",
         "Precinct": "Lincoln",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 4,
-            "Bloomberg": 0,
-            "Buttigieg": 0,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 14,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 0.0,
-            "Steyer": 0,
-            "Uncommitted": 2,
-            "Warren": 0.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 4,
@@ -187,29 +171,29 @@
             "Uncommitted": 0,
             "Warren": 2,
             "Yang": 1
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 4,
+            "Bloomberg": 0,
+            "Buttigieg": 0,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 14,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 0.0,
+            "Steyer": 0,
+            "Uncommitted": 2,
+            "Warren": 0.0,
+            "Yang": 0
         }
     },
     {
         "County": "Sioux",
         "Precinct": "OC 1/Holland West",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 0,
-            "Bloomberg": 0,
-            "Buttigieg": 20,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 15,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 23.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 26.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 5,
@@ -225,29 +209,29 @@
             "Uncommitted": 0,
             "Warren": 28,
             "Yang": 11
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 0,
+            "Bloomberg": 0,
+            "Buttigieg": 20,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 15,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 23.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 26.0,
+            "Yang": 0
         }
     },
     {
         "County": "Sioux",
         "Precinct": "OC2/Holland E/NS 4-9",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 0,
-            "Bloomberg": 0,
-            "Buttigieg": 0,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 33,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 0.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 61.0,
-            "Yang": 35
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 8,
@@ -263,29 +247,29 @@
             "Uncommitted": 0,
             "Warren": 45,
             "Yang": 29
-        }
-    },
-    {
-        "County": "Sioux",
-        "Precinct": "PL/GF/ST/SX/EG N",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
             "Biden": 0,
             "Bloomberg": 0,
-            "Buttigieg": 8,
+            "Buttigieg": 0,
             "Delaney": 0,
             "Gabbard": 0,
-            "Klobuchar": 9,
+            "Klobuchar": 33,
             "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
             "Uncommitted": 0,
-            "Warren": 0.0,
-            "Yang": 0
-        },
+            "Warren": 61.0,
+            "Yang": 35
+        }
+    },
+    {
+        "County": "Sioux",
+        "Precinct": "PL/GF/ST/SX/EG N",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -301,20 +285,15 @@
             "Uncommitted": 1,
             "Warren": 0,
             "Yang": 1
-        }
-    },
-    {
-        "County": "Sioux",
-        "Precinct": "Reading/Center South",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 2,
+            "Biden": 0,
             "Bloomberg": 0,
-            "Buttigieg": 5,
+            "Buttigieg": 8,
             "Delaney": 0,
             "Gabbard": 0,
-            "Klobuchar": 0,
+            "Klobuchar": 9,
             "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
@@ -322,8 +301,13 @@
             "Uncommitted": 0,
             "Warren": 0.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Sioux",
+        "Precinct": "Reading/Center South",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 2,
@@ -339,29 +323,29 @@
             "Uncommitted": 0,
             "Warren": 0,
             "Yang": 0
-        }
-    },
-    {
-        "County": "Sioux",
-        "Precinct": "Rock Valley East",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 10,
+            "Biden": 2,
             "Bloomberg": 0,
             "Buttigieg": 5,
             "Delaney": 0,
             "Gabbard": 0,
-            "Klobuchar": 4,
+            "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
             "Uncommitted": 0,
-            "Warren": 6.0,
+            "Warren": 0.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Sioux",
+        "Precinct": "Rock Valley East",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 8,
@@ -377,29 +361,29 @@
             "Uncommitted": 0,
             "Warren": 5,
             "Yang": 2
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 10,
+            "Bloomberg": 0,
+            "Buttigieg": 5,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 4,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 0.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 6.0,
+            "Yang": 0
         }
     },
     {
         "County": "Sioux",
         "Precinct": "Rock Valley West/Rock",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 3,
-            "Bloomberg": 0,
-            "Buttigieg": 8,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 0,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 3.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 0.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 3,
@@ -415,29 +399,29 @@
             "Uncommitted": 0,
             "Warren": 0,
             "Yang": 1
-        }
-    },
-    {
-        "County": "Sioux",
-        "Precinct": "SCN/Capel/Welcome",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 0,
+            "Biden": 3,
             "Bloomberg": 0,
-            "Buttigieg": 11,
+            "Buttigieg": 8,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 7.0,
+            "Sanders": 3.0,
             "Steyer": 0,
             "Uncommitted": 0,
-            "Warren": 16.0,
-            "Yang": 8
-        },
+            "Warren": 0.0,
+            "Yang": 0
+        }
+    },
+    {
+        "County": "Sioux",
+        "Precinct": "SCN/Capel/Welcome",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 2,
@@ -453,29 +437,29 @@
             "Uncommitted": 0,
             "Warren": 13,
             "Yang": 8
-        }
-    },
-    {
-        "County": "Sioux",
-        "Precinct": "Sherman",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
             "Biden": 0,
             "Bloomberg": 0,
-            "Buttigieg": 0,
+            "Buttigieg": 11,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 0.0,
+            "Sanders": 7.0,
             "Steyer": 0,
             "Uncommitted": 0,
-            "Warren": 1.0,
-            "Yang": 0
-        },
+            "Warren": 16.0,
+            "Yang": 8
+        }
+    },
+    {
+        "County": "Sioux",
+        "Precinct": "Sherman",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -491,29 +475,29 @@
             "Uncommitted": 0,
             "Warren": 1,
             "Yang": 0
-        }
-    },
-    {
-        "County": "Sioux",
-        "Precinct": "Sioux Center Central",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
             "Biden": 0,
             "Bloomberg": 0,
-            "Buttigieg": 18,
+            "Buttigieg": 0,
             "Delaney": 0,
             "Gabbard": 0,
-            "Klobuchar": 30,
+            "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
             "Uncommitted": 0,
-            "Warren": 19.0,
-            "Yang": 13
-        },
+            "Warren": 1.0,
+            "Yang": 0
+        }
+    },
+    {
+        "County": "Sioux",
+        "Precinct": "Sioux Center Central",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 2,
@@ -529,29 +513,29 @@
             "Uncommitted": 0,
             "Warren": 17,
             "Yang": 13
-        }
-    },
-    {
-        "County": "Sioux",
-        "Precinct": "Sioux Center South",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 10,
+            "Biden": 0,
             "Bloomberg": 0,
-            "Buttigieg": 0,
+            "Buttigieg": 18,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 30,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 10.0,
+            "Sanders": 0.0,
             "Steyer": 0,
             "Uncommitted": 0,
-            "Warren": 13.0,
-            "Yang": 0
-        },
+            "Warren": 19.0,
+            "Yang": 13
+        }
+    },
+    {
+        "County": "Sioux",
+        "Precinct": "Sioux Center South",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 9,
@@ -567,29 +551,29 @@
             "Uncommitted": 0,
             "Warren": 10,
             "Yang": 4
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 10,
+            "Bloomberg": 0,
+            "Buttigieg": 0,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 30,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 10.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 13.0,
+            "Yang": 0
         }
     },
     {
         "County": "Sioux",
         "Precinct": "West Branch/Center North",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 0,
-            "Bloomberg": 0,
-            "Buttigieg": 2,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 2,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 1.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 1.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -604,6 +588,22 @@
             "Steyer": 0,
             "Uncommitted": 0,
             "Warren": 1,
+            "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 0,
+            "Bloomberg": 0,
+            "Buttigieg": 2,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 2,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 1.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 1.0,
             "Yang": 0
         }
     }

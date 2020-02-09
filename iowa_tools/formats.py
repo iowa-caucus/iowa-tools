@@ -1,3 +1,4 @@
+from io import StringIO
 from collections import OrderedDict, namedtuple
 
 import pandas as pd
@@ -35,14 +36,14 @@ def convert_dataframe_to_dict(df):
 
 
 def convert_dataframe_to_json(df):
-    df = df.reindex(sort_top_headers_according_to_std(df.columns.levels[0]), level=0, axis=1)
+    df = sort_top_headers_according_to_std(df)
     df_dict = convert_dataframe_to_dict(df)
     header_list = [[header] for header in df.index.names] + list(df.columns)
     return JsonDataset(df_dict, header_list)
 
 
 def convert_dataframe_to_csv(df):
-    df = df.reindex(sort_top_headers_according_to_std(df.columns.levels[0]), level=0, axis=1)
+    df = sort_top_headers_according_to_std(df)
     csv_content = df.to_csv()
     return csv_content
 
@@ -64,6 +65,9 @@ def convert_csv_to_dataframe(csv_content, header='infer', index_cols=None):
 
 # Util functions
 
-def sort_top_headers_according_to_std(top_headers):
+def sort_top_headers_according_to_std(df):
+    level, top_headers = (0, df.columns.levels[0]) if hasattr(df.columns, 'levels') \
+        else (None, df.columns)
     col_order = STD_COL_ORDER + sorted([_ for _ in top_headers if _ not in STD_COL_ORDER])
-    return sorted(top_headers, key=lambda x: col_order.index(x))
+    sorted_top_headers = sorted(top_headers, key=lambda x: col_order.index(x))
+    return df.reindex(sorted_top_headers, level=level, axis=1)

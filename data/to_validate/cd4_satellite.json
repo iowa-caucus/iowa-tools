@@ -2,7 +2,24 @@
     {
         "County": "CD4 Satellite",
         "Precinct": "Fort Dodge, IA - Fort Dodge Villa Care Center",
+        "URL to Documentation": "",
         "Manually validated": "false",
+        "First Expression": {
+            "Bennet": 0,
+            "Biden": 0,
+            "Bloomberg": 0,
+            "Buttigieg": 1,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 3,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 1,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 0,
+            "Yang": 0
+        },
         "Final Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -18,46 +35,13 @@
             "Uncommitted": 0,
             "Warren": 0.0,
             "Yang": 0
-        },
-        "URL to Documentation": "",
-        "First Expression": {
-            "Bennet": 0,
-            "Biden": 0,
-            "Bloomberg": 0,
-            "Buttigieg": 1,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 3,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 1,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 0,
-            "Yang": 0
         }
     },
     {
         "County": "CD4 Satellite",
         "Precinct": "Grundy, IA - Creekside Living",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 0,
-            "Bloomberg": 0,
-            "Buttigieg": 4,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 1,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 0.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 0.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -73,20 +57,15 @@
             "Uncommitted": 1,
             "Warren": 0,
             "Yang": 0
-        }
-    },
-    {
-        "County": "CD4 Satellite",
-        "Precinct": "Lake Mills, IA - Lake Mills Care Center",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 2,
+            "Biden": 0,
             "Bloomberg": 0,
-            "Buttigieg": 0,
+            "Buttigieg": 4,
             "Delaney": 0,
             "Gabbard": 0,
-            "Klobuchar": 0,
+            "Klobuchar": 1,
             "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
@@ -94,8 +73,13 @@
             "Uncommitted": 0,
             "Warren": 0.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "CD4 Satellite",
+        "Precinct": "Lake Mills, IA - Lake Mills Care Center",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 2,
@@ -111,15 +95,10 @@
             "Uncommitted": 0,
             "Warren": 0,
             "Yang": 0
-        }
-    },
-    {
-        "County": "CD4 Satellite",
-        "Precinct": "Logan, IA - Westmont Care Center",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 0,
+            "Biden": 2,
             "Bloomberg": 0,
             "Buttigieg": 0,
             "Delaney": 0,
@@ -128,12 +107,17 @@
             "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
-            "Steyer": 3,
+            "Steyer": 0,
             "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 4
-        },
+            "Yang": 0
+        }
+    },
+    {
+        "County": "CD4 Satellite",
+        "Precinct": "Logan, IA - Westmont Care Center",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 1,
@@ -149,12 +133,7 @@
             "Uncommitted": 0,
             "Warren": 0,
             "Yang": 2
-        }
-    },
-    {
-        "County": "CD4 Satellite",
-        "Precinct": "Manson, IA - Good Samaritan Society - Manson",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -166,12 +145,17 @@
             "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
-            "Steyer": 0,
+            "Steyer": 3,
             "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        },
+            "Yang": 4
+        }
+    },
+    {
+        "County": "CD4 Satellite",
+        "Precinct": "Manson, IA - Good Samaritan Society - Manson",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -187,12 +171,45 @@
             "Uncommitted": 0,
             "Warren": 0,
             "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 0,
+            "Bloomberg": 0,
+            "Buttigieg": 0,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 0,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 0.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 0.0,
+            "Yang": 0
         }
     },
     {
         "County": "CD4 Satellite",
         "Precinct": "Mason City, IA - Good Shephard Health Center",
+        "URL to Documentation": "",
         "Manually validated": "false",
+        "First Expression": {
+            "Bennet": 0,
+            "Biden": 1,
+            "Bloomberg": 0,
+            "Buttigieg": 1,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 1,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 1,
+            "Yang": 0
+        },
         "Final Expression": {
             "Bennet": 0,
             "Biden": 1,
@@ -208,46 +225,13 @@
             "Uncommitted": 0,
             "Warren": 1.0,
             "Yang": 0
-        },
-        "URL to Documentation": "",
-        "First Expression": {
-            "Bennet": 0,
-            "Biden": 1,
-            "Bloomberg": 0,
-            "Buttigieg": 1,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 1,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 1,
-            "Yang": 0
         }
     },
     {
         "County": "CD4 Satellite",
         "Precinct": "Mason City, IA - Heritage Care and Rehabilitation Center",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 2,
-            "Bloomberg": 0,
-            "Buttigieg": 0,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 1,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 0.0,
-            "Steyer": 0,
-            "Uncommitted": 1,
-            "Warren": 0.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 2,
@@ -262,30 +246,30 @@
             "Steyer": 0,
             "Uncommitted": 1,
             "Warren": 0,
+            "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 2,
+            "Bloomberg": 0,
+            "Buttigieg": 0,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 1,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 0.0,
+            "Steyer": 0,
+            "Uncommitted": 1,
+            "Warren": 0.0,
             "Yang": 0
         }
     },
     {
         "County": "CD4 Satellite",
         "Precinct": "Mason City, IA - Oakwood Care Center &amp; Assisted Living",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 1,
-            "Bloomberg": 1,
-            "Buttigieg": 0,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 1,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 0.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 0.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 1,
@@ -300,30 +284,30 @@
             "Steyer": 0,
             "Uncommitted": 0,
             "Warren": 0,
+            "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 1,
+            "Bloomberg": 1,
+            "Buttigieg": 0,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 1,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 0.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 0.0,
             "Yang": 0
         }
     },
     {
         "County": "CD4 Satellite",
         "Precinct": "Mason City, IA - The Willows",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 2,
-            "Bloomberg": 0,
-            "Buttigieg": 1,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 3,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 0.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 0.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 2,
@@ -339,29 +323,29 @@
             "Uncommitted": 0,
             "Warren": 0,
             "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 2,
+            "Bloomberg": 0,
+            "Buttigieg": 1,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 3,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 0.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 0.0,
+            "Yang": 0
         }
     },
     {
         "County": "CD4 Satellite",
         "Precinct": "Storm Lake, IA - Better Day Cafe",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 0,
-            "Bloomberg": 0,
-            "Buttigieg": 0,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 0,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 93.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 0.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 4,
@@ -377,12 +361,7 @@
             "Uncommitted": 0,
             "Warren": 1,
             "Yang": 4
-        }
-    },
-    {
-        "County": "CD4 Satellite",
-        "Precinct": "Storm Lake, IA - Methodist Manor",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -393,13 +372,18 @@
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 0.0,
+            "Sanders": 93.0,
             "Steyer": 0,
             "Uncommitted": 0,
             "Warren": 0.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "CD4 Satellite",
+        "Precinct": "Storm Lake, IA - Methodist Manor",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -414,6 +398,22 @@
             "Steyer": 0,
             "Uncommitted": 0,
             "Warren": 0,
+            "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 0,
+            "Bloomberg": 0,
+            "Buttigieg": 0,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 0,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 0.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 0.0,
             "Yang": 0
         }
     }

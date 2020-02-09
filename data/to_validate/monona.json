@@ -2,24 +2,8 @@
     {
         "County": "Monona",
         "Precinct": "ASHTON BELVIDERE KENNEBEC LINCOLN FRANKLIN TURIN",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 0,
-            "Bloomberg": 0,
-            "Buttigieg": 4,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 8,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 4.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 3.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -35,29 +19,29 @@
             "Uncommitted": 0,
             "Warren": 3,
             "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 0,
+            "Bloomberg": 0,
+            "Buttigieg": 4,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 8,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 4.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 3.0,
+            "Yang": 0
         }
     },
     {
         "County": "Monona",
         "Precinct": "CASTANA CENTER JORDAN",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 0,
-            "Bloomberg": 0,
-            "Buttigieg": 3,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 3,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 2.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 5.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -73,29 +57,29 @@
             "Uncommitted": 0,
             "Warren": 5,
             "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 0,
+            "Bloomberg": 0,
+            "Buttigieg": 3,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 3,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 2.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 5.0,
+            "Yang": 0
         }
     },
     {
         "County": "Monona",
         "Precinct": "COOPER MAPLE MAPLETON",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 20,
-            "Bloomberg": 0,
-            "Buttigieg": 9,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 0,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 7.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 7.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 12,
@@ -111,29 +95,29 @@
             "Uncommitted": 0,
             "Warren": 7,
             "Yang": 0
-        }
-    },
-    {
-        "County": "Monona",
-        "Precinct": "FAIRVIEW GRANT LAKE RODNEY WEST FORK WHITING",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 9,
+            "Biden": 20,
             "Bloomberg": 0,
-            "Buttigieg": 7,
+            "Buttigieg": 9,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 0.0,
-            "Steyer": 6,
-            "Uncommitted": 2,
+            "Sanders": 7.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
             "Warren": 7.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Monona",
+        "Precinct": "FAIRVIEW GRANT LAKE RODNEY WEST FORK WHITING",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 1,
             "Biden": 9,
@@ -149,29 +133,29 @@
             "Uncommitted": 0,
             "Warren": 6,
             "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 9,
+            "Bloomberg": 0,
+            "Buttigieg": 7,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 0,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 0.0,
+            "Steyer": 6,
+            "Uncommitted": 2,
+            "Warren": 7.0,
+            "Yang": 0
         }
     },
     {
         "County": "Monona",
         "Precinct": "MOORHEAD SOLDIER SOLDIER CITY SPRING VALLEY WILLOW",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 0,
-            "Bloomberg": 0,
-            "Buttigieg": 7,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 7,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 4.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 7.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -187,29 +171,29 @@
             "Uncommitted": 2,
             "Warren": 7,
             "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 0,
+            "Bloomberg": 0,
+            "Buttigieg": 7,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 7,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 4.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 7.0,
+            "Yang": 0
         }
     },
     {
         "County": "Monona",
         "Precinct": "ONAWA Ward 1",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 2,
-            "Bloomberg": 0,
-            "Buttigieg": 4,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 0,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 3.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 0.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 2,
@@ -225,29 +209,29 @@
             "Uncommitted": 1,
             "Warren": 0,
             "Yang": 1
-        }
-    },
-    {
-        "County": "Monona",
-        "Precinct": "ONAWA Ward 2- NE Franklin",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 7,
+            "Biden": 2,
             "Bloomberg": 0,
-            "Buttigieg": 6,
+            "Buttigieg": 4,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 2.0,
+            "Sanders": 3.0,
             "Steyer": 0,
             "Uncommitted": 0,
-            "Warren": 7.0,
+            "Warren": 0.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Monona",
+        "Precinct": "ONAWA Ward 2- NE Franklin",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 7,
@@ -263,12 +247,45 @@
             "Uncommitted": 0,
             "Warren": 7,
             "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 7,
+            "Bloomberg": 0,
+            "Buttigieg": 6,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 0,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 2.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 7.0,
+            "Yang": 0
         }
     },
     {
         "County": "Monona",
         "Precinct": "ONAWA Ward 3",
+        "URL to Documentation": "",
         "Manually validated": "false",
+        "First Expression": {
+            "Bennet": 0,
+            "Biden": 1,
+            "Bloomberg": 0,
+            "Buttigieg": 4,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 0,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 2,
+            "Steyer": 4,
+            "Uncommitted": 0,
+            "Warren": 3,
+            "Yang": 0
+        },
         "Final Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -284,46 +301,13 @@
             "Uncommitted": 0,
             "Warren": 3.0,
             "Yang": 0
-        },
-        "URL to Documentation": "",
-        "First Expression": {
-            "Bennet": 0,
-            "Biden": 1,
-            "Bloomberg": 0,
-            "Buttigieg": 4,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 0,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 2,
-            "Steyer": 4,
-            "Uncommitted": 0,
-            "Warren": 3,
-            "Yang": 0
         }
     },
     {
         "County": "Monona",
         "Precinct": "ONAWA Ward 4",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 0,
-            "Bloomberg": 0,
-            "Buttigieg": 4,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 0,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 5.0,
-            "Steyer": 0,
-            "Uncommitted": 1,
-            "Warren": 0.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 1,
@@ -339,29 +323,29 @@
             "Uncommitted": 1,
             "Warren": 0,
             "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 0,
+            "Bloomberg": 0,
+            "Buttigieg": 4,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 0,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 5.0,
+            "Steyer": 0,
+            "Uncommitted": 1,
+            "Warren": 0.0,
+            "Yang": 0
         }
     },
     {
         "County": "Monona",
         "Precinct": "SHERMAN SE FRANKLIN BLENCOE SIOUX",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 4,
-            "Bloomberg": 0,
-            "Buttigieg": 4,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 6,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 0.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 5.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 4,
@@ -377,29 +361,29 @@
             "Uncommitted": 0,
             "Warren": 5,
             "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 4,
+            "Bloomberg": 0,
+            "Buttigieg": 4,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 6,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 0.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 5.0,
+            "Yang": 0
         }
     },
     {
         "County": "Monona",
         "Precinct": "ST CLAIR UTE",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 0,
-            "Bloomberg": 0,
-            "Buttigieg": 3,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 3,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 2.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 3.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -414,6 +398,22 @@
             "Steyer": 0,
             "Uncommitted": 0,
             "Warren": 3,
+            "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 0,
+            "Bloomberg": 0,
+            "Buttigieg": 3,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 3,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 2.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 3.0,
             "Yang": 0
         }
     }

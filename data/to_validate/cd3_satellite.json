@@ -2,24 +2,8 @@
     {
         "County": "CD3 Satellite",
         "Precinct": "Ankeny, IA - DMACC Ankeny Building 5, Room 1220",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 0,
-            "Bloomberg": 0,
-            "Buttigieg": 0,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 0,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 87.0,
-            "Steyer": 0,
-            "Uncommitted": 6,
-            "Warren": 0.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -35,88 +19,7 @@
             "Uncommitted": 4,
             "Warren": 5,
             "Yang": 2
-        }
-    },
-    {
-        "County": "CD3 Satellite",
-        "Precinct": "Clive, IA - Walnut Ridge Senior Living",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 16,
-            "Bloomberg": 0,
-            "Buttigieg": 9,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 27,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 0.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 0.0,
-            "Yang": 0
         },
-        "URL to Documentation": "",
-        "First Expression": {
-            "Bennet": 0,
-            "Biden": 16,
-            "Bloomberg": 0,
-            "Buttigieg": 9,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 27,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 0,
-            "Yang": 0
-        }
-    },
-    {
-        "County": "CD3 Satellite",
-        "Precinct": "Dallas Center, IA - Spurgeon Manor",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 6,
-            "Bloomberg": 0,
-            "Buttigieg": 0,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 1,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 0.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 0.0,
-            "Yang": 0
-        },
-        "URL to Documentation": "",
-        "First Expression": {
-            "Bennet": 0,
-            "Biden": 6,
-            "Bloomberg": 0,
-            "Buttigieg": 0,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 1,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 0,
-            "Yang": 0
-        }
-    },
-    {
-        "County": "CD3 Satellite",
-        "Precinct": "Des Moines, IA - Al Najah Cultural Center",
-        "Manually validated": "false",
         "Final Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -124,16 +27,97 @@
             "Buttigieg": 0,
             "Delaney": 0,
             "Gabbard": 0,
-            "Klobuchar": 33,
+            "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 108.0,
+            "Sanders": 87.0,
+            "Steyer": 0,
+            "Uncommitted": 6,
+            "Warren": 0.0,
+            "Yang": 0
+        }
+    },
+    {
+        "County": "CD3 Satellite",
+        "Precinct": "Clive, IA - Walnut Ridge Senior Living",
+        "URL to Documentation": "",
+        "Manually validated": "false",
+        "First Expression": {
+            "Bennet": 0,
+            "Biden": 16,
+            "Bloomberg": 0,
+            "Buttigieg": 9,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 27,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 0,
+            "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 16,
+            "Bloomberg": 0,
+            "Buttigieg": 9,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 27,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 0.0,
             "Steyer": 0,
             "Uncommitted": 0,
             "Warren": 0.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "CD3 Satellite",
+        "Precinct": "Dallas Center, IA - Spurgeon Manor",
         "URL to Documentation": "",
+        "Manually validated": "false",
+        "First Expression": {
+            "Bennet": 0,
+            "Biden": 6,
+            "Bloomberg": 0,
+            "Buttigieg": 0,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 1,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 0,
+            "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 6,
+            "Bloomberg": 0,
+            "Buttigieg": 0,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 1,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 0.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 0.0,
+            "Yang": 0
+        }
+    },
+    {
+        "County": "CD3 Satellite",
+        "Precinct": "Des Moines, IA - Al Najah Cultural Center",
+        "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -149,12 +133,7 @@
             "Uncommitted": 0,
             "Warren": 0,
             "Yang": 0
-        }
-    },
-    {
-        "County": "CD3 Satellite",
-        "Precinct": "Des Moines, IA - Bosnian Islamic Center Zen Zen",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -162,16 +141,21 @@
             "Buttigieg": 0,
             "Delaney": 0,
             "Gabbard": 0,
-            "Klobuchar": 0,
+            "Klobuchar": 33,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 130.0,
+            "Sanders": 108.0,
             "Steyer": 0,
             "Uncommitted": 0,
             "Warren": 0.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "CD3 Satellite",
+        "Precinct": "Des Moines, IA - Bosnian Islamic Center Zen Zen",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 12,
@@ -187,12 +171,7 @@
             "Uncommitted": 0,
             "Warren": 1,
             "Yang": 0
-        }
-    },
-    {
-        "County": "CD3 Satellite",
-        "Precinct": "Des Moines, IA - Central Iowa Center for Independent Living Rm 1",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -203,13 +182,18 @@
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 15.0,
+            "Sanders": 130.0,
             "Steyer": 0,
             "Uncommitted": 0,
-            "Warren": 35.0,
+            "Warren": 0.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "CD3 Satellite",
+        "Precinct": "Des Moines, IA - Central Iowa Center for Independent Living Rm 1",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 4,
@@ -225,29 +209,29 @@
             "Uncommitted": 0,
             "Warren": 25,
             "Yang": 2
-        }
-    },
-    {
-        "County": "CD3 Satellite",
-        "Precinct": "Des Moines, IA - Central Iowa Center for Independent Living Rm 2",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 5,
+            "Biden": 0,
             "Bloomberg": 0,
-            "Buttigieg": 6,
+            "Buttigieg": 0,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 0.0,
+            "Sanders": 15.0,
             "Steyer": 0,
             "Uncommitted": 0,
-            "Warren": 7.0,
+            "Warren": 35.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "CD3 Satellite",
+        "Precinct": "Des Moines, IA - Central Iowa Center for Independent Living Rm 2",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 5,
@@ -263,29 +247,29 @@
             "Uncommitted": 0,
             "Warren": 7,
             "Yang": 0
-        }
-    },
-    {
-        "County": "CD3 Satellite",
-        "Precinct": "Des Moines, IA - Drake University Field House",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 0,
+            "Biden": 5,
             "Bloomberg": 0,
-            "Buttigieg": 0,
+            "Buttigieg": 6,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 46.0,
+            "Sanders": 0.0,
             "Steyer": 0,
             "Uncommitted": 0,
-            "Warren": 22.0,
+            "Warren": 7.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "CD3 Satellite",
+        "Precinct": "Des Moines, IA - Drake University Field House",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 1,
@@ -301,29 +285,29 @@
             "Uncommitted": 0,
             "Warren": 15,
             "Yang": 3
-        }
-    },
-    {
-        "County": "CD3 Satellite",
-        "Precinct": "Des Moines, IA - E300 Apartments",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
             "Biden": 0,
             "Bloomberg": 0,
-            "Buttigieg": 3,
+            "Buttigieg": 0,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 7.0,
+            "Sanders": 46.0,
             "Steyer": 0,
             "Uncommitted": 0,
-            "Warren": 0.0,
-            "Yang": 2
-        },
+            "Warren": 22.0,
+            "Yang": 0
+        }
+    },
+    {
+        "County": "CD3 Satellite",
+        "Precinct": "Des Moines, IA - E300 Apartments",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 1,
@@ -339,29 +323,29 @@
             "Uncommitted": 0,
             "Warren": 0,
             "Yang": 2
-        }
-    },
-    {
-        "County": "CD3 Satellite",
-        "Precinct": "Des Moines, IA - Grandview University Student Center",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
             "Biden": 0,
             "Bloomberg": 0,
-            "Buttigieg": 0,
+            "Buttigieg": 3,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 80.0,
+            "Sanders": 7.0,
             "Steyer": 0,
             "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        },
+            "Yang": 2
+        }
+    },
+    {
+        "County": "CD3 Satellite",
+        "Precinct": "Des Moines, IA - Grandview University Student Center",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 3,
@@ -377,15 +361,10 @@
             "Uncommitted": 0,
             "Warren": 2,
             "Yang": 6
-        }
-    },
-    {
-        "County": "CD3 Satellite",
-        "Precinct": "Des Moines, IA - Islamic and Education Center Ezan",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 103,
+            "Biden": 0,
             "Bloomberg": 0,
             "Buttigieg": 0,
             "Delaney": 0,
@@ -393,13 +372,18 @@
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 41.0,
+            "Sanders": 80.0,
             "Steyer": 0,
             "Uncommitted": 0,
             "Warren": 0.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "CD3 Satellite",
+        "Precinct": "Des Moines, IA - Islamic and Education Center Ezan",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 103,
@@ -415,15 +399,10 @@
             "Uncommitted": 0,
             "Warren": 0,
             "Yang": 0
-        }
-    },
-    {
-        "County": "CD3 Satellite",
-        "Precinct": "Des Moines, IA - Karen Baptist Church",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 0,
+            "Biden": 103,
             "Bloomberg": 0,
             "Buttigieg": 0,
             "Delaney": 0,
@@ -431,13 +410,18 @@
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 159.0,
+            "Sanders": 41.0,
             "Steyer": 0,
             "Uncommitted": 0,
             "Warren": 0.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "CD3 Satellite",
+        "Precinct": "Des Moines, IA - Karen Baptist Church",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -453,12 +437,7 @@
             "Uncommitted": 0,
             "Warren": 0,
             "Yang": 0
-        }
-    },
-    {
-        "County": "CD3 Satellite",
-        "Precinct": "Des Moines, IA - Muslim Community Organization",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -469,13 +448,18 @@
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 117.0,
+            "Sanders": 159.0,
             "Steyer": 0,
-            "Uncommitted": 2,
+            "Uncommitted": 0,
             "Warren": 0.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "CD3 Satellite",
+        "Precinct": "Des Moines, IA - Muslim Community Organization",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -491,29 +475,29 @@
             "Uncommitted": 0,
             "Warren": 1,
             "Yang": 2
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 0,
+            "Bloomberg": 0,
+            "Buttigieg": 0,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 0,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 117.0,
+            "Steyer": 0,
+            "Uncommitted": 2,
+            "Warren": 0.0,
+            "Yang": 0
         }
     },
     {
         "County": "CD3 Satellite",
         "Precinct": "Des Moines, IA - Scottish Rite Park",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 39,
-            "Bloomberg": 0,
-            "Buttigieg": 0,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 34,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 0.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 0.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 1,
             "Biden": 34,
@@ -529,29 +513,29 @@
             "Uncommitted": 0,
             "Warren": 7,
             "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 39,
+            "Bloomberg": 0,
+            "Buttigieg": 0,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 34,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 0.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 0.0,
+            "Yang": 0
         }
     },
     {
         "County": "CD3 Satellite",
         "Precinct": "Des Moines, IA - South Sudanese Center",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 6,
-            "Bloomberg": 0,
-            "Buttigieg": 0,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 0,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 29.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 0.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 6,
@@ -567,29 +551,29 @@
             "Uncommitted": 0,
             "Warren": 0,
             "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 6,
+            "Bloomberg": 0,
+            "Buttigieg": 0,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 0,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 29.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 0.0,
+            "Yang": 0
         }
     },
     {
         "County": "CD3 Satellite",
         "Precinct": "Des Moines, IA - Southside YMCA",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 2,
-            "Bloomberg": 0,
-            "Buttigieg": 0,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 2,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 171.0,
-            "Steyer": 1,
-            "Uncommitted": 0,
-            "Warren": 2.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 4,
@@ -605,29 +589,29 @@
             "Uncommitted": 0,
             "Warren": 4,
             "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 2,
+            "Bloomberg": 0,
+            "Buttigieg": 0,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 2,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 171.0,
+            "Steyer": 1,
+            "Uncommitted": 0,
+            "Warren": 2.0,
+            "Yang": 0
         }
     },
     {
         "County": "CD3 Satellite",
         "Precinct": "Des Moines, IA - Wesley Acres",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 24,
-            "Bloomberg": 0,
-            "Buttigieg": 0,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 23,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 0.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 16.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 23,
@@ -643,29 +627,29 @@
             "Uncommitted": 0,
             "Warren": 14,
             "Yang": 0
-        }
-    },
-    {
-        "County": "CD3 Satellite",
-        "Precinct": "Granger, IA - Granger Nursing and Rehabilitation Center",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 2,
+            "Biden": 24,
             "Bloomberg": 0,
             "Buttigieg": 0,
             "Delaney": 0,
             "Gabbard": 0,
-            "Klobuchar": 1,
+            "Klobuchar": 23,
             "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
             "Uncommitted": 0,
-            "Warren": 0.0,
+            "Warren": 16.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "CD3 Satellite",
+        "Precinct": "Granger, IA - Granger Nursing and Rehabilitation Center",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 2,
@@ -681,29 +665,29 @@
             "Uncommitted": 0,
             "Warren": 0,
             "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 2,
+            "Bloomberg": 0,
+            "Buttigieg": 0,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 1,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 0.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 0.0,
+            "Yang": 0
         }
     },
     {
         "County": "CD3 Satellite",
         "Precinct": "Granger, IA - Islamic and Cultural Center Bosniak",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 58,
-            "Bloomberg": 0,
-            "Buttigieg": 0,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 0,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 33.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 0.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 58,
@@ -719,15 +703,10 @@
             "Uncommitted": 0,
             "Warren": 0,
             "Yang": 0
-        }
-    },
-    {
-        "County": "CD3 Satellite",
-        "Precinct": "Shenandoah, IA - Garden View Care Center",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 1,
+            "Biden": 58,
             "Bloomberg": 0,
             "Buttigieg": 0,
             "Delaney": 0,
@@ -735,13 +714,18 @@
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 0.0,
+            "Sanders": 33.0,
             "Steyer": 0,
             "Uncommitted": 0,
             "Warren": 0.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "CD3 Satellite",
+        "Precinct": "Shenandoah, IA - Garden View Care Center",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 1,
@@ -756,6 +740,22 @@
             "Steyer": 0,
             "Uncommitted": 0,
             "Warren": 0,
+            "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 1,
+            "Bloomberg": 0,
+            "Buttigieg": 0,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 0,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 0.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 0.0,
             "Yang": 0
         }
     }

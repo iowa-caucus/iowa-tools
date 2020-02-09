@@ -2,7 +2,24 @@
     {
         "County": "Van Buren",
         "Precinct": "Birmingham",
+        "URL to Documentation": "",
         "Manually validated": "false",
+        "First Expression": {
+            "Bennet": 0,
+            "Biden": 0,
+            "Bloomberg": 0,
+            "Buttigieg": 6,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 0,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 9,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 0,
+            "Yang": 0
+        },
         "Final Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -18,29 +35,29 @@
             "Uncommitted": 0,
             "Warren": 0.0,
             "Yang": 0
-        },
-        "URL to Documentation": "",
-        "First Expression": {
-            "Bennet": 0,
-            "Biden": 0,
-            "Bloomberg": 0,
-            "Buttigieg": 6,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 0,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 9,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 0,
-            "Yang": 0
         }
     },
     {
         "County": "Van Buren",
         "Precinct": "Bonaparte",
+        "URL to Documentation": "",
         "Manually validated": "false",
+        "First Expression": {
+            "Bennet": 0,
+            "Biden": 3,
+            "Bloomberg": 0,
+            "Buttigieg": 7,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 2,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 9,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 1,
+            "Yang": 0
+        },
         "Final Expression": {
             "Bennet": 0,
             "Biden": 5,
@@ -56,46 +73,13 @@
             "Uncommitted": 0,
             "Warren": 0.0,
             "Yang": 0
-        },
-        "URL to Documentation": "",
-        "First Expression": {
-            "Bennet": 0,
-            "Biden": 3,
-            "Bloomberg": 0,
-            "Buttigieg": 7,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 2,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 9,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 1,
-            "Yang": 0
         }
     },
     {
         "County": "Van Buren",
         "Precinct": "Cantril",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 3,
-            "Bloomberg": 0,
-            "Buttigieg": 3,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 0,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 0.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 3.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 2,
@@ -111,15 +95,10 @@
             "Uncommitted": 0,
             "Warren": 3,
             "Yang": 0
-        }
-    },
-    {
-        "County": "Van Buren",
-        "Precinct": "Douds",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 0,
+            "Biden": 3,
             "Bloomberg": 0,
             "Buttigieg": 3,
             "Delaney": 0,
@@ -130,10 +109,15 @@
             "Sanders": 0.0,
             "Steyer": 0,
             "Uncommitted": 0,
-            "Warren": 4.0,
+            "Warren": 3.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Van Buren",
+        "Precinct": "Douds",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -149,29 +133,29 @@
             "Uncommitted": 0,
             "Warren": 4,
             "Yang": 0
-        }
-    },
-    {
-        "County": "Van Buren",
-        "Precinct": "Farmington",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 10,
+            "Biden": 0,
             "Bloomberg": 0,
-            "Buttigieg": 4,
+            "Buttigieg": 3,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 5.0,
+            "Sanders": 0.0,
             "Steyer": 0,
             "Uncommitted": 0,
-            "Warren": 0.0,
+            "Warren": 4.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Van Buren",
+        "Precinct": "Farmington",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 9,
@@ -187,29 +171,29 @@
             "Uncommitted": 0,
             "Warren": 0,
             "Yang": 0
-        }
-    },
-    {
-        "County": "Van Buren",
-        "Precinct": "Keosauqua",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 0,
+            "Biden": 10,
             "Bloomberg": 0,
-            "Buttigieg": 30,
+            "Buttigieg": 4,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 12.0,
+            "Sanders": 5.0,
             "Steyer": 0,
-            "Uncommitted": 3,
-            "Warren": 15.0,
+            "Uncommitted": 0,
+            "Warren": 0.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Van Buren",
+        "Precinct": "Keosauqua",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 2,
             "Biden": 5,
@@ -225,29 +209,29 @@
             "Uncommitted": 1,
             "Warren": 11,
             "Yang": 0
-        }
-    },
-    {
-        "County": "Van Buren",
-        "Precinct": "Milton",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 5,
+            "Biden": 0,
             "Bloomberg": 0,
-            "Buttigieg": 3,
+            "Buttigieg": 30,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 0.0,
+            "Sanders": 12.0,
             "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 0.0,
+            "Uncommitted": 3,
+            "Warren": 15.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Van Buren",
+        "Precinct": "Milton",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 3,
@@ -263,17 +247,12 @@
             "Uncommitted": 0,
             "Warren": 1,
             "Yang": 0
-        }
-    },
-    {
-        "County": "Van Buren",
-        "Precinct": "Stockport",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 4,
+            "Biden": 5,
             "Bloomberg": 0,
-            "Buttigieg": 0,
+            "Buttigieg": 3,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
@@ -284,8 +263,13 @@
             "Uncommitted": 0,
             "Warren": 0.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Van Buren",
+        "Precinct": "Stockport",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 4,
@@ -300,6 +284,22 @@
             "Steyer": 0,
             "Uncommitted": 0,
             "Warren": 0,
+            "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 4,
+            "Bloomberg": 0,
+            "Buttigieg": 0,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 0,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 0.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 0.0,
             "Yang": 0
         }
     }

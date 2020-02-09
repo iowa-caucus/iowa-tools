@@ -2,24 +2,8 @@
     {
         "County": "Pocahontas",
         "Precinct": "Bellville-Lizard-S Lake-S Lincoln",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 0,
-            "Bloomberg": 0,
-            "Buttigieg": 7,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 7,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 0.0,
-            "Steyer": 0,
-            "Uncommitted": 1,
-            "Warren": 0.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 1,
@@ -35,29 +19,29 @@
             "Uncommitted": 1,
             "Warren": 2,
             "Yang": 1
-        }
-    },
-    {
-        "County": "Pocahontas",
-        "Precinct": "Cedar-Colfax-Dover",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
             "Biden": 0,
             "Bloomberg": 0,
-            "Buttigieg": 11,
+            "Buttigieg": 7,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 7,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 18.0,
+            "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 0,
+            "Uncommitted": 1,
             "Warren": 0.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Pocahontas",
+        "Precinct": "Cedar-Colfax-Dover",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 3,
@@ -73,29 +57,29 @@
             "Uncommitted": 1,
             "Warren": 1,
             "Yang": 1
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 0,
+            "Bloomberg": 0,
+            "Buttigieg": 11,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 7,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 18.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 0.0,
+            "Yang": 0
         }
     },
     {
         "County": "Pocahontas",
         "Precinct": "DSM-Cummins-Pow-N Garf-N Sherm-N Roose",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 8,
-            "Bloomberg": 0,
-            "Buttigieg": 5,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 8,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 0.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 8.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 8,
@@ -111,29 +95,29 @@
             "Uncommitted": 0,
             "Warren": 6,
             "Yang": 0
-        }
-    },
-    {
-        "County": "Pocahontas",
-        "Precinct": "Grant-S Marshall-S Sherman",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 10,
+            "Biden": 8,
             "Bloomberg": 0,
-            "Buttigieg": 0,
+            "Buttigieg": 5,
             "Delaney": 0,
             "Gabbard": 0,
-            "Klobuchar": 0,
+            "Klobuchar": 8,
             "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
             "Uncommitted": 0,
-            "Warren": 0.0,
+            "Warren": 8.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Pocahontas",
+        "Precinct": "Grant-S Marshall-S Sherman",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 6,
@@ -149,20 +133,15 @@
             "Uncommitted": 0,
             "Warren": 1,
             "Yang": 0
-        }
-    },
-    {
-        "County": "Pocahontas",
-        "Precinct": "Pocahontas #1",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 17,
+            "Biden": 10,
             "Bloomberg": 0,
-            "Buttigieg": 13,
+            "Buttigieg": 0,
             "Delaney": 0,
             "Gabbard": 0,
-            "Klobuchar": 15,
+            "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
@@ -170,8 +149,13 @@
             "Uncommitted": 0,
             "Warren": 0.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Pocahontas",
+        "Precinct": "Pocahontas #1",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 17,
@@ -187,20 +171,15 @@
             "Uncommitted": 0,
             "Warren": 2,
             "Yang": 3
-        }
-    },
-    {
-        "County": "Pocahontas",
-        "Precinct": "Pocahontas #2",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 3,
+            "Biden": 17,
             "Bloomberg": 0,
-            "Buttigieg": 6,
+            "Buttigieg": 13,
             "Delaney": 0,
             "Gabbard": 0,
-            "Klobuchar": 3,
+            "Klobuchar": 15,
             "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
@@ -208,8 +187,13 @@
             "Uncommitted": 0,
             "Warren": 0.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Pocahontas",
+        "Precinct": "Pocahontas #2",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 3,
@@ -225,29 +209,29 @@
             "Uncommitted": 0,
             "Warren": 0,
             "Yang": 1
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 3,
+            "Bloomberg": 0,
+            "Buttigieg": 6,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 3,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 0.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 0.0,
+            "Yang": 0
         }
     },
     {
         "County": "Pocahontas",
         "Precinct": "Swan Lake-N Marshall",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 0,
-            "Bloomberg": 0,
-            "Buttigieg": 14,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 0,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 5.0,
-            "Steyer": 0,
-            "Uncommitted": 1,
-            "Warren": 6.0,
-            "Yang": 7
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 2,
@@ -263,6 +247,22 @@
             "Uncommitted": 0,
             "Warren": 6,
             "Yang": 5
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 0,
+            "Bloomberg": 0,
+            "Buttigieg": 14,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 0,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 5.0,
+            "Steyer": 0,
+            "Uncommitted": 1,
+            "Warren": 6.0,
+            "Yang": 7
         }
     }
 ]

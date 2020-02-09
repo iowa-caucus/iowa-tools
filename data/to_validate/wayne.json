@@ -2,24 +2,8 @@
     {
         "County": "Wayne",
         "Precinct": "A-01 Allerton-Clio-Lineville",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 0,
-            "Bloomberg": 0,
-            "Buttigieg": 0,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 11,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 9.0,
-            "Steyer": 0,
-            "Uncommitted": 1,
-            "Warren": 6.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -35,29 +19,29 @@
             "Uncommitted": 1,
             "Warren": 6,
             "Yang": 1
-        }
-    },
-    {
-        "County": "Wayne",
-        "Precinct": "C-02 Corydon",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 10,
+            "Biden": 0,
             "Bloomberg": 0,
-            "Buttigieg": 7,
+            "Buttigieg": 0,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 11,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 0.0,
+            "Sanders": 9.0,
             "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 14.0,
+            "Uncommitted": 1,
+            "Warren": 6.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Wayne",
+        "Precinct": "C-02 Corydon",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 10,
@@ -73,29 +57,29 @@
             "Uncommitted": 0,
             "Warren": 8,
             "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 10,
+            "Bloomberg": 0,
+            "Buttigieg": 7,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 11,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 0.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 14.0,
+            "Yang": 0
         }
     },
     {
         "County": "Wayne",
         "Precinct": "H-03 Humeston-Millerton",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 6,
-            "Bloomberg": 0,
-            "Buttigieg": 5,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 9,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 7.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 6.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 5,
@@ -111,29 +95,29 @@
             "Uncommitted": 0,
             "Warren": 6,
             "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 6,
+            "Bloomberg": 0,
+            "Buttigieg": 5,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 9,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 7.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 6.0,
+            "Yang": 0
         }
     },
     {
         "County": "Wayne",
         "Precinct": "S-04 Seymour-Promise City",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 0,
-            "Bloomberg": 0,
-            "Buttigieg": 14,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 10,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 9.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 0.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 4,
@@ -149,6 +133,22 @@
             "Uncommitted": 1,
             "Warren": 3,
             "Yang": 2
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 0,
+            "Bloomberg": 0,
+            "Buttigieg": 14,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 10,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 9.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 0.0,
+            "Yang": 0
         }
     }
 ]

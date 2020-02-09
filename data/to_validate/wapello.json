@@ -2,24 +2,8 @@
     {
         "County": "Wapello",
         "Precinct": "Adams/Blakesburg/Polk",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 8,
-            "Bloomberg": 0,
-            "Buttigieg": 6,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 0,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 3.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 3.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 8,
@@ -35,29 +19,29 @@
             "Uncommitted": 0,
             "Warren": 1,
             "Yang": 0
-        }
-    },
-    {
-        "County": "Wapello",
-        "Precinct": "Agency/Agency/Pleasant",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 16,
+            "Biden": 8,
             "Bloomberg": 0,
-            "Buttigieg": 10,
+            "Buttigieg": 6,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 14.0,
+            "Sanders": 3.0,
             "Steyer": 0,
             "Uncommitted": 0,
-            "Warren": 14.0,
+            "Warren": 3.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Wapello",
+        "Precinct": "Agency/Agency/Pleasant",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 16,
@@ -73,29 +57,29 @@
             "Uncommitted": 0,
             "Warren": 14,
             "Yang": 0
-        }
-    },
-    {
-        "County": "Wapello",
-        "Precinct": "Cass/Chillicothe",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 0,
+            "Biden": 16,
             "Bloomberg": 0,
-            "Buttigieg": 0,
+            "Buttigieg": 10,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 0.0,
-            "Steyer": 1,
+            "Sanders": 14.0,
+            "Steyer": 0,
             "Uncommitted": 0,
-            "Warren": 0.0,
+            "Warren": 14.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Wapello",
+        "Precinct": "Cass/Chillicothe",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -111,29 +95,29 @@
             "Uncommitted": 0,
             "Warren": 0,
             "Yang": 0
-        }
-    },
-    {
-        "County": "Wapello",
-        "Precinct": "Center Twp",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 9,
+            "Biden": 0,
             "Bloomberg": 0,
-            "Buttigieg": 15,
+            "Buttigieg": 0,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 11.0,
-            "Steyer": 0,
+            "Sanders": 0.0,
+            "Steyer": 1,
             "Uncommitted": 0,
-            "Warren": 8.0,
+            "Warren": 0.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Wapello",
+        "Precinct": "Center Twp",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 8,
@@ -149,29 +133,29 @@
             "Uncommitted": 0,
             "Warren": 5,
             "Yang": 3
-        }
-    },
-    {
-        "County": "Wapello",
-        "Precinct": "Columbia/Eddyville",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 13,
+            "Biden": 9,
             "Bloomberg": 0,
-            "Buttigieg": 9,
+            "Buttigieg": 15,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 5.0,
+            "Sanders": 11.0,
             "Steyer": 0,
             "Uncommitted": 0,
-            "Warren": 0.0,
+            "Warren": 8.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Wapello",
+        "Precinct": "Columbia/Eddyville",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 11,
@@ -187,29 +171,29 @@
             "Uncommitted": 0,
             "Warren": 3,
             "Yang": 4
-        }
-    },
-    {
-        "County": "Wapello",
-        "Precinct": "Competine Twp",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 2,
+            "Biden": 13,
             "Bloomberg": 0,
-            "Buttigieg": 1,
+            "Buttigieg": 9,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 1.0,
+            "Sanders": 5.0,
             "Steyer": 0,
             "Uncommitted": 0,
             "Warren": 0.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Wapello",
+        "Precinct": "Competine Twp",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 2,
@@ -225,29 +209,29 @@
             "Uncommitted": 0,
             "Warren": 0,
             "Yang": 0
-        }
-    },
-    {
-        "County": "Wapello",
-        "Precinct": "Dahlonega Twp",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 13,
+            "Biden": 2,
             "Bloomberg": 0,
-            "Buttigieg": 11,
+            "Buttigieg": 1,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 0.0,
+            "Sanders": 1.0,
             "Steyer": 0,
             "Uncommitted": 0,
-            "Warren": 7.0,
+            "Warren": 0.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Wapello",
+        "Precinct": "Dahlonega Twp",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 10,
@@ -263,12 +247,45 @@
             "Uncommitted": 0,
             "Warren": 6,
             "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 13,
+            "Bloomberg": 0,
+            "Buttigieg": 11,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 0,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 0.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 7.0,
+            "Yang": 0
         }
     },
     {
         "County": "Wapello",
         "Precinct": "Green Twp",
+        "URL to Documentation": "",
         "Manually validated": "false",
+        "First Expression": {
+            "Bennet": 0,
+            "Biden": 7,
+            "Bloomberg": 0,
+            "Buttigieg": 4,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 0,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 3,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 5,
+            "Yang": 0
+        },
         "Final Expression": {
             "Bennet": 0,
             "Biden": 5,
@@ -284,46 +301,13 @@
             "Uncommitted": 0,
             "Warren": 5.0,
             "Yang": 0
-        },
-        "URL to Documentation": "",
-        "First Expression": {
-            "Bennet": 0,
-            "Biden": 7,
-            "Bloomberg": 0,
-            "Buttigieg": 4,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 0,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 3,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 5,
-            "Yang": 0
         }
     },
     {
         "County": "Wapello",
         "Precinct": "Highland Twp",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 0,
-            "Bloomberg": 0,
-            "Buttigieg": 0,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 0,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 1.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 1.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -339,12 +323,45 @@
             "Uncommitted": 0,
             "Warren": 1,
             "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 0,
+            "Bloomberg": 0,
+            "Buttigieg": 0,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 0,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 1.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 1.0,
+            "Yang": 0
         }
     },
     {
         "County": "Wapello",
         "Precinct": "Keokuk Twp",
+        "URL to Documentation": "",
         "Manually validated": "false",
+        "First Expression": {
+            "Bennet": 0,
+            "Biden": 3,
+            "Bloomberg": 0,
+            "Buttigieg": 7,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 0,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 3,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 0,
+            "Yang": 3
+        },
         "Final Expression": {
             "Bennet": 0,
             "Biden": 3,
@@ -360,46 +377,13 @@
             "Uncommitted": 0,
             "Warren": 0.0,
             "Yang": 3
-        },
-        "URL to Documentation": "",
-        "First Expression": {
-            "Bennet": 0,
-            "Biden": 3,
-            "Bloomberg": 0,
-            "Buttigieg": 7,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 0,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 3,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 0,
-            "Yang": 3
         }
     },
     {
         "County": "Wapello",
         "Precinct": "Ottumwa Pct 01",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 15,
-            "Bloomberg": 0,
-            "Buttigieg": 20,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 0,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 42.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 1.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 15,
@@ -415,29 +399,29 @@
             "Uncommitted": 2,
             "Warren": 7,
             "Yang": 0
-        }
-    },
-    {
-        "County": "Wapello",
-        "Precinct": "Ottumwa Pct 02",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 37,
+            "Biden": 15,
             "Bloomberg": 0,
-            "Buttigieg": 44,
+            "Buttigieg": 20,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 35.0,
+            "Sanders": 42.0,
             "Steyer": 0,
             "Uncommitted": 0,
-            "Warren": 25.0,
+            "Warren": 1.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Wapello",
+        "Precinct": "Ottumwa Pct 02",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 28,
@@ -453,29 +437,29 @@
             "Uncommitted": 0,
             "Warren": 20,
             "Yang": 0
-        }
-    },
-    {
-        "County": "Wapello",
-        "Precinct": "Ottumwa Pct 03",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 39,
+            "Biden": 37,
             "Bloomberg": 0,
-            "Buttigieg": 59,
+            "Buttigieg": 44,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 37.0,
+            "Sanders": 35.0,
             "Steyer": 0,
             "Uncommitted": 0,
-            "Warren": 29.0,
+            "Warren": 25.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Wapello",
+        "Precinct": "Ottumwa Pct 03",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 37,
@@ -491,29 +475,29 @@
             "Uncommitted": 0,
             "Warren": 28,
             "Yang": 9
-        }
-    },
-    {
-        "County": "Wapello",
-        "Precinct": "Ottumwa Pct 04",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 0,
+            "Biden": 39,
             "Bloomberg": 0,
-            "Buttigieg": 17,
+            "Buttigieg": 59,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 21.0,
+            "Sanders": 37.0,
             "Steyer": 0,
             "Uncommitted": 0,
-            "Warren": 0.0,
+            "Warren": 29.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Wapello",
+        "Precinct": "Ottumwa Pct 04",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 2,
@@ -529,29 +513,29 @@
             "Uncommitted": 2,
             "Warren": 3,
             "Yang": 1
-        }
-    },
-    {
-        "County": "Wapello",
-        "Precinct": "Ottumwa Pct 05",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
             "Biden": 0,
             "Bloomberg": 0,
-            "Buttigieg": 32,
+            "Buttigieg": 17,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 15.0,
+            "Sanders": 21.0,
             "Steyer": 0,
             "Uncommitted": 0,
-            "Warren": 11.0,
-            "Yang": 11
-        },
+            "Warren": 0.0,
+            "Yang": 0
+        }
+    },
+    {
+        "County": "Wapello",
+        "Precinct": "Ottumwa Pct 05",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 9,
@@ -567,29 +551,29 @@
             "Uncommitted": 0,
             "Warren": 11,
             "Yang": 10
-        }
-    },
-    {
-        "County": "Wapello",
-        "Precinct": "Ottumwa Pct 06",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 10,
+            "Biden": 0,
             "Bloomberg": 0,
-            "Buttigieg": 11,
+            "Buttigieg": 32,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 21.0,
+            "Sanders": 15.0,
             "Steyer": 0,
             "Uncommitted": 0,
-            "Warren": 8.0,
-            "Yang": 0
-        },
+            "Warren": 11.0,
+            "Yang": 11
+        }
+    },
+    {
+        "County": "Wapello",
+        "Precinct": "Ottumwa Pct 06",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 6,
@@ -605,15 +589,10 @@
             "Uncommitted": 0,
             "Warren": 3,
             "Yang": 2
-        }
-    },
-    {
-        "County": "Wapello",
-        "Precinct": "Ottumwa Pct 07",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 9,
+            "Biden": 10,
             "Bloomberg": 0,
             "Buttigieg": 11,
             "Delaney": 0,
@@ -621,13 +600,18 @@
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 23.0,
+            "Sanders": 21.0,
             "Steyer": 0,
-            "Uncommitted": 4,
-            "Warren": 0.0,
+            "Uncommitted": 0,
+            "Warren": 8.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Wapello",
+        "Precinct": "Ottumwa Pct 07",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 6,
@@ -643,29 +627,29 @@
             "Uncommitted": 0,
             "Warren": 5,
             "Yang": 3
-        }
-    },
-    {
-        "County": "Wapello",
-        "Precinct": "Ottumwa Pct 08",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 0,
+            "Biden": 9,
             "Bloomberg": 0,
-            "Buttigieg": 14,
+            "Buttigieg": 11,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 24.0,
+            "Sanders": 23.0,
             "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 20.0,
+            "Uncommitted": 4,
+            "Warren": 0.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Wapello",
+        "Precinct": "Ottumwa Pct 08",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 10,
@@ -681,29 +665,29 @@
             "Uncommitted": 0,
             "Warren": 17,
             "Yang": 0
-        }
-    },
-    {
-        "County": "Wapello",
-        "Precinct": "Ottumwa Pct 09",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 31,
+            "Biden": 0,
             "Bloomberg": 0,
-            "Buttigieg": 25,
+            "Buttigieg": 14,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 26.0,
+            "Sanders": 24.0,
             "Steyer": 0,
             "Uncommitted": 0,
-            "Warren": 15.0,
+            "Warren": 20.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Wapello",
+        "Precinct": "Ottumwa Pct 09",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 31,
@@ -719,29 +703,29 @@
             "Uncommitted": 0,
             "Warren": 15,
             "Yang": 0
-        }
-    },
-    {
-        "County": "Wapello",
-        "Precinct": "Ottumwa Pct 10",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 18,
+            "Biden": 31,
             "Bloomberg": 0,
-            "Buttigieg": 18,
+            "Buttigieg": 25,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 17.0,
+            "Sanders": 26.0,
             "Steyer": 0,
             "Uncommitted": 0,
-            "Warren": 22.0,
+            "Warren": 15.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Wapello",
+        "Precinct": "Ottumwa Pct 10",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 17,
@@ -757,29 +741,29 @@
             "Uncommitted": 0,
             "Warren": 22,
             "Yang": 0
-        }
-    },
-    {
-        "County": "Wapello",
-        "Precinct": "Richland/Kirkville",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 9,
+            "Biden": 18,
             "Bloomberg": 0,
-            "Buttigieg": 6,
+            "Buttigieg": 18,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 0.0,
+            "Sanders": 17.0,
             "Steyer": 0,
             "Uncommitted": 0,
-            "Warren": 0.0,
+            "Warren": 22.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Wapello",
+        "Precinct": "Richland/Kirkville",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 6,
@@ -795,29 +779,29 @@
             "Uncommitted": 0,
             "Warren": 2,
             "Yang": 0
-        }
-    },
-    {
-        "County": "Wapello",
-        "Precinct": "Washington/Eldon",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 7,
+            "Biden": 9,
             "Bloomberg": 0,
-            "Buttigieg": 15,
+            "Buttigieg": 6,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 4.0,
+            "Sanders": 0.0,
             "Steyer": 0,
             "Uncommitted": 0,
             "Warren": 0.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Wapello",
+        "Precinct": "Washington/Eldon",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 7,
@@ -832,6 +816,22 @@
             "Steyer": 0,
             "Uncommitted": 0,
             "Warren": 0,
+            "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 7,
+            "Bloomberg": 0,
+            "Buttigieg": 15,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 0,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 4.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 0.0,
             "Yang": 0
         }
     }

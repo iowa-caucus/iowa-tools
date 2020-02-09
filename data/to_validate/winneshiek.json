@@ -2,24 +2,8 @@
     {
         "County": "Winneshiek",
         "Precinct": "PCT 01 - HE/HI/PL",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 1,
-            "Bloomberg": 0,
-            "Buttigieg": 26,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 29,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 27.0,
-            "Steyer": 0,
-            "Uncommitted": 1,
-            "Warren": 21.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 5,
@@ -35,29 +19,29 @@
             "Uncommitted": 1,
             "Warren": 21,
             "Yang": 3
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 1,
+            "Bloomberg": 0,
+            "Buttigieg": 26,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 29,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 27.0,
+            "Steyer": 0,
+            "Uncommitted": 1,
+            "Warren": 21.0,
+            "Yang": 0
         }
     },
     {
         "County": "Winneshiek",
         "Precinct": "PCT 02 - FR/GL/DEW3/ DETSUP1",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 0,
-            "Bloomberg": 0,
-            "Buttigieg": 115,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 125,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 77.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 86.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 40,
@@ -73,29 +57,29 @@
             "Uncommitted": 1,
             "Warren": 76,
             "Yang": 26
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 0,
+            "Bloomberg": 0,
+            "Buttigieg": 115,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 125,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 77.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 86.0,
+            "Yang": 0
         }
     },
     {
         "County": "Winneshiek",
         "Precinct": "PCT 03 - DEW1/DETSUP2",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 0,
-            "Bloomberg": 0,
-            "Buttigieg": 95,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 72,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 67.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 55.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 35,
@@ -111,29 +95,29 @@
             "Uncommitted": 0,
             "Warren": 45,
             "Yang": 29
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 0,
+            "Bloomberg": 0,
+            "Buttigieg": 95,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 72,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 67.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 55.0,
+            "Yang": 0
         }
     },
     {
         "County": "Winneshiek",
         "Precinct": "PCT 04 - DEW2 (Decorah Ward 2)",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 0,
-            "Bloomberg": 0,
-            "Buttigieg": 87,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 59,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 89.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 78.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 21,
@@ -149,29 +133,29 @@
             "Uncommitted": 1,
             "Warren": 70,
             "Yang": 39
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 0,
+            "Bloomberg": 0,
+            "Buttigieg": 87,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 59,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 89.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 78.0,
+            "Yang": 0
         }
     },
     {
         "County": "Winneshiek",
         "Precinct": "PCT 05 - CN/DEW4/ DETSUP3",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 0,
-            "Bloomberg": 0,
-            "Buttigieg": 50,
-            "Delaney": 0,
-            "Gabbard": 2,
-            "Klobuchar": 47,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 67.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 50.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 5,
@@ -187,29 +171,29 @@
             "Uncommitted": 0,
             "Warren": 50,
             "Yang": 14
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 0,
+            "Bloomberg": 0,
+            "Buttigieg": 50,
+            "Delaney": 0,
+            "Gabbard": 2,
+            "Klobuchar": 47,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 67.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 50.0,
+            "Yang": 0
         }
     },
     {
         "County": "Winneshiek",
         "Precinct": "PCT 06 - DEW5 (Decorah Ward 5)",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 0,
-            "Bloomberg": 0,
-            "Buttigieg": 74,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 52,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 0.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 62.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 20,
@@ -225,29 +209,29 @@
             "Uncommitted": 0,
             "Warren": 55,
             "Yang": 17
-        }
-    },
-    {
-        "County": "Winneshiek",
-        "Precinct": "PCT 07 - CA/SP",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
             "Biden": 0,
             "Bloomberg": 0,
-            "Buttigieg": 42,
+            "Buttigieg": 74,
             "Delaney": 0,
             "Gabbard": 0,
-            "Klobuchar": 30,
+            "Klobuchar": 52,
             "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
             "Uncommitted": 0,
-            "Warren": 0.0,
-            "Yang": 20
-        },
+            "Warren": 62.0,
+            "Yang": 0
+        }
+    },
+    {
+        "County": "Winneshiek",
+        "Precinct": "PCT 07 - CA/SP",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -263,29 +247,29 @@
             "Uncommitted": 0,
             "Warren": 12,
             "Yang": 9
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 0,
+            "Bloomberg": 0,
+            "Buttigieg": 42,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 30,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 0.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 0.0,
+            "Yang": 20
         }
     },
     {
         "County": "Winneshiek",
         "Precinct": "PCT 08 - MI/BLM",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 9,
-            "Bloomberg": 0,
-            "Buttigieg": 15,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 6,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 8.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 0.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 7,
@@ -301,29 +285,29 @@
             "Uncommitted": 0,
             "Warren": 5,
             "Yang": 4
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 9,
+            "Bloomberg": 0,
+            "Buttigieg": 15,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 6,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 8.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 0.0,
+            "Yang": 0
         }
     },
     {
         "County": "Winneshiek",
         "Precinct": "PCT 09 - BLF/BO/FR/LI/MA/ OR",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 15,
-            "Bloomberg": 0,
-            "Buttigieg": 19,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 23,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 21.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 0.0,
-            "Yang": 15
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 15,
@@ -339,29 +323,29 @@
             "Uncommitted": 0,
             "Warren": 9,
             "Yang": 15
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 15,
+            "Bloomberg": 0,
+            "Buttigieg": 19,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 23,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 21.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 0.0,
+            "Yang": 15
         }
     },
     {
         "County": "Winneshiek",
         "Precinct": "PCT 10 - JA/SU/WA",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 9,
-            "Bloomberg": 0,
-            "Buttigieg": 14,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 12,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 10.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 0.0,
-            "Yang": 9
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 1,
             "Biden": 9,
@@ -377,29 +361,29 @@
             "Uncommitted": 2,
             "Warren": 3,
             "Yang": 7
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 9,
+            "Bloomberg": 0,
+            "Buttigieg": 14,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 12,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 10.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 0.0,
+            "Yang": 9
         }
     },
     {
         "County": "Winneshiek",
         "Precinct": "PCT 11- DESUP5 (Decorah Twp Sup 5)",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 0,
-            "Bloomberg": 0,
-            "Buttigieg": 8,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 2,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 1.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 0.0,
-            "Yang": 5
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -414,6 +398,22 @@
             "Steyer": 0,
             "Uncommitted": 0,
             "Warren": 0,
+            "Yang": 5
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 0,
+            "Bloomberg": 0,
+            "Buttigieg": 8,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 2,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 1.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 0.0,
             "Yang": 5
         }
     }

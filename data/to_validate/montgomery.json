@@ -2,24 +2,8 @@
     {
         "County": "Montgomery",
         "Precinct": "4 GRFLD LNCLN SHER PILOT GROVE TWP ELLIOTT",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 4,
-            "Bloomberg": 0,
-            "Buttigieg": 6,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 6,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 0.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 0.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 4,
@@ -35,29 +19,29 @@
             "Uncommitted": 0,
             "Warren": 0,
             "Yang": 0
-        }
-    },
-    {
-        "County": "Montgomery",
-        "Precinct": "5 PILOT GROVE FRANKFORT DOUGLAS WASH TWP GRANT",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 0,
+            "Biden": 4,
             "Bloomberg": 0,
-            "Buttigieg": 9,
+            "Buttigieg": 6,
             "Delaney": 0,
             "Gabbard": 0,
-            "Klobuchar": 8,
+            "Klobuchar": 6,
             "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
             "Uncommitted": 0,
-            "Warren": 6.0,
+            "Warren": 0.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Montgomery",
+        "Precinct": "5 PILOT GROVE FRANKFORT DOUGLAS WASH TWP GRANT",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 1,
@@ -73,29 +57,29 @@
             "Uncommitted": 0,
             "Warren": 5,
             "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 0,
+            "Bloomberg": 0,
+            "Buttigieg": 9,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 8,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 0.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 6.0,
+            "Yang": 0
         }
     },
     {
         "County": "Montgomery",
         "Precinct": "6 WEST GRANT SCOTT TWP COBURG STANTON",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 0,
-            "Bloomberg": 0,
-            "Buttigieg": 7,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 0,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 10.0,
-            "Steyer": 6,
-            "Uncommitted": 0,
-            "Warren": 8.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -111,29 +95,29 @@
             "Uncommitted": 0,
             "Warren": 5,
             "Yang": 1
-        }
-    },
-    {
-        "County": "Montgomery",
-        "Precinct": "7 SCOTT EAST TWP VILLISCA",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 1,
+            "Biden": 0,
             "Bloomberg": 0,
-            "Buttigieg": 17,
+            "Buttigieg": 7,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 8.0,
-            "Steyer": 0,
-            "Uncommitted": 1,
-            "Warren": 6.0,
+            "Sanders": 10.0,
+            "Steyer": 6,
+            "Uncommitted": 0,
+            "Warren": 8.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Montgomery",
+        "Precinct": "7 SCOTT EAST TWP VILLISCA",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 1,
@@ -149,29 +133,29 @@
             "Uncommitted": 0,
             "Warren": 6,
             "Yang": 0
-        }
-    },
-    {
-        "County": "Montgomery",
-        "Precinct": "WARD1 PILOT GROVE FRANKFORT RO TWP",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 11,
+            "Biden": 1,
             "Bloomberg": 0,
-            "Buttigieg": 15,
+            "Buttigieg": 17,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 13.0,
+            "Sanders": 8.0,
             "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 7.0,
+            "Uncommitted": 1,
+            "Warren": 6.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Montgomery",
+        "Precinct": "WARD1 PILOT GROVE FRANKFORT RO TWP",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 11,
@@ -187,29 +171,29 @@
             "Uncommitted": 0,
             "Warren": 7,
             "Yang": 0
-        }
-    },
-    {
-        "County": "Montgomery",
-        "Precinct": "WARD2 SHERMAN RO TWP",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
             "Biden": 11,
             "Bloomberg": 0,
-            "Buttigieg": 19,
+            "Buttigieg": 15,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 18.0,
+            "Sanders": 13.0,
             "Steyer": 0,
             "Uncommitted": 0,
-            "Warren": 0.0,
+            "Warren": 7.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Montgomery",
+        "Precinct": "WARD2 SHERMAN RO TWP",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 11,
@@ -225,29 +209,29 @@
             "Uncommitted": 0,
             "Warren": 0,
             "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 11,
+            "Bloomberg": 0,
+            "Buttigieg": 19,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 0,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 18.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 0.0,
+            "Yang": 0
         }
     },
     {
         "County": "Montgomery",
         "Precinct": "WARD3 SHERMAN PILOT GROVE FRANKFORT RO TWP",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 18,
-            "Bloomberg": 0,
-            "Buttigieg": 18,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 22,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 1.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 0.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 14,
@@ -263,6 +247,22 @@
             "Uncommitted": 2,
             "Warren": 4,
             "Yang": 5
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 18,
+            "Bloomberg": 0,
+            "Buttigieg": 18,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 22,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 1.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 0.0,
+            "Yang": 0
         }
     }
 ]

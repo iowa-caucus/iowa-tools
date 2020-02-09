@@ -2,24 +2,8 @@
     {
         "County": "Keokuk",
         "Precinct": "Adams",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 0,
-            "Bloomberg": 0,
-            "Buttigieg": 9,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 0,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 0.0,
-            "Steyer": 0,
-            "Uncommitted": 1,
-            "Warren": 4.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -35,29 +19,29 @@
             "Uncommitted": 0,
             "Warren": 1,
             "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 0,
+            "Bloomberg": 0,
+            "Buttigieg": 9,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 0,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 0.0,
+            "Steyer": 0,
+            "Uncommitted": 1,
+            "Warren": 4.0,
+            "Yang": 0
         }
     },
     {
         "County": "Keokuk",
         "Precinct": "Benton/Steady Run",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 0,
-            "Bloomberg": 0,
-            "Buttigieg": 14,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 10,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 5.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 0.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 1,
@@ -73,29 +57,29 @@
             "Uncommitted": 0,
             "Warren": 1,
             "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 0,
+            "Bloomberg": 0,
+            "Buttigieg": 14,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 10,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 5.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 0.0,
+            "Yang": 0
         }
     },
     {
         "County": "Keokuk",
         "Precinct": "East/West Lancaster",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 0,
-            "Bloomberg": 0,
-            "Buttigieg": 5,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 0,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 0.0,
-            "Steyer": 2,
-            "Uncommitted": 0,
-            "Warren": 0.0,
-            "Yang": 1
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -111,29 +95,29 @@
             "Uncommitted": 0,
             "Warren": 0,
             "Yang": 1
-        }
-    },
-    {
-        "County": "Keokuk",
-        "Precinct": "English River/Liberty",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 7,
+            "Biden": 0,
             "Bloomberg": 0,
-            "Buttigieg": 8,
+            "Buttigieg": 5,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 17.0,
-            "Steyer": 0,
-            "Uncommitted": 2,
+            "Sanders": 0.0,
+            "Steyer": 2,
+            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        },
+            "Yang": 1
+        }
+    },
+    {
+        "County": "Keokuk",
+        "Precinct": "English River/Liberty",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 7,
@@ -149,12 +133,45 @@
             "Uncommitted": 0,
             "Warren": 0,
             "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 7,
+            "Bloomberg": 0,
+            "Buttigieg": 8,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 0,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 17.0,
+            "Steyer": 0,
+            "Uncommitted": 2,
+            "Warren": 0.0,
+            "Yang": 0
         }
     },
     {
         "County": "Keokuk",
         "Precinct": "Jackson",
+        "URL to Documentation": "",
         "Manually validated": "false",
+        "First Expression": {
+            "Bennet": 0,
+            "Biden": 1,
+            "Bloomberg": 0,
+            "Buttigieg": 0,
+            "Delaney": 0,
+            "Gabbard": 2,
+            "Klobuchar": 0,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 1,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 0,
+            "Yang": 0
+        },
         "Final Expression": {
             "Bennet": 0,
             "Biden": 1,
@@ -170,46 +187,13 @@
             "Uncommitted": 0,
             "Warren": 0.0,
             "Yang": 0
-        },
-        "URL to Documentation": "",
-        "First Expression": {
-            "Bennet": 0,
-            "Biden": 1,
-            "Bloomberg": 0,
-            "Buttigieg": 0,
-            "Delaney": 0,
-            "Gabbard": 2,
-            "Klobuchar": 0,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 1,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 0,
-            "Yang": 0
         }
     },
     {
         "County": "Keokuk",
         "Precinct": "Lafayette/Clear Creek",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 0,
-            "Bloomberg": 0,
-            "Buttigieg": 8,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 8,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 10.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 10.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 6,
@@ -225,29 +209,29 @@
             "Uncommitted": 0,
             "Warren": 9,
             "Yang": 1
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 0,
+            "Bloomberg": 0,
+            "Buttigieg": 8,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 8,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 10.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 10.0,
+            "Yang": 0
         }
     },
     {
         "County": "Keokuk",
         "Precinct": "Prairie",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 0,
-            "Bloomberg": 0,
-            "Buttigieg": 0,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 1,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 2.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 0.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -263,29 +247,29 @@
             "Uncommitted": 0,
             "Warren": 0,
             "Yang": 0
-        }
-    },
-    {
-        "County": "Keokuk",
-        "Precinct": "Richland",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 6,
+            "Biden": 0,
             "Bloomberg": 0,
-            "Buttigieg": 6,
+            "Buttigieg": 0,
             "Delaney": 0,
             "Gabbard": 0,
-            "Klobuchar": 0,
+            "Klobuchar": 1,
             "Other": 0,
             "Patrick": 0,
             "Sanders": 2.0,
             "Steyer": 0,
             "Uncommitted": 0,
-            "Warren": 2.0,
+            "Warren": 0.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Keokuk",
+        "Precinct": "Richland",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 6,
@@ -301,29 +285,29 @@
             "Uncommitted": 0,
             "Warren": 2,
             "Yang": 0
-        }
-    },
-    {
-        "County": "Keokuk",
-        "Precinct": "Sigourney 1st Ward",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 7,
+            "Biden": 6,
             "Bloomberg": 0,
-            "Buttigieg": 0,
+            "Buttigieg": 6,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 0.0,
+            "Sanders": 2.0,
             "Steyer": 0,
-            "Uncommitted": 2,
-            "Warren": 11.0,
+            "Uncommitted": 0,
+            "Warren": 2.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Keokuk",
+        "Precinct": "Sigourney 1st Ward",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 5,
@@ -339,29 +323,29 @@
             "Uncommitted": 0,
             "Warren": 7,
             "Yang": 0
-        }
-    },
-    {
-        "County": "Keokuk",
-        "Precinct": "Sigourney 2nd Ward",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 0,
+            "Biden": 7,
             "Bloomberg": 0,
-            "Buttigieg": 11,
+            "Buttigieg": 0,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 9.0,
+            "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 0.0,
+            "Uncommitted": 2,
+            "Warren": 11.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Keokuk",
+        "Precinct": "Sigourney 2nd Ward",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 8,
@@ -377,29 +361,29 @@
             "Uncommitted": 0,
             "Warren": 0,
             "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 0,
+            "Bloomberg": 0,
+            "Buttigieg": 11,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 0,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 9.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 0.0,
+            "Yang": 0
         }
     },
     {
         "County": "Keokuk",
         "Precinct": "Sigourney 3rd Ward",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 0,
-            "Bloomberg": 0,
-            "Buttigieg": 6,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 7,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 0.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 0.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -415,20 +399,15 @@
             "Uncommitted": 0,
             "Warren": 0,
             "Yang": 2
-        }
-    },
-    {
-        "County": "Keokuk",
-        "Precinct": "Sigourney 4th Ward",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
             "Biden": 0,
             "Bloomberg": 0,
-            "Buttigieg": 10,
+            "Buttigieg": 6,
             "Delaney": 0,
             "Gabbard": 0,
-            "Klobuchar": 13,
+            "Klobuchar": 7,
             "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
@@ -436,8 +415,13 @@
             "Uncommitted": 0,
             "Warren": 0.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Keokuk",
+        "Precinct": "Sigourney 4th Ward",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 4,
@@ -453,29 +437,29 @@
             "Uncommitted": 0,
             "Warren": 0,
             "Yang": 0
-        }
-    },
-    {
-        "County": "Keokuk",
-        "Precinct": "Sigourney/Plank/Van Buren",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 7,
+            "Biden": 0,
             "Bloomberg": 0,
-            "Buttigieg": 5,
+            "Buttigieg": 10,
             "Delaney": 0,
             "Gabbard": 0,
-            "Klobuchar": 0,
+            "Klobuchar": 13,
             "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
             "Uncommitted": 0,
-            "Warren": 4.0,
+            "Warren": 0.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Keokuk",
+        "Precinct": "Sigourney/Plank/Van Buren",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 7,
@@ -491,29 +475,29 @@
             "Uncommitted": 0,
             "Warren": 4,
             "Yang": 0
-        }
-    },
-    {
-        "County": "Keokuk",
-        "Precinct": "Warren",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 0,
+            "Biden": 7,
             "Bloomberg": 0,
-            "Buttigieg": 2,
+            "Buttigieg": 5,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 3.0,
+            "Sanders": 0.0,
             "Steyer": 0,
             "Uncommitted": 0,
-            "Warren": 0.0,
-            "Yang": 6
-        },
+            "Warren": 4.0,
+            "Yang": 0
+        }
+    },
+    {
+        "County": "Keokuk",
+        "Precinct": "Warren",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -529,17 +513,12 @@
             "Uncommitted": 0,
             "Warren": 0,
             "Yang": 6
-        }
-    },
-    {
-        "County": "Keokuk",
-        "Precinct": "What Cheer/Washington",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 3,
+            "Biden": 0,
             "Bloomberg": 0,
-            "Buttigieg": 0,
+            "Buttigieg": 2,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
@@ -548,10 +527,15 @@
             "Sanders": 3.0,
             "Steyer": 0,
             "Uncommitted": 0,
-            "Warren": 4.0,
-            "Yang": 0
-        },
+            "Warren": 0.0,
+            "Yang": 6
+        }
+    },
+    {
+        "County": "Keokuk",
+        "Precinct": "What Cheer/Washington",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 2,
@@ -566,6 +550,22 @@
             "Steyer": 0,
             "Uncommitted": 1,
             "Warren": 4,
+            "Yang": 0
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 3,
+            "Bloomberg": 0,
+            "Buttigieg": 0,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 0,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 3.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 4.0,
             "Yang": 0
         }
     }

@@ -2,24 +2,8 @@
     {
         "County": "Des Moines",
         "Precinct": "PCT 1T",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 0,
-            "Bloomberg": 0,
-            "Buttigieg": 71,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 39,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 26.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 34.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 24,
@@ -35,29 +19,29 @@
             "Uncommitted": 0,
             "Warren": 28,
             "Yang": 9
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 0,
+            "Bloomberg": 0,
+            "Buttigieg": 71,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 39,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 26.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 34.0,
+            "Yang": 0
         }
     },
     {
         "County": "Des Moines",
         "Precinct": "PCT 2",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 31,
-            "Bloomberg": 0,
-            "Buttigieg": 51,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 0,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 35.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 30.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 26,
@@ -73,29 +57,29 @@
             "Uncommitted": 2,
             "Warren": 25,
             "Yang": 8
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 31,
+            "Bloomberg": 0,
+            "Buttigieg": 51,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 0,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 35.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 30.0,
+            "Yang": 0
         }
     },
     {
         "County": "Des Moines",
         "Precinct": "PCT 3",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 0,
-            "Bloomberg": 0,
-            "Buttigieg": 95,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 73,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 67.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 55.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 35,
@@ -111,29 +95,29 @@
             "Uncommitted": 0,
             "Warren": 45,
             "Yang": 29
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 0,
+            "Bloomberg": 0,
+            "Buttigieg": 95,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 73,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 67.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 55.0,
+            "Yang": 0
         }
     },
     {
         "County": "Des Moines",
         "Precinct": "PCT 4",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 21,
-            "Bloomberg": 0,
-            "Buttigieg": 22,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 0,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 23.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 0.0,
-            "Yang": 18
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 20,
@@ -149,29 +133,29 @@
             "Uncommitted": 0,
             "Warren": 5,
             "Yang": 16
-        }
-    },
-    {
-        "County": "Des Moines",
-        "Precinct": "PCT 5",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 35,
+            "Biden": 21,
             "Bloomberg": 0,
-            "Buttigieg": 49,
+            "Buttigieg": 22,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 30.0,
+            "Sanders": 23.0,
             "Steyer": 0,
             "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        },
+            "Yang": 18
+        }
+    },
+    {
+        "County": "Des Moines",
+        "Precinct": "PCT 5",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 32,
@@ -187,29 +171,29 @@
             "Uncommitted": 0,
             "Warren": 12,
             "Yang": 8
-        }
-    },
-    {
-        "County": "Des Moines",
-        "Precinct": "PCT 6",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 0,
+            "Biden": 35,
             "Bloomberg": 0,
-            "Buttigieg": 20,
+            "Buttigieg": 49,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 33.0,
+            "Sanders": 30.0,
             "Steyer": 0,
             "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 14
-        },
+            "Yang": 0
+        }
+    },
+    {
+        "County": "Des Moines",
+        "Precinct": "PCT 6",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 6,
@@ -225,29 +209,29 @@
             "Uncommitted": 2,
             "Warren": 6,
             "Yang": 12
-        }
-    },
-    {
-        "County": "Des Moines",
-        "Precinct": "PCT 7",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 42,
+            "Biden": 0,
             "Bloomberg": 0,
-            "Buttigieg": 54,
+            "Buttigieg": 20,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 50.0,
+            "Sanders": 33.0,
             "Steyer": 0,
-            "Uncommitted": 6,
-            "Warren": 30.0,
-            "Yang": 0
-        },
+            "Uncommitted": 0,
+            "Warren": 0.0,
+            "Yang": 14
+        }
+    },
+    {
+        "County": "Des Moines",
+        "Precinct": "PCT 7",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 39,
@@ -263,29 +247,29 @@
             "Uncommitted": 1,
             "Warren": 25,
             "Yang": 3
-        }
-    },
-    {
-        "County": "Des Moines",
-        "Precinct": "PCT 8",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 39,
+            "Biden": 42,
             "Bloomberg": 0,
-            "Buttigieg": 76,
+            "Buttigieg": 54,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 35.0,
+            "Sanders": 50.0,
             "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 32.0,
+            "Uncommitted": 6,
+            "Warren": 30.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Des Moines",
+        "Precinct": "PCT 8",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 2,
             "Biden": 35,
@@ -301,29 +285,29 @@
             "Uncommitted": 1,
             "Warren": 29,
             "Yang": 9
-        }
-    },
-    {
-        "County": "Des Moines",
-        "Precinct": "PCT 9",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 42,
+            "Biden": 39,
             "Bloomberg": 0,
-            "Buttigieg": 51,
+            "Buttigieg": 76,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 26.0,
+            "Sanders": 35.0,
             "Steyer": 0,
             "Uncommitted": 0,
-            "Warren": 26.0,
+            "Warren": 32.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Des Moines",
+        "Precinct": "PCT 9",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 33,
@@ -339,29 +323,29 @@
             "Uncommitted": 0,
             "Warren": 21,
             "Yang": 6
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 42,
+            "Bloomberg": 0,
+            "Buttigieg": 51,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 0,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 26.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 26.0,
+            "Yang": 0
         }
     },
     {
         "County": "Des Moines",
         "Precinct": "PCT DM",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 6,
-            "Bloomberg": 0,
-            "Buttigieg": 9,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 9,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 9.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 11.0,
-            "Yang": 8
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 6,
@@ -377,29 +361,29 @@
             "Uncommitted": 2,
             "Warren": 10,
             "Yang": 8
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 6,
+            "Bloomberg": 0,
+            "Buttigieg": 9,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 9,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 9.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 11.0,
+            "Yang": 8
         }
     },
     {
         "County": "Des Moines",
         "Precinct": "PCT FM",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 17,
-            "Bloomberg": 0,
-            "Buttigieg": 37,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 0,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 17.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 26.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 16,
@@ -415,29 +399,29 @@
             "Uncommitted": 0,
             "Warren": 21,
             "Yang": 2
-        }
-    },
-    {
-        "County": "Des Moines",
-        "Precinct": "PCT HJ",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 0,
+            "Biden": 17,
             "Bloomberg": 0,
-            "Buttigieg": 21,
+            "Buttigieg": 37,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 0.0,
+            "Sanders": 17.0,
             "Steyer": 0,
-            "Uncommitted": 1,
-            "Warren": 15.0,
+            "Uncommitted": 0,
+            "Warren": 26.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Des Moines",
+        "Precinct": "PCT HJ",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 9,
@@ -453,29 +437,29 @@
             "Uncommitted": 0,
             "Warren": 10,
             "Yang": 1
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 0,
+            "Bloomberg": 0,
+            "Buttigieg": 21,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 0,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 0.0,
+            "Steyer": 0,
+            "Uncommitted": 1,
+            "Warren": 15.0,
+            "Yang": 0
         }
     },
     {
         "County": "Des Moines",
         "Precinct": "PCT MY",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 25,
-            "Bloomberg": 0,
-            "Buttigieg": 34,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 15,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 0.0,
-            "Steyer": 0,
-            "Uncommitted": 7,
-            "Warren": 0.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 22,
@@ -491,29 +475,29 @@
             "Uncommitted": 0,
             "Warren": 10,
             "Yang": 2
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 25,
+            "Bloomberg": 0,
+            "Buttigieg": 34,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 15,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 0.0,
+            "Steyer": 0,
+            "Uncommitted": 7,
+            "Warren": 0.0,
+            "Yang": 0
         }
     },
     {
         "County": "Des Moines",
         "Precinct": "PCT PW",
-        "Manually validated": "false",
-        "Final Expression": {
-            "Bennet": 0,
-            "Biden": 12,
-            "Bloomberg": 0,
-            "Buttigieg": 0,
-            "Delaney": 0,
-            "Gabbard": 0,
-            "Klobuchar": 0,
-            "Other": 0,
-            "Patrick": 0,
-            "Sanders": 8.0,
-            "Steyer": 0,
-            "Uncommitted": 0,
-            "Warren": 0.0,
-            "Yang": 0
-        },
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 1,
             "Biden": 3,
@@ -529,17 +513,12 @@
             "Uncommitted": 1,
             "Warren": 2,
             "Yang": 0
-        }
-    },
-    {
-        "County": "Des Moines",
-        "Precinct": "PCT UNION",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 0,
+            "Biden": 12,
             "Bloomberg": 0,
-            "Buttigieg": 10,
+            "Buttigieg": 0,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
@@ -550,8 +529,13 @@
             "Uncommitted": 0,
             "Warren": 0.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Des Moines",
+        "Precinct": "PCT UNION",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 5,
@@ -567,29 +551,29 @@
             "Uncommitted": 0,
             "Warren": 5,
             "Yang": 0
-        }
-    },
-    {
-        "County": "Des Moines",
-        "Precinct": "PCT WB",
-        "Manually validated": "false",
+        },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 24,
+            "Biden": 0,
             "Bloomberg": 0,
-            "Buttigieg": 31,
+            "Buttigieg": 10,
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
             "Other": 0,
             "Patrick": 0,
-            "Sanders": 31.0,
+            "Sanders": 8.0,
             "Steyer": 0,
             "Uncommitted": 0,
-            "Warren": 25.0,
+            "Warren": 0.0,
             "Yang": 0
-        },
+        }
+    },
+    {
+        "County": "Des Moines",
+        "Precinct": "PCT WB",
         "URL to Documentation": "",
+        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 22,
@@ -605,6 +589,22 @@
             "Uncommitted": 5,
             "Warren": 18,
             "Yang": 6
+        },
+        "Final Expression": {
+            "Bennet": 0,
+            "Biden": 24,
+            "Bloomberg": 0,
+            "Buttigieg": 31,
+            "Delaney": 0,
+            "Gabbard": 0,
+            "Klobuchar": 0,
+            "Other": 0,
+            "Patrick": 0,
+            "Sanders": 31.0,
+            "Steyer": 0,
+            "Uncommitted": 0,
+            "Warren": 25.0,
+            "Yang": 0
         }
     }
 ]
