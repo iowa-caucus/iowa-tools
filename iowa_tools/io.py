@@ -13,16 +13,16 @@ def read_dataset_from_json(input_dataset, subtype=VOTES):
     return df
 
 
-def read_dataset_from_csv(input_dataset, subtype):
+def read_dataset_from_csv(input_dataset, subtype, header='infer', index_cols=(0, 1)):
     with open_input_dataset_file(input_dataset, get_csv_filename(subtype)) as csv_file:
         csv_content = csv_file.read()
-    return convert_csv_to_dataframe(csv_content)
+    return convert_csv_to_dataframe(csv_content, header=header, index_cols=index_cols)
 
 
-def read_reference_dataset_from_csv(reference_dataset):
+def read_reference_dataset_from_csv(reference_dataset, header='infer', index_cols=(0, 1)):
     with open_input_reference_file(get_csv_filename(reference_dataset)) as csv_file:
         csv_content = csv_file.read()
-    return convert_csv_to_dataframe(csv_content)
+    return convert_csv_to_dataframe(csv_content, header=header, index_cols=index_cols)
 
 
 def write_dataset_as_json(df, output_dataset, subtype):

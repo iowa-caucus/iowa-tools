@@ -55,9 +55,10 @@ def convert_json_to_dataframe(json_dataset):
     return df
 
 
-def convert_csv_to_dataframe(csv_content):
-    df = pd.read_csv(csv_content)
-    df = df.set_index(tuple(df.columns[0:2]))
+def convert_csv_to_dataframe(csv_content, header='infer', index_cols=None):
+    df = pd.read_csv(StringIO(csv_content), header=header)
+    if index_cols:
+        df = df.set_index([df.columns[i] for i in index_cols])
     return df
 
 
