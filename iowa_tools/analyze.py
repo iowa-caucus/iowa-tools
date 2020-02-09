@@ -60,8 +60,9 @@ def harmonize_precinct_metadata(input_dataset, output_dataset):
     gop_df = read_reference_dataset_from_csv(GOP_2008_RESULTS, index_cols=(19, 20))
     spsteve_df = read_reference_dataset_from_csv(SPSTEVE_PRECINCT_DELEGATES)
 
-    gop_df.drop(gop_df.columns[20], axis=1, inplace=True)
-    gop_df.drop(gop_df.columns[range(1, 18)], axis=1, inplace=True)
+    gop_df.drop(gop_df.columns[range(23, 26)], axis=1, inplace=True)
+    gop_df.drop(gop_df.columns[range(17, 22)], axis=1, inplace=True)
+    gop_df.drop(gop_df.columns[range(0, 8)], axis=1, inplace=True)
     spsteve_df.drop(spsteve_df.columns[range(0, 2)], axis=1, inplace=True)
 
     join_df = idp_df.join(gop_df, on=(COUNTY, PRECINCT_SN))
