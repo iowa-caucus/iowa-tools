@@ -10,13 +10,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 43,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0,
-            "Yang": 18
+            "Yang": 18,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -26,13 +26,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 74.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 92.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 278.0
     },
@@ -47,13 +47,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -63,13 +63,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 101.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 215.0
     },
@@ -84,13 +84,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 140,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 129,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 212,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -100,13 +100,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 149,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 134.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 226.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 57.0
     },
@@ -121,13 +121,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 49,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 67,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 65,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -137,13 +137,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 62,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 79.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 81.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 57.0
     },
@@ -158,13 +158,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 46,
             "Steyer": 0,
-            "Uncommitted": 3,
             "Warren": 45,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 3
         },
         "Final Expression": {
             "Bennet": 0,
@@ -174,13 +174,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 49.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 57.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 50.0
     },
@@ -195,13 +195,13 @@
             "Delaney": 0,
             "Gabbard": 2,
             "Klobuchar": 90,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 172,
             "Steyer": 21,
-            "Uncommitted": 4,
             "Warren": 251,
-            "Yang": 24
+            "Yang": 24,
+            "Other": 0,
+            "Uncommitted": 4
         },
         "Final Expression": {
             "Bennet": 0,
@@ -211,13 +211,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 80,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 192.0,
             "Steyer": 0,
-            "Uncommitted": 83,
             "Warren": 299.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 83
         },
         "Final Vote Increase": 47.0
     },
@@ -232,13 +232,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 14,
-            "Other": 1,
             "Patrick": 0,
             "Sanders": 24,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 49,
-            "Yang": 26
+            "Yang": 26,
+            "Other": 1,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -248,13 +248,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 14,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 24.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 65.0,
-            "Yang": 26
+            "Yang": 26,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 46.0
     },
@@ -269,13 +269,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 2,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0,
             "Steyer": 3,
-            "Uncommitted": 0,
             "Warren": 3,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -285,13 +285,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 9.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 44.0
     },
@@ -306,13 +306,13 @@
             "Delaney": 0,
             "Gabbard": 3,
             "Klobuchar": 53,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 191,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 171,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -322,13 +322,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 218.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 208.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 40.0
     },
@@ -343,13 +343,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 35,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 69,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 38,
-            "Yang": 18
+            "Yang": 18,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -359,13 +359,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 75.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 43.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 30.0
     },
@@ -380,13 +380,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 23,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 25,
             "Steyer": 5,
-            "Uncommitted": 0,
             "Warren": 17,
-            "Yang": 10
+            "Yang": 10,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -396,13 +396,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 34,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 32.0,
             "Steyer": 0,
-            "Uncommitted": 6,
             "Warren": 0.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 6
         },
         "Final Vote Increase": 24.0
     },
@@ -417,13 +417,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 19,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 75,
             "Steyer": 5,
-            "Uncommitted": 1,
             "Warren": 83,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 1
         },
         "Final Expression": {
             "Bennet": 0,
@@ -433,13 +433,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 83.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 100.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 21.0
     },
@@ -454,13 +454,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 51,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 54,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 52,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -470,13 +470,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 57,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 58.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 52.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 21.0
     },
@@ -491,13 +491,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 2,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 3,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -507,13 +507,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 5,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 9.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 20.0
     },
@@ -528,13 +528,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 91,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 41,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -544,13 +544,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 96.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 49.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 19.0
     },
@@ -565,13 +565,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 75,
-            "Other": 2,
             "Patrick": 0,
             "Sanders": 83,
             "Steyer": 4,
-            "Uncommitted": 5,
             "Warren": 60,
-            "Yang": 4
+            "Yang": 4,
+            "Other": 2,
+            "Uncommitted": 5
         },
         "Final Expression": {
             "Bennet": 0,
@@ -581,13 +581,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 84,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 86.0,
             "Steyer": 0,
-            "Uncommitted": 7,
             "Warren": 67.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 7
         },
         "Final Vote Increase": 15.0
     },
@@ -602,13 +602,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 49,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 24,
-            "Yang": 11
+            "Yang": 11,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -618,13 +618,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 53.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 31.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 15.0
     },
@@ -639,13 +639,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 19,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 38,
             "Steyer": 3,
-            "Uncommitted": 0,
             "Warren": 15,
-            "Yang": 9
+            "Yang": 9,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -655,13 +655,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 44,
-            "Other": 1,
             "Patrick": 0,
             "Sanders": 44.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 1,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 15.0
     },
@@ -676,13 +676,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 47,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 66,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 43,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -692,13 +692,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 50,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 67.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 46.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 14.0
     },
@@ -713,13 +713,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 19,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -729,13 +729,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 22,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 13.0
     },
@@ -750,13 +750,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 11,
-            "Other": 1,
             "Patrick": 0,
             "Sanders": 38,
             "Steyer": 3,
-            "Uncommitted": 0,
             "Warren": 20,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 1,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -766,13 +766,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 45.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 28.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 12.0
     },
@@ -787,13 +787,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 28,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 32,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 34,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -803,13 +803,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 32,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 34.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 34.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 12.0
     },
@@ -824,13 +824,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 64,
-            "Other": 1,
             "Patrick": 0,
             "Sanders": 56,
             "Steyer": 7,
-            "Uncommitted": 0,
             "Warren": 47,
-            "Yang": 12
+            "Yang": 12,
+            "Other": 1,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -840,13 +840,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 68,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 61.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 64.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 11.0
     },
@@ -861,13 +861,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 48,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 40,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 57,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -877,13 +877,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 48,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 43.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 62.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 11.0
     },
@@ -898,13 +898,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 4,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 69,
             "Steyer": 1,
-            "Uncommitted": 0,
             "Warren": 4,
-            "Yang": 7
+            "Yang": 7,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -914,13 +914,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 76.0,
             "Steyer": 1,
-            "Uncommitted": 0,
             "Warren": 23.0,
-            "Yang": 1
+            "Yang": 1,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 10.0
     },
@@ -935,13 +935,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 25,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 32,
             "Steyer": 2,
-            "Uncommitted": 0,
             "Warren": 30,
-            "Yang": 10
+            "Yang": 10,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -951,13 +951,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 25,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 43.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 34.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 10.0
     },
@@ -972,13 +972,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 15,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 11,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -988,13 +988,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 17.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 17.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 9.0
     },
@@ -1009,13 +1009,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 7,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 7,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1025,13 +1025,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 7.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 7.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 9.0
     },
@@ -1046,13 +1046,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 7,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 7,
             "Steyer": 4,
-            "Uncommitted": 0,
             "Warren": 0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1062,13 +1062,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 8,
-            "Other": 8,
             "Patrick": 0,
             "Sanders": 7.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 8,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 8.0
     },
@@ -1083,13 +1083,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 2,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 11,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 7,
-            "Yang": 4
+            "Yang": 4,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1099,13 +1099,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 13.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 13.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 7.0
     },
@@ -1120,13 +1120,13 @@
             "Delaney": 0,
             "Gabbard": 1,
             "Klobuchar": 43,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 33,
             "Steyer": 3,
-            "Uncommitted": 0,
             "Warren": 49,
-            "Yang": 1
+            "Yang": 1,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1136,13 +1136,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 44,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 34.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 56.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 6.0
     },
@@ -1157,13 +1157,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 6,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 5,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1173,13 +1173,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 7,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 7.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 6.0
     },
@@ -1194,13 +1194,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 1,
             "Patrick": 0,
             "Sanders": 16,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 10,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 1,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1210,13 +1210,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 17.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 10.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 6.0
     },
@@ -1231,13 +1231,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 6,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 9,
             "Steyer": 1,
-            "Uncommitted": 0,
             "Warren": 6,
-            "Yang": 1
+            "Yang": 1,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1247,13 +1247,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 12.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 10.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 5.0
     },
@@ -1268,13 +1268,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 25,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 29,
             "Steyer": 2,
-            "Uncommitted": 1,
             "Warren": 31,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 1
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1284,13 +1284,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 32,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 29.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 31.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 4.0
     },
@@ -1305,13 +1305,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 1,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 17,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1321,13 +1321,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 19.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 4.0
     },
@@ -1342,13 +1342,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 8,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 30,
             "Steyer": 11,
-            "Uncommitted": 0,
             "Warren": 10,
-            "Yang": 2
+            "Yang": 2,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1358,13 +1358,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 18,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 38.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 15.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 3.0
     },
@@ -1379,13 +1379,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 10,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 35,
             "Steyer": 3,
-            "Uncommitted": 0,
             "Warren": 11,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1395,13 +1395,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 40.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 27.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 3.0
     },
@@ -1416,13 +1416,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 6,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 5,
             "Steyer": 0,
-            "Uncommitted": 1,
             "Warren": 3,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 1
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1432,13 +1432,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 7,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 6.0,
             "Steyer": 0,
-            "Uncommitted": 1,
             "Warren": 0.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 1
         },
         "Final Vote Increase": 3.0
     },
@@ -1453,13 +1453,13 @@
             "Delaney": 0,
             "Gabbard": 2,
             "Klobuchar": 6,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 39,
             "Steyer": 8,
-            "Uncommitted": 0,
             "Warren": 12,
-            "Yang": 2
+            "Yang": 2,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1469,13 +1469,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 42.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 19.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 3.0
     },
@@ -1490,13 +1490,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 25,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 45,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 22,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1506,13 +1506,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 46.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 36.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 3.0
     },
@@ -1527,13 +1527,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 29,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 35,
             "Steyer": 3,
-            "Uncommitted": 2,
             "Warren": 30,
-            "Yang": 3
+            "Yang": 3,
+            "Other": 0,
+            "Uncommitted": 2
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1543,13 +1543,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 31,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 37.0,
             "Steyer": 0,
-            "Uncommitted": 3,
             "Warren": 30.0,
-            "Yang": 3
+            "Yang": 3,
+            "Other": 0,
+            "Uncommitted": 3
         },
         "Final Vote Increase": 3.0
     },
@@ -1564,13 +1564,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 12,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 52,
             "Steyer": 0,
-            "Uncommitted": 2,
             "Warren": 22,
-            "Yang": 6
+            "Yang": 6,
+            "Other": 0,
+            "Uncommitted": 2
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1580,13 +1580,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 74.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 2.0
     },
@@ -1601,13 +1601,13 @@
             "Delaney": 0,
             "Gabbard": 1,
             "Klobuchar": 30,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 36,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 38,
-            "Yang": 7
+            "Yang": 7,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1617,13 +1617,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 34,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 38.0,
             "Steyer": 0,
-            "Uncommitted": 8,
             "Warren": 38.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 8
         },
         "Final Vote Increase": 2.0
     },
@@ -1638,13 +1638,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 8,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 32,
             "Steyer": 2,
-            "Uncommitted": 0,
             "Warren": 11,
-            "Yang": 6
+            "Yang": 6,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1654,13 +1654,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 12,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 35.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 12.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 2.0
     },
@@ -1675,13 +1675,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 93,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 67,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 115,
-            "Yang": 9
+            "Yang": 9,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1691,13 +1691,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 99,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 69.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 116.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 2.0
     },
@@ -1712,13 +1712,13 @@
             "Delaney": 0,
             "Gabbard": 1,
             "Klobuchar": 7,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 43,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 16,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1728,13 +1728,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 43.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 27.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 2.0
     },
@@ -1749,13 +1749,13 @@
             "Delaney": 0,
             "Gabbard": 1,
             "Klobuchar": 4,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 37,
             "Steyer": 4,
-            "Uncommitted": 0,
             "Warren": 4,
-            "Yang": 14
+            "Yang": 14,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1765,13 +1765,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 41.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 18
+            "Yang": 18,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 2.0
     },
@@ -1786,13 +1786,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 8,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 6,
             "Steyer": 4,
-            "Uncommitted": 0,
             "Warren": 7,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1802,13 +1802,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 8,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 6.0,
             "Steyer": 4,
-            "Uncommitted": 0,
             "Warren": 7.0,
-            "Yang": 2
+            "Yang": 2,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 2.0
     },
@@ -1823,13 +1823,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 10,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 19,
             "Steyer": 4,
-            "Uncommitted": 0,
             "Warren": 16,
-            "Yang": 6
+            "Yang": 6,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1839,13 +1839,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 25.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 20.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 2.0
     },
@@ -1860,13 +1860,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 51,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 37,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 23,
-            "Yang": 9
+            "Yang": 9,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1876,13 +1876,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 61,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 51.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 2.0
     },
@@ -1897,13 +1897,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 11,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 41,
             "Steyer": 2,
-            "Uncommitted": 1,
             "Warren": 25,
-            "Yang": 8
+            "Yang": 8,
+            "Other": 0,
+            "Uncommitted": 1
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1913,13 +1913,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 47.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 31.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 2.0
     },
@@ -1934,13 +1934,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 10,
             "Steyer": 5,
-            "Uncommitted": 0,
             "Warren": 4,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1950,13 +1950,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 11.0,
             "Steyer": 9,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 1.0
     },
@@ -1971,13 +1971,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 8,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1987,13 +1987,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 9,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 1.0
     },
@@ -2008,13 +2008,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 3,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -2024,13 +2024,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 3,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 1.0
     },
@@ -2045,13 +2045,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 14,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 23,
             "Steyer": 14,
-            "Uncommitted": 1,
             "Warren": 15,
-            "Yang": 11
+            "Yang": 11,
+            "Other": 0,
+            "Uncommitted": 1
         },
         "Final Expression": {
             "Bennet": 0,
@@ -2061,13 +2061,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 19,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 31.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 15.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 1.0
     },
@@ -2082,13 +2082,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 78,
-            "Other": 1,
             "Patrick": 0,
             "Sanders": 78,
             "Steyer": 0,
-            "Uncommitted": 2,
             "Warren": 82,
-            "Yang": 13
+            "Yang": 13,
+            "Other": 1,
+            "Uncommitted": 2
         },
         "Final Expression": {
             "Bennet": 0,
@@ -2098,13 +2098,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 80,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 80.0,
             "Steyer": 0,
-            "Uncommitted": 2,
             "Warren": 86.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 2
         },
         "Final Vote Increase": 1.0
     },
@@ -2119,13 +2119,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 1,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 44,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 6,
-            "Yang": 2
+            "Yang": 2,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -2135,13 +2135,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 45.0,
             "Steyer": 0,
-            "Uncommitted": 1,
             "Warren": 0.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 1
         },
         "Final Vote Increase": 1.0
     },
@@ -2156,13 +2156,13 @@
             "Delaney": 0,
             "Gabbard": 1,
             "Klobuchar": 3,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 151,
             "Steyer": 4,
-            "Uncommitted": 0,
             "Warren": 92,
-            "Yang": 70
+            "Yang": 70,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -2172,13 +2172,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 152.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 96.0,
-            "Yang": 73
+            "Yang": 73,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 1.0
     },
@@ -2193,13 +2193,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 6,
             "Steyer": 3,
-            "Uncommitted": 0,
             "Warren": 4,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -2209,13 +2209,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 12.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 1.0
     },
@@ -2230,13 +2230,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 3,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -2246,13 +2246,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 4.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 1.0
     },
@@ -2267,13 +2267,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 19,
             "Steyer": 3,
-            "Uncommitted": 0,
             "Warren": 7,
-            "Yang": 1
+            "Yang": 1,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -2283,13 +2283,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 21.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 8.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 1.0
     },
@@ -2304,13 +2304,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 8,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 115,
             "Steyer": 1,
-            "Uncommitted": 0,
             "Warren": 76,
-            "Yang": 8
+            "Yang": 8,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -2320,13 +2320,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 122.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 83.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 1.0
     },
@@ -2341,13 +2341,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 1,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -2357,13 +2357,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 1.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 1.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 1.0
     },
@@ -2378,13 +2378,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 54,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 60,
             "Steyer": 3,
-            "Uncommitted": 0,
             "Warren": 44,
-            "Yang": 7
+            "Yang": 7,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -2394,13 +2394,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 58,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 61.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 46.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 1.0
     },
@@ -2415,13 +2415,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 21,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 15,
             "Steyer": 7,
-            "Uncommitted": 0,
             "Warren": 14,
-            "Yang": 6
+            "Yang": 6,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -2431,13 +2431,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 25,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 23.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 7.0,
-            "Yang": 2
+            "Yang": 2,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 1.0
     },
@@ -2452,13 +2452,13 @@
             "Delaney": 0,
             "Gabbard": 1,
             "Klobuchar": 10,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 89,
             "Steyer": 1,
-            "Uncommitted": 0,
             "Warren": 38,
-            "Yang": 9
+            "Yang": 9,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -2468,13 +2468,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 94.0,
             "Steyer": 0,
-            "Uncommitted": 17,
             "Warren": 51.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 17
         },
         "Final Vote Increase": 1.0
     },
@@ -2489,13 +2489,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 4,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 5,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 3,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -2505,13 +2505,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 6,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 3.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 3.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 1.0
     },
@@ -2526,13 +2526,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 4,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 6,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 2,
-            "Yang": 2
+            "Yang": 2,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -2542,13 +2542,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 5,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 6.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 1.0,
-            "Yang": 1
+            "Yang": 1,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 1.0
     },
@@ -2563,13 +2563,13 @@
             "Delaney": 0,
             "Gabbard": 1,
             "Klobuchar": 38,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 52,
             "Steyer": 3,
-            "Uncommitted": 5,
             "Warren": 53,
-            "Yang": 5
+            "Yang": 5,
+            "Other": 0,
+            "Uncommitted": 5
         },
         "Final Expression": {
             "Bennet": 0,
@@ -2579,13 +2579,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 67.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 65.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 1.0
     },
@@ -2600,13 +2600,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 9,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 15,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 5,
-            "Yang": 8
+            "Yang": 8,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -2616,13 +2616,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 14,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 16.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 8
+            "Yang": 8,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 1.0
     },
@@ -2637,13 +2637,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 13,
             "Steyer": 2,
-            "Uncommitted": 1,
             "Warren": 9,
-            "Yang": 1
+            "Yang": 1,
+            "Other": 0,
+            "Uncommitted": 1
         },
         "Final Expression": {
             "Bennet": 0,
@@ -2653,13 +2653,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 13.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 9.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 1.0
     },
@@ -2674,13 +2674,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 29,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 59,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 34,
-            "Yang": 7
+            "Yang": 7,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -2690,13 +2690,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 31,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 61.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 35.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 1.0
     },
@@ -2711,13 +2711,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 3,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 6,
             "Steyer": 5,
-            "Uncommitted": 0,
             "Warren": 13,
-            "Yang": 2
+            "Yang": 2,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -2727,13 +2727,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 20.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 1.0
     },
@@ -2748,13 +2748,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 20,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 23,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 28,
-            "Yang": 1
+            "Yang": 1,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -2764,13 +2764,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 20,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 23.0,
             "Steyer": 1,
-            "Uncommitted": 0,
             "Warren": 28.0,
-            "Yang": 1
+            "Yang": 1,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 1.0
     },
@@ -2785,13 +2785,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 2,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 2,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -2801,13 +2801,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 2,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 3.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 1.0
     },
@@ -2822,13 +2822,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 4,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0,
             "Steyer": 0,
-            "Uncommitted": 6,
             "Warren": 4,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 6
         },
         "Final Expression": {
             "Bennet": 0,
@@ -2838,13 +2838,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 4,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 6,
             "Warren": 5.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 6
         },
         "Final Vote Increase": 1.0
     },
@@ -2859,13 +2859,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 1,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 17,
             "Steyer": 0,
-            "Uncommitted": 2,
             "Warren": 0,
-            "Yang": 1
+            "Yang": 1,
+            "Other": 0,
+            "Uncommitted": 2
         },
         "Final Expression": {
             "Bennet": 0,
@@ -2875,13 +2875,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 19.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 1.0
     },
@@ -2896,13 +2896,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 7,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 28,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 8,
-            "Yang": 7
+            "Yang": 7,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -2912,13 +2912,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 33.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 1.0
     },
@@ -2933,13 +2933,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 70,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 96,
             "Steyer": 13,
-            "Uncommitted": 0,
             "Warren": 79,
-            "Yang": 3
+            "Yang": 3,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -2949,13 +2949,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 75,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 99.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 80.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 1.0
     },
@@ -2970,13 +2970,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 23,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 13,
             "Steyer": 7,
-            "Uncommitted": 0,
             "Warren": 12,
-            "Yang": 6
+            "Yang": 6,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -2986,13 +2986,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 27,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 15.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 15.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 1.0
     },
@@ -3007,13 +3007,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 6,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 9,
             "Steyer": 2,
-            "Uncommitted": 0,
             "Warren": 4,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -3023,13 +3023,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 7,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 13.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 1.0
     },
@@ -3044,13 +3044,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 9,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 4,
             "Steyer": 2,
-            "Uncommitted": 0,
             "Warren": 12,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -3060,13 +3060,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 10,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 15.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 1.0
     },
@@ -3081,13 +3081,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 42,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 46,
             "Steyer": 8,
-            "Uncommitted": 0,
             "Warren": 25,
-            "Yang": 2
+            "Yang": 2,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -3097,13 +3097,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 55,
-            "Other": 5,
             "Patrick": 0,
             "Sanders": 55.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 5,
+            "Uncommitted": 0
         },
         "Final Vote Increase": 1.0
     }

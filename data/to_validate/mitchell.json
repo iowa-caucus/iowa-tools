@@ -2,8 +2,6 @@
     {
         "County": "Mitchell",
         "Precinct": "Mitchell 10",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -12,13 +10,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 8,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 4,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -28,20 +26,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 8,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 4.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Mitchell",
         "Precinct": "Mitchell 11",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 7,
@@ -50,13 +48,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 12,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0,
-            "Yang": 5
+            "Yang": 5,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -66,20 +64,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 12,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 5
-        }
+            "Yang": 5,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Mitchell",
         "Precinct": "Mitchell 12",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 3,
@@ -88,13 +86,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -104,20 +102,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Mitchell",
         "Precinct": "Mitchell 5",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 4,
@@ -126,13 +124,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 8,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -142,20 +140,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 8,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Mitchell",
         "Precinct": "Mitchell 6",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 1,
@@ -164,13 +162,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 11,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 1,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 7,
-            "Yang": 1
+            "Yang": 1,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -180,20 +178,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 12,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 7.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Mitchell",
         "Precinct": "Mitchell 7",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 3,
@@ -202,13 +200,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 6,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 3,
             "Steyer": 2,
-            "Uncommitted": 0,
             "Warren": 7,
-            "Yang": 1
+            "Yang": 1,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -218,20 +216,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 9,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 10.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Mitchell",
         "Precinct": "Mitchell 8",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 9,
@@ -240,13 +238,13 @@
             "Delaney": 0,
             "Gabbard": 1,
             "Klobuchar": 13,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 7,
             "Steyer": 4,
-            "Uncommitted": 0,
             "Warren": 5,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -256,20 +254,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 15,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 12.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Mitchell",
         "Precinct": "Mitchell 9",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 9,
@@ -278,13 +276,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 9,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 10,
             "Steyer": 3,
-            "Uncommitted": 0,
             "Warren": 3,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -294,20 +292,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 10,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 11.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Mitchell",
         "Precinct": "OSAGE 01 (Mitchell 5)",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 8,
@@ -316,13 +314,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 6,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 6,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 4,
-            "Yang": 5
+            "Yang": 5,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -332,20 +330,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 8,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 8.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 5
-        }
+            "Yang": 5,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Mitchell",
         "Precinct": "OSAGE 02 (Mitchell 6)",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 4,
@@ -354,13 +352,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 8,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 4,
             "Steyer": 1,
-            "Uncommitted": 3,
             "Warren": 6,
-            "Yang": 2
+            "Yang": 2,
+            "Other": 0,
+            "Uncommitted": 3
         },
         "Final Expression": {
             "Bennet": 0,
@@ -370,20 +368,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 11,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 9.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Mitchell",
         "Precinct": "OSAGE 03 (Mitchell 7)",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 5,
@@ -392,13 +390,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 10,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 2,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 7,
-            "Yang": 1
+            "Yang": 1,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -408,20 +406,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 14,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 7.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Mitchell",
         "Precinct": "OSAGE 04 (Mitchell 8)",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 5,
@@ -430,13 +428,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 8,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 2,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 5,
-            "Yang": 2
+            "Yang": 2,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -446,13 +444,15 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 9,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 6.0,
-            "Yang": 2
-        }
+            "Yang": 2,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     }
 ]

@@ -2,8 +2,6 @@
     {
         "County": "Osceola",
         "Precinct": "Ashton Precinct 0100",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 4,
@@ -12,13 +10,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 1,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 1,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -28,20 +26,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 2,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Osceola",
         "Precinct": "Harris Precinct 0200",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 1,
@@ -50,13 +48,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 1,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 1,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -66,20 +64,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 1.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Osceola",
         "Precinct": "May City Precint 0300",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 1,
@@ -88,13 +86,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 1,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 1,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 2,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -104,20 +102,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 1.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 4.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Osceola",
         "Precinct": "Melvin Precinct 0400",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -126,13 +124,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 2,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 2,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -142,20 +140,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 2,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 2.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Osceola",
         "Precinct": "Ocheyedan Precinct 0500",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -164,13 +162,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 1,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 1,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -180,20 +178,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 1,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 1.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Osceola",
         "Precinct": "Osceola 1 Precinct 0600",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -202,13 +200,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 2,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -218,20 +216,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 2.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Osceola",
         "Precinct": "Osceola 2 Precinct 0700",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 4,
@@ -240,13 +238,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 3,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 4,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -256,20 +254,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 3,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 4.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Osceola",
         "Precinct": "Osceola 3 Precinct 0800",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 3,
@@ -278,13 +276,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 5,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 1,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 6,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -294,13 +292,15 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 6,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 7.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     }
 ]

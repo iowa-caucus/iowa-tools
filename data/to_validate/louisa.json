@@ -2,8 +2,6 @@
     {
         "County": "Louisa",
         "Precinct": "Columbus Junction",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -12,13 +10,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 25,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 14,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -28,20 +26,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 25.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 14.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Louisa",
         "Precinct": "Grandview-Port Louisa",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 16,
@@ -50,13 +48,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 7,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 12,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 7,
-            "Yang": 6
+            "Yang": 6,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -66,20 +64,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 10,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 12.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 10.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Louisa",
         "Precinct": "Morning Sun - Marshall",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 10,
@@ -88,13 +86,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 2,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 6,
             "Steyer": 0,
-            "Uncommitted": 1,
             "Warren": 7,
-            "Yang": 6
+            "Yang": 6,
+            "Other": 0,
+            "Uncommitted": 1
         },
         "Final Expression": {
             "Bennet": 0,
@@ -104,20 +102,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 6.0,
             "Steyer": 0,
-            "Uncommitted": 1,
             "Warren": 8.0,
-            "Yang": 6
-        }
+            "Yang": 6,
+            "Other": 0,
+            "Uncommitted": 1
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Louisa",
         "Precinct": "Southeast Louisa",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 11,
@@ -126,13 +124,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 6,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 15,
             "Steyer": 8,
-            "Uncommitted": 1,
             "Warren": 10,
-            "Yang": 29
+            "Yang": 29,
+            "Other": 0,
+            "Uncommitted": 1
         },
         "Final Expression": {
             "Bennet": 0,
@@ -142,20 +140,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 1,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 16.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 16.0,
-            "Yang": 36
-        }
+            "Yang": 36,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Louisa",
         "Precinct": "West Louisa",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 13,
@@ -164,13 +162,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 11,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 11,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 11,
-            "Yang": 6
+            "Yang": 6,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -180,13 +178,15 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 11,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 12.0,
             "Steyer": 0,
-            "Uncommitted": 2,
             "Warren": 11.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 2
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     }
 ]

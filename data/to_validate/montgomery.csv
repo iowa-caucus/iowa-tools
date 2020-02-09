@@ -1,10 +1,10 @@
 ,,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,URL to Documentation,Manually validated
-,,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Other,Patrick,Sanders,Steyer,Uncommitted,Warren,Yang,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Other,Patrick,Sanders,Steyer,Uncommitted,Warren,Yang,,
+,,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Patrick,Sanders,Steyer,Warren,Yang,Other,Uncommitted,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Patrick,Sanders,Steyer,Warren,Yang,Other,Uncommitted,,
 County,Precinct,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Montgomery,4 GRFLD LNCLN SHER PILOT GROVE TWP ELLIOTT,0,4,0,5,0,0,5,0,0,0,2,0,0,0,0,4,0,6,0,0,6,0,0,0.0,0,0,0.0,0,,false
-Montgomery,5 PILOT GROVE FRANKFORT DOUGLAS WASH TWP GRANT,0,1,0,9,0,0,8,0,0,0,0,0,5,0,0,0,0,9,0,0,8,0,0,0.0,0,0,6.0,0,,false
-Montgomery,6 WEST GRANT SCOTT TWP COBURG STANTON,0,0,2,7,0,0,3,0,0,10,3,0,5,1,0,0,0,7,0,0,0,0,0,10.0,6,0,8.0,0,,false
-Montgomery,7 SCOTT EAST TWP VILLISCA,0,1,0,14,0,0,4,0,0,8,0,0,6,0,0,1,0,17,0,0,0,0,0,8.0,0,1,6.0,0,,false
-Montgomery,WARD1 PILOT GROVE FRANKFORT RO TWP,0,11,0,11,0,0,4,0,0,13,0,0,7,0,0,11,0,15,0,0,0,0,0,13.0,0,0,7.0,0,,false
-Montgomery,WARD2 SHERMAN RO TWP,0,11,2,15,0,0,2,0,0,16,2,0,0,0,0,11,0,19,0,0,0,0,0,18.0,0,0,0.0,0,,false
-Montgomery,WARD3 SHERMAN PILOT GROVE FRANKFORT RO TWP,0,14,0,14,0,0,15,0,0,5,0,2,4,5,0,18,0,18,0,0,22,0,0,1.0,0,0,0.0,0,,false
+Montgomery,4 GRFLD LNCLN SHER PILOT GROVE TWP ELLIOTT,0,4,0,5,0,0,5,0,0,2,0,0,0,0,0,4,0,6,0,0,6,0,0.0,0,0.0,0,0,0,,false
+Montgomery,5 PILOT GROVE FRANKFORT DOUGLAS WASH TWP GRANT,0,1,0,9,0,0,8,0,0,0,5,0,0,0,0,0,0,9,0,0,8,0,0.0,0,6.0,0,0,0,,false
+Montgomery,6 WEST GRANT SCOTT TWP COBURG STANTON,0,0,2,7,0,0,3,0,10,3,5,1,0,0,0,0,0,7,0,0,0,0,10.0,6,8.0,0,0,0,,false
+Montgomery,7 SCOTT EAST TWP VILLISCA,0,1,0,14,0,0,4,0,8,0,6,0,0,0,0,1,0,17,0,0,0,0,8.0,0,6.0,0,0,1,,false
+Montgomery,WARD1 PILOT GROVE FRANKFORT RO TWP,0,11,0,11,0,0,4,0,13,0,7,0,0,0,0,11,0,15,0,0,0,0,13.0,0,7.0,0,0,0,,false
+Montgomery,WARD2 SHERMAN RO TWP,0,11,2,15,0,0,2,0,16,2,0,0,0,0,0,11,0,19,0,0,0,0,18.0,0,0.0,0,0,0,,false
+Montgomery,WARD3 SHERMAN PILOT GROVE FRANKFORT RO TWP,0,14,0,14,0,0,15,0,5,0,4,5,0,2,0,18,0,18,0,0,22,0,1.0,0,0.0,0,0,0,,false

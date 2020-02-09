@@ -2,8 +2,6 @@
     {
         "County": "Pottawattamie",
         "Precinct": "Avoca",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 9,
@@ -12,13 +10,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 7,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 9,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 7,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -28,20 +26,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 7,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 9.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 7.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Pottawattamie",
         "Precinct": "Carson",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 3,
@@ -50,13 +48,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0,
             "Steyer": 3,
-            "Uncommitted": 0,
             "Warren": 5,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -66,20 +64,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 5,
-            "Uncommitted": 0,
             "Warren": 5.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Pottawattamie",
         "Precinct": "Carter Lake 1",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 14,
@@ -88,13 +86,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 10,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 9,
-            "Yang": 8
+            "Yang": 8,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -104,20 +102,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 10.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 9.0,
-            "Yang": 8
-        }
+            "Yang": 8,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Pottawattamie",
         "Precinct": "Carter Lake 2",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 3,
@@ -126,13 +124,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 5,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 14,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 7,
-            "Yang": 8
+            "Yang": 8,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -142,20 +140,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 15.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 8.0,
-            "Yang": 9
-        }
+            "Yang": 9,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Pottawattamie",
         "Precinct": "Council Bluff 01",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 9,
@@ -164,13 +162,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 5,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 22,
             "Steyer": 2,
-            "Uncommitted": 0,
             "Warren": 10,
-            "Yang": 12
+            "Yang": 12,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -180,20 +178,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 22.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 12.0,
-            "Yang": 13
-        }
+            "Yang": 13,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Pottawattamie",
         "Precinct": "Council Bluff 02",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 4,
@@ -202,13 +200,13 @@
             "Delaney": 0,
             "Gabbard": 1,
             "Klobuchar": 8,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 27,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 12,
-            "Yang": 1
+            "Yang": 1,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -218,20 +216,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 11,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 28.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 13.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Pottawattamie",
         "Precinct": "Council Bluff 03",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 6,
@@ -240,13 +238,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 4,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 16,
             "Steyer": 1,
-            "Uncommitted": 0,
             "Warren": 7,
-            "Yang": 5
+            "Yang": 5,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -256,20 +254,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 17.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 9.0,
-            "Yang": 8
-        }
+            "Yang": 8,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Pottawattamie",
         "Precinct": "Council Bluff 04",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 16,
@@ -278,13 +276,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 5,
-            "Other": 1,
             "Patrick": 0,
             "Sanders": 17,
             "Steyer": 1,
-            "Uncommitted": 0,
             "Warren": 5,
-            "Yang": 3
+            "Yang": 3,
+            "Other": 1,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -294,20 +292,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 17.0,
             "Steyer": 3,
-            "Uncommitted": 0,
             "Warren": 11.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Pottawattamie",
         "Precinct": "Council Bluff 05",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 14,
@@ -316,13 +314,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 36,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 1,
-            "Yang": 11
+            "Yang": 11,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -332,20 +330,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 36.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 12
-        }
+            "Yang": 12,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Pottawattamie",
         "Precinct": "Council Bluff 06",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 17,
@@ -354,13 +352,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 14,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 56,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 24,
-            "Yang": 4
+            "Yang": 4,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -370,20 +368,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 25,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 56.0,
             "Steyer": 0,
-            "Uncommitted": 6,
             "Warren": 26.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 6
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Pottawattamie",
         "Precinct": "Council Bluff 07",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 21,
@@ -392,13 +390,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 35,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 46,
             "Steyer": 1,
-            "Uncommitted": 0,
             "Warren": 27,
-            "Yang": 8
+            "Yang": 8,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -408,20 +406,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 47,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 55.0,
             "Steyer": 0,
-            "Uncommitted": 1,
             "Warren": 27.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 1
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Pottawattamie",
         "Precinct": "Council Bluff 08",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 14,
@@ -430,13 +428,13 @@
             "Delaney": 0,
             "Gabbard": 1,
             "Klobuchar": 30,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 36,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 38,
-            "Yang": 7
+            "Yang": 7,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -446,20 +444,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 34,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 38.0,
             "Steyer": 0,
-            "Uncommitted": 8,
             "Warren": 38.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 8
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Pottawattamie",
         "Precinct": "Council Bluff 09",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 21,
@@ -468,13 +466,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 29,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 17,
             "Steyer": 0,
-            "Uncommitted": 1,
             "Warren": 17,
-            "Yang": 8
+            "Yang": 8,
+            "Other": 0,
+            "Uncommitted": 1
         },
         "Final Expression": {
             "Bennet": 0,
@@ -484,20 +482,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 31,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 18.0,
             "Steyer": 0,
-            "Uncommitted": 1,
             "Warren": 17.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 1
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Pottawattamie",
         "Precinct": "Council Bluff 10A",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 31,
@@ -506,13 +504,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 30,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 24,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 28,
-            "Yang": 5
+            "Yang": 5,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -522,20 +520,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 30,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 25.0,
             "Steyer": 0,
-            "Uncommitted": 2,
             "Warren": 29.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 2
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Pottawattamie",
         "Precinct": "Council Bluff 10B",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 29,
@@ -544,13 +542,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 22,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 14,
             "Steyer": 0,
-            "Uncommitted": 2,
             "Warren": 18,
-            "Yang": 3
+            "Yang": 3,
+            "Other": 0,
+            "Uncommitted": 2
         },
         "Final Expression": {
             "Bennet": 0,
@@ -560,20 +558,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 24,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 27.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Pottawattamie",
         "Precinct": "Council Bluff 11",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 22,
@@ -582,13 +580,13 @@
             "Delaney": 0,
             "Gabbard": 1,
             "Klobuchar": 18,
-            "Other": 0,
             "Patrick": 1,
             "Sanders": 51,
             "Steyer": 0,
-            "Uncommitted": 1,
             "Warren": 32,
-            "Yang": 17
+            "Yang": 17,
+            "Other": 0,
+            "Uncommitted": 1
         },
         "Final Expression": {
             "Bennet": 0,
@@ -598,20 +596,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 55.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 44.0,
-            "Yang": 28
-        }
+            "Yang": 28,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Pottawattamie",
         "Precinct": "Council Bluff 12",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 21,
@@ -620,13 +618,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 16,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 26,
             "Steyer": 2,
-            "Uncommitted": 0,
             "Warren": 27,
-            "Yang": 3
+            "Yang": 3,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -636,20 +634,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 30.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 33.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Pottawattamie",
         "Precinct": "Council Bluff 13",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 13,
@@ -658,13 +656,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 6,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 25,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 13,
-            "Yang": 13
+            "Yang": 13,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -674,20 +672,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 25.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 16.0,
-            "Yang": 13
-        }
+            "Yang": 13,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Pottawattamie",
         "Precinct": "Council Bluff 14",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 5,
@@ -696,13 +694,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 20,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 9,
-            "Yang": 5
+            "Yang": 5,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -712,20 +710,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 22.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 11.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Pottawattamie",
         "Precinct": "Council Bluff 15",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 5,
@@ -734,13 +732,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 13,
             "Steyer": 1,
-            "Uncommitted": 2,
             "Warren": 7,
-            "Yang": 6
+            "Yang": 6,
+            "Other": 0,
+            "Uncommitted": 2
         },
         "Final Expression": {
             "Bennet": 0,
@@ -750,20 +748,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 14.0,
             "Steyer": 0,
-            "Uncommitted": 1,
             "Warren": 7.0,
-            "Yang": 6
-        }
+            "Yang": 6,
+            "Other": 0,
+            "Uncommitted": 1
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Pottawattamie",
         "Precinct": "Council Bluff 16",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 10,
@@ -772,13 +770,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 21,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 15,
-            "Yang": 5
+            "Yang": 5,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -788,20 +786,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 23.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 17.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Pottawattamie",
         "Precinct": "Council Bluff 17",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 11,
@@ -810,13 +808,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 11,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 34,
             "Steyer": 1,
-            "Uncommitted": 0,
             "Warren": 15,
-            "Yang": 3
+            "Yang": 3,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -826,20 +824,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 34.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 17.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Pottawattamie",
         "Precinct": "Council Bluff 18",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 5,
@@ -848,13 +846,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 4,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 23,
             "Steyer": 2,
-            "Uncommitted": 2,
             "Warren": 16,
-            "Yang": 10
+            "Yang": 10,
+            "Other": 0,
+            "Uncommitted": 2
         },
         "Final Expression": {
             "Bennet": 0,
@@ -864,20 +862,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 25.0,
             "Steyer": 0,
-            "Uncommitted": 9,
             "Warren": 19.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 9
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Pottawattamie",
         "Precinct": "Council Bluff 19",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 6,
@@ -886,13 +884,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 8,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 12,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 6,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -902,20 +900,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 12,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 16.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 1.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Pottawattamie",
         "Precinct": "Council Bluff 20",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 7,
@@ -924,13 +922,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 8,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 14,
             "Steyer": 7,
-            "Uncommitted": 0,
             "Warren": 13,
-            "Yang": 15
+            "Yang": 15,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -940,20 +938,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 16.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 14.0,
-            "Yang": 16
-        }
+            "Yang": 16,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Pottawattamie",
         "Precinct": "Council Bluff 21",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 8,
@@ -962,13 +960,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 12,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 15,
-            "Yang": 8
+            "Yang": 8,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -978,20 +976,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 12.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 15.0,
-            "Yang": 8
-        }
+            "Yang": 8,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Pottawattamie",
         "Precinct": "Crescent",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 34,
@@ -1000,13 +998,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 21,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 15,
             "Steyer": 7,
-            "Uncommitted": 0,
             "Warren": 14,
-            "Yang": 6
+            "Yang": 6,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1016,20 +1014,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 25,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 23.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 7.0,
-            "Yang": 2
-        }
+            "Yang": 2,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Pottawattamie",
         "Precinct": "GLWCW",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -1038,13 +1036,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 5,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1054,20 +1052,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 5.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Pottawattamie",
         "Precinct": "Garner",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 11,
@@ -1076,13 +1074,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 28,
-            "Other": 1,
             "Patrick": 0,
             "Sanders": 21,
             "Steyer": 0,
-            "Uncommitted": 3,
             "Warren": 23,
-            "Yang": 4
+            "Yang": 4,
+            "Other": 1,
+            "Uncommitted": 3
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1092,20 +1090,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 37,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 23.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 24.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Pottawattamie",
         "Precinct": "Hancock",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 1,
@@ -1114,13 +1112,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 4,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1130,20 +1128,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 4.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Pottawattamie",
         "Precinct": "Lewis 1",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 24,
@@ -1152,13 +1150,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 8,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 20,
             "Steyer": 4,
-            "Uncommitted": 0,
             "Warren": 12,
-            "Yang": 2
+            "Yang": 2,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1168,20 +1166,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 26.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Pottawattamie",
         "Precinct": "Lewis 2",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 26,
@@ -1190,13 +1188,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 17,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 24,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 13,
-            "Yang": 4
+            "Yang": 4,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1206,20 +1204,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 18,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 35.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Pottawattamie",
         "Precinct": "Macedonia",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 2,
@@ -1228,13 +1226,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 3,
             "Steyer": 0,
-            "Uncommitted": 1,
             "Warren": 0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 1
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1244,20 +1242,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 2.0,
             "Steyer": 0,
-            "Uncommitted": 1,
             "Warren": 1.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 1
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Pottawattamie",
         "Precinct": "McClelland",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 6,
@@ -1266,13 +1264,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 7,
-            "Other": 1,
             "Patrick": 0,
             "Sanders": 0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 4,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 1,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1282,20 +1280,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 7,
-            "Other": 1,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 1,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Pottawattamie",
         "Precinct": "Minden",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 2,
@@ -1304,13 +1302,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 2,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 4,
             "Steyer": 1,
-            "Uncommitted": 0,
             "Warren": 6,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1320,20 +1318,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 4.0,
             "Steyer": 0,
-            "Uncommitted": 1,
             "Warren": 8.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 1
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Pottawattamie",
         "Precinct": "Neola",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 13,
@@ -1342,13 +1340,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 13,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 7,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 19,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1358,20 +1356,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 16,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 24.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Pottawattamie",
         "Precinct": "Oakland",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 12,
@@ -1380,13 +1378,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 15,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 16,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 8,
-            "Yang": 1
+            "Yang": 1,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1396,20 +1394,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 17,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 18.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Pottawattamie",
         "Precinct": "Treynor",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 6,
@@ -1418,13 +1416,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 7,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 2,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 8,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1434,20 +1432,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 7,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 10.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Pottawattamie",
         "Precinct": "Underwood",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 25,
@@ -1456,13 +1454,13 @@
             "Delaney": 0,
             "Gabbard": 1,
             "Klobuchar": 17,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 17,
             "Steyer": 4,
-            "Uncommitted": 0,
             "Warren": 17,
-            "Yang": 3
+            "Yang": 3,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1472,20 +1470,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 18,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 17.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 17.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Pottawattamie",
         "Precinct": "Walnut",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -1494,13 +1492,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 8,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 1,
             "Steyer": 8,
-            "Uncommitted": 0,
             "Warren": 0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1510,13 +1508,15 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 8,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 1.0,
             "Steyer": 8,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     }
 ]

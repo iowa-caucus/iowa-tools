@@ -2,8 +2,6 @@
     {
         "County": "Muscatine",
         "Precinct": "Bloomington",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 20,
@@ -12,13 +10,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 24,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 20,
             "Steyer": 0,
-            "Uncommitted": 1,
             "Warren": 17,
-            "Yang": 6
+            "Yang": 6,
+            "Other": 0,
+            "Uncommitted": 1
         },
         "Final Expression": {
             "Bennet": 0,
@@ -28,20 +26,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 24,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 21.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 21.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Muscatine",
         "Precinct": "Fruitland One-City",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 15,
@@ -50,13 +48,13 @@
             "Delaney": 0,
             "Gabbard": 1,
             "Klobuchar": 4,
-            "Other": 1,
             "Patrick": 0,
             "Sanders": 9,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 3,
-            "Yang": 5
+            "Yang": 5,
+            "Other": 1,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -66,20 +64,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 16.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Muscatine",
         "Precinct": "Fruitland Two/Lake-Fruitl",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -88,13 +86,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 6,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 5,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -104,20 +102,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 7,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 7.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Muscatine",
         "Precinct": "Fulton/Montpelier-City",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 15,
@@ -126,13 +124,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 11,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 10,
-            "Yang": 3
+            "Yang": 3,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -142,20 +140,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 11.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 10.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Muscatine",
         "Precinct": "Goshen-City",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 2,
@@ -164,13 +162,13 @@
             "Delaney": 0,
             "Gabbard": 1,
             "Klobuchar": 1,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 14,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 10,
-            "Yang": 2
+            "Yang": 2,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -180,20 +178,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 17.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 15.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Muscatine",
         "Precinct": "Muscatine 01st",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 23,
@@ -202,13 +200,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 16,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 36,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 16,
-            "Yang": 9
+            "Yang": 9,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -218,20 +216,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 20,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 37.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 19.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Muscatine",
         "Precinct": "Muscatine 02nd",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 13,
@@ -240,13 +238,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 8,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 22,
             "Steyer": 0,
-            "Uncommitted": 1,
             "Warren": 17,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 1
         },
         "Final Expression": {
             "Bennet": 0,
@@ -256,20 +254,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 22.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 17.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Muscatine",
         "Precinct": "Muscatine 03rd",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 15,
@@ -278,13 +276,13 @@
             "Delaney": 0,
             "Gabbard": 1,
             "Klobuchar": 6,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 30,
             "Steyer": 1,
-            "Uncommitted": 0,
             "Warren": 9,
-            "Yang": 6
+            "Yang": 6,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -294,20 +292,20 @@
             "Delaney": 0,
             "Gabbard": 1,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 33.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 15.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Muscatine",
         "Precinct": "Muscatine 04th",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -316,13 +314,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 37,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 12,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -332,20 +330,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 37.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 12.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Muscatine",
         "Precinct": "Muscatine 05th",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 12,
@@ -354,13 +352,13 @@
             "Delaney": 0,
             "Gabbard": 2,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 30,
             "Steyer": 2,
-            "Uncommitted": 5,
             "Warren": 9,
-            "Yang": 7
+            "Yang": 7,
+            "Other": 0,
+            "Uncommitted": 5
         },
         "Final Expression": {
             "Bennet": 0,
@@ -370,20 +368,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 33.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 12.0,
-            "Yang": 12
-        }
+            "Yang": 12,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Muscatine",
         "Precinct": "Muscatine 06th",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 4,
             "Biden": 22,
@@ -392,13 +390,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 17,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 34,
             "Steyer": 7,
-            "Uncommitted": 0,
             "Warren": 20,
-            "Yang": 7
+            "Yang": 7,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -408,20 +406,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 40,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 44.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 5.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Muscatine",
         "Precinct": "Muscatine 07th",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 11,
@@ -430,13 +428,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 2,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 27,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 10,
-            "Yang": 1
+            "Yang": 1,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -446,20 +444,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 27.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 10.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Muscatine",
         "Precinct": "Muscatine 08th",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 7,
@@ -468,13 +466,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 17,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 6,
-            "Yang": 4
+            "Yang": 4,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -484,20 +482,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 23.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 1
-        }
+            "Yang": 1,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Muscatine",
         "Precinct": "Muscatine 09th",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 26,
@@ -506,13 +504,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 44,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -522,20 +520,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 44.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Muscatine",
         "Precinct": "Muscatine 10th",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 18,
@@ -544,13 +542,13 @@
             "Delaney": 0,
             "Gabbard": 1,
             "Klobuchar": 7,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 28,
             "Steyer": 4,
-            "Uncommitted": 0,
             "Warren": 10,
-            "Yang": 11
+            "Yang": 11,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -560,20 +558,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 35.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 5.0,
-            "Yang": 3
-        }
+            "Yang": 3,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Muscatine",
         "Precinct": "Orono-City",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 2,
@@ -582,13 +580,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 2,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 4,
             "Steyer": 1,
-            "Uncommitted": 1,
             "Warren": 3,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 1
         },
         "Final Expression": {
             "Bennet": 0,
@@ -598,20 +596,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 2,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 1.0,
             "Steyer": 3,
-            "Uncommitted": 1,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 1
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Muscatine",
         "Precinct": "Pike-City",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 8,
@@ -620,13 +618,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 7,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -636,20 +634,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 6,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 6
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Muscatine",
         "Precinct": "Seventy-Six/Cedar-Seventy",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 3,
@@ -658,13 +656,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 6,
-            "Other": 1,
             "Patrick": 0,
             "Sanders": 0,
             "Steyer": 3,
-            "Uncommitted": 1,
             "Warren": 7,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 1,
+            "Uncommitted": 1
         },
         "Final Expression": {
             "Bennet": 0,
@@ -674,20 +672,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 7,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 8.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Muscatine",
         "Precinct": "Sweetland",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 16,
@@ -696,13 +694,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 12,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 13,
             "Steyer": 7,
-            "Uncommitted": 2,
             "Warren": 13,
-            "Yang": 3
+            "Yang": 3,
+            "Other": 0,
+            "Uncommitted": 2
         },
         "Final Expression": {
             "Bennet": 0,
@@ -712,20 +710,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 20,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 15.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 13.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Muscatine",
         "Precinct": "West Liberty 2",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 15,
@@ -734,13 +732,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 47,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 21,
-            "Yang": 1
+            "Yang": 1,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -750,20 +748,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 48.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 24.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Muscatine",
         "Precinct": "West Liberty/Wapsie-WL1 C",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 8,
@@ -772,13 +770,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 12,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 49,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 29,
-            "Yang": 14
+            "Yang": 14,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -788,20 +786,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 55.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 34.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Muscatine",
         "Precinct": "Wilton City",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 15,
@@ -810,13 +808,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 11,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 22,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 21,
-            "Yang": 5
+            "Yang": 5,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -826,20 +824,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 26.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 21.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Muscatine",
         "Precinct": "Wilton/Moscow-Wilton",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 3,
@@ -848,13 +846,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 2,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 5,
             "Steyer": 1,
-            "Uncommitted": 0,
             "Warren": 7,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -864,13 +862,15 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 5.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 11.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     }
 ]

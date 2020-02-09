@@ -23,10 +23,12 @@ def convert_dataframe_to_dict(df):
         row[df.index.names[0]] = county_precinct[0]
         row[df.index.names[1]] = county_precinct[1]
 
-        for top_header in list(set(header[0] for header in cols.keys())):
+        top_headers = [_ for _ in list(set(header[0] for header in cols.keys()))]
+        sorted_top_header = get_top_headers_sorted_by_std_order(top_headers)
+        for top_header in sorted_top_header:
             row[top_header] = OrderedDict()
 
-        for header, val in sorted(cols.items()):
+        for header, val in cols.items():
             if header[1] == '':
                 header = [header[0]]
             du.new(row, list(header), val)
@@ -36,14 +38,14 @@ def convert_dataframe_to_dict(df):
 
 
 def convert_dataframe_to_json(df):
-    df = sort_top_headers_according_to_std(df)
+    df = get_dataframe_with_top_headers_sorted_by_std_order(df)
     df_dict = convert_dataframe_to_dict(df)
     header_list = [[header] for header in df.index.names] + list(df.columns)
     return JsonDataset(df_dict, header_list)
 
 
 def convert_dataframe_to_csv(df):
-    df = sort_top_headers_according_to_std(df)
+    df = get_dataframe_with_top_headers_sorted_by_std_order(df)
     csv_content = df.to_csv()
     return csv_content
 
@@ -65,9 +67,14 @@ def convert_csv_to_dataframe(csv_content, header='infer', index_cols=None):
 
 # Util functions
 
-def sort_top_headers_according_to_std(df):
+def get_dataframe_with_top_headers_sorted_by_std_order(df):
     level, top_headers = (0, df.columns.levels[0]) if hasattr(df.columns, 'levels') \
         else (None, df.columns)
+    sorted_top_headers = get_top_headers_sorted_by_std_order(top_headers)
+    return df.reindex(sorted_top_headers, level=level, axis=1)
+
+
+def get_top_headers_sorted_by_std_order(top_headers):
     col_order = STD_COL_ORDER + sorted([_ for _ in top_headers if _ not in STD_COL_ORDER])
     sorted_top_headers = sorted(top_headers, key=lambda x: col_order.index(x))
-    return df.reindex(sorted_top_headers, level=level, axis=1)
+    return sorted_top_headers

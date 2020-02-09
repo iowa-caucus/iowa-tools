@@ -1,13 +1,13 @@
 ,,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,URL to Documentation,Manually validated
-,,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Other,Patrick,Sanders,Steyer,Uncommitted,Warren,Yang,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Other,Patrick,Sanders,Steyer,Uncommitted,Warren,Yang,,
+,,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Patrick,Sanders,Steyer,Warren,Yang,Other,Uncommitted,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Patrick,Sanders,Steyer,Warren,Yang,Other,Uncommitted,,
 County,Precinct,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Poweshiek,1ST WARD - 06.06GR,0,25,1,86,0,0,27,0,0,366,6,7,257,55,0,0,0,0,0,0,0,3,0,387.0,0,129,311.0,0,,false
-Poweshiek,2ND WARD - 07.07GR,1,27,0,49,0,2,54,3,0,66,2,2,115,7,0,0,0,55,0,0,70,0,0,78.0,0,0,124.0,0,,false
-Poweshiek,3RD WARD - 08.08GR,0,9,0,23,0,1,11,0,0,48,1,0,33,6,0,0,0,32,0,0,0,0,0,50.0,0,0,45.0,0,,false
-Poweshiek,4TH WARD - 09.09GR,0,9,0,4,0,0,48,0,0,100,0,5,60,10,0,0,0,0,0,0,56,0,0,111.0,0,0,64.0,0,,false
-Poweshiek,BMWJ,0,13,0,14,0,0,9,0,0,12,2,0,10,0,0,13,0,15,0,0,10,0,0,12.0,0,0,10.0,0,,false
-Poweshiek,CGWS,0,5,0,10,0,0,16,0,0,12,0,0,22,8,0,0,0,13,0,0,18,0,0,12.0,0,4,26.0,0,,false
-Poweshiek,DRL,0,0,0,1,0,0,2,0,0,4,0,0,1,0,0,0,0,0,0,0,2,0,0,5.0,0,1,0.0,0,,false
-Poweshiek,JUPS,0,4,0,7,0,0,9,0,0,7,0,1,3,3,0,0,0,8,0,0,14,0,0,9.0,0,3,0.0,0,,false
-Poweshiek,MONTEZUMA - 11.11MO,0,5,0,7,0,0,2,0,0,11,1,0,9,2,0,6,0,9,0,0,0,0,0,12.0,0,0,10.0,0,,false
-Poweshiek,MS,0,8,0,6,0,0,3,0,0,8,1,0,4,0,0,8,0,10,0,0,0,0,0,10.0,0,0,0.0,0,,false
+Poweshiek,1ST WARD - 06.06GR,0,25,1,86,0,0,27,0,366,6,257,55,0,7,0,0,0,0,0,0,0,0,387.0,0,311.0,0,3,129,,false
+Poweshiek,2ND WARD - 07.07GR,1,27,0,49,0,2,54,0,66,2,115,7,3,2,0,0,0,55,0,0,70,0,78.0,0,124.0,0,0,0,,false
+Poweshiek,3RD WARD - 08.08GR,0,9,0,23,0,1,11,0,48,1,33,6,0,0,0,0,0,32,0,0,0,0,50.0,0,45.0,0,0,0,,false
+Poweshiek,4TH WARD - 09.09GR,0,9,0,4,0,0,48,0,100,0,60,10,0,5,0,0,0,0,0,0,56,0,111.0,0,64.0,0,0,0,,false
+Poweshiek,BMWJ,0,13,0,14,0,0,9,0,12,2,10,0,0,0,0,13,0,15,0,0,10,0,12.0,0,10.0,0,0,0,,false
+Poweshiek,CGWS,0,5,0,10,0,0,16,0,12,0,22,8,0,0,0,0,0,13,0,0,18,0,12.0,0,26.0,0,0,4,,false
+Poweshiek,DRL,0,0,0,1,0,0,2,0,4,0,1,0,0,0,0,0,0,0,0,0,2,0,5.0,0,0.0,0,0,1,,false
+Poweshiek,JUPS,0,4,0,7,0,0,9,0,7,0,3,3,0,1,0,0,0,8,0,0,14,0,9.0,0,0.0,0,0,3,,false
+Poweshiek,MONTEZUMA - 11.11MO,0,5,0,7,0,0,2,0,11,1,9,2,0,0,0,6,0,9,0,0,0,0,12.0,0,10.0,0,0,0,,false
+Poweshiek,MS,0,8,0,6,0,0,3,0,8,1,4,0,0,0,0,8,0,10,0,0,0,0,10.0,0,0.0,0,0,0,,false

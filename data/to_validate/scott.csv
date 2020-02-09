@@ -1,66 +1,66 @@
 ,,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,URL to Documentation,Manually validated
-,,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Other,Patrick,Sanders,Steyer,Uncommitted,Warren,Yang,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Other,Patrick,Sanders,Steyer,Uncommitted,Warren,Yang,,
+,,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Patrick,Sanders,Steyer,Warren,Yang,Other,Uncommitted,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Patrick,Sanders,Steyer,Warren,Yang,Other,Uncommitted,,
 County,Precinct,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Scott,(AG) Allen's Grove Township,0,3,0,12,0,0,1,0,0,10,0,0,2,1,0,3,0,12,0,0,1,0,0,10.0,0,0,2.0,1,,false
-Scott,(B11) City of Bettendorf,0,30,0,67,0,0,67,0,0,71,0,3,40,32,0,26,0,67,0,0,67,0,0,71.0,0,0,47.0,32,,false
-Scott,(B12) City of Bettendorf,0,36,0,26,0,1,0,1,0,59,6,0,31,7,0,38,0,32,0,0,0,0,0,63.0,0,0,34.0,0,,false
-Scott,(B21) City of Bettendorf,0,0,0,24,0,0,18,0,0,22,12,0,14,4,0,0,0,28,0,0,21,0,0,22.0,0,0,21.0,0,,false
-Scott,(B22) City of Bettendorf,0,31,1,39,0,1,25,0,0,38,3,0,30,2,0,31,0,42,0,0,26,0,0,40.0,0,0,30.0,1,,false
-Scott,(B23) City of Bettendorf,0,4,0,3,0,0,8,0,0,6,4,0,7,0,0,4,0,3,0,0,8,0,0,6.0,4,0,7.0,2,,false
-Scott,(B31) City of Bettendorf,0,22,0,61,0,2,28,0,0,51,5,0,35,20,0,0,0,70,0,0,37,0,0,63.0,0,0,41.0,0,,false
-Scott,(B32) City of Bettendorf,0,39,0,33,0,0,37,0,0,44,0,0,44,6,0,44,0,33,0,0,37,0,0,44.0,0,0,44.0,0,,false
-Scott,(B41) City of Bettendorf,2,57,0,53,0,0,41,0,0,36,4,2,35,14,0,58,0,57,0,0,44,0,0,38.0,0,0,38.0,0,,false
-Scott,(B42) City of Bettendorf,0,38,0,56,0,0,28,0,0,50,0,0,68,24,0,0,0,84,0,0,0,0,0,60.0,0,0,83.0,0,,false
-Scott,(B51) City of Bettendorf,0,30,0,73,0,0,48,0,0,63,0,0,34,14,0,0,0,85,0,0,61,0,0,64.0,0,0,37.0,0,,false
-Scott,(B52) City of Bettendorf,0,72,2,87,0,0,69,0,0,65,5,5,36,15,0,79,0,111,0,0,80,0,0,81.0,0,0,0.0,0,,false
-Scott,(BF) City of Buffalo,0,5,0,5,0,0,5,0,0,8,0,0,3,0,0,5,0,5,0,0,5,0,0,8.0,0,0,3.0,0,,false
-Scott,(BG) Blue Grass Township,0,18,0,18,0,0,0,0,0,40,0,0,18,0,0,18,0,18,0,0,0,0,0,40.0,0,0,18.0,0,,false
-Scott,(BU) Buffalo Township,0,21,0,26,0,0,19,0,0,32,5,0,24,3,0,23,0,26,0,0,21,0,0,35.0,0,0,25.0,0,,false
-Scott,(D11) City of Davenport,0,32,0,31,0,0,19,0,0,38,3,0,15,9,0,32,0,41,0,0,44,1,0,44.0,0,0,0.0,0,,false
-Scott,(D12) City of Davenport,0,21,0,33,0,0,12,0,0,37,2,0,13,1,0,26,0,44,0,0,0,0,0,43.0,0,0,0.0,0,,false
-Scott,(D13) City of Davenport,0,23,0,21,0,0,10,0,0,43,12,0,16,13,0,25,0,35,0,0,0,0,0,47.0,0,0,22.0,9,,false
-Scott,(D14) City of Davenport,14,14,0,12,0,0,0,0,0,21,8,0,19,17,0,18,0,0,0,0,0,0,0,23.0,0,0,22.0,20,,false
-Scott,(D21) City of Davenport,0,22,0,20,0,0,0,0,0,28,1,3,22,12,0,24,0,23,0,0,0,0,0,31.0,0,5,25.0,0,,false
-Scott,(D22) City of Davenport,1,18,0,20,0,0,6,0,0,34,0,1,21,0,0,21,0,23,0,0,0,0,0,35.0,0,0,22.0,0,,false
-Scott,(D23) City of Davenport,0,23,0,21,0,0,0,0,0,30,0,0,17,1,0,23,0,21,0,0,0,0,0,31.0,0,0,17.0,0,,false
-Scott,(D24) City of Davenport,0,23,0,24,0,0,14,0,0,23,14,1,15,11,0,28,0,33,0,0,19,0,0,31.0,0,0,15.0,0,,false
-Scott,(D31) City of Davenport,0,18,0,18,0,0,0,0,0,40,0,0,18,0,0,18,0,18,0,0,0,0,0,40.0,0,0,18.0,0,,false
-Scott,(D32) City of Davenport,0,5,0,18,0,0,10,0,0,38,0,0,8,4,0,0,0,18,0,0,13,0,0,43.0,0,0,0.0,0,,false
-Scott,(D33) City of Davenport,1,5,0,28,0,0,9,0,0,41,2,0,20,13,0,0,0,41,0,0,0,0,0,47.0,0,0,23.0,0,,false
-Scott,(D34) City of Davenport,0,26,0,20,0,0,8,1,0,56,0,6,19,14,0,25,0,31,0,0,0,0,0,65.0,0,0,24.0,0,,false
-Scott,(D41) City of Davenport,0,11,0,24,0,0,14,0,0,56,0,3,21,9,0,0,0,37,0,0,0,0,0,60.0,0,7,31.0,0,,false
-Scott,(D42) City of Davenport,0,18,0,1,0,0,8,0,0,42,1,4,37,1,0,22,0,0,0,0,0,0,0,44.0,0,0,39.0,0,,false
-Scott,(D43) City of Davenport,0,29,1,40,0,0,2,0,0,53,0,5,38,10,0,34,0,42,0,0,0,0,0,58.0,0,0,44.0,0,,false
-Scott,(D44) City of Davenport,0,14,0,20,0,0,1,0,0,49,0,0,23,17,0,0,0,22,0,0,0,4,0,49.0,0,0,28.0,21,,false
-Scott,(D51) City of Davenport,1,27,0,50,0,0,35,0,0,80,3,0,65,26,0,22,0,68,0,0,2,0,0,93.0,0,0,88.0,13,,false
-Scott,(D52) City of Davenport,0,72,2,87,0,0,69,0,0,65,5,5,36,15,0,79,0,111,0,0,80,0,0,81.0,0,0,0.0,0,,false
-Scott,(D53) City of Davenport,0,36,0,41,0,0,18,0,0,52,2,0,44,13,0,47,0,47,0,0,0,0,0,55.0,0,0,50.0,0,,false
-Scott,(D54) City of Davenport,0,25,0,16,0,0,10,0,0,38,1,1,22,9,0,28,0,24,0,0,0,0,0,45.0,0,0,23.0,0,,false
-Scott,(D61) City of Davenport,0,31,0,49,0,0,35,0,0,23,6,1,22,10,0,33,0,53,0,0,45,0,0,0.0,0,0,31.0,0,,false
-Scott,(D62) City of Davenport,0,39,0,52,0,0,49,0,0,16,0,0,37,16,0,42,0,60,0,0,53,0,0,15.0,0,0,37.0,0,,false
-Scott,(D63) City of Davenport,0,42,0,16,0,0,35,0,0,69,0,0,38,18,0,48,0,82,0,0,0,0,0,75.0,0,0,43.0,0,,false
-Scott,(D64) City of Davenport,1,53,0,119,0,0,110,0,0,87,10,2,72,10,0,0,0,144,0,0,134,0,0,92.0,0,0,72.0,0,,false
-Scott,(D71) City of Davenport,0,41,0,36,0,0,38,0,0,28,4,7,38,6,0,42,0,39,0,0,41,0,0,33.0,0,0,41.0,0,,false
-Scott,(D72) City of Davenport,0,22,0,27,0,0,13,0,0,41,4,2,30,18,0,26,0,37,0,0,0,0,0,51.0,0,4,39.0,0,,false
-Scott,(D73) City of Davenport,0,34,0,26,0,0,18,0,0,39,0,2,28,1,0,40,0,31,0,0,0,0,0,42.0,0,0,35.0,0,,false
-Scott,(D74) City of Davenport,0,20,0,5,0,0,17,0,0,28,6,0,16,14,0,25,0,0,0,0,26,0,0,30.0,0,0,21.0,0,,false
-Scott,(D81) City of Davenport,0,19,0,23,0,0,0,0,0,34,0,0,24,0,0,19,0,23,0,0,0,0,0,34.0,0,0,24.0,0,,false
-Scott,(D82) City of Davenport,0,24,0,25,0,0,9,0,0,27,0,0,21,6,0,29,0,30,0,0,0,0,0,30.0,0,0,22.0,0,,false
-Scott,(D83) City of Davenport,0,32,0,32,0,0,33,0,0,32,5,0,17,0,0,36,0,34,0,0,38,0,0,37.0,0,6,0.0,0,,false
-Scott,(D84) City of Davenport,0,43,0,42,0,0,29,0,0,33,0,3,23,3,0,46,0,51,0,0,35,0,0,41.0,0,0,0.0,0,,false
-Scott,(DH) City of Donahue,0,7,0,6,0,0,0,0,0,1,0,0,2,2,0,7,0,6,0,0,0,0,0,1.0,0,0,2.0,2,,false
-Scott,(EL1) City of Eldridge,0,30,0,38,0,0,19,0,0,25,4,2,25,6,0,33,0,43,0,0,23,0,0,25.0,0,0,25.0,0,,false
-Scott,(EL2) City of Eldridge,0,41,0,41,0,0,19,0,0,28,3,0,26,4,0,49,0,53,0,0,0,0,0,28.0,0,0,27.0,0,,false
-Scott,(HG) Hickory Grove Township,0,2,0,10,0,0,4,0,0,5,2,0,0,2,0,2,0,10,0,0,4,0,0,5.0,2,0,0.0,2,,false
-Scott,(LB) Liberty Township,0,1,0,6,0,0,3,0,0,5,0,0,0,2,0,0,0,0,0,0,0,0,0,8.0,0,0,0.0,7,,false
-Scott,(LC1) City of LeClaire,0,13,0,32,0,0,20,0,0,19,10,1,30,7,0,0,0,45,0,0,22,0,0,22.0,0,1,31.0,0,,false
-Scott,(LC2) City of LeClaire,0,18,2,48,0,0,20,0,0,24,1,0,24,7,0,3,0,54,0,0,31,0,0,25.0,0,0,29.0,2,,false
-Scott,(LCT) LeClaire Township,0,12,0,25,0,0,23,0,0,9,3,1,11,5,0,0,0,36,0,0,41,0,0,0.0,0,0,0.0,0,,false
-Scott,(LG) City of Long Grove,0,12,0,9,0,0,7,1,0,11,5,0,9,0,0,19,0,19,0,0,0,0,0,16.0,0,0,0.0,0,,false
-Scott,(MC) McCausland,0,3,0,11,0,0,5,0,0,9,2,0,11,1,0,0,0,42,0,0,0,0,0,0.0,0,0,0.0,0,,false
-Scott,(PKV) Park View,0,17,1,39,0,0,17,0,0,24,4,0,20,11,0,0,0,51,0,0,23,0,0,25.0,0,0,23.0,0,,false
-Scott,(PR) Princeton Township,0,7,0,18,0,0,18,0,0,9,0,0,13,5,0,0,0,32,0,0,37,0,0,0.0,0,1,0.0,0,,false
-Scott,(PV) Pleasant Valley,0,14,0,21,0,0,12,0,0,6,0,0,8,4,0,0,0,24,0,0,23,0,0,0.0,0,0,0.0,0,,false
-Scott,(RV) City of Riverdale,0,5,0,3,0,0,4,0,0,5,0,0,8,0,0,5,0,3,0,0,4,0,0,5.0,0,0,8.0,0,,false
-Scott,(WC) Walcott Precinct,0,10,0,7,0,0,18,0,0,0,0,0,16,6,0,10,0,12,0,0,18,0,0,0.0,0,0,16.0,0,,false
-Scott,(WF) Winfield Township,0,0,0,7,0,0,11,0,0,1,6,0,10,0,0,0,0,7,0,0,11,0,0,1.0,6,0,10.0,0,,false
+Scott,(AG) Allen's Grove Township,0,3,0,12,0,0,1,0,10,0,2,1,0,0,0,3,0,12,0,0,1,0,10.0,0,2.0,1,0,0,,false
+Scott,(B11) City of Bettendorf,0,30,0,67,0,0,67,0,71,0,40,32,0,3,0,26,0,67,0,0,67,0,71.0,0,47.0,32,0,0,,false
+Scott,(B12) City of Bettendorf,0,36,0,26,0,1,0,0,59,6,31,7,1,0,0,38,0,32,0,0,0,0,63.0,0,34.0,0,0,0,,false
+Scott,(B21) City of Bettendorf,0,0,0,24,0,0,18,0,22,12,14,4,0,0,0,0,0,28,0,0,21,0,22.0,0,21.0,0,0,0,,false
+Scott,(B22) City of Bettendorf,0,31,1,39,0,1,25,0,38,3,30,2,0,0,0,31,0,42,0,0,26,0,40.0,0,30.0,1,0,0,,false
+Scott,(B23) City of Bettendorf,0,4,0,3,0,0,8,0,6,4,7,0,0,0,0,4,0,3,0,0,8,0,6.0,4,7.0,2,0,0,,false
+Scott,(B31) City of Bettendorf,0,22,0,61,0,2,28,0,51,5,35,20,0,0,0,0,0,70,0,0,37,0,63.0,0,41.0,0,0,0,,false
+Scott,(B32) City of Bettendorf,0,39,0,33,0,0,37,0,44,0,44,6,0,0,0,44,0,33,0,0,37,0,44.0,0,44.0,0,0,0,,false
+Scott,(B41) City of Bettendorf,2,57,0,53,0,0,41,0,36,4,35,14,0,2,0,58,0,57,0,0,44,0,38.0,0,38.0,0,0,0,,false
+Scott,(B42) City of Bettendorf,0,38,0,56,0,0,28,0,50,0,68,24,0,0,0,0,0,84,0,0,0,0,60.0,0,83.0,0,0,0,,false
+Scott,(B51) City of Bettendorf,0,30,0,73,0,0,48,0,63,0,34,14,0,0,0,0,0,85,0,0,61,0,64.0,0,37.0,0,0,0,,false
+Scott,(B52) City of Bettendorf,0,72,2,87,0,0,69,0,65,5,36,15,0,5,0,79,0,111,0,0,80,0,81.0,0,0.0,0,0,0,,false
+Scott,(BF) City of Buffalo,0,5,0,5,0,0,5,0,8,0,3,0,0,0,0,5,0,5,0,0,5,0,8.0,0,3.0,0,0,0,,false
+Scott,(BG) Blue Grass Township,0,18,0,18,0,0,0,0,40,0,18,0,0,0,0,18,0,18,0,0,0,0,40.0,0,18.0,0,0,0,,false
+Scott,(BU) Buffalo Township,0,21,0,26,0,0,19,0,32,5,24,3,0,0,0,23,0,26,0,0,21,0,35.0,0,25.0,0,0,0,,false
+Scott,(D11) City of Davenport,0,32,0,31,0,0,19,0,38,3,15,9,0,0,0,32,0,41,0,0,44,0,44.0,0,0.0,0,1,0,,false
+Scott,(D12) City of Davenport,0,21,0,33,0,0,12,0,37,2,13,1,0,0,0,26,0,44,0,0,0,0,43.0,0,0.0,0,0,0,,false
+Scott,(D13) City of Davenport,0,23,0,21,0,0,10,0,43,12,16,13,0,0,0,25,0,35,0,0,0,0,47.0,0,22.0,9,0,0,,false
+Scott,(D14) City of Davenport,14,14,0,12,0,0,0,0,21,8,19,17,0,0,0,18,0,0,0,0,0,0,23.0,0,22.0,20,0,0,,false
+Scott,(D21) City of Davenport,0,22,0,20,0,0,0,0,28,1,22,12,0,3,0,24,0,23,0,0,0,0,31.0,0,25.0,0,0,5,,false
+Scott,(D22) City of Davenport,1,18,0,20,0,0,6,0,34,0,21,0,0,1,0,21,0,23,0,0,0,0,35.0,0,22.0,0,0,0,,false
+Scott,(D23) City of Davenport,0,23,0,21,0,0,0,0,30,0,17,1,0,0,0,23,0,21,0,0,0,0,31.0,0,17.0,0,0,0,,false
+Scott,(D24) City of Davenport,0,23,0,24,0,0,14,0,23,14,15,11,0,1,0,28,0,33,0,0,19,0,31.0,0,15.0,0,0,0,,false
+Scott,(D31) City of Davenport,0,18,0,18,0,0,0,0,40,0,18,0,0,0,0,18,0,18,0,0,0,0,40.0,0,18.0,0,0,0,,false
+Scott,(D32) City of Davenport,0,5,0,18,0,0,10,0,38,0,8,4,0,0,0,0,0,18,0,0,13,0,43.0,0,0.0,0,0,0,,false
+Scott,(D33) City of Davenport,1,5,0,28,0,0,9,0,41,2,20,13,0,0,0,0,0,41,0,0,0,0,47.0,0,23.0,0,0,0,,false
+Scott,(D34) City of Davenport,0,26,0,20,0,0,8,0,56,0,19,14,1,6,0,25,0,31,0,0,0,0,65.0,0,24.0,0,0,0,,false
+Scott,(D41) City of Davenport,0,11,0,24,0,0,14,0,56,0,21,9,0,3,0,0,0,37,0,0,0,0,60.0,0,31.0,0,0,7,,false
+Scott,(D42) City of Davenport,0,18,0,1,0,0,8,0,42,1,37,1,0,4,0,22,0,0,0,0,0,0,44.0,0,39.0,0,0,0,,false
+Scott,(D43) City of Davenport,0,29,1,40,0,0,2,0,53,0,38,10,0,5,0,34,0,42,0,0,0,0,58.0,0,44.0,0,0,0,,false
+Scott,(D44) City of Davenport,0,14,0,20,0,0,1,0,49,0,23,17,0,0,0,0,0,22,0,0,0,0,49.0,0,28.0,21,4,0,,false
+Scott,(D51) City of Davenport,1,27,0,50,0,0,35,0,80,3,65,26,0,0,0,22,0,68,0,0,2,0,93.0,0,88.0,13,0,0,,false
+Scott,(D52) City of Davenport,0,72,2,87,0,0,69,0,65,5,36,15,0,5,0,79,0,111,0,0,80,0,81.0,0,0.0,0,0,0,,false
+Scott,(D53) City of Davenport,0,36,0,41,0,0,18,0,52,2,44,13,0,0,0,47,0,47,0,0,0,0,55.0,0,50.0,0,0,0,,false
+Scott,(D54) City of Davenport,0,25,0,16,0,0,10,0,38,1,22,9,0,1,0,28,0,24,0,0,0,0,45.0,0,23.0,0,0,0,,false
+Scott,(D61) City of Davenport,0,31,0,49,0,0,35,0,23,6,22,10,0,1,0,33,0,53,0,0,45,0,0.0,0,31.0,0,0,0,,false
+Scott,(D62) City of Davenport,0,39,0,52,0,0,49,0,16,0,37,16,0,0,0,42,0,60,0,0,53,0,15.0,0,37.0,0,0,0,,false
+Scott,(D63) City of Davenport,0,42,0,16,0,0,35,0,69,0,38,18,0,0,0,48,0,82,0,0,0,0,75.0,0,43.0,0,0,0,,false
+Scott,(D64) City of Davenport,1,53,0,119,0,0,110,0,87,10,72,10,0,2,0,0,0,144,0,0,134,0,92.0,0,72.0,0,0,0,,false
+Scott,(D71) City of Davenport,0,41,0,36,0,0,38,0,28,4,38,6,0,7,0,42,0,39,0,0,41,0,33.0,0,41.0,0,0,0,,false
+Scott,(D72) City of Davenport,0,22,0,27,0,0,13,0,41,4,30,18,0,2,0,26,0,37,0,0,0,0,51.0,0,39.0,0,0,4,,false
+Scott,(D73) City of Davenport,0,34,0,26,0,0,18,0,39,0,28,1,0,2,0,40,0,31,0,0,0,0,42.0,0,35.0,0,0,0,,false
+Scott,(D74) City of Davenport,0,20,0,5,0,0,17,0,28,6,16,14,0,0,0,25,0,0,0,0,26,0,30.0,0,21.0,0,0,0,,false
+Scott,(D81) City of Davenport,0,19,0,23,0,0,0,0,34,0,24,0,0,0,0,19,0,23,0,0,0,0,34.0,0,24.0,0,0,0,,false
+Scott,(D82) City of Davenport,0,24,0,25,0,0,9,0,27,0,21,6,0,0,0,29,0,30,0,0,0,0,30.0,0,22.0,0,0,0,,false
+Scott,(D83) City of Davenport,0,32,0,32,0,0,33,0,32,5,17,0,0,0,0,36,0,34,0,0,38,0,37.0,0,0.0,0,0,6,,false
+Scott,(D84) City of Davenport,0,43,0,42,0,0,29,0,33,0,23,3,0,3,0,46,0,51,0,0,35,0,41.0,0,0.0,0,0,0,,false
+Scott,(DH) City of Donahue,0,7,0,6,0,0,0,0,1,0,2,2,0,0,0,7,0,6,0,0,0,0,1.0,0,2.0,2,0,0,,false
+Scott,(EL1) City of Eldridge,0,30,0,38,0,0,19,0,25,4,25,6,0,2,0,33,0,43,0,0,23,0,25.0,0,25.0,0,0,0,,false
+Scott,(EL2) City of Eldridge,0,41,0,41,0,0,19,0,28,3,26,4,0,0,0,49,0,53,0,0,0,0,28.0,0,27.0,0,0,0,,false
+Scott,(HG) Hickory Grove Township,0,2,0,10,0,0,4,0,5,2,0,2,0,0,0,2,0,10,0,0,4,0,5.0,2,0.0,2,0,0,,false
+Scott,(LB) Liberty Township,0,1,0,6,0,0,3,0,5,0,0,2,0,0,0,0,0,0,0,0,0,0,8.0,0,0.0,7,0,0,,false
+Scott,(LC1) City of LeClaire,0,13,0,32,0,0,20,0,19,10,30,7,0,1,0,0,0,45,0,0,22,0,22.0,0,31.0,0,0,1,,false
+Scott,(LC2) City of LeClaire,0,18,2,48,0,0,20,0,24,1,24,7,0,0,0,3,0,54,0,0,31,0,25.0,0,29.0,2,0,0,,false
+Scott,(LCT) LeClaire Township,0,12,0,25,0,0,23,0,9,3,11,5,0,1,0,0,0,36,0,0,41,0,0.0,0,0.0,0,0,0,,false
+Scott,(LG) City of Long Grove,0,12,0,9,0,0,7,0,11,5,9,0,1,0,0,19,0,19,0,0,0,0,16.0,0,0.0,0,0,0,,false
+Scott,(MC) McCausland,0,3,0,11,0,0,5,0,9,2,11,1,0,0,0,0,0,42,0,0,0,0,0.0,0,0.0,0,0,0,,false
+Scott,(PKV) Park View,0,17,1,39,0,0,17,0,24,4,20,11,0,0,0,0,0,51,0,0,23,0,25.0,0,23.0,0,0,0,,false
+Scott,(PR) Princeton Township,0,7,0,18,0,0,18,0,9,0,13,5,0,0,0,0,0,32,0,0,37,0,0.0,0,0.0,0,0,1,,false
+Scott,(PV) Pleasant Valley,0,14,0,21,0,0,12,0,6,0,8,4,0,0,0,0,0,24,0,0,23,0,0.0,0,0.0,0,0,0,,false
+Scott,(RV) City of Riverdale,0,5,0,3,0,0,4,0,5,0,8,0,0,0,0,5,0,3,0,0,4,0,5.0,0,8.0,0,0,0,,false
+Scott,(WC) Walcott Precinct,0,10,0,7,0,0,18,0,0,0,16,6,0,0,0,10,0,12,0,0,18,0,0.0,0,16.0,0,0,0,,false
+Scott,(WF) Winfield Township,0,0,0,7,0,0,11,0,1,6,10,0,0,0,0,0,0,7,0,0,11,0,1.0,6,10.0,0,0,0,,false

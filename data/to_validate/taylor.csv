@@ -1,10 +1,10 @@
 ,,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,URL to Documentation,Manually validated
-,,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Other,Patrick,Sanders,Steyer,Uncommitted,Warren,Yang,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Other,Patrick,Sanders,Steyer,Uncommitted,Warren,Yang,,
+,,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Patrick,Sanders,Steyer,Warren,Yang,Other,Uncommitted,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Patrick,Sanders,Steyer,Warren,Yang,Other,Uncommitted,,
 County,Precinct,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Taylor,1-1 Blockton,0,1,0,4,0,0,0,0,0,2,0,0,0,0,0,0,0,4,0,0,0,0,0,2.0,0,0,0.0,0,,false
-Taylor,2-1 Clearfield,0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0.0,0,0,1.0,0,,false
-Taylor,3-1 Gravity,0,1,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,3.0,0,0,0.0,0,,false
-Taylor,4-1 New Market,0,0,0,3,0,0,3,0,0,6,0,1,0,0,0,0,0,4,0,0,3,0,0,6.0,0,0,0.0,0,,false
-Taylor,5-2 Lenox,0,12,0,14,0,0,7,0,0,0,0,0,7,1,0,12,0,14,0,0,7,0,0,0.0,0,1,7.0,0,,false
-Taylor,6-3 City of Bedford,0,4,0,3,0,0,0,0,0,3,0,0,3,6,0,4,0,3,0,0,0,0,0,3.0,0,0,3.0,6,,false
-Taylor,7-3 Legion,0,4,0,3,0,0,2,0,0,0,0,0,0,0,0,4,0,3,0,0,2,0,0,0.0,0,0,0.0,0,,false
+Taylor,1-1 Blockton,0,1,0,4,0,0,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,2.0,0,0.0,0,0,0,,false
+Taylor,2-1 Clearfield,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0.0,0,1.0,0,0,0,,false
+Taylor,3-1 Gravity,0,1,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,3.0,0,0.0,0,0,0,,false
+Taylor,4-1 New Market,0,0,0,3,0,0,3,0,6,0,0,0,0,1,0,0,0,4,0,0,3,0,6.0,0,0.0,0,0,0,,false
+Taylor,5-2 Lenox,0,12,0,14,0,0,7,0,0,0,7,1,0,0,0,12,0,14,0,0,7,0,0.0,0,7.0,0,0,1,,false
+Taylor,6-3 City of Bedford,0,4,0,3,0,0,0,0,3,0,3,6,0,0,0,4,0,3,0,0,0,0,3.0,0,3.0,6,0,0,,false
+Taylor,7-3 Legion,0,4,0,3,0,0,2,0,0,0,0,0,0,0,0,4,0,3,0,0,2,0,0.0,0,0.0,0,0,0,,false

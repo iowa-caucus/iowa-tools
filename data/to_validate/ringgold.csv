@@ -1,10 +1,10 @@
 ,,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,URL to Documentation,Manually validated
-,,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Other,Patrick,Sanders,Steyer,Uncommitted,Warren,Yang,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Other,Patrick,Sanders,Steyer,Uncommitted,Warren,Yang,,
+,,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Patrick,Sanders,Steyer,Warren,Yang,Other,Uncommitted,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Patrick,Sanders,Steyer,Warren,Yang,Other,Uncommitted,,
 County,Precinct,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ringgold,Athens,0,2,0,3,0,0,3,0,0,0,0,0,0,0,0,3,0,3,0,0,3,0,0,0.0,0,0,0.0,0,,false
-Ringgold,Clinton,0,4,0,0,0,0,8,0,0,0,0,0,0,0,0,4,0,0,0,0,9,0,0,0.0,0,0,0.0,0,,false
-Ringgold,Mount Ayr 1,0,11,0,9,0,0,1,0,0,2,2,0,5,0,0,11,0,10,0,0,0,0,0,0.0,0,3,6.0,0,,false
-Ringgold,Mount Ayr 2,0,20,0,9,0,0,5,0,0,3,3,0,7,1,0,22,0,10,0,0,0,0,0,7.0,0,0,9.0,0,,false
-Ringgold,Tingley,0,0,0,4,0,0,0,0,0,0,0,1,2,0,0,0,0,4,0,0,0,0,0,0.0,0,1,2.0,0,,false
-Ringgold,Union,0,6,0,5,0,0,7,0,0,0,0,0,0,0,0,6,0,5,0,0,7,0,0,0.0,0,0,0.0,0,,false
-Ringgold,Washington,0,1,0,2,0,0,5,0,0,4,0,5,5,1,0,0,0,0,0,0,11,0,0,4.0,0,0,5.0,0,,false
+Ringgold,Athens,0,2,0,3,0,0,3,0,0,0,0,0,0,0,0,3,0,3,0,0,3,0,0.0,0,0.0,0,0,0,,false
+Ringgold,Clinton,0,4,0,0,0,0,8,0,0,0,0,0,0,0,0,4,0,0,0,0,9,0,0.0,0,0.0,0,0,0,,false
+Ringgold,Mount Ayr 1,0,11,0,9,0,0,1,0,2,2,5,0,0,0,0,11,0,10,0,0,0,0,0.0,0,6.0,0,0,3,,false
+Ringgold,Mount Ayr 2,0,20,0,9,0,0,5,0,3,3,7,1,0,0,0,22,0,10,0,0,0,0,7.0,0,9.0,0,0,0,,false
+Ringgold,Tingley,0,0,0,4,0,0,0,0,0,0,2,0,0,1,0,0,0,4,0,0,0,0,0.0,0,2.0,0,0,1,,false
+Ringgold,Union,0,6,0,5,0,0,7,0,0,0,0,0,0,0,0,6,0,5,0,0,7,0,0.0,0,0.0,0,0,0,,false
+Ringgold,Washington,0,1,0,2,0,0,5,0,4,0,5,1,0,5,0,0,0,0,0,0,11,0,4.0,0,5.0,0,0,0,,false

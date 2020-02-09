@@ -2,8 +2,6 @@
     {
         "County": "Bremer",
         "Precinct": "CITY OF DENVER/JEFFERSON TWP",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 24,
@@ -12,13 +10,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 28,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 7,
             "Steyer": 5,
-            "Uncommitted": 0,
             "Warren": 17,
-            "Yang": 5
+            "Yang": 5,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -28,20 +26,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 30,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 7,
             "Warren": 22.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 7
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Bremer",
         "Precinct": "CITY OF FREDERIKA- FREDERIKA &amp; LEROY TWP",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 5,
@@ -50,13 +48,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0,
             "Steyer": 2,
-            "Uncommitted": 0,
             "Warren": 3,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -66,20 +64,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 2,
-            "Uncommitted": 0,
             "Warren": 3.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Bremer",
         "Precinct": "CITY OF JANESVILLE/JACKSON TWP",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 11,
@@ -88,13 +86,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 11,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 7,
             "Steyer": 3,
-            "Uncommitted": 0,
             "Warren": 15,
-            "Yang": 1
+            "Yang": 1,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -104,20 +102,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 13,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 19.0,
-            "Yang": 1
-        }
+            "Yang": 1,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Bremer",
         "Precinct": "CITY OF PLAINFIELD/POLK TWP/DOUGLAS TWP",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 6,
@@ -126,13 +124,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 4,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 2,
             "Steyer": 6,
-            "Uncommitted": 4,
             "Warren": 2,
-            "Yang": 4
+            "Yang": 4,
+            "Other": 0,
+            "Uncommitted": 4
         },
         "Final Expression": {
             "Bennet": 0,
@@ -142,20 +140,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 6,
-            "Uncommitted": 7,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 7
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Bremer",
         "Precinct": "CITY OF READLYN- MAXFIELD &amp; FRANKLIN TWP",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 7,
@@ -164,13 +162,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 7,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 6,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 6,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -180,20 +178,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 7,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 6.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 6.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Bremer",
         "Precinct": "CITY OF SUMNER/SUMNER TWP/DAYTON TWP",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 19,
@@ -202,13 +200,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 8,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 13,
             "Steyer": 0,
-            "Uncommitted": 1,
             "Warren": 8,
-            "Yang": 2
+            "Yang": 2,
+            "Other": 0,
+            "Uncommitted": 1
         },
         "Final Expression": {
             "Bennet": 0,
@@ -218,20 +216,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 13.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 14.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Bremer",
         "Precinct": "CITY OF TRIPOLI/FREMONT",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 17,
@@ -240,13 +238,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 13,
             "Steyer": 2,
-            "Uncommitted": 0,
             "Warren": 10,
-            "Yang": 4
+            "Yang": 4,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -256,20 +254,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 17.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 10.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Bremer",
         "Precinct": "LAFAYETTE TWP/WARREN TWPS",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 7,
@@ -278,13 +276,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 8,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 6,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -294,20 +292,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 8,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 6.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Bremer",
         "Precinct": "WAVERLY WARD I/E WASHINGTON TWP",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 26,
@@ -316,13 +314,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 25,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 29,
             "Steyer": 2,
-            "Uncommitted": 1,
             "Warren": 31,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 1
         },
         "Final Expression": {
             "Bennet": 0,
@@ -332,20 +330,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 32,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 29.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 31.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Bremer",
         "Precinct": "WAVERLY WARD II/NE 1/4 SEC 36 WASHINGTON TWP",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 16,
@@ -354,13 +352,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 33,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 23,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 26,
-            "Yang": 6
+            "Yang": 6,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -370,20 +368,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 38,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 25.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 31.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Bremer",
         "Precinct": "WAVERLY WARD III",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 12,
@@ -392,13 +390,13 @@
             "Delaney": 0,
             "Gabbard": 1,
             "Klobuchar": 14,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 43,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 42,
-            "Yang": 7
+            "Yang": 7,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -408,20 +406,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 2,
             "Patrick": 0,
             "Sanders": 55.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 46.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 2,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Bremer",
         "Precinct": "WAVERLY WARD IV",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 29,
@@ -430,13 +428,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 24,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 24,
             "Steyer": 0,
-            "Uncommitted": 1,
             "Warren": 27,
-            "Yang": 10
+            "Yang": 10,
+            "Other": 0,
+            "Uncommitted": 1
         },
         "Final Expression": {
             "Bennet": 0,
@@ -446,20 +444,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 27,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 25.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 27.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Bremer",
         "Precinct": "WAVERLY WARD V/W WASHINGTON TWP",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 31,
@@ -468,13 +466,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 34,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 22,
             "Steyer": 4,
-            "Uncommitted": 2,
             "Warren": 54,
-            "Yang": 8
+            "Yang": 8,
+            "Other": 0,
+            "Uncommitted": 2
         },
         "Final Expression": {
             "Bennet": 0,
@@ -484,13 +482,15 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 40,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 4,
             "Warren": 73.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 4
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     }
 ]

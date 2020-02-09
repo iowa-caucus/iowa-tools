@@ -2,8 +2,6 @@
     {
         "County": "Marshall",
         "Precinct": "BANGOR/LISCOMB",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 8,
@@ -12,13 +10,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 4,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 5,
             "Steyer": 1,
-            "Uncommitted": 0,
             "Warren": 5,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -28,20 +26,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 7.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Marshall",
         "Precinct": "EDEN / LOGAN",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 5,
@@ -50,13 +48,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 10,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 6,
             "Steyer": 1,
-            "Uncommitted": 1,
             "Warren": 4,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 1
         },
         "Final Expression": {
             "Bennet": 0,
@@ -66,20 +64,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 14,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 10.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Marshall",
         "Precinct": "GREEN CASTLE",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 4,
@@ -88,13 +86,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 2,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 6,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 5,
-            "Yang": 3
+            "Yang": 3,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -104,20 +102,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 8,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 8.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Marshall",
         "Precinct": "JEFFERSON",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 7,
@@ -126,13 +124,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 4,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 6,
             "Steyer": 0,
-            "Uncommitted": 1,
             "Warren": 2,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 1
         },
         "Final Expression": {
             "Bennet": 0,
@@ -142,20 +140,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 6.0,
             "Steyer": 0,
-            "Uncommitted": 1,
             "Warren": 1.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 1
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Marshall",
         "Precinct": "LEGRAND",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 7,
@@ -164,13 +162,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 5,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 10,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -180,20 +178,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 5.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 10.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Marshall",
         "Precinct": "LIBERTY / MINERVA",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 1,
             "Biden": 4,
@@ -202,13 +200,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 2,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 5,
             "Steyer": 1,
-            "Uncommitted": 0,
             "Warren": 3,
-            "Yang": 4
+            "Yang": 4,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -218,20 +216,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 9.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 6.0,
-            "Yang": 1
-        }
+            "Yang": 1,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Marshall",
         "Precinct": "MARIETTA / WASHINGTON",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 5,
@@ -240,13 +238,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 3,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -256,20 +254,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Marshall",
         "Precinct": "MARION / VIENNA",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 11,
@@ -278,13 +276,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 8,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 2,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 10,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -294,20 +292,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 8,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 12.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Marshall",
         "Precinct": "MARSHALLTOWN 1-1",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 12,
@@ -316,13 +314,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 56,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 5,
-            "Yang": 1
+            "Yang": 1,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -332,20 +330,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 60.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Marshall",
         "Precinct": "MARSHALLTOWN 1-2",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 16,
@@ -354,13 +352,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 48,
             "Steyer": 2,
-            "Uncommitted": 0,
             "Warren": 7,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -370,20 +368,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 50.0,
             "Steyer": 0,
-            "Uncommitted": 16,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 16
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Marshall",
         "Precinct": "MARSHALLTOWN 2-1",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 1,
             "Biden": 12,
@@ -392,13 +390,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 16,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 44,
             "Steyer": 1,
-            "Uncommitted": 1,
             "Warren": 18,
-            "Yang": 3
+            "Yang": 3,
+            "Other": 0,
+            "Uncommitted": 1
         },
         "Final Expression": {
             "Bennet": 0,
@@ -408,20 +406,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 45.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 29.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Marshall",
         "Precinct": "MARSHALLTOWN 2-2",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 23,
@@ -430,13 +428,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 20,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 51,
             "Steyer": 6,
-            "Uncommitted": 0,
             "Warren": 25,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -446,20 +444,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 52.0,
             "Steyer": 0,
-            "Uncommitted": 4,
             "Warren": 33.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 4
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Marshall",
         "Precinct": "MARSHALLTOWN 3-1",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 26,
@@ -468,13 +466,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 21,
-            "Other": 1,
             "Patrick": 0,
             "Sanders": 37,
             "Steyer": 0,
-            "Uncommitted": 1,
             "Warren": 25,
-            "Yang": 3
+            "Yang": 3,
+            "Other": 1,
+            "Uncommitted": 1
         },
         "Final Expression": {
             "Bennet": 0,
@@ -484,20 +482,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 22,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 39.0,
             "Steyer": 0,
-            "Uncommitted": 1,
             "Warren": 25.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 1
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Marshall",
         "Precinct": "MARSHALLTOWN 3-2",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 2,
             "Biden": 40,
@@ -506,13 +504,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 23,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 57,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 20,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -522,20 +520,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 65.0,
             "Steyer": 0,
-            "Uncommitted": 16,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 16
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Marshall",
         "Precinct": "MARSHALLTOWN 4-1",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 1,
             "Biden": 24,
@@ -544,13 +542,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 3,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 47,
             "Steyer": 3,
-            "Uncommitted": 0,
             "Warren": 8,
-            "Yang": 6
+            "Yang": 6,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -560,20 +558,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 59.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Marshall",
         "Precinct": "MARSHALLTOWN 4-2",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 23,
@@ -582,13 +580,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 12,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 41,
             "Steyer": 7,
-            "Uncommitted": 0,
             "Warren": 26,
-            "Yang": 10
+            "Yang": 10,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -598,20 +596,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 47.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 31.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Marshall",
         "Precinct": "STATE CENTER",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 17,
@@ -620,13 +618,13 @@
             "Delaney": 0,
             "Gabbard": 1,
             "Klobuchar": 5,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 16,
             "Steyer": 1,
-            "Uncommitted": 0,
             "Warren": 7,
-            "Yang": 2
+            "Yang": 2,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -636,20 +634,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 21.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Marshall",
         "Precinct": "TAYLOR",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 8,
@@ -658,13 +656,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 2,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 2,
             "Steyer": 2,
-            "Uncommitted": 2,
             "Warren": 2,
-            "Yang": 3
+            "Yang": 3,
+            "Other": 0,
+            "Uncommitted": 2
         },
         "Final Expression": {
             "Bennet": 0,
@@ -674,20 +672,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 6.0,
             "Steyer": 0,
-            "Uncommitted": 2,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 2
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Marshall",
         "Precinct": "TIMBER CREEK",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 9,
@@ -696,13 +694,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 7,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 5,
             "Steyer": 6,
-            "Uncommitted": 0,
             "Warren": 2,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -712,13 +710,15 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 7,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 6,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     }
 ]

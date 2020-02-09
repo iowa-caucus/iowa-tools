@@ -2,8 +2,6 @@
     {
         "County": "Woodbury",
         "Precinct": "29 Sergeant Bluff East/ Woodbury",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 30,
@@ -12,13 +10,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 16,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 19,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 7,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -28,20 +26,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 17,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 20.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Woodbury",
         "Precinct": "30 Sergeant Bluff West",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 16,
@@ -50,13 +48,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 16,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 23,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 13,
-            "Yang": 5
+            "Yang": 5,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -66,20 +64,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 16,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 23.0,
             "Steyer": 0,
-            "Uncommitted": 5,
             "Warren": 13.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 5
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Woodbury",
         "Precinct": "31 Salix/Liberty/Lakeport",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 8,
@@ -88,13 +86,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 3,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 2,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 6,
-            "Yang": 3
+            "Yang": 3,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -104,20 +102,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 6.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Woodbury",
         "Precinct": "32 Bronson/Floyd/Grange",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 2,
@@ -126,13 +124,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 1,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 4,
             "Steyer": 3,
-            "Uncommitted": 2,
             "Warren": 3,
-            "Yang": 3
+            "Yang": 3,
+            "Other": 0,
+            "Uncommitted": 2
         },
         "Final Expression": {
             "Bennet": 0,
@@ -142,20 +140,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 8.0,
             "Steyer": 0,
-            "Uncommitted": 6,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 6
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Woodbury",
         "Precinct": "33-Pierson/Rutland",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 8,
@@ -164,13 +162,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 1,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 3,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0,
-            "Yang": 1
+            "Yang": 1,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -180,20 +178,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 1,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 3.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 1
-        }
+            "Yang": 1,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Woodbury",
         "Precinct": "34 Correctionville/Kedron/Union",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -202,13 +200,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 7,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 10,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -218,20 +216,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 7,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 10.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Woodbury",
         "Precinct": "35 Moville/Arlington/Wolf Creek",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 18,
@@ -240,13 +238,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 11,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 12,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 10,
-            "Yang": 4
+            "Yang": 4,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -256,20 +254,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 11,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 13.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 10.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Woodbury",
         "Precinct": "36 Lawton/Banner",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 9,
@@ -278,13 +276,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 5,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 1,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 6,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -294,20 +292,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 9,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Woodbury",
         "Precinct": "37 Climbing Hill/Grant/West Fork",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 3,
@@ -316,13 +314,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 1,
             "Steyer": 0,
-            "Uncommitted": 1,
             "Warren": 1,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 1
         },
         "Final Expression": {
             "Bennet": 0,
@@ -332,20 +330,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 1.0,
             "Steyer": 0,
-            "Uncommitted": 1,
             "Warren": 1.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 1
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Woodbury",
         "Precinct": "38 Sloan",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 6,
@@ -354,13 +352,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 5,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 8,
             "Steyer": 3,
-            "Uncommitted": 0,
             "Warren": 3,
-            "Yang": 1
+            "Yang": 1,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -370,20 +368,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 7,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 13.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Woodbury",
         "Precinct": "39 Hornick/Willow",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -392,13 +390,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 3,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -408,20 +406,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 3.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Woodbury",
         "Precinct": "40 Anthon/Miller",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 2,
@@ -430,13 +428,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 2,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 3,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -446,20 +444,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 2.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 3.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Woodbury",
         "Precinct": "41 Danbury/Liston/Morgan",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -468,13 +466,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 6,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -484,20 +482,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 6.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Woodbury",
         "Precinct": "42 Smithland/Little Sioux",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -506,13 +504,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 2,
             "Steyer": 3,
-            "Uncommitted": 0,
             "Warren": 3,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -522,20 +520,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 4,
-            "Uncommitted": 0,
             "Warren": 5.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Woodbury",
         "Precinct": "43 Oto/Oto Township",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -544,13 +542,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 3,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -560,20 +558,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Woodbury",
         "Precinct": "44 Cushing/Rock",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 5,
@@ -582,13 +580,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 1,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -598,20 +596,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 1.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 1.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Woodbury",
         "Precinct": "Sioux City 01",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 1,
             "Biden": 29,
@@ -620,13 +618,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 16,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 56,
             "Steyer": 10,
-            "Uncommitted": 2,
             "Warren": 11,
-            "Yang": 4
+            "Yang": 4,
+            "Other": 0,
+            "Uncommitted": 2
         },
         "Final Expression": {
             "Bennet": 0,
@@ -636,20 +634,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 26,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 58.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Woodbury",
         "Precinct": "Sioux City 02",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 17,
@@ -658,13 +656,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 48,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 18,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -674,20 +672,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 48.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 18.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Woodbury",
         "Precinct": "Sioux City 03",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 26,
@@ -696,13 +694,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 12,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 21,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0,
-            "Yang": 14
+            "Yang": 14,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -712,20 +710,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 21.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 14
-        }
+            "Yang": 14,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Woodbury",
         "Precinct": "Sioux City 04",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 17,
@@ -734,13 +732,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 2,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 36,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 4,
-            "Yang": 6
+            "Yang": 6,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -750,20 +748,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 4,
             "Patrick": 0,
             "Sanders": 40.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 4,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Woodbury",
         "Precinct": "Sioux City 05",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 38,
@@ -772,13 +770,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 4,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 27,
             "Steyer": 2,
-            "Uncommitted": 0,
             "Warren": 12,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -788,20 +786,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 32.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Woodbury",
         "Precinct": "Sioux City 06",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 23,
@@ -810,13 +808,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 25,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 32,
             "Steyer": 2,
-            "Uncommitted": 0,
             "Warren": 30,
-            "Yang": 10
+            "Yang": 10,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -826,20 +824,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 25,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 43.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 34.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Woodbury",
         "Precinct": "Sioux City 07",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 14,
@@ -848,13 +846,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 7,
-            "Other": 1,
             "Patrick": 0,
             "Sanders": 29,
             "Steyer": 1,
-            "Uncommitted": 0,
             "Warren": 8,
-            "Yang": 3
+            "Yang": 3,
+            "Other": 1,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -864,20 +862,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 30.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 12.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Woodbury",
         "Precinct": "Sioux City 08",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 7,
@@ -886,13 +884,13 @@
             "Delaney": 0,
             "Gabbard": 2,
             "Klobuchar": 1,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 27,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 5,
-            "Yang": 3
+            "Yang": 3,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -902,20 +900,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 1,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 30.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 8.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Woodbury",
         "Precinct": "Sioux City 09",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 2,
@@ -924,13 +922,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 6,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 13,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 1,
-            "Yang": 3
+            "Yang": 3,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -940,20 +938,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 6,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 14.0,
             "Steyer": 0,
-            "Uncommitted": 9,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 9
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Woodbury",
         "Precinct": "Sioux City 10",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 34,
@@ -962,13 +960,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 35,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 35,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 28,
-            "Yang": 19
+            "Yang": 19,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -978,20 +976,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 36,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 40.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 28.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Woodbury",
         "Precinct": "Sioux City 11",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 7,
@@ -1000,13 +998,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 1,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 23,
             "Steyer": 1,
-            "Uncommitted": 0,
             "Warren": 2,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1016,20 +1014,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 23.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Woodbury",
         "Precinct": "Sioux City 12",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 23,
@@ -1038,13 +1036,13 @@
             "Delaney": 0,
             "Gabbard": 1,
             "Klobuchar": 14,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 68,
             "Steyer": 9,
-            "Uncommitted": 0,
             "Warren": 21,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1054,20 +1052,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 74.0,
             "Steyer": 0,
-            "Uncommitted": 2,
             "Warren": 27.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 2
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Woodbury",
         "Precinct": "Sioux City 13",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 9,
@@ -1076,13 +1074,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 11,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 6,
-            "Yang": 8
+            "Yang": 8,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1092,20 +1090,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 11.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 6.0,
-            "Yang": 9
-        }
+            "Yang": 9,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Woodbury",
         "Precinct": "Sioux City 14",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 12,
@@ -1114,13 +1112,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 1,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 32,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 4,
-            "Yang": 4
+            "Yang": 4,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1130,20 +1128,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 33.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 9.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Woodbury",
         "Precinct": "Sioux City 15",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 16,
@@ -1152,13 +1150,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 5,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 22,
             "Steyer": 3,
-            "Uncommitted": 1,
             "Warren": 13,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 1
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1168,20 +1166,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 24.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 13.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Woodbury",
         "Precinct": "Sioux City 16",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 16,
@@ -1190,13 +1188,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 38,
             "Steyer": 5,
-            "Uncommitted": 1,
             "Warren": 7,
-            "Yang": 11
+            "Yang": 11,
+            "Other": 0,
+            "Uncommitted": 1
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1206,20 +1204,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 49.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Woodbury",
         "Precinct": "Sioux City 17",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 27,
@@ -1228,13 +1226,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 12,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 40,
             "Steyer": 7,
-            "Uncommitted": 1,
             "Warren": 25,
-            "Yang": 6
+            "Yang": 6,
+            "Other": 0,
+            "Uncommitted": 1
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1244,20 +1242,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 40.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 25.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Woodbury",
         "Precinct": "Sioux City 18",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 25,
@@ -1266,13 +1264,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 2,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 32,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 14,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1282,20 +1280,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 32.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 14.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Woodbury",
         "Precinct": "Sioux City 19",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 36,
@@ -1304,13 +1302,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 14,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 27,
             "Steyer": 1,
-            "Uncommitted": 0,
             "Warren": 16,
-            "Yang": 5
+            "Yang": 5,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1320,20 +1318,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 35.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Woodbury",
         "Precinct": "Sioux City 20",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 38,
@@ -1342,13 +1340,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 4,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 27,
             "Steyer": 2,
-            "Uncommitted": 0,
             "Warren": 12,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1358,20 +1356,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 32.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Woodbury",
         "Precinct": "Sioux City 21",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 5,
@@ -1380,13 +1378,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 4,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 20,
             "Steyer": 4,
-            "Uncommitted": 2,
             "Warren": 13,
-            "Yang": 6
+            "Yang": 6,
+            "Other": 0,
+            "Uncommitted": 2
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1396,20 +1394,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 26.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 14.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Woodbury",
         "Precinct": "Sioux City 23",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 14,
@@ -1418,13 +1416,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 5,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 43,
             "Steyer": 1,
-            "Uncommitted": 1,
             "Warren": 22,
-            "Yang": 4
+            "Yang": 4,
+            "Other": 0,
+            "Uncommitted": 1
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1434,20 +1432,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 43.0,
             "Steyer": 0,
-            "Uncommitted": 6,
             "Warren": 22.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 6
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Woodbury",
         "Precinct": "Woodbury 22",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 27,
@@ -1456,13 +1454,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 3,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 38,
             "Steyer": 1,
-            "Uncommitted": 0,
             "Warren": 10,
-            "Yang": 12
+            "Yang": 12,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1472,20 +1470,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 39.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 15.0,
-            "Yang": 16
-        }
+            "Yang": 16,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Woodbury",
         "Precinct": "Woodbury 24",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 25,
@@ -1494,13 +1492,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 11,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 16,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 15,
-            "Yang": 3
+            "Yang": 3,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1510,20 +1508,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 17.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 18.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Woodbury",
         "Precinct": "Woodbury 25",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 6,
@@ -1532,13 +1530,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 12,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 42,
             "Steyer": 2,
-            "Uncommitted": 0,
             "Warren": 13,
-            "Yang": 7
+            "Yang": 7,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1548,20 +1546,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 16,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 43.0,
             "Steyer": 0,
-            "Uncommitted": 1,
             "Warren": 18.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 1
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Woodbury",
         "Precinct": "Woodbury 26",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 21,
@@ -1570,13 +1568,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 12,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 19,
             "Steyer": 2,
-            "Uncommitted": 0,
             "Warren": 15,
-            "Yang": 9
+            "Yang": 9,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1586,20 +1584,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 20.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 16.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Woodbury",
         "Precinct": "Woodbury 27",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 26,
@@ -1608,13 +1606,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 6,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 42,
             "Steyer": 3,
-            "Uncommitted": 0,
             "Warren": 23,
-            "Yang": 8
+            "Yang": 8,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1624,20 +1622,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 42.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 25.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Woodbury",
         "Precinct": "Woodbury 28",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 47,
@@ -1646,13 +1644,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 33,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 24,
             "Steyer": 0,
-            "Uncommitted": 1,
             "Warren": 43,
-            "Yang": 5
+            "Yang": 5,
+            "Other": 0,
+            "Uncommitted": 1
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1662,13 +1660,15 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 33,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 15,
             "Warren": 54.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 15
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     }
 ]

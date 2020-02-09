@@ -2,8 +2,6 @@
     {
         "County": "Audubon",
         "Precinct": "Precinct 1",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 17,
@@ -12,13 +10,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 17,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 17,
             "Steyer": 8,
-            "Uncommitted": 0,
             "Warren": 20,
-            "Yang": 9
+            "Yang": 9,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -28,20 +26,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 18,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 18.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 21.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Audubon",
         "Precinct": "Precinct 2",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 28,
@@ -50,13 +48,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 25,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 14,
             "Steyer": 3,
-            "Uncommitted": 2,
             "Warren": 12,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 2
         },
         "Final Expression": {
             "Bennet": 0,
@@ -66,13 +64,15 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 37,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 17.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     }
 ]

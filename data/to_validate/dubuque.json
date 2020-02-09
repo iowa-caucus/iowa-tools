@@ -2,8 +2,6 @@
     {
         "County": "Dubuque",
         "Precinct": "Dubuque_01",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 65,
@@ -12,13 +10,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 44,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 34,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 41,
-            "Yang": 7
+            "Yang": 7,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -28,20 +26,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 44,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 53.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Dubuque",
         "Precinct": "Dubuque_02",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 77,
@@ -50,13 +48,13 @@
             "Delaney": 0,
             "Gabbard": 2,
             "Klobuchar": 54,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 47,
             "Steyer": 4,
-            "Uncommitted": 1,
             "Warren": 63,
-            "Yang": 20
+            "Yang": 20,
+            "Other": 0,
+            "Uncommitted": 1
         },
         "Final Expression": {
             "Bennet": 0,
@@ -66,20 +64,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 61,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 76.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Dubuque",
         "Precinct": "Dubuque_03",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 16,
@@ -88,13 +86,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 14,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 37,
             "Steyer": 1,
-            "Uncommitted": 0,
             "Warren": 14,
-            "Yang": 8
+            "Yang": 8,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -104,20 +102,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 46.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Dubuque",
         "Precinct": "Dubuque_04",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 1,
             "Biden": 44,
@@ -126,13 +124,13 @@
             "Delaney": 0,
             "Gabbard": 2,
             "Klobuchar": 18,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 41,
             "Steyer": 9,
-            "Uncommitted": 1,
             "Warren": 32,
-            "Yang": 8
+            "Yang": 8,
+            "Other": 0,
+            "Uncommitted": 1
         },
         "Final Expression": {
             "Bennet": 0,
@@ -142,20 +140,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 42.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 34.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Dubuque",
         "Precinct": "Dubuque_05",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 43,
@@ -164,13 +162,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 27,
-            "Other": 3,
             "Patrick": 0,
             "Sanders": 36,
             "Steyer": 1,
-            "Uncommitted": 0,
             "Warren": 29,
-            "Yang": 4
+            "Yang": 4,
+            "Other": 3,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -180,20 +178,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 37.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 35.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Dubuque",
         "Precinct": "Dubuque_06",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 30,
@@ -202,13 +200,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 21,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 38,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 39,
-            "Yang": 11
+            "Yang": 11,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -218,20 +216,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 30,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 40.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 39.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Dubuque",
         "Precinct": "Dubuque_07",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 56,
@@ -240,13 +238,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 25,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 45,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 22,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -256,20 +254,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 46.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 36.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Dubuque",
         "Precinct": "Dubuque_08",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 36,
@@ -278,13 +276,13 @@
             "Delaney": 0,
             "Gabbard": 1,
             "Klobuchar": 18,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 22,
             "Steyer": 14,
-            "Uncommitted": 0,
             "Warren": 14,
-            "Yang": 1
+            "Yang": 1,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -294,20 +292,20 @@
             "Delaney": 0,
             "Gabbard": 1,
             "Klobuchar": 24,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 30.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Dubuque",
         "Precinct": "Dubuque_09a",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 28,
@@ -316,13 +314,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 17,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 78,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 40,
-            "Yang": 26
+            "Yang": 26,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -332,20 +330,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 92.0,
             "Steyer": 0,
-            "Uncommitted": 5,
             "Warren": 47.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 5
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Dubuque",
         "Precinct": "Dubuque_10",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 31,
@@ -354,13 +352,13 @@
             "Delaney": 0,
             "Gabbard": 5,
             "Klobuchar": 24,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 47,
             "Steyer": 2,
-            "Uncommitted": 0,
             "Warren": 34,
-            "Yang": 8
+            "Yang": 8,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -370,20 +368,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 62.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 43.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Dubuque",
         "Precinct": "Dubuque_11",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 30,
@@ -392,13 +390,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 45,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 22,
-            "Yang": 5
+            "Yang": 5,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -408,20 +406,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 45.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 22.0,
-            "Yang": 5
-        }
+            "Yang": 5,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Dubuque",
         "Precinct": "Dubuque_12",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 49,
@@ -430,13 +428,13 @@
             "Delaney": 0,
             "Gabbard": 1,
             "Klobuchar": 11,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 28,
             "Steyer": 2,
-            "Uncommitted": 0,
             "Warren": 20,
-            "Yang": 2
+            "Yang": 2,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -446,20 +444,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 28.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 26.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Dubuque",
         "Precinct": "Dubuque_13",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 10,
@@ -468,13 +466,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 8,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 31,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 18,
-            "Yang": 10
+            "Yang": 10,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -484,20 +482,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 31.0,
             "Steyer": 0,
-            "Uncommitted": 5,
             "Warren": 22.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 5
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Dubuque",
         "Precinct": "Dubuque_14",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 3,
@@ -506,13 +504,13 @@
             "Delaney": 0,
             "Gabbard": 2,
             "Klobuchar": 6,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 39,
             "Steyer": 8,
-            "Uncommitted": 0,
             "Warren": 12,
-            "Yang": 2
+            "Yang": 2,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -522,20 +520,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 42.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 19.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Dubuque",
         "Precinct": "Dubuque_15",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 34,
@@ -544,13 +542,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 2,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 59,
             "Steyer": 1,
-            "Uncommitted": 0,
             "Warren": 19,
-            "Yang": 3
+            "Yang": 3,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -560,20 +558,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 67.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Dubuque",
         "Precinct": "Dubuque_16",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 14,
@@ -582,13 +580,13 @@
             "Delaney": 0,
             "Gabbard": 2,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 54,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 32,
-            "Yang": 19
+            "Yang": 19,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -598,20 +596,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 57.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 41.0,
-            "Yang": 21
-        }
+            "Yang": 21,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Dubuque",
         "Precinct": "Dubuque_17",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 9,
@@ -620,13 +618,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 11,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 45,
             "Steyer": 0,
-            "Uncommitted": 3,
             "Warren": 21,
-            "Yang": 4
+            "Yang": 4,
+            "Other": 0,
+            "Uncommitted": 3
         },
         "Final Expression": {
             "Bennet": 0,
@@ -636,20 +634,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 18,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 46.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 24.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Dubuque",
         "Precinct": "Dubuque_18",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 36,
@@ -658,13 +656,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 9,
-            "Other": 1,
             "Patrick": 0,
             "Sanders": 67,
             "Steyer": 1,
-            "Uncommitted": 3,
             "Warren": 41,
-            "Yang": 21
+            "Yang": 21,
+            "Other": 1,
+            "Uncommitted": 3
         },
         "Final Expression": {
             "Bennet": 0,
@@ -674,20 +672,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 6,
             "Patrick": 0,
             "Sanders": 75.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 46.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 6,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Dubuque",
         "Precinct": "Dubuque_19",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 46,
@@ -696,13 +694,13 @@
             "Delaney": 0,
             "Gabbard": 2,
             "Klobuchar": 24,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 74,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 55,
-            "Yang": 13
+            "Yang": 13,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -712,20 +710,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 79.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 70.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Dubuque",
         "Precinct": "Dubuque_20",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 63,
@@ -734,13 +732,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 47,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 66,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 43,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -750,20 +748,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 50,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 67.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 46.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Dubuque",
         "Precinct": "Dubuque_31",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 58,
@@ -772,13 +770,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 35,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 28,
             "Steyer": 1,
-            "Uncommitted": 0,
             "Warren": 36,
-            "Yang": 5
+            "Yang": 5,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -788,20 +786,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 38,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 49.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Dubuque",
         "Precinct": "Dubuque_32",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 35,
@@ -810,13 +808,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 33,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 35,
             "Steyer": 0,
-            "Uncommitted": 2,
             "Warren": 24,
-            "Yang": 7
+            "Yang": 7,
+            "Other": 0,
+            "Uncommitted": 2
         },
         "Final Expression": {
             "Bennet": 0,
@@ -826,20 +824,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 33,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 35.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Dubuque",
         "Precinct": "Dubuque_33",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 26,
@@ -848,13 +846,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 6,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 11,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 20,
-            "Yang": 6
+            "Yang": 6,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -864,20 +862,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 29.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Dubuque",
         "Precinct": "Dubuque_34",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 55,
@@ -886,13 +884,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 26,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 20,
             "Steyer": 17,
-            "Uncommitted": 3,
             "Warren": 21,
-            "Yang": 2
+            "Yang": 2,
+            "Other": 0,
+            "Uncommitted": 3
         },
         "Final Expression": {
             "Bennet": 0,
@@ -902,20 +900,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 41,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Dubuque",
         "Precinct": "Dubuque_35",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 7,
@@ -924,13 +922,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 12,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 9,
             "Steyer": 4,
-            "Uncommitted": 2,
             "Warren": 8,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 2
         },
         "Final Expression": {
             "Bennet": 0,
@@ -940,20 +938,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 21,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 11.0,
             "Steyer": 0,
-            "Uncommitted": 6,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 6
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Dubuque",
         "Precinct": "Dubuque_36",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 29,
@@ -962,13 +960,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 16,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 39,
             "Steyer": 7,
-            "Uncommitted": 3,
             "Warren": 13,
-            "Yang": 3
+            "Yang": 3,
+            "Other": 0,
+            "Uncommitted": 3
         },
         "Final Expression": {
             "Bennet": 0,
@@ -978,20 +976,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 23,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 45.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Dubuque",
         "Precinct": "Dubuque_37",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 13,
@@ -1000,13 +998,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 8,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 5,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1016,20 +1014,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 10.0,
             "Steyer": 0,
-            "Uncommitted": 2,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 2
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Dubuque",
         "Precinct": "Dubuque_38",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 5,
@@ -1038,13 +1036,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 8,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 8,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1054,20 +1052,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 8,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 8.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Dubuque",
         "Precinct": "Dubuque_39",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 16,
@@ -1076,13 +1074,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 8,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 11,
             "Steyer": 0,
-            "Uncommitted": 2,
             "Warren": 0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 2
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1092,20 +1090,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 8,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 11.0,
             "Steyer": 0,
-            "Uncommitted": 2,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 2
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Dubuque",
         "Precinct": "Dubuque_40",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 17,
@@ -1114,13 +1112,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 5,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 6,
             "Steyer": 2,
-            "Uncommitted": 4,
             "Warren": 1,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 4
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1130,20 +1128,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 8,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 4,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 4
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Dubuque",
         "Precinct": "Dubuque_41",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 19,
@@ -1152,13 +1150,13 @@
             "Delaney": 0,
             "Gabbard": 1,
             "Klobuchar": 16,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 8,
             "Steyer": 3,
-            "Uncommitted": 0,
             "Warren": 4,
-            "Yang": 1
+            "Yang": 1,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1168,20 +1166,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 18,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 14.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Dubuque",
         "Precinct": "Dubuque_42",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 26,
@@ -1190,13 +1188,13 @@
             "Delaney": 0,
             "Gabbard": 2,
             "Klobuchar": 18,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 18,
             "Steyer": 0,
-            "Uncommitted": 2,
             "Warren": 18,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 2
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1206,20 +1204,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 18,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 19.0,
             "Steyer": 0,
-            "Uncommitted": 2,
             "Warren": 18.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 2
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Dubuque",
         "Precinct": "Dubuque_43",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 38,
@@ -1228,13 +1226,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 20,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 23,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 28,
-            "Yang": 1
+            "Yang": 1,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1244,20 +1242,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 20,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 23.0,
             "Steyer": 1,
-            "Uncommitted": 0,
             "Warren": 28.0,
-            "Yang": 1
-        }
+            "Yang": 1,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Dubuque",
         "Precinct": "Dubuque_44",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 2,
@@ -1266,13 +1264,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 3,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 2,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1282,20 +1280,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 3,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 2.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Dubuque",
         "Precinct": "Dubuque_45",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 32,
@@ -1304,13 +1302,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 9,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 5,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 11,
-            "Yang": 8
+            "Yang": 8,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1320,13 +1318,15 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 18.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     }
 ]

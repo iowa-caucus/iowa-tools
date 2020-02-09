@@ -2,6 +2,8 @@
 
 import argparse
 import re
+from collections import OrderedDict
+
 import dpath.util as du
 
 from iowa_tools.constants import FULL, VOTES, SDES, TOTALS, SDE_TOTALS, PRECINCT, COUNTY
@@ -63,7 +65,7 @@ def parse_iowa_html(ipd_ref_dataset):
                         assert col_idx != 0
                         if col_idx == 1:
                             cur_precinct = item
-                            cur_row = dict()
+                            cur_row = OrderedDict()
                             cur_row[headers[0][0]] = cur_county
                             cur_row[headers[1][0]] = cur_precinct
                             data.append(cur_row)
@@ -75,10 +77,15 @@ def parse_iowa_html(ipd_ref_dataset):
     json_dataset = JsonDataset(data, headers)
     full_df = convert_json_to_dataframe(json_dataset)
     votes_df, sdes_df, totals_df, sde_totals_df = split_dataframe(full_df)
+
     votes_df = votes_df.sort_values([COUNTY, PRECINCT], ascending=True)
+    sdes_df = sdes_df.sort_values([COUNTY, PRECINCT], ascending=True)
+    totals_df = totals_df.sort_values([COUNTY, PRECINCT], ascending=True)
+    sde_totals_df = sde_totals_df.sort_values([COUNTY, PRECINCT], ascending=True)
 
     write_json(json_dataset, ipd_ref_dataset, FULL)
 
+    write_dataset_as_csv(full_df, ipd_ref_dataset, FULL)
     write_dataset_as_csv(votes_df, ipd_ref_dataset, VOTES)
     write_dataset_as_csv(sdes_df, ipd_ref_dataset, SDES)
     write_dataset_as_csv(totals_df, ipd_ref_dataset, TOTALS)

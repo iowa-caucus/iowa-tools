@@ -1,14 +1,14 @@
 ,,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,URL to Documentation,Manually validated
-,,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Other,Patrick,Sanders,Steyer,Uncommitted,Warren,Yang,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Other,Patrick,Sanders,Steyer,Uncommitted,Warren,Yang,,
+,,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Patrick,Sanders,Steyer,Warren,Yang,Other,Uncommitted,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Patrick,Sanders,Steyer,Warren,Yang,Other,Uncommitted,,
 County,Precinct,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Monona,ASHTON BELVIDERE KENNEBEC LINCOLN FRANKLIN TURIN,0,0,0,4,0,0,8,0,0,4,0,0,3,0,0,0,0,4,0,0,8,0,0,4.0,0,0,3.0,0,,false
-Monona,CASTANA CENTER JORDAN,0,0,0,3,0,0,3,0,0,2,0,0,5,0,0,0,0,3,0,0,3,0,0,2.0,0,0,5.0,0,,false
-Monona,COOPER MAPLE MAPLETON,0,12,0,8,0,0,0,0,0,7,0,0,7,0,0,20,0,9,0,0,0,0,0,7.0,0,0,7.0,0,,false
-Monona,FAIRVIEW GRANT LAKE RODNEY WEST FORK WHITING,1,9,0,6,0,0,2,0,0,1,6,0,6,0,0,9,0,7,0,0,0,0,0,0.0,6,2,7.0,0,,false
-Monona,MOORHEAD SOLDIER SOLDIER CITY SPRING VALLEY WILLOW,0,0,0,7,0,0,5,0,0,4,0,2,7,0,0,0,0,7,0,0,7,0,0,4.0,0,0,7.0,0,,false
-Monona,ONAWA Ward 1,0,2,0,3,0,0,0,0,0,2,0,1,0,1,0,2,0,4,0,0,0,0,0,3.0,0,0,0.0,0,,false
-Monona,ONAWA Ward 2- NE Franklin,0,7,0,6,0,0,0,0,0,2,0,0,7,0,0,7,0,6,0,0,0,0,0,2.0,0,0,7.0,0,,false
-Monona,ONAWA Ward 3,0,1,0,4,0,0,0,0,0,2,4,0,3,0,0,0,0,4,0,0,0,0,0,3.0,4,0,3.0,0,,false
-Monona,ONAWA Ward 4,0,1,0,3,0,0,1,0,0,3,1,1,0,0,0,0,0,4,0,0,0,0,0,5.0,0,1,0.0,0,,false
-Monona,SHERMAN SE FRANKLIN BLENCOE SIOUX,0,4,0,3,0,0,5,0,0,0,2,0,5,0,0,4,0,4,0,0,6,0,0,0.0,0,0,5.0,0,,false
-Monona,ST CLAIR UTE,0,0,0,3,0,0,3,0,0,2,0,0,3,0,0,0,0,3,0,0,3,0,0,2.0,0,0,3.0,0,,false
+Monona,ASHTON BELVIDERE KENNEBEC LINCOLN FRANKLIN TURIN,0,0,0,4,0,0,8,0,4,0,3,0,0,0,0,0,0,4,0,0,8,0,4.0,0,3.0,0,0,0,,false
+Monona,CASTANA CENTER JORDAN,0,0,0,3,0,0,3,0,2,0,5,0,0,0,0,0,0,3,0,0,3,0,2.0,0,5.0,0,0,0,,false
+Monona,COOPER MAPLE MAPLETON,0,12,0,8,0,0,0,0,7,0,7,0,0,0,0,20,0,9,0,0,0,0,7.0,0,7.0,0,0,0,,false
+Monona,FAIRVIEW GRANT LAKE RODNEY WEST FORK WHITING,1,9,0,6,0,0,2,0,1,6,6,0,0,0,0,9,0,7,0,0,0,0,0.0,6,7.0,0,0,2,,false
+Monona,MOORHEAD SOLDIER SOLDIER CITY SPRING VALLEY WILLOW,0,0,0,7,0,0,5,0,4,0,7,0,0,2,0,0,0,7,0,0,7,0,4.0,0,7.0,0,0,0,,false
+Monona,ONAWA Ward 1,0,2,0,3,0,0,0,0,2,0,0,1,0,1,0,2,0,4,0,0,0,0,3.0,0,0.0,0,0,0,,false
+Monona,ONAWA Ward 2- NE Franklin,0,7,0,6,0,0,0,0,2,0,7,0,0,0,0,7,0,6,0,0,0,0,2.0,0,7.0,0,0,0,,false
+Monona,ONAWA Ward 3,0,1,0,4,0,0,0,0,2,4,3,0,0,0,0,0,0,4,0,0,0,0,3.0,4,3.0,0,0,0,,false
+Monona,ONAWA Ward 4,0,1,0,3,0,0,1,0,3,1,0,0,0,1,0,0,0,4,0,0,0,0,5.0,0,0.0,0,0,1,,false
+Monona,SHERMAN SE FRANKLIN BLENCOE SIOUX,0,4,0,3,0,0,5,0,0,2,5,0,0,0,0,4,0,4,0,0,6,0,0.0,0,5.0,0,0,0,,false
+Monona,ST CLAIR UTE,0,0,0,3,0,0,3,0,2,0,3,0,0,0,0,0,0,3,0,0,3,0,2.0,0,3.0,0,0,0,,false

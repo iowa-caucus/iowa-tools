@@ -1,11 +1,11 @@
 ,,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,URL to Documentation,Manually validated
-,,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Other,Patrick,Sanders,Steyer,Uncommitted,Warren,Yang,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Other,Patrick,Sanders,Steyer,Uncommitted,Warren,Yang,,
+,,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Patrick,Sanders,Steyer,Warren,Yang,Other,Uncommitted,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Patrick,Sanders,Steyer,Warren,Yang,Other,Uncommitted,,
 County,Precinct,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Osceola,Ashton Precinct 0100,0,4,0,2,0,0,1,0,0,0,0,0,1,0,0,4,0,2,0,0,2,0,0,0.0,0,0,0.0,0,,false
-Osceola,Harris Precinct 0200,0,1,0,2,0,0,0,0,0,1,0,0,1,0,0,0,0,4,0,0,0,0,0,0.0,0,0,1.0,0,,false
-Osceola,May City Precint 0300,0,1,0,0,0,0,1,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,1.0,0,0,4.0,0,,false
-Osceola,Melvin Precinct 0400,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,2.0,0,0,0.0,0,,false
-Osceola,Ocheyedan Precinct 0500,0,0,0,3,0,0,1,0,0,1,0,0,0,0,0,0,0,3,0,0,1,0,0,1.0,0,0,0.0,0,,false
-Osceola,Osceola 1 Precinct 0600,0,0,0,10,0,0,0,0,0,0,0,0,2,0,0,0,0,10,0,0,0,0,0,0.0,0,0,2.0,0,,false
-Osceola,Osceola 2 Precinct 0700,0,4,0,0,0,0,3,0,0,4,0,0,0,0,0,4,0,0,0,0,3,0,0,4.0,0,0,0.0,0,,false
-Osceola,Osceola 3 Precinct 0800,0,3,1,4,0,0,5,0,0,1,0,0,6,0,0,3,0,4,0,0,6,0,0,0.0,0,0,7.0,0,,false
+Osceola,Ashton Precinct 0100,0,4,0,2,0,0,1,0,0,0,1,0,0,0,0,4,0,2,0,0,2,0,0.0,0,0.0,0,0,0,,false
+Osceola,Harris Precinct 0200,0,1,0,2,0,0,0,0,1,0,1,0,0,0,0,0,0,4,0,0,0,0,0.0,0,1.0,0,0,0,,false
+Osceola,May City Precint 0300,0,1,0,0,0,0,1,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,1.0,0,4.0,0,0,0,,false
+Osceola,Melvin Precinct 0400,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2.0,0,0.0,0,0,0,,false
+Osceola,Ocheyedan Precinct 0500,0,0,0,3,0,0,1,0,1,0,0,0,0,0,0,0,0,3,0,0,1,0,1.0,0,0.0,0,0,0,,false
+Osceola,Osceola 1 Precinct 0600,0,0,0,10,0,0,0,0,0,0,2,0,0,0,0,0,0,10,0,0,0,0,0.0,0,2.0,0,0,0,,false
+Osceola,Osceola 2 Precinct 0700,0,4,0,0,0,0,3,0,4,0,0,0,0,0,0,4,0,0,0,0,3,0,4.0,0,0.0,0,0,0,,false
+Osceola,Osceola 3 Precinct 0800,0,3,1,4,0,0,5,0,1,0,6,0,0,0,0,3,0,4,0,0,6,0,0.0,0,7.0,0,0,0,,false

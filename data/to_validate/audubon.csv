@@ -1,5 +1,5 @@
 ,,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,URL to Documentation,Manually validated
-,,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Other,Patrick,Sanders,Steyer,Uncommitted,Warren,Yang,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Other,Patrick,Sanders,Steyer,Uncommitted,Warren,Yang,,
+,,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Patrick,Sanders,Steyer,Warren,Yang,Other,Uncommitted,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Patrick,Sanders,Steyer,Warren,Yang,Other,Uncommitted,,
 County,Precinct,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Audubon,Precinct 1,0,17,0,23,0,0,17,0,0,17,8,0,20,9,0,23,0,31,0,0,18,0,0,18.0,0,0,21.0,0,,false
-Audubon,Precinct 2,0,28,0,8,0,0,25,0,0,14,3,2,12,0,0,38,0,0,0,0,37,0,0,17.0,0,0,0.0,0,,false
+Audubon,Precinct 1,0,17,0,23,0,0,17,0,17,8,20,9,0,0,0,23,0,31,0,0,18,0,18.0,0,21.0,0,0,0,,false
+Audubon,Precinct 2,0,28,0,8,0,0,25,0,14,3,12,0,0,2,0,38,0,0,0,0,37,0,17.0,0,0.0,0,0,0,,false

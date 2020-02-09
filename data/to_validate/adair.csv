@@ -1,8 +1,8 @@
 ,,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,URL to Documentation,Manually validated
-,,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Other,Patrick,Sanders,Steyer,Uncommitted,Warren,Yang,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Other,Patrick,Sanders,Steyer,Uncommitted,Warren,Yang,,
+,,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Patrick,Sanders,Steyer,Warren,Yang,Other,Uncommitted,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Patrick,Sanders,Steyer,Warren,Yang,Other,Uncommitted,,
 County,Precinct,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Adair,1NW ADAIR,0,6,0,8,0,0,8,0,0,9,0,0,9,0,0,6,0,8,0,0,8,0,0,9.0,0,0,9.0,0,,false
-Adair,2NE STUART,0,6,0,10,0,0,9,0,0,10,7,0,0,1,0,0,0,15,0,0,10,0,0,10.0,7,0,0.0,1,,false
-Adair,3SW FONTANELLE,0,9,0,0,0,0,1,0,0,4,1,0,4,15,0,9,0,0,0,0,0,0,0,7.0,0,0,0.0,15,,false
-Adair,4SE ORIENT,0,7,0,6,0,0,6,0,0,6,0,0,9,0,0,7,0,6,0,0,6,0,0,6.0,0,0,9.0,0,,false
-Adair,5GF GREENFIELD,0,8,0,10,0,0,26,0,0,16,0,0,6,12,0,0,0,12,0,0,32,0,0,21.0,0,0,0.0,13,,false
+Adair,1NW ADAIR,0,6,0,8,0,0,8,0,9,0,9,0,0,0,0,6,0,8,0,0,8,0,9.0,0,9.0,0,0,0,,false
+Adair,2NE STUART,0,6,0,10,0,0,9,0,10,7,0,1,0,0,0,0,0,15,0,0,10,0,10.0,7,0.0,1,0,0,,false
+Adair,3SW FONTANELLE,0,9,0,0,0,0,1,0,4,1,4,15,0,0,0,9,0,0,0,0,0,0,7.0,0,0.0,15,0,0,,false
+Adair,4SE ORIENT,0,7,0,6,0,0,6,0,6,0,9,0,0,0,0,7,0,6,0,0,6,0,6.0,0,9.0,0,0,0,,false
+Adair,5GF GREENFIELD,0,8,0,10,0,0,26,0,16,0,6,12,0,0,0,0,0,12,0,0,32,0,21.0,0,0.0,13,0,0,,false

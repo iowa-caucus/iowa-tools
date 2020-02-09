@@ -1,11 +1,11 @@
 ,,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,URL to Documentation,Manually validated
-,,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Other,Patrick,Sanders,Steyer,Uncommitted,Warren,Yang,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Other,Patrick,Sanders,Steyer,Uncommitted,Warren,Yang,,
+,,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Patrick,Sanders,Steyer,Warren,Yang,Other,Uncommitted,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Patrick,Sanders,Steyer,Warren,Yang,Other,Uncommitted,,
 County,Precinct,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Lyon,PCT 1 GEORGE,0,8,0,6,0,0,1,0,0,1,0,0,8,0,0,8,0,7,0,0,0,0,0,0.0,0,0,9.0,0,,false
-Lyon,PCT 2 DOON,0,0,0,3,0,0,6,0,0,2,0,0,0,0,0,0,0,3,0,0,6,0,0,0.0,0,2,0.0,0,,false
-Lyon,PCT 3 INWOOD,0,0,0,3,0,0,5,0,0,4,0,0,5,0,0,0,0,0,0,0,7,0,0,5.0,0,0,5.0,0,,false
-Lyon,PCT 4 LARCHWOOD,0,7,0,7,0,0,16,0,0,0,0,0,15,0,0,7,0,7,0,0,16,0,0,0.0,0,0,15.0,0,,false
-Lyon,PCT 5 LESTER,0,1,0,0,0,0,8,0,0,8,0,0,6,0,0,0,0,0,0,0,12,0,0,11.0,0,0,0.0,0,,false
-Lyon,PCT 6 LITTLE ROCK,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,4.0,0,0,0.0,0,,false
-Lyon,PCT 7 ROCK RAPIDS,0,4,1,5,0,0,4,0,0,5,0,0,3,0,0,4,0,5,0,0,5,0,0,8.0,0,0,0.0,0,,false
-Lyon,PCT 8 ROCK RAPIDS,0,6,0,10,0,0,10,0,0,7,0,0,6,0,0,6,0,10,0,0,10,0,0,7.0,0,0,6.0,0,,false
+Lyon,PCT 1 GEORGE,0,8,0,6,0,0,1,0,1,0,8,0,0,0,0,8,0,7,0,0,0,0,0.0,0,9.0,0,0,0,,false
+Lyon,PCT 2 DOON,0,0,0,3,0,0,6,0,2,0,0,0,0,0,0,0,0,3,0,0,6,0,0.0,0,0.0,0,0,2,,false
+Lyon,PCT 3 INWOOD,0,0,0,3,0,0,5,0,4,0,5,0,0,0,0,0,0,0,0,0,7,0,5.0,0,5.0,0,0,0,,false
+Lyon,PCT 4 LARCHWOOD,0,7,0,7,0,0,16,0,0,0,15,0,0,0,0,7,0,7,0,0,16,0,0.0,0,15.0,0,0,0,,false
+Lyon,PCT 5 LESTER,0,1,0,0,0,0,8,0,8,0,6,0,0,0,0,0,0,0,0,0,12,0,11.0,0,0.0,0,0,0,,false
+Lyon,PCT 6 LITTLE ROCK,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,4.0,0,0.0,0,0,0,,false
+Lyon,PCT 7 ROCK RAPIDS,0,4,1,5,0,0,4,0,5,0,3,0,0,0,0,4,0,5,0,0,5,0,8.0,0,0.0,0,0,0,,false
+Lyon,PCT 8 ROCK RAPIDS,0,6,0,10,0,0,10,0,7,0,6,0,0,0,0,6,0,10,0,0,10,0,7.0,0,6.0,0,0,0,,false

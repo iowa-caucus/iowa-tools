@@ -1,10 +1,10 @@
 ,,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,URL to Documentation,Manually validated
-,,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Other,Patrick,Sanders,Steyer,Uncommitted,Warren,Yang,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Other,Patrick,Sanders,Steyer,Uncommitted,Warren,Yang,,
+,,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Patrick,Sanders,Steyer,Warren,Yang,Other,Uncommitted,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Patrick,Sanders,Steyer,Warren,Yang,Other,Uncommitted,,
 County,Precinct,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Clarke,Middle Precinct,0,1,0,6,0,0,5,0,0,3,1,0,0,0,0,0,0,7,0,0,5,0,0,4.0,0,0,0.0,0,,false
-Clarke,Murray Precinct,0,7,0,4,0,0,5,0,0,4,2,0,6,0,0,7,0,0,0,0,12,0,0,0.0,0,0,9.0,0,,false
-Clarke,North East Precinct,0,10,0,8,0,0,6,0,0,8,0,0,7,1,0,10,0,8,0,0,6,0,0,8.0,0,0,7.0,1,,false
-Clarke,Osceola 1st Ward Precinct,0,6,0,6,0,0,0,0,0,12,0,0,5,6,0,7,0,9,0,0,0,0,0,13.0,0,0,0.0,6,,false
-Clarke,Osceola 2nd Ward Precinct,0,7,0,9,0,0,6,0,0,10,0,0,5,6,0,7,0,9,0,0,8,0,0,12.0,0,0,0.0,7,,false
-Clarke,Osceola 3rd Ward Precinct,0,6,0,17,0,0,13,0,0,16,5,0,10,9,0,0,0,22,0,0,24,0,0,18.0,0,0,0.0,12,,false
-Clarke,Woodburn Precinct,0,3,0,8,0,0,3,0,0,3,0,0,0,0,0,0,0,8,0,0,5,0,0,3.0,0,0,0.0,0,,false
+Clarke,Middle Precinct,0,1,0,6,0,0,5,0,3,1,0,0,0,0,0,0,0,7,0,0,5,0,4.0,0,0.0,0,0,0,,false
+Clarke,Murray Precinct,0,7,0,4,0,0,5,0,4,2,6,0,0,0,0,7,0,0,0,0,12,0,0.0,0,9.0,0,0,0,,false
+Clarke,North East Precinct,0,10,0,8,0,0,6,0,8,0,7,1,0,0,0,10,0,8,0,0,6,0,8.0,0,7.0,1,0,0,,false
+Clarke,Osceola 1st Ward Precinct,0,6,0,6,0,0,0,0,12,0,5,6,0,0,0,7,0,9,0,0,0,0,13.0,0,0.0,6,0,0,,false
+Clarke,Osceola 2nd Ward Precinct,0,7,0,9,0,0,6,0,10,0,5,6,0,0,0,7,0,9,0,0,8,0,12.0,0,0.0,7,0,0,,false
+Clarke,Osceola 3rd Ward Precinct,0,6,0,17,0,0,13,0,16,5,10,9,0,0,0,0,0,22,0,0,24,0,18.0,0,0.0,12,0,0,,false
+Clarke,Woodburn Precinct,0,3,0,8,0,0,3,0,3,0,0,0,0,0,0,0,0,8,0,0,5,0,3.0,0,0.0,0,0,0,,false

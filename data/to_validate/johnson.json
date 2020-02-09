@@ -2,8 +2,6 @@
     {
         "County": "Johnson",
         "Precinct": "BIG GROVE TOWNSHIP",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 1,
             "Biden": 26,
@@ -12,13 +10,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 34,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 23,
             "Steyer": 4,
-            "Uncommitted": 0,
             "Warren": 39,
-            "Yang": 3
+            "Yang": 3,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -28,20 +26,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 39,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "CEDAR TOWNSHIP",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 1,
             "Biden": 5,
@@ -50,13 +48,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 15,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 20,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 12,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -66,20 +64,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 22,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 28.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "CLEAR CREEK/TIFFIN",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 52,
@@ -88,13 +86,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 26,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 86,
             "Steyer": 1,
-            "Uncommitted": 1,
             "Warren": 67,
-            "Yang": 18
+            "Yang": 18,
+            "Other": 0,
+            "Uncommitted": 1
         },
         "Final Expression": {
             "Bennet": 0,
@@ -104,20 +102,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 95.0,
             "Steyer": 0,
-            "Uncommitted": 6,
             "Warren": 81.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 6
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "CORALVILLE 01",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 26,
@@ -126,13 +124,13 @@
             "Delaney": 0,
             "Gabbard": 1,
             "Klobuchar": 37,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 208,
             "Steyer": 0,
-            "Uncommitted": 5,
             "Warren": 150,
-            "Yang": 35
+            "Yang": 35,
+            "Other": 0,
+            "Uncommitted": 5
         },
         "Final Expression": {
             "Bennet": 0,
@@ -142,20 +140,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 224.0,
             "Steyer": 0,
-            "Uncommitted": 36,
             "Warren": 169.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 36
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "CORALVILLE 02",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 64,
@@ -164,13 +162,13 @@
             "Delaney": 0,
             "Gabbard": 3,
             "Klobuchar": 88,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 93,
             "Steyer": 5,
-            "Uncommitted": 2,
             "Warren": 103,
-            "Yang": 30
+            "Yang": 30,
+            "Other": 0,
+            "Uncommitted": 2
         },
         "Final Expression": {
             "Bennet": 0,
@@ -180,20 +178,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 94,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 104.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 111.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "CORALVILLE 03",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 34,
@@ -202,13 +200,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 33,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 48,
             "Steyer": 4,
-            "Uncommitted": 0,
             "Warren": 45,
-            "Yang": 17
+            "Yang": 17,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -218,20 +216,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 43,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 50.0,
             "Steyer": 0,
-            "Uncommitted": 4,
             "Warren": 46.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 4
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "CORALVILLE 04",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 26,
@@ -240,13 +238,13 @@
             "Delaney": 0,
             "Gabbard": 1,
             "Klobuchar": 18,
-            "Other": 2,
             "Patrick": 0,
             "Sanders": 109,
             "Steyer": 10,
-            "Uncommitted": 0,
             "Warren": 76,
-            "Yang": 16
+            "Yang": 16,
+            "Other": 2,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -256,20 +254,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 115.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 102.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "CORALVILLE 05",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 8,
@@ -278,13 +276,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 29,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 138,
             "Steyer": 3,
-            "Uncommitted": 2,
             "Warren": 83,
-            "Yang": 17
+            "Yang": 17,
+            "Other": 0,
+            "Uncommitted": 2
         },
         "Final Expression": {
             "Bennet": 0,
@@ -294,20 +292,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 140.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 99.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "CORALVILLE 06",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 81,
@@ -316,13 +314,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 99,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 86,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 127,
-            "Yang": 24
+            "Yang": 24,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -332,20 +330,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 99,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 86.0,
             "Steyer": 0,
-            "Uncommitted": 19,
             "Warren": 127.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 19
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "CORALVILLE 07",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 56,
@@ -354,13 +352,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 64,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 80,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 116,
-            "Yang": 29
+            "Yang": 29,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -370,20 +368,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 74,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 85.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 123.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "FREMONT-LINCOLN (INCLUDES",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 8,
@@ -392,13 +390,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 18,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 38,
             "Steyer": 7,
-            "Uncommitted": 0,
             "Warren": 18,
-            "Yang": 2
+            "Yang": 2,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -408,20 +406,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 22,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 38.0,
             "Steyer": 0,
-            "Uncommitted": 4,
             "Warren": 24.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 4
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "GRAHAM TOWNSHIP",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 10,
@@ -430,13 +428,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 13,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 9,
             "Steyer": 1,
-            "Uncommitted": 0,
             "Warren": 8,
-            "Yang": 2
+            "Yang": 2,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -446,20 +444,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "HARDIN TOWNSHIP",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 6,
@@ -468,13 +466,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 13,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 10,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 14,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -484,20 +482,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 30,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 25.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "HILLS",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 9,
@@ -506,13 +504,13 @@
             "Delaney": 0,
             "Gabbard": 1,
             "Klobuchar": 4,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 19,
             "Steyer": 2,
-            "Uncommitted": 0,
             "Warren": 12,
-            "Yang": 2
+            "Yang": 2,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -522,20 +520,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 29.0,
             "Steyer": 0,
-            "Uncommitted": 3,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 3
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "IOWA CITY 01",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 51,
@@ -544,13 +542,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 118,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 125,
             "Steyer": 10,
-            "Uncommitted": 0,
             "Warren": 229,
-            "Yang": 15
+            "Yang": 15,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -560,20 +558,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 146,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 140.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 247.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "IOWA CITY 02",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 4,
             "Biden": 46,
@@ -582,13 +580,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 76,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 131,
             "Steyer": 4,
-            "Uncommitted": 2,
             "Warren": 112,
-            "Yang": 25
+            "Yang": 25,
+            "Other": 0,
+            "Uncommitted": 2
         },
         "Final Expression": {
             "Bennet": 0,
@@ -598,20 +596,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 140,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 146.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 131.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "IOWA CITY 03",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 1,
             "Biden": 10,
@@ -620,13 +618,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 13,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 196,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 106,
-            "Yang": 59
+            "Yang": 59,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -636,20 +634,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 213.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 130.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "IOWA CITY 04",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 65,
@@ -658,13 +656,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 118,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 165,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 214,
-            "Yang": 38
+            "Yang": 38,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -674,20 +672,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 158,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 180.0,
             "Steyer": 0,
-            "Uncommitted": 15,
             "Warren": 231.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 15
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "IOWA CITY 05",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 1,
             "Biden": 29,
@@ -696,13 +694,13 @@
             "Delaney": 0,
             "Gabbard": 2,
             "Klobuchar": 13,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 291,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 209,
-            "Yang": 98
+            "Yang": 98,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -712,20 +710,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 313.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 232.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "IOWA CITY 06",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 39,
@@ -734,13 +732,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 71,
-            "Other": 4,
             "Patrick": 0,
             "Sanders": 130,
             "Steyer": 8,
-            "Uncommitted": 2,
             "Warren": 188,
-            "Yang": 6
+            "Yang": 6,
+            "Other": 4,
+            "Uncommitted": 2
         },
         "Final Expression": {
             "Bennet": 0,
@@ -750,20 +748,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 103,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 138.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 220.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "IOWA CITY 07",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 53,
@@ -772,13 +770,13 @@
             "Delaney": 0,
             "Gabbard": 5,
             "Klobuchar": 42,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 151,
             "Steyer": 2,
-            "Uncommitted": 0,
             "Warren": 101,
-            "Yang": 45
+            "Yang": 45,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -788,20 +786,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 168.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 127.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "IOWA CITY 08",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 50,
@@ -810,13 +808,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 93,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 78,
             "Steyer": 1,
-            "Uncommitted": 0,
             "Warren": 147,
-            "Yang": 48
+            "Yang": 48,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -826,20 +824,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 114,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 91.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 171.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "IOWA CITY 09",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 52,
@@ -848,13 +846,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 50,
-            "Other": 0,
             "Patrick": 1,
             "Sanders": 147,
             "Steyer": 13,
-            "Uncommitted": 4,
             "Warren": 119,
-            "Yang": 21
+            "Yang": 21,
+            "Other": 0,
+            "Uncommitted": 4
         },
         "Final Expression": {
             "Bennet": 0,
@@ -864,20 +862,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 160.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 140.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "IOWA CITY 10/ELSW",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 1,
             "Biden": 23,
@@ -886,13 +884,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 16,
-            "Other": 1,
             "Patrick": 0,
             "Sanders": 95,
             "Steyer": 0,
-            "Uncommitted": 1,
             "Warren": 74,
-            "Yang": 21
+            "Yang": 21,
+            "Other": 1,
+            "Uncommitted": 1
         },
         "Final Expression": {
             "Bennet": 0,
@@ -902,20 +900,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 105.0,
             "Steyer": 0,
-            "Uncommitted": 1,
             "Warren": 92.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 1
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "IOWA CITY 11",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 21,
@@ -924,13 +922,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 24,
-            "Other": 4,
             "Patrick": 1,
             "Sanders": 263,
             "Steyer": 0,
-            "Uncommitted": 2,
             "Warren": 127,
-            "Yang": 59
+            "Yang": 59,
+            "Other": 4,
+            "Uncommitted": 2
         },
         "Final Expression": {
             "Bennet": 0,
@@ -940,20 +938,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 281.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 149.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "IOWA CITY 12/EAST LUCAS SE",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 2,
             "Biden": 24,
@@ -962,13 +960,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 16,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 139,
             "Steyer": 4,
-            "Uncommitted": 0,
             "Warren": 103,
-            "Yang": 11
+            "Yang": 11,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -978,20 +976,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 146.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 126.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "IOWA CITY 13",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 27,
@@ -1000,13 +998,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 27,
-            "Other": 1,
             "Patrick": 0,
             "Sanders": 159,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 106,
-            "Yang": 42
+            "Yang": 42,
+            "Other": 1,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1016,20 +1014,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 176.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 147.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "IOWA CITY 14",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 30,
@@ -1038,13 +1036,13 @@
             "Delaney": 0,
             "Gabbard": 2,
             "Klobuchar": 33,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 166,
             "Steyer": 3,
-            "Uncommitted": 0,
             "Warren": 156,
-            "Yang": 22
+            "Yang": 22,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1054,20 +1052,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 179.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 183.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "IOWA CITY 15",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 4,
@@ -1076,13 +1074,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 16,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 99,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 73,
-            "Yang": 21
+            "Yang": 21,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1092,20 +1090,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 110.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 79.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "IOWA CITY 16",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 56,
@@ -1114,13 +1112,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 61,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 171,
             "Steyer": 2,
-            "Uncommitted": 0,
             "Warren": 183,
-            "Yang": 17
+            "Yang": 17,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1130,20 +1128,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 181.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 214.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "IOWA CITY 17",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 2,
             "Biden": 56,
@@ -1152,13 +1150,13 @@
             "Delaney": 0,
             "Gabbard": 5,
             "Klobuchar": 97,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 272,
             "Steyer": 9,
-            "Uncommitted": 0,
             "Warren": 291,
-            "Yang": 40
+            "Yang": 40,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1168,20 +1166,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 143,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 295.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 304.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "IOWA CITY 18",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 23,
@@ -1190,13 +1188,13 @@
             "Delaney": 0,
             "Gabbard": 1,
             "Klobuchar": 99,
-            "Other": 0,
             "Patrick": 1,
             "Sanders": 279,
             "Steyer": 2,
-            "Uncommitted": 3,
             "Warren": 293,
-            "Yang": 49
+            "Yang": 49,
+            "Other": 0,
+            "Uncommitted": 3
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1206,20 +1204,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 155,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 313.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 331.0,
-            "Yang": 3
-        }
+            "Yang": 3,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "IOWA CITY 19",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 9,
@@ -1228,13 +1226,13 @@
             "Delaney": 0,
             "Gabbard": 2,
             "Klobuchar": 5,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 224,
             "Steyer": 0,
-            "Uncommitted": 5,
             "Warren": 101,
-            "Yang": 52
+            "Yang": 52,
+            "Other": 0,
+            "Uncommitted": 5
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1244,20 +1242,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 236.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 120.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "IOWA CITY 20",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 19,
@@ -1266,13 +1264,13 @@
             "Delaney": 0,
             "Gabbard": 3,
             "Klobuchar": 6,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 274,
             "Steyer": 8,
-            "Uncommitted": 2,
             "Warren": 160,
-            "Yang": 66
+            "Yang": 66,
+            "Other": 0,
+            "Uncommitted": 2
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1282,20 +1280,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 300.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 176.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "IOWA CITY 21",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 13,
@@ -1304,13 +1302,13 @@
             "Delaney": 0,
             "Gabbard": 4,
             "Klobuchar": 23,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 375,
             "Steyer": 10,
-            "Uncommitted": 5,
             "Warren": 238,
-            "Yang": 45
+            "Yang": 45,
+            "Other": 0,
+            "Uncommitted": 5
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1320,20 +1318,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 1,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 383.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 269.0,
-            "Yang": 8
-        }
+            "Yang": 8,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "IOWA CITY 22",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 2,
             "Biden": 37,
@@ -1342,13 +1340,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 71,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 160,
             "Steyer": 1,
-            "Uncommitted": 0,
             "Warren": 150,
-            "Yang": 20
+            "Yang": 20,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1358,20 +1356,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 89,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 168.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 166.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "IOWA CITY 23",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 1,
             "Biden": 73,
@@ -1380,13 +1378,13 @@
             "Delaney": 0,
             "Gabbard": 2,
             "Klobuchar": 90,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 172,
             "Steyer": 21,
-            "Uncommitted": 4,
             "Warren": 251,
-            "Yang": 24
+            "Yang": 24,
+            "Other": 0,
+            "Uncommitted": 4
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1396,20 +1394,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 80,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 192.0,
             "Steyer": 0,
-            "Uncommitted": 83,
             "Warren": 299.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 83
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "IOWA CITY 24",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 82,
@@ -1418,13 +1416,13 @@
             "Delaney": 0,
             "Gabbard": 2,
             "Klobuchar": 25,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 117,
             "Steyer": 8,
-            "Uncommitted": 0,
             "Warren": 198,
-            "Yang": 23
+            "Yang": 23,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1434,20 +1432,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 125.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 237.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "JEFFERSON EAST/SHUEYVILLE",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 26,
@@ -1456,13 +1454,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 37,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 25,
             "Steyer": 1,
-            "Uncommitted": 0,
             "Warren": 45,
-            "Yang": 8
+            "Yang": 8,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1472,20 +1470,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 51,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 58.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "JW/MN/SW",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 30,
@@ -1494,13 +1492,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 29,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 35,
             "Steyer": 3,
-            "Uncommitted": 2,
             "Warren": 30,
-            "Yang": 3
+            "Yang": 3,
+            "Other": 0,
+            "Uncommitted": 2
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1510,20 +1508,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 31,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 37.0,
             "Steyer": 0,
-            "Uncommitted": 3,
             "Warren": 30.0,
-            "Yang": 3
-        }
+            "Yang": 3,
+            "Other": 0,
+            "Uncommitted": 3
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "LIBERTY-PLEASANT VALLEY",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 7,
@@ -1532,13 +1530,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 11,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 26,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 10,
-            "Yang": 5
+            "Yang": 5,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1548,20 +1546,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 23,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 38.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "NEWPORT TOWNSHIP",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 63,
@@ -1570,13 +1568,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 89,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 40,
             "Steyer": 8,
-            "Uncommitted": 5,
             "Warren": 81,
-            "Yang": 21
+            "Yang": 21,
+            "Other": 0,
+            "Uncommitted": 5
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1586,20 +1584,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 103,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 117.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "NL06/MADISON /CCN",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 39,
@@ -1608,13 +1606,13 @@
             "Delaney": 0,
             "Gabbard": 2,
             "Klobuchar": 48,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 99,
             "Steyer": 1,
-            "Uncommitted": 0,
             "Warren": 93,
-            "Yang": 16
+            "Yang": 16,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1624,20 +1622,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 107.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 105.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "NORTH LIBERTY 01",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 15,
@@ -1646,13 +1644,13 @@
             "Delaney": 0,
             "Gabbard": 2,
             "Klobuchar": 18,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 74,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 67,
-            "Yang": 7
+            "Yang": 7,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1662,20 +1660,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 81.0,
             "Steyer": 0,
-            "Uncommitted": 13,
             "Warren": 71.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 13
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "NORTH LIBERTY 02",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 30,
@@ -1684,13 +1682,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 16,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 63,
             "Steyer": 2,
-            "Uncommitted": 2,
             "Warren": 68,
-            "Yang": 18
+            "Yang": 18,
+            "Other": 0,
+            "Uncommitted": 2
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1700,20 +1698,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 72.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 79.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "NORTH LIBERTY 03 (PW)",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 50,
@@ -1722,13 +1720,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 24,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 72,
             "Steyer": 8,
-            "Uncommitted": 0,
             "Warren": 90,
-            "Yang": 32
+            "Yang": 32,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1738,20 +1736,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 77.0,
             "Steyer": 0,
-            "Uncommitted": 8,
             "Warren": 104.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 8
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "NORTH LIBERTY 04",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 25,
@@ -1760,13 +1758,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 15,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 55,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 62,
-            "Yang": 10
+            "Yang": 10,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1776,20 +1774,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 58.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 68.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "NORTH LIBERTY 05",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 20,
@@ -1798,13 +1796,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 19,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 62,
             "Steyer": 8,
-            "Uncommitted": 0,
             "Warren": 58,
-            "Yang": 14
+            "Yang": 14,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1814,20 +1812,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 16,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 68.0,
             "Steyer": 7,
-            "Uncommitted": 0,
             "Warren": 75.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "OXFORD TOWNSHIP/OXFORD",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 19,
@@ -1836,13 +1834,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 21,
-            "Other": 1,
             "Patrick": 0,
             "Sanders": 30,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 19,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 1,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1852,20 +1850,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 21,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 30.0,
             "Steyer": 0,
-            "Uncommitted": 1,
             "Warren": 0.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 1
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "PENN/ EAST LUCAS NORTH",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 87,
@@ -1874,13 +1872,13 @@
             "Delaney": 0,
             "Gabbard": 1,
             "Klobuchar": 112,
-            "Other": 2,
             "Patrick": 0,
             "Sanders": 69,
             "Steyer": 3,
-            "Uncommitted": 1,
             "Warren": 171,
-            "Yang": 20
+            "Yang": 20,
+            "Other": 2,
+            "Uncommitted": 1
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1890,20 +1888,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 148,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 243.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "SCOTT TWP-WEST BRANCH",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 12,
@@ -1912,13 +1910,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 18,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 45,
             "Steyer": 0,
-            "Uncommitted": 6,
             "Warren": 39,
-            "Yang": 11
+            "Yang": 11,
+            "Other": 0,
+            "Uncommitted": 6
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1928,20 +1926,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 27,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 48.0,
             "Steyer": 0,
-            "Uncommitted": 1,
             "Warren": 49.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 1
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "SHARON TOWNSHIP",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 3,
@@ -1950,13 +1948,13 @@
             "Delaney": 0,
             "Gabbard": 2,
             "Klobuchar": 17,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 10,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 17,
-            "Yang": 0
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -1966,20 +1964,20 @@
             "Delaney": 0,
             "Gabbard": 2,
             "Klobuchar": 17,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 10.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 17.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "SOLON",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 0,
@@ -1988,13 +1986,13 @@
             "Delaney": 0,
             "Gabbard": 1,
             "Klobuchar": 43,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 33,
             "Steyer": 3,
-            "Uncommitted": 0,
             "Warren": 49,
-            "Yang": 1
+            "Yang": 1,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -2004,20 +2002,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 44,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 34.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 56.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "UNION TOWNSHIP",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 16,
@@ -2026,13 +2024,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 11,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 11,
             "Steyer": 4,
-            "Uncommitted": 1,
             "Warren": 26,
-            "Yang": 4
+            "Yang": 4,
+            "Other": 0,
+            "Uncommitted": 1
         },
         "Final Expression": {
             "Bennet": 0,
@@ -2042,20 +2040,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 0,
-            "Other": 2,
             "Patrick": 0,
             "Sanders": 0.0,
             "Steyer": 0,
-            "Uncommitted": 2,
             "Warren": 40.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 2,
+            "Uncommitted": 2
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "UNIVERSITY HEIGHTS",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 2,
             "Biden": 34,
@@ -2064,13 +2062,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 46,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 74,
             "Steyer": 1,
-            "Uncommitted": 0,
             "Warren": 94,
-            "Yang": 11
+            "Yang": 11,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -2080,20 +2078,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 61,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 79.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 96.0,
-            "Yang": 0
-        }
+            "Yang": 0,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "WASHINGTON TOWNSHIP",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 15,
@@ -2102,13 +2100,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 11,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 22,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 23,
-            "Yang": 7
+            "Yang": 7,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -2118,20 +2116,20 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 11,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 22.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 23.0,
-            "Yang": 7
-        }
+            "Yang": 7,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     },
     {
         "County": "Johnson",
         "Precinct": "WEST LUCAS TOWNSHIP",
-        "URL to Documentation": "",
-        "Manually validated": "false",
         "First Expression": {
             "Bennet": 0,
             "Biden": 13,
@@ -2140,13 +2138,13 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 7,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 27,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 14,
-            "Yang": 7
+            "Yang": 7,
+            "Other": 0,
+            "Uncommitted": 0
         },
         "Final Expression": {
             "Bennet": 0,
@@ -2156,13 +2154,15 @@
             "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 9,
-            "Other": 0,
             "Patrick": 0,
             "Sanders": 27.0,
             "Steyer": 0,
-            "Uncommitted": 0,
             "Warren": 23.0,
-            "Yang": 1
-        }
+            "Yang": 1,
+            "Other": 0,
+            "Uncommitted": 0
+        },
+        "URL to Documentation": "",
+        "Manually validated": "false"
     }
 ]

@@ -1,5 +1,6 @@
 import json
 import os
+from collections import OrderedDict
 
 from iowa_tools.formats import JsonDataset, convert_dataframe_to_json, \
     convert_dataframe_to_csv, convert_json_to_dataframe, convert_csv_to_dataframe
@@ -40,7 +41,7 @@ def read_json(input_dataset, subtype):
     json_content = {}
     for filetype, filename in get_json_filename_dict(subtype).items():
         with open_input_dataset_file(input_dataset, filename) as json_file:
-            json_content[filetype] = json.load(json_file)
+            json_content[filetype] = json.load(json_file, object_pairs_hook=OrderedDict)
     return JsonDataset(**json_content)
 
 

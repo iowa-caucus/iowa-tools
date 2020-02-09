@@ -1,10 +1,10 @@
 ,,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,URL to Documentation,Manually validated
-,,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Other,Patrick,Sanders,Steyer,Uncommitted,Warren,Yang,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Other,Patrick,Sanders,Steyer,Uncommitted,Warren,Yang,,
+,,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Patrick,Sanders,Steyer,Warren,Yang,Other,Uncommitted,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Patrick,Sanders,Steyer,Warren,Yang,Other,Uncommitted,,
 County,Precinct,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Pocahontas,Bellville-Lizard-S Lake-S Lincoln,0,1,0,3,0,0,6,0,0,0,1,1,2,1,0,0,0,7,0,0,7,0,0,0.0,0,1,0.0,0,,false
-Pocahontas,Cedar-Colfax-Dover,0,3,0,8,0,0,6,0,0,15,1,1,1,1,0,0,0,11,0,0,7,0,0,18.0,0,0,0.0,0,,false
-Pocahontas,DSM-Cummins-Pow-N Garf-N Sherm-N Roose,0,8,0,4,0,1,6,0,0,4,0,0,6,0,0,8,0,5,0,0,8,0,0,0.0,0,0,8.0,0,,false
-Pocahontas,Grant-S Marshall-S Sherman,0,6,0,1,0,0,2,0,0,0,0,0,1,0,0,10,0,0,0,0,0,0,0,0.0,0,0,0.0,0,,false
-Pocahontas,Pocahontas #1,0,17,0,7,0,0,11,0,0,5,0,0,2,3,0,17,0,13,0,0,15,0,0,0.0,0,0,0.0,0,,false
-Pocahontas,Pocahontas #2,0,3,0,6,0,0,2,0,0,0,0,0,0,1,0,3,0,6,0,0,3,0,0,0.0,0,0,0.0,0,,false
-Pocahontas,Swan Lake-N Marshall,0,2,0,11,0,1,2,0,0,5,1,0,6,5,0,0,0,14,0,0,0,0,0,5.0,0,1,6.0,7,,false
+Pocahontas,Bellville-Lizard-S Lake-S Lincoln,0,1,0,3,0,0,6,0,0,1,2,1,0,1,0,0,0,7,0,0,7,0,0.0,0,0.0,0,0,1,,false
+Pocahontas,Cedar-Colfax-Dover,0,3,0,8,0,0,6,0,15,1,1,1,0,1,0,0,0,11,0,0,7,0,18.0,0,0.0,0,0,0,,false
+Pocahontas,DSM-Cummins-Pow-N Garf-N Sherm-N Roose,0,8,0,4,0,1,6,0,4,0,6,0,0,0,0,8,0,5,0,0,8,0,0.0,0,8.0,0,0,0,,false
+Pocahontas,Grant-S Marshall-S Sherman,0,6,0,1,0,0,2,0,0,0,1,0,0,0,0,10,0,0,0,0,0,0,0.0,0,0.0,0,0,0,,false
+Pocahontas,Pocahontas #1,0,17,0,7,0,0,11,0,5,0,2,3,0,0,0,17,0,13,0,0,15,0,0.0,0,0.0,0,0,0,,false
+Pocahontas,Pocahontas #2,0,3,0,6,0,0,2,0,0,0,0,1,0,0,0,3,0,6,0,0,3,0,0.0,0,0.0,0,0,0,,false
+Pocahontas,Swan Lake-N Marshall,0,2,0,11,0,1,2,0,5,1,6,5,0,0,0,0,0,14,0,0,0,0,5.0,0,6.0,7,0,1,,false

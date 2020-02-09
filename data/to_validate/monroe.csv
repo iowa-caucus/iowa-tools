@@ -1,10 +1,10 @@
 ,,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,URL to Documentation,Manually validated
-,,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Other,Patrick,Sanders,Steyer,Uncommitted,Warren,Yang,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Other,Patrick,Sanders,Steyer,Uncommitted,Warren,Yang,,
+,,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Patrick,Sanders,Steyer,Warren,Yang,Other,Uncommitted,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Patrick,Sanders,Steyer,Warren,Yang,Other,Uncommitted,,
 County,Precinct,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Monroe,CTHSE - Monroe Precinct 5,0,5,0,8,0,0,9,0,0,6,1,0,7,1,0,0,0,9,0,0,13,0,0,8.0,0,0,7.0,0,,false
-Monroe,LOVILIA - Monroe Precinct 6,0,5,0,10,0,0,1,0,0,6,0,0,7,1,0,5,0,12,0,0,0,0,0,6.0,0,0,7.0,0,,false
-Monroe,MELROSE - Monroe Precinct 7,0,4,0,6,0,0,1,0,0,2,0,0,0,2,0,6,0,6,0,0,3,0,0,0.0,0,0,0.0,0,,false
-Monroe,No. 1-Albia First Ward,0,9,0,9,0,0,2,0,0,1,3,0,2,2,0,10,0,14,0,0,0,0,0,0.0,0,0,0.0,0,,false
-Monroe,No. 2-Albia Second Ward,0,8,0,4,0,0,0,0,0,4,3,0,0,2,0,8,0,4,0,0,0,0,0,4.0,5,0,0.0,0,,false
-Monroe,No. 3-Albia Third Ward,0,0,0,4,0,0,3,0,0,2,0,0,1,0,0,0,0,4,0,0,3,0,0,3.0,0,0,0.0,0,,false
-Monroe,No. 4-Albia Fourth Ward,0,4,0,3,0,0,5,0,0,9,0,0,4,0,0,6,0,0,0,0,6,0,0,9.0,0,0,4.0,0,,false
+Monroe,CTHSE - Monroe Precinct 5,0,5,0,8,0,0,9,0,6,1,7,1,0,0,0,0,0,9,0,0,13,0,8.0,0,7.0,0,0,0,,false
+Monroe,LOVILIA - Monroe Precinct 6,0,5,0,10,0,0,1,0,6,0,7,1,0,0,0,5,0,12,0,0,0,0,6.0,0,7.0,0,0,0,,false
+Monroe,MELROSE - Monroe Precinct 7,0,4,0,6,0,0,1,0,2,0,0,2,0,0,0,6,0,6,0,0,3,0,0.0,0,0.0,0,0,0,,false
+Monroe,No. 1-Albia First Ward,0,9,0,9,0,0,2,0,1,3,2,2,0,0,0,10,0,14,0,0,0,0,0.0,0,0.0,0,0,0,,false
+Monroe,No. 2-Albia Second Ward,0,8,0,4,0,0,0,0,4,3,0,2,0,0,0,8,0,4,0,0,0,0,4.0,5,0.0,0,0,0,,false
+Monroe,No. 3-Albia Third Ward,0,0,0,4,0,0,3,0,2,0,1,0,0,0,0,0,0,4,0,0,3,0,3.0,0,0.0,0,0,0,,false
+Monroe,No. 4-Albia Fourth Ward,0,4,0,3,0,0,5,0,9,0,4,0,0,0,0,6,0,0,0,0,6,0,9.0,0,4.0,0,0,0,,false

@@ -1,34 +1,34 @@
 ,,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,URL to Documentation,Manually validated
-,,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Other,Patrick,Sanders,Steyer,Uncommitted,Warren,Yang,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Other,Patrick,Sanders,Steyer,Uncommitted,Warren,Yang,,
+,,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Patrick,Sanders,Steyer,Warren,Yang,Other,Uncommitted,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Patrick,Sanders,Steyer,Warren,Yang,Other,Uncommitted,,
 County,Precinct,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Warren,ALLEN 2,0,11,0,22,0,0,4,0,0,8,3,1,13,8,0,12,0,35,0,0,0,3,0,0.0,0,0,20.0,0,,false
-Warren,ALLEN 3,1,21,0,35,0,1,19,1,0,21,9,0,23,6,0,21,0,36,0,0,28,0,0,25.0,0,3,24.0,0,,false
-Warren,BELMONT TWP,0,1,0,6,0,0,2,0,0,1,0,0,1,0,0,1,0,6,0,0,2,0,0,1.0,0,0,1.0,0,,false
-Warren,CUMMING/ WDM,0,0,0,10,0,0,9,0,0,5,1,0,10,1,0,0,0,14,0,0,0,0,0,0.0,0,0,13.0,0,,false
-Warren,GR1-DM86 CITY,0,5,0,6,0,0,6,0,0,0,0,0,1,0,0,5,0,6,0,0,6,0,0,0.0,0,0,0.0,0,,false
-Warren,GREENFIELD 1 TWP,1,16,0,30,0,0,19,0,0,17,4,0,20,5,0,17,0,31,0,0,20,3,0,17.0,0,0,24.0,0,,false
-Warren,GREENFIELD 1/ DM85,0,24,0,16,0,0,13,0,0,16,0,0,14,0,0,24,0,16,0,0,13,0,0,16.0,0,0,14.0,0,,false
-Warren,GREENFIELD 2/ LINCOLN 2,0,22,0,34,0,0,21,0,0,28,0,0,32,0,0,22,0,34,0,0,21,0,0,28.0,0,0,32.0,0,,false
-Warren,INDIANOLA 1,0,9,0,30,0,0,11,0,0,9,2,0,19,1,0,0,0,33,0,0,16,0,0,0.0,0,5,27.0,0,,false
-Warren,INDIANOLA 2,0,25,0,50,0,1,30,0,41,0,50,2,0,0,0,0,0,56,0,0,39,0,0,44.0,0,0,51.0,0,,false
-Warren,INDIANOLA 3,0,0,0,33,0,0,29,0,0,35,3,4,27,19,0,0,0,39,0,0,35,0,0,43.0,0,0,32.0,0,,false
-Warren,INDIANOLA 4,0,43,0,118,0,0,43,0,0,27,5,1,31,8,0,45,0,128,0,0,47,0,0,0.0,0,0,46.0,0,,false
-Warren,INDIANOLA 5,0,11,0,46,0,0,14,0,0,23,2,1,26,4,0,0,0,47,0,0,24,0,0,27.0,0,0,29.0,0,,false
-Warren,INDIANOLA 6,0,22,0,25,0,1,10,0,0,13,4,1,22,1,0,29,0,34,0,1,0,1,0,0.0,0,1,33.0,0,,false
-Warren,INDIANOLA 7,0,12,0,49,0,0,8,0,0,28,5,0,27,5,0,0,0,63,0,0,0,0,0,28.0,0,0,38.0,0,,false
-Warren,JACKSON,0,15,0,22,0,0,6,0,0,9,2,1,4,0,0,16,0,26,0,0,0,0,0,17.0,0,0,0.0,0,,false
-Warren,JEFFERSON,0,21,0,19,0,0,9,0,0,15,0,1,13,4,0,24,0,24,0,0,0,0,0,17.0,0,0,17.0,0,,false
-Warren,LIBERTY TWP,0,4,0,4,0,0,3,0,0,1,0,0,2,0,0,4,0,4,0,0,3,0,0,1.0,0,0,2.0,0,,false
-Warren,LINCOLN TWP,0,11,0,8,0,0,5,0,0,6,2,4,7,0,0,11,0,21,0,0,7,0,0,0.0,0,2,2.0,0,,false
-Warren,NORWALK 1,0,45,2,48,0,0,29,7,0,33,1,0,31,0,0,47,0,48,0,0,30,7,0,33.0,0,0,31.0,0,,false
-Warren,NORWALK 2/ GREENFIELD,0,0,0,35,0,0,23,0,0,25,5,0,17,10,0,12,0,55,0,0,34,0,0,32.0,0,6,0.0,0,,false
-Warren,NORWALK 3/ LINN,0,44,0,101,0,0,1,0,0,36,0,0,52,3,0,44,0,101,0,0,1,0,0,36.0,0,0,52.0,3,,false
-Warren,NORWALK 4 CITY,0,30,1,80,0,0,34,0,0,46,3,0,37,6,0,0,0,99,0,0,42,0,0,47.0,0,6,42.0,0,,false
-Warren,OTTER/ MILO,0,10,0,16,0,0,9,0,0,10,1,0,9,0,0,10,0,19,0,0,10,0,0,12.0,0,4,0.0,0,,false
-Warren,PALMYRA TWP,0,0,0,12,0,0,8,0,0,5,0,0,8,0,0,0,0,1,0,0,0,0,0,0.0,0,0,0.0,0,,false
-Warren,RICHLAND/ PALMYRA,0,10,0,15,0,0,3,0,0,9,0,0,3,0,0,11,0,19,0,0,0,0,0,10.0,0,0,0.0,0,,false
-Warren,SQUAW CREEK TWP,1,1,0,8,0,0,9,0,0,4,1,1,4,1,0,0,0,8,0,0,12,0,0,9.0,0,1,0.0,0,,false
-Warren,UNION,0,5,0,0,0,0,6,0,0,0,0,0,1,0,0,5,0,0,0,0,6,0,0,0.0,0,0,1.0,0,,false
-Warren,VIRGINIA,0,10,0,6,0,0,8,0,0,5,0,1,7,5,0,11,0,0,0,0,11,0,0,5.0,0,0,13.0,0,,false
-Warren,WHITE BREAST,0,6,0,4,0,0,4,0,0,6,0,0,4,0,0,6,0,4,0,0,4,0,0,6.0,0,0,4.0,0,,false
-Warren,WHITE OAK TWP,1,12,1,24,0,2,4,0,0,8,1,0,12,0,0,15,0,31,0,0,0,0,0,0.0,0,0,19.0,0,,false
+Warren,ALLEN 2,0,11,0,22,0,0,4,0,8,3,13,8,0,1,0,12,0,35,0,0,0,0,0.0,0,20.0,0,3,0,,false
+Warren,ALLEN 3,1,21,0,35,0,1,19,0,21,9,23,6,1,0,0,21,0,36,0,0,28,0,25.0,0,24.0,0,0,3,,false
+Warren,BELMONT TWP,0,1,0,6,0,0,2,0,1,0,1,0,0,0,0,1,0,6,0,0,2,0,1.0,0,1.0,0,0,0,,false
+Warren,CUMMING/ WDM,0,0,0,10,0,0,9,0,5,1,10,1,0,0,0,0,0,14,0,0,0,0,0.0,0,13.0,0,0,0,,false
+Warren,GR1-DM86 CITY,0,5,0,6,0,0,6,0,0,0,1,0,0,0,0,5,0,6,0,0,6,0,0.0,0,0.0,0,0,0,,false
+Warren,GREENFIELD 1 TWP,1,16,0,30,0,0,19,0,17,4,20,5,0,0,0,17,0,31,0,0,20,0,17.0,0,24.0,0,3,0,,false
+Warren,GREENFIELD 1/ DM85,0,24,0,16,0,0,13,0,16,0,14,0,0,0,0,24,0,16,0,0,13,0,16.0,0,14.0,0,0,0,,false
+Warren,GREENFIELD 2/ LINCOLN 2,0,22,0,34,0,0,21,0,28,0,32,0,0,0,0,22,0,34,0,0,21,0,28.0,0,32.0,0,0,0,,false
+Warren,INDIANOLA 1,0,9,0,30,0,0,11,0,9,2,19,1,0,0,0,0,0,33,0,0,16,0,0.0,0,27.0,0,0,5,,false
+Warren,INDIANOLA 2,0,25,0,50,0,1,30,41,0,50,0,0,0,2,0,0,0,56,0,0,39,0,44.0,0,51.0,0,0,0,,false
+Warren,INDIANOLA 3,0,0,0,33,0,0,29,0,35,3,27,19,0,4,0,0,0,39,0,0,35,0,43.0,0,32.0,0,0,0,,false
+Warren,INDIANOLA 4,0,43,0,118,0,0,43,0,27,5,31,8,0,1,0,45,0,128,0,0,47,0,0.0,0,46.0,0,0,0,,false
+Warren,INDIANOLA 5,0,11,0,46,0,0,14,0,23,2,26,4,0,1,0,0,0,47,0,0,24,0,27.0,0,29.0,0,0,0,,false
+Warren,INDIANOLA 6,0,22,0,25,0,1,10,0,13,4,22,1,0,1,0,29,0,34,0,1,0,0,0.0,0,33.0,0,1,1,,false
+Warren,INDIANOLA 7,0,12,0,49,0,0,8,0,28,5,27,5,0,0,0,0,0,63,0,0,0,0,28.0,0,38.0,0,0,0,,false
+Warren,JACKSON,0,15,0,22,0,0,6,0,9,2,4,0,0,1,0,16,0,26,0,0,0,0,17.0,0,0.0,0,0,0,,false
+Warren,JEFFERSON,0,21,0,19,0,0,9,0,15,0,13,4,0,1,0,24,0,24,0,0,0,0,17.0,0,17.0,0,0,0,,false
+Warren,LIBERTY TWP,0,4,0,4,0,0,3,0,1,0,2,0,0,0,0,4,0,4,0,0,3,0,1.0,0,2.0,0,0,0,,false
+Warren,LINCOLN TWP,0,11,0,8,0,0,5,0,6,2,7,0,0,4,0,11,0,21,0,0,7,0,0.0,0,2.0,0,0,2,,false
+Warren,NORWALK 1,0,45,2,48,0,0,29,0,33,1,31,0,7,0,0,47,0,48,0,0,30,0,33.0,0,31.0,0,7,0,,false
+Warren,NORWALK 2/ GREENFIELD,0,0,0,35,0,0,23,0,25,5,17,10,0,0,0,12,0,55,0,0,34,0,32.0,0,0.0,0,0,6,,false
+Warren,NORWALK 3/ LINN,0,44,0,101,0,0,1,0,36,0,52,3,0,0,0,44,0,101,0,0,1,0,36.0,0,52.0,3,0,0,,false
+Warren,NORWALK 4 CITY,0,30,1,80,0,0,34,0,46,3,37,6,0,0,0,0,0,99,0,0,42,0,47.0,0,42.0,0,0,6,,false
+Warren,OTTER/ MILO,0,10,0,16,0,0,9,0,10,1,9,0,0,0,0,10,0,19,0,0,10,0,12.0,0,0.0,0,0,4,,false
+Warren,PALMYRA TWP,0,0,0,12,0,0,8,0,5,0,8,0,0,0,0,0,0,1,0,0,0,0,0.0,0,0.0,0,0,0,,false
+Warren,RICHLAND/ PALMYRA,0,10,0,15,0,0,3,0,9,0,3,0,0,0,0,11,0,19,0,0,0,0,10.0,0,0.0,0,0,0,,false
+Warren,SQUAW CREEK TWP,1,1,0,8,0,0,9,0,4,1,4,1,0,1,0,0,0,8,0,0,12,0,9.0,0,0.0,0,0,1,,false
+Warren,UNION,0,5,0,0,0,0,6,0,0,0,1,0,0,0,0,5,0,0,0,0,6,0,0.0,0,1.0,0,0,0,,false
+Warren,VIRGINIA,0,10,0,6,0,0,8,0,5,0,7,5,0,1,0,11,0,0,0,0,11,0,5.0,0,13.0,0,0,0,,false
+Warren,WHITE BREAST,0,6,0,4,0,0,4,0,6,0,4,0,0,0,0,6,0,4,0,0,4,0,6.0,0,4.0,0,0,0,,false
+Warren,WHITE OAK TWP,1,12,1,24,0,2,4,0,8,1,12,0,0,0,0,15,0,31,0,0,0,0,0.0,0,19.0,0,0,0,,false

@@ -1,11 +1,11 @@
 ,,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,URL to Documentation,Manually validated
-,,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Other,Patrick,Sanders,Steyer,Uncommitted,Warren,Yang,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Other,Patrick,Sanders,Steyer,Uncommitted,Warren,Yang,,
+,,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Patrick,Sanders,Steyer,Warren,Yang,Other,Uncommitted,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Patrick,Sanders,Steyer,Warren,Yang,Other,Uncommitted,,
 County,Precinct,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Davis,Bloomfield Ward 1,0,9,0,9,0,0,4,0,0,4,1,0,7,0,0,11,0,11,0,0,0,0,0,0.0,0,0,12.0,0,,false
-Davis,Bloomfield Ward 2,0,2,0,14,0,0,3,0,0,1,0,0,2,0,0,0,0,16,0,0,6,0,0,0.0,0,0,0.0,0,,false
-Davis,Bloomfield Ward 3,0,4,0,2,0,0,4,0,0,6,0,0,2,2,0,5,0,3,0,0,5,0,0,6.0,0,0,1.0,1,,false
-Davis,Central,0,10,0,8,0,0,10,0,0,3,0,0,7,0,0,10,0,8,0,0,10,0,0,0.0,0,0,10.0,0,,false
-Davis,Northeast,0,5,1,5,0,0,4,0,0,7,1,0,0,0,0,5,0,6,0,0,5,0,0,7.0,0,0,0.0,0,,false
-Davis,Northwest,0,9,0,7,0,1,2,0,0,4,0,0,4,0,0,9,0,8,0,1,0,0,0,3.0,0,0,6.0,0,,false
-Davis,Southeast,0,7,0,3,0,0,0,0,0,4,2,0,0,0,0,7,0,3,0,0,0,0,0,6.0,0,0,0.0,0,,false
-Davis,Southwest,0,8,0,2,0,0,1,0,0,1,0,0,0,0,0,9,0,3,0,0,0,0,0,0.0,0,0,0.0,0,,false
+Davis,Bloomfield Ward 1,0,9,0,9,0,0,4,0,4,1,7,0,0,0,0,11,0,11,0,0,0,0,0.0,0,12.0,0,0,0,,false
+Davis,Bloomfield Ward 2,0,2,0,14,0,0,3,0,1,0,2,0,0,0,0,0,0,16,0,0,6,0,0.0,0,0.0,0,0,0,,false
+Davis,Bloomfield Ward 3,0,4,0,2,0,0,4,0,6,0,2,2,0,0,0,5,0,3,0,0,5,0,6.0,0,1.0,1,0,0,,false
+Davis,Central,0,10,0,8,0,0,10,0,3,0,7,0,0,0,0,10,0,8,0,0,10,0,0.0,0,10.0,0,0,0,,false
+Davis,Northeast,0,5,1,5,0,0,4,0,7,1,0,0,0,0,0,5,0,6,0,0,5,0,7.0,0,0.0,0,0,0,,false
+Davis,Northwest,0,9,0,7,0,1,2,0,4,0,4,0,0,0,0,9,0,8,0,1,0,0,3.0,0,6.0,0,0,0,,false
+Davis,Southeast,0,7,0,3,0,0,0,0,4,2,0,0,0,0,0,7,0,3,0,0,0,0,6.0,0,0.0,0,0,0,,false
+Davis,Southwest,0,8,0,2,0,0,1,0,1,0,0,0,0,0,0,9,0,3,0,0,0,0,0.0,0,0.0,0,0,0,,false

@@ -35,10 +35,6 @@
     ],
     [
         "First Expression",
-        "Other"
-    ],
-    [
-        "First Expression",
         "Patrick"
     ],
     [
@@ -51,15 +47,19 @@
     ],
     [
         "First Expression",
-        "Uncommitted"
-    ],
-    [
-        "First Expression",
         "Warren"
     ],
     [
         "First Expression",
         "Yang"
+    ],
+    [
+        "First Expression",
+        "Other"
+    ],
+    [
+        "First Expression",
+        "Uncommitted"
     ],
     [
         "Final Expression",
@@ -91,10 +91,6 @@
     ],
     [
         "Final Expression",
-        "Other"
-    ],
-    [
-        "Final Expression",
         "Patrick"
     ],
     [
@@ -107,15 +103,19 @@
     ],
     [
         "Final Expression",
-        "Uncommitted"
-    ],
-    [
-        "Final Expression",
         "Warren"
     ],
     [
         "Final Expression",
         "Yang"
+    ],
+    [
+        "Final Expression",
+        "Other"
+    ],
+    [
+        "Final Expression",
+        "Uncommitted"
     ],
     [
         "URL to Documentation",
