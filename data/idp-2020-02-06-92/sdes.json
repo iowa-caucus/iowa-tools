@@ -1221,7 +1221,7 @@
     },
     {
         "County": "Black Hawk",
-        "Precinct": "CF W2 P2 &amp; CF Twp",
+        "Precinct": "CF W2 P2 & CF Twp",
         "SDE": {
             "Bennet": 0,
             "Biden": 0.0,
@@ -1481,7 +1481,7 @@
     },
     {
         "County": "Black Hawk",
-        "Precinct": "Elk Run Heights &amp; Raymond",
+        "Precinct": "Elk Run Heights & Raymond",
         "SDE": {
             "Bennet": 0,
             "Biden": 0.0,
@@ -1601,7 +1601,7 @@
     },
     {
         "County": "Black Hawk",
-        "Precinct": "Poyner P1 &amp; East Wloo",
+        "Precinct": "Poyner P1 & East Wloo",
         "SDE": {
             "Bennet": 0,
             "Biden": 0.202,
@@ -2561,7 +2561,7 @@
     },
     {
         "County": "Bremer",
-        "Precinct": "CITY OF FREDERIKA- FREDERIKA &amp; LEROY TWP",
+        "Precinct": "CITY OF FREDERIKA- FREDERIKA & LEROY TWP",
         "SDE": {
             "Bennet": 0,
             "Biden": 0.0,
@@ -2621,7 +2621,7 @@
     },
     {
         "County": "Bremer",
-        "Precinct": "CITY OF READLYN- MAXFIELD &amp; FRANKLIN TWP",
+        "Precinct": "CITY OF READLYN- MAXFIELD & FRANKLIN TWP",
         "SDE": {
             "Bennet": 0,
             "Biden": 0.2267,
@@ -3581,7 +3581,7 @@
     },
     {
         "County": "CD2 Satellite",
-        "Precinct": "Iowa City, IA - University of Iowa Hospitals &amp; Clincs - 7:45pm",
+        "Precinct": "Iowa City, IA - University of Iowa Hospitals & Clincs - 7:45pm",
         "SDE": {
             "Bennet": 0,
             "Biden": 0.0,
@@ -3601,7 +3601,7 @@
     },
     {
         "County": "CD2 Satellite",
-        "Precinct": "Iowa City, IA - University of Iowa Hospitals &amp; Clinics - 5:30pm",
+        "Precinct": "Iowa City, IA - University of Iowa Hospitals & Clinics - 5:30pm",
         "SDE": {
             "Bennet": 0,
             "Biden": 0.0,
@@ -3881,7 +3881,7 @@
     },
     {
         "County": "CD4 Satellite",
-        "Precinct": "Mason City, IA - Oakwood Care Center &amp; Assisted Living",
+        "Precinct": "Mason City, IA - Oakwood Care Center & Assisted Living",
         "SDE": {
             "Bennet": 0,
             "Biden": 0.0213,
@@ -4041,7 +4041,7 @@
     },
     {
         "County": "Calhoun",
-        "Precinct": "Greenfield &amp; Lincoln 2",
+        "Precinct": "Greenfield & Lincoln 2",
         "SDE": {
             "Bennet": 0,
             "Biden": 0.0,
@@ -4221,7 +4221,7 @@
     },
     {
         "County": "Carroll",
-        "Precinct": "Carroll Ward Three &amp;amp; S1/2 Maple River Twp",
+        "Precinct": "Carroll Ward Three &amp; S1/2 Maple River Twp",
         "SDE": {
             "Bennet": 0,
             "Biden": 0.22,
@@ -4241,7 +4241,7 @@
     },
     {
         "County": "Carroll",
-        "Precinct": "Carroll Ward Two &amp;amp; N1/2 Maple River Twp",
+        "Precinct": "Carroll Ward Two &amp; N1/2 Maple River Twp",
         "SDE": {
             "Bennet": 0,
             "Biden": 0.44,
@@ -12321,7 +12321,7 @@
     },
     {
         "County": "Ida",
-        "Precinct": "City of Battle Creek &amp; Grant Township",
+        "Precinct": "City of Battle Creek & Grant Township",
         "SDE": {
             "Bennet": 0,
             "Biden": 0.0,
@@ -18201,7 +18201,7 @@
     },
     {
         "County": "Mahaska",
-        "Precinct": "E&amp;W DES MOINES - JEFFERSON",
+        "Precinct": "E&W DES MOINES - JEFFERSON",
         "SDE": {
             "Bennet": 0,
             "Biden": 0.0,
@@ -20961,7 +20961,7 @@
     },
     {
         "County": "Out of State Satellite",
-        "Precinct": "New York, NY - The Lesbian, Gay, Bisexual &amp; Transgender Community Center",
+        "Precinct": "New York, NY - The Lesbian, Gay, Bisexual & Transgender Community Center",
         "SDE": {
             "Bennet": 0,
             "Biden": 0.0,
@@ -21441,7 +21441,7 @@
     },
     {
         "County": "Palo Alto",
-        "Precinct": "EM Ward 3/Ayrshire/pt. HL&amp;WL&amp;EM",
+        "Precinct": "EM Ward 3/Ayrshire/pt. HL&WL&EM",
         "SDE": {
             "Bennet": 0,
             "Biden": 0.25,
@@ -21501,7 +21501,7 @@
     },
     {
         "County": "Palo Alto",
-        "Precinct": "GR/RV/LI/pt. HL&amp;WL",
+        "Precinct": "GR/RV/LI/pt. HL&WL",
         "SDE": {
             "Bennet": 0,
             "Biden": 0.25,

@@ -1,13 +1,13 @@
 ,,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,URL to Documentation,Manually validated
 ,,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Patrick,Sanders,Steyer,Warren,Yang,Other,Uncommitted,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Patrick,Sanders,Steyer,Warren,Yang,Other,Uncommitted,,
 County,Precinct,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Calhoun,Butler- Williams,0,7,1,11,0,0,1,0,5,0,6,0,0,0,0,9,0,11,0,0,0,0,5.0,0,6.0,0,0,0,,false
-Calhoun,Calhoun- Jackson- EG- LK,0,12,0,26,0,0,0,0,10,0,18,0,0,1,0,12,0,26,0,0,0,0,11.0,0,18.0,0,0,0,,false
-Calhoun,Cedar,0,1,0,0,0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0,4,0,1.0,0,0.0,0,0,0,,false
-Calhoun,Center- Logan- TL- GA- L,0,4,0,4,0,0,11,0,0,0,1,1,0,0,0,4,0,5,0,0,12,0,0.0,0,0.0,0,0,0,,false
-Calhoun,Greenfield &amp; Lincoln 2,0,2,0,5,0,0,0,0,0,0,2,0,0,0,0,0,0,9,0,0,0,0,0.0,0,0.0,0,0,0,,false
-Calhoun,Lincoln 1,0,8,0,12,0,0,8,0,6,1,4,1,0,0,0,9,0,13,0,0,9,0,8.0,0,0.0,0,0,0,,false
-Calhoun,Reading,0,1,0,6,0,0,3,0,2,0,0,0,0,0,0,0,0,6,0,0,3,0,2.0,0,0.0,0,0,1,,false
-Calhoun,Rockwell City,0,10,0,14,0,1,0,0,9,0,7,0,0,0,0,10,0,14,0,0,0,0,10.0,0,7.0,0,0,0,,false
-Calhoun,Sherman,0,6,0,3,0,0,1,0,0,0,3,2,0,0,0,7,0,5,0,0,0,0,0.0,0,3.0,0,0,0,,false
-Calhoun,Union,0,0,0,6,0,0,3,0,3,0,2,0,0,0,0,0,0,12,0,0,0,0,0.0,0,0.0,0,0,2,,false
+Calhoun,Butler- Williams,0,7,1,11,0,0,1,0,5,0,6,0,0,0,0,9,0,11,0,0,0,0,5,0,6,0,0,0,,false
+Calhoun,Calhoun- Jackson- EG- LK,0,12,0,26,0,0,0,0,10,0,18,0,0,1,0,12,0,26,0,0,0,0,11,0,18,0,0,0,,false
+Calhoun,Cedar,0,1,0,0,0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0,0,,false
+Calhoun,Center- Logan- TL- GA- L,0,4,0,4,0,0,11,0,0,0,1,1,0,0,0,4,0,5,0,0,12,0,0,0,0,0,0,0,,false
+Calhoun,Greenfield & Lincoln 2,0,2,0,5,0,0,0,0,0,0,2,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,,false
+Calhoun,Lincoln 1,0,8,0,12,0,0,8,0,6,1,4,1,0,0,0,9,0,13,0,0,9,0,8,0,0,0,0,0,,false
+Calhoun,Reading,0,1,0,6,0,0,3,0,2,0,0,0,0,0,0,0,0,6,0,0,3,0,2,0,0,0,0,1,,false
+Calhoun,Rockwell City,0,10,0,14,0,1,0,0,9,0,7,0,0,0,0,10,0,14,0,0,0,0,10,0,7,0,0,0,,false
+Calhoun,Sherman,0,6,0,3,0,0,1,0,0,0,3,2,0,0,0,7,0,5,0,0,0,0,0,0,3,0,0,0,,false
+Calhoun,Union,0,0,0,6,0,0,3,0,3,0,2,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,2,,false

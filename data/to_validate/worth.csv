@@ -1,10 +1,10 @@
 ,,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,URL to Documentation,Manually validated
 ,,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Patrick,Sanders,Steyer,Warren,Yang,Other,Uncommitted,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Patrick,Sanders,Steyer,Warren,Yang,Other,Uncommitted,,
 County,Precinct,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Worth,Barton/Deer Creek/Union/Grafton,0,4,0,2,0,0,7,0,5,2,1,1,0,0,0,4,0,3,0,0,8,0,5.0,0,0.0,0,0,0,,false
-Worth,Bristol/Silver Lake/Joice,0,6,0,6,0,0,5,0,0,0,5,2,0,0,0,6,0,6,0,0,7,0,0.0,0,5.0,0,0,0,,false
-Worth,Brookfield/Kensett,0,3,2,6,0,0,8,0,8,3,4,1,0,0,0,0,0,10,0,0,11,0,8.0,0,6.0,0,0,0,,false
-Worth,Danville/Hanlontown,0,0,0,3,0,0,8,0,0,0,4,1,0,0,0,0,0,4,0,0,8,0,0.0,0,4.0,0,0,0,,false
-Worth,Deer Creek/Grove/Hartland/Northwood,0,11,0,9,0,0,14,0,15,7,14,15,0,0,0,14,0,0,0,0,22,0,16.0,0,16.0,17,0,0,,false
-Worth,Fertile,0,1,0,9,0,0,4,0,1,0,4,6,0,1,0,0,0,10,0,0,4,0,1.0,0,4.0,6,0,1,,false
-Worth,Lincoln/Manly,0,12,0,20,0,0,11,0,16,2,7,2,0,0,0,15,0,22,0,0,17,0,16.0,0,0.0,0,0,0,,false
+Worth,Barton/Deer Creek/Union/Grafton,0,4,0,2,0,0,7,0,5,2,1,1,0,0,0,4,0,3,0,0,8,0,5,0,0,0,0,0,,false
+Worth,Bristol/Silver Lake/Joice,0,6,0,6,0,0,5,0,0,0,5,2,0,0,0,6,0,6,0,0,7,0,0,0,5,0,0,0,,false
+Worth,Brookfield/Kensett,0,3,2,6,0,0,8,0,8,3,4,1,0,0,0,0,0,10,0,0,11,0,8,0,6,0,0,0,,false
+Worth,Danville/Hanlontown,0,0,0,3,0,0,8,0,0,0,4,1,0,0,0,0,0,4,0,0,8,0,0,0,4,0,0,0,,false
+Worth,Deer Creek/Grove/Hartland/Northwood,0,11,0,9,0,0,14,0,15,7,14,15,0,0,0,14,0,0,0,0,22,0,16,0,16,17,0,0,,false
+Worth,Fertile,0,1,0,9,0,0,4,0,1,0,4,6,0,1,0,0,0,10,0,0,4,0,1,0,4,6,0,1,,false
+Worth,Lincoln/Manly,0,12,0,20,0,0,11,0,16,2,7,2,0,0,0,15,0,22,0,0,17,0,16,0,0,0,0,0,,false

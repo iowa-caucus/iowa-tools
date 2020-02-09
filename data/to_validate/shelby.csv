@@ -1,12 +1,12 @@
 ,,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,URL to Documentation,Manually validated
 ,,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Patrick,Sanders,Steyer,Warren,Yang,Other,Uncommitted,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Patrick,Sanders,Steyer,Warren,Yang,Other,Uncommitted,,
 County,Precinct,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Shelby,Cass-Center-Jackson-Lincoln,0,9,0,5,0,0,6,0,2,0,5,0,0,1,0,10,0,5,0,0,6,0,0.0,0,7.0,0,0,0,,false
-Shelby,Clay-Monroe,0,11,0,5,0,0,6,0,6,0,5,0,0,0,0,11,0,5,0,0,6,0,6.0,0,5.0,0,0,0,,false
-Shelby,Douglas-Greeley-Jefferson-Polk,0,0,0,8,0,0,4,0,5,0,5,0,0,0,0,0,0,8,0,0,4,0,5.0,0,5.0,0,0,0,,false
-Shelby,Fairview-Shelby,0,3,0,8,0,0,8,0,6,1,4,0,0,0,0,0,0,10,0,0,12,0,8.0,0,0.0,0,0,0,,false
-Shelby,Grove-Union-Washington-Westphalia,0,0,0,10,0,0,8,0,5,0,5,1,0,3,0,0,0,10,0,0,10,0,6.0,0,5.0,1,0,0,,false
-Shelby,Harlan 1,0,3,0,4,0,0,2,0,3,1,6,1,0,0,0,3,0,5,0,0,0,0,4.0,0,6.0,0,0,2,,false
-Shelby,Harlan 2,0,2,0,14,0,0,8,0,3,0,5,0,0,1,0,2,0,15,0,0,8,0,1.0,0,6.0,0,0,1,,false
-Shelby,Harlan 3,0,6,0,12,0,0,9,0,0,0,6,0,0,0,0,6,0,12,0,0,9,0,0.0,0,6.0,0,0,0,,false
-Shelby,Harlan 4,0,8,0,9,0,0,3,0,11,0,4,0,0,0,0,9,0,14,0,0,0,0,12.0,0,0.0,0,0,0,,false
+Shelby,Cass-Center-Jackson-Lincoln,0,9,0,5,0,0,6,0,2,0,5,0,0,1,0,10,0,5,0,0,6,0,0,0,7,0,0,0,,false
+Shelby,Clay-Monroe,0,11,0,5,0,0,6,0,6,0,5,0,0,0,0,11,0,5,0,0,6,0,6,0,5,0,0,0,,false
+Shelby,Douglas-Greeley-Jefferson-Polk,0,0,0,8,0,0,4,0,5,0,5,0,0,0,0,0,0,8,0,0,4,0,5,0,5,0,0,0,,false
+Shelby,Fairview-Shelby,0,3,0,8,0,0,8,0,6,1,4,0,0,0,0,0,0,10,0,0,12,0,8,0,0,0,0,0,,false
+Shelby,Grove-Union-Washington-Westphalia,0,0,0,10,0,0,8,0,5,0,5,1,0,3,0,0,0,10,0,0,10,0,6,0,5,1,0,0,,false
+Shelby,Harlan 1,0,3,0,4,0,0,2,0,3,1,6,1,0,0,0,3,0,5,0,0,0,0,4,0,6,0,0,2,,false
+Shelby,Harlan 2,0,2,0,14,0,0,8,0,3,0,5,0,0,1,0,2,0,15,0,0,8,0,1,0,6,0,0,1,,false
+Shelby,Harlan 3,0,6,0,12,0,0,9,0,0,0,6,0,0,0,0,6,0,12,0,0,9,0,0,0,6,0,0,0,,false
+Shelby,Harlan 4,0,8,0,9,0,0,3,0,11,0,4,0,0,0,0,9,0,14,0,0,0,0,12,0,0,0,0,0,,false

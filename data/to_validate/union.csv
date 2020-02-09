@@ -1,11 +1,11 @@
 ,,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,URL to Documentation,Manually validated
 ,,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Patrick,Sanders,Steyer,Warren,Yang,Other,Uncommitted,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Patrick,Sanders,Steyer,Warren,Yang,Other,Uncommitted,,
 County,Precinct,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Union,Afton,0,6,0,9,0,0,0,0,14,2,4,2,0,0,0,7,0,12,0,0,0,0,17.0,0,0.0,0,0,0,,false
-Union,Arispe,0,2,0,2,0,0,3,0,4,0,0,0,0,0,0,3,0,0,0,0,3,0,5.0,0,0.0,0,0,0,,false
-Union,Creston 1,0,4,0,12,0,0,0,0,10,0,7,7,0,0,0,0,0,13,0,0,0,0,11.0,0,8.0,7,0,0,,false
-Union,Creston 2 - SWCC,0,9,0,19,0,0,12,0,18,3,14,7,0,1,0,0,0,19,0,0,15,0,25.0,0,17.0,0,0,0,,false
-Union,Creston 3,0,9,0,10,0,0,10,0,14,3,6,6,0,1,0,12,0,11,0,0,11,0,16.0,0,9.0,0,0,0,,false
-Union,Creston 4 - Supertel,0,2,0,10,0,0,8,0,10,3,3,0,0,0,0,0,0,13,0,0,10,0,12.0,0,0.0,0,0,1,,false
-Union,Creston 5,0,18,0,24,0,0,4,0,12,1,10,4,0,0,0,22,0,24,0,0,0,0,12.0,0,12.0,0,0,3,,false
-Union,Lorimor,0,0,0,1,0,1,2,0,4,0,1,0,0,0,0,0,0,0,0,0,2,0,5.0,0,2.0,0,0,0,,false
+Union,Afton,0,6,0,9,0,0,0,0,14,2,4,2,0,0,0,7,0,12,0,0,0,0,17,0,0,0,0,0,,false
+Union,Arispe,0,2,0,2,0,0,3,0,4,0,0,0,0,0,0,3,0,0,0,0,3,0,5,0,0,0,0,0,,false
+Union,Creston 1,0,4,0,12,0,0,0,0,10,0,7,7,0,0,0,0,0,13,0,0,0,0,11,0,8,7,0,0,,false
+Union,Creston 2 - SWCC,0,9,0,19,0,0,12,0,18,3,14,7,0,1,0,0,0,19,0,0,15,0,25,0,17,0,0,0,,false
+Union,Creston 3,0,9,0,10,0,0,10,0,14,3,6,6,0,1,0,12,0,11,0,0,11,0,16,0,9,0,0,0,,false
+Union,Creston 4 - Supertel,0,2,0,10,0,0,8,0,10,3,3,0,0,0,0,0,0,13,0,0,10,0,12,0,0,0,0,1,,false
+Union,Creston 5,0,18,0,24,0,0,4,0,12,1,10,4,0,0,0,22,0,24,0,0,0,0,12,0,12,0,0,3,,false
+Union,Lorimor,0,0,0,1,0,1,2,0,4,0,1,0,0,0,0,0,0,0,0,0,2,0,5,0,2,0,0,0,,false

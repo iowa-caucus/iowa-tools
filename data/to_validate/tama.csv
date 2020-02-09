@@ -1,18 +1,18 @@
 ,,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,URL to Documentation,Manually validated
 ,,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Patrick,Sanders,Steyer,Warren,Yang,Other,Uncommitted,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Patrick,Sanders,Steyer,Warren,Yang,Other,Uncommitted,,
 County,Precinct,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Tama,CARLTON,0,13,0,12,0,0,0,0,8,0,5,0,0,0,0,16,0,14,0,0,0,0,8.0,0,0.0,0,0,0,,false
-Tama,CARROLL/ONEIDA/N OTTER CR,0,2,0,4,0,0,2,0,1,3,1,0,0,0,0,0,0,4,0,0,0,0,0.0,5,3.0,0,0,1,,false
-Tama,CLARK/GENESEO,0,18,0,16,0,1,9,0,23,0,11,0,0,0,0,19,0,22,0,0,0,0,24.0,0,13.0,0,0,0,,false
-Tama,COLUMBIA/TAMA,0,25,1,19,0,0,2,0,29,1,9,4,0,0,0,29,0,26,0,0,0,0,34.0,0,0.0,0,0,0,,false
-Tama,GRANT,0,0,0,5,0,0,1,0,3,0,2,0,0,0,0,0,0,5,0,0,1,0,3.0,0,0.0,0,0,0,,false
-Tama,HIGHLAND/INDIAN VILLAGE,0,7,0,8,0,0,1,0,10,0,1,0,0,0,0,7,0,8,0,0,0,0,11.0,0,0.0,0,0,0,,false
-Tama,HOWARD/TOLEDO,0,2,0,10,0,0,7,0,2,4,3,0,0,0,0,0,0,10,0,0,8,0,0.0,7,0.0,0,0,0,,false
-Tama,INDIAN SETTLEMENT,0,1,0,2,0,0,0,0,38,4,7,10,0,9,0,0,0,0,0,0,0,0,43.0,0,12.0,14,0,0,,false
-Tama,LINCOLN,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0.0,0,1.0,0,0,0,,false
-Tama,PERRY/BUCKINGHAM/E CRYSTA,1,19,0,18,0,0,13,0,14,5,6,1,0,0,0,22,0,25,0,0,14,0,16.0,0,0.0,0,0,0,,false
-Tama,RICHLAND/SALT CREEK,0,0,0,3,0,0,2,0,4,1,3,0,0,1,0,0,0,4,0,0,0,0,4.0,0,4.0,0,0,2,,false
-Tama,S. OTTER CREEK,0,0,0,2,0,1,0,0,5,0,3,0,0,0,0,0,0,2,0,0,0,0,6.0,0,3.0,0,0,0,,false
-Tama,SPRING CREEK/W CRYSTAL,0,4,0,5,0,0,4,0,7,0,4,0,0,0,0,4,0,5,0,0,4,0,7.0,0,4.0,0,0,0,,false
-Tama,TOLEDO CITY,0,13,0,18,0,0,9,0,13,5,20,0,0,1,0,18,0,24,0,0,0,0,15.0,0,22.0,0,0,0,,false
-Tama,YORK,1,4,0,4,0,0,0,0,3,2,2,0,0,0,0,6,0,6,0,0,0,0,0.0,0,0.0,0,0,0,,false
+Tama,CARLTON,0,13,0,12,0,0,0,0,8,0,5,0,0,0,0,16,0,14,0,0,0,0,8,0,0,0,0,0,,false
+Tama,CARROLL/ONEIDA/N OTTER CR,0,2,0,4,0,0,2,0,1,3,1,0,0,0,0,0,0,4,0,0,0,0,0,5,3,0,0,1,,false
+Tama,CLARK/GENESEO,0,18,0,16,0,1,9,0,23,0,11,0,0,0,0,19,0,22,0,0,0,0,24,0,13,0,0,0,,false
+Tama,COLUMBIA/TAMA,0,25,1,19,0,0,2,0,29,1,9,4,0,0,0,29,0,26,0,0,0,0,34,0,0,0,0,0,,false
+Tama,GRANT,0,0,0,5,0,0,1,0,3,0,2,0,0,0,0,0,0,5,0,0,1,0,3,0,0,0,0,0,,false
+Tama,HIGHLAND/INDIAN VILLAGE,0,7,0,8,0,0,1,0,10,0,1,0,0,0,0,7,0,8,0,0,0,0,11,0,0,0,0,0,,false
+Tama,HOWARD/TOLEDO,0,2,0,10,0,0,7,0,2,4,3,0,0,0,0,0,0,10,0,0,8,0,0,7,0,0,0,0,,false
+Tama,INDIAN SETTLEMENT,0,1,0,2,0,0,0,0,38,4,7,10,0,9,0,0,0,0,0,0,0,0,43,0,12,14,0,0,,false
+Tama,LINCOLN,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,,false
+Tama,PERRY/BUCKINGHAM/E CRYSTA,1,19,0,18,0,0,13,0,14,5,6,1,0,0,0,22,0,25,0,0,14,0,16,0,0,0,0,0,,false
+Tama,RICHLAND/SALT CREEK,0,0,0,3,0,0,2,0,4,1,3,0,0,1,0,0,0,4,0,0,0,0,4,0,4,0,0,2,,false
+Tama,S. OTTER CREEK,0,0,0,2,0,1,0,0,5,0,3,0,0,0,0,0,0,2,0,0,0,0,6,0,3,0,0,0,,false
+Tama,SPRING CREEK/W CRYSTAL,0,4,0,5,0,0,4,0,7,0,4,0,0,0,0,4,0,5,0,0,4,0,7,0,4,0,0,0,,false
+Tama,TOLEDO CITY,0,13,0,18,0,0,9,0,13,5,20,0,0,1,0,18,0,24,0,0,0,0,15,0,22,0,0,0,,false
+Tama,YORK,1,4,0,4,0,0,0,0,3,2,2,0,0,0,0,6,0,6,0,0,0,0,0,0,0,0,0,0,,false

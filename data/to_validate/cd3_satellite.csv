@@ -1,23 +1,23 @@
 ,,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,URL to Documentation,Manually validated
 ,,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Patrick,Sanders,Steyer,Warren,Yang,Other,Uncommitted,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Patrick,Sanders,Steyer,Warren,Yang,Other,Uncommitted,,
 County,Precinct,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CD3 Satellite,"Ankeny, IA - DMACC Ankeny Building 5, Room 1220",0,0,0,8,0,0,0,0,73,1,5,2,0,4,0,0,0,0,0,0,0,0,87.0,0,0.0,0,0,6,,false
-CD3 Satellite,"Clive, IA - Walnut Ridge Senior Living",0,16,0,9,0,0,27,0,0,0,0,0,0,0,0,16,0,9,0,0,27,0,0.0,0,0.0,0,0,0,,false
-CD3 Satellite,"Dallas Center, IA - Spurgeon Manor",0,6,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0,0,0,0,1,0,0.0,0,0.0,0,0,0,,false
-CD3 Satellite,"Des Moines, IA - Al Najah Cultural Center",0,0,0,0,0,0,33,0,108,0,0,0,0,0,0,0,0,0,0,0,33,0,108.0,0,0.0,0,0,0,,false
-CD3 Satellite,"Des Moines, IA - Bosnian Islamic Center Zen Zen",0,12,0,0,0,0,0,0,129,0,1,0,0,0,0,0,0,0,0,0,0,0,130.0,0,0.0,0,0,0,,false
-CD3 Satellite,"Des Moines, IA - Central Iowa Center for Independent Living Rm 1",0,4,0,5,0,0,3,0,11,0,25,2,0,0,0,0,0,0,0,0,0,0,15.0,0,35.0,0,0,0,,false
-CD3 Satellite,"Des Moines, IA - Central Iowa Center for Independent Living Rm 2",0,5,0,4,0,0,1,0,1,0,7,0,0,0,0,5,0,6,0,0,0,0,0.0,0,7.0,0,0,0,,false
-CD3 Satellite,"Des Moines, IA - Drake University Field House",0,1,0,8,0,0,1,0,43,0,15,3,0,0,0,0,0,0,0,0,0,0,46.0,0,22.0,0,0,0,,false
-CD3 Satellite,"Des Moines, IA - E300 Apartments",0,1,0,3,0,0,0,0,6,0,0,2,0,0,0,0,0,3,0,0,0,0,7.0,0,0.0,2,0,0,,false
-CD3 Satellite,"Des Moines, IA - Grandview University Student Center",0,3,0,2,0,0,1,0,73,0,2,6,0,0,0,0,0,0,0,0,0,0,80.0,0,0.0,0,0,0,,false
-CD3 Satellite,"Des Moines, IA - Islamic and Education Center Ezan",0,103,0,0,0,0,1,0,39,1,0,0,0,0,0,103,0,0,0,0,0,0,41.0,0,0.0,0,0,0,,false
-CD3 Satellite,"Des Moines, IA - Karen Baptist Church",0,0,0,0,0,0,0,0,159,0,0,0,0,0,0,0,0,0,0,0,0,0,159.0,0,0.0,0,0,0,,false
-CD3 Satellite,"Des Moines, IA - Muslim Community Organization",0,0,0,2,0,0,0,0,114,0,1,2,0,0,0,0,0,0,0,0,0,0,117.0,0,0.0,0,0,2,,false
-CD3 Satellite,"Des Moines, IA - Scottish Rite Park",1,34,1,6,0,0,21,0,3,1,7,0,0,0,0,39,0,0,0,0,34,0,0.0,0,0.0,0,0,0,,false
-CD3 Satellite,"Des Moines, IA - South Sudanese Center",0,6,0,0,0,0,0,0,29,0,0,0,0,0,0,6,0,0,0,0,0,0,29.0,0,0.0,0,0,0,,false
-CD3 Satellite,"Des Moines, IA - Southside YMCA",0,4,0,3,0,0,2,0,169,1,4,0,0,0,0,2,0,0,0,0,2,0,171.0,1,2.0,0,0,0,,false
-CD3 Satellite,"Des Moines, IA - Wesley Acres",0,23,0,3,0,0,20,0,2,1,14,0,0,0,0,24,0,0,0,0,23,0,0.0,0,16.0,0,0,0,,false
-CD3 Satellite,"Granger, IA - Granger Nursing and Rehabilitation Center",0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0.0,0,0.0,0,0,0,,false
-CD3 Satellite,"Granger, IA - Islamic and Cultural Center Bosniak",0,58,0,0,0,0,0,0,33,0,0,0,0,0,0,58,0,0,0,0,0,0,33.0,0,0.0,0,0,0,,false
-CD3 Satellite,"Shenandoah, IA - Garden View Care Center",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0,0.0,0,0,0,,false
+CD3 Satellite,"Ankeny, IA - DMACC Ankeny Building 5, Room 1220",0,0,0,8,0,0,0,0,73,1,5,2,0,4,0,0,0,0,0,0,0,0,87,0,0,0,0,6,,false
+CD3 Satellite,"Clive, IA - Walnut Ridge Senior Living",0,16,0,9,0,0,27,0,0,0,0,0,0,0,0,16,0,9,0,0,27,0,0,0,0,0,0,0,,false
+CD3 Satellite,"Dallas Center, IA - Spurgeon Manor",0,6,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0,0,0,0,1,0,0,0,0,0,0,0,,false
+CD3 Satellite,"Des Moines, IA - Al Najah Cultural Center",0,0,0,0,0,0,33,0,108,0,0,0,0,0,0,0,0,0,0,0,33,0,108,0,0,0,0,0,,false
+CD3 Satellite,"Des Moines, IA - Bosnian Islamic Center Zen Zen",0,12,0,0,0,0,0,0,129,0,1,0,0,0,0,0,0,0,0,0,0,0,130,0,0,0,0,0,,false
+CD3 Satellite,"Des Moines, IA - Central Iowa Center for Independent Living Rm 1",0,4,0,5,0,0,3,0,11,0,25,2,0,0,0,0,0,0,0,0,0,0,15,0,35,0,0,0,,false
+CD3 Satellite,"Des Moines, IA - Central Iowa Center for Independent Living Rm 2",0,5,0,4,0,0,1,0,1,0,7,0,0,0,0,5,0,6,0,0,0,0,0,0,7,0,0,0,,false
+CD3 Satellite,"Des Moines, IA - Drake University Field House",0,1,0,8,0,0,1,0,43,0,15,3,0,0,0,0,0,0,0,0,0,0,46,0,22,0,0,0,,false
+CD3 Satellite,"Des Moines, IA - E300 Apartments",0,1,0,3,0,0,0,0,6,0,0,2,0,0,0,0,0,3,0,0,0,0,7,0,0,2,0,0,,false
+CD3 Satellite,"Des Moines, IA - Grandview University Student Center",0,3,0,2,0,0,1,0,73,0,2,6,0,0,0,0,0,0,0,0,0,0,80,0,0,0,0,0,,false
+CD3 Satellite,"Des Moines, IA - Islamic and Education Center Ezan",0,103,0,0,0,0,1,0,39,1,0,0,0,0,0,103,0,0,0,0,0,0,41,0,0,0,0,0,,false
+CD3 Satellite,"Des Moines, IA - Karen Baptist Church",0,0,0,0,0,0,0,0,159,0,0,0,0,0,0,0,0,0,0,0,0,0,159,0,0,0,0,0,,false
+CD3 Satellite,"Des Moines, IA - Muslim Community Organization",0,0,0,2,0,0,0,0,114,0,1,2,0,0,0,0,0,0,0,0,0,0,117,0,0,0,0,2,,false
+CD3 Satellite,"Des Moines, IA - Scottish Rite Park",1,34,1,6,0,0,21,0,3,1,7,0,0,0,0,39,0,0,0,0,34,0,0,0,0,0,0,0,,false
+CD3 Satellite,"Des Moines, IA - South Sudanese Center",0,6,0,0,0,0,0,0,29,0,0,0,0,0,0,6,0,0,0,0,0,0,29,0,0,0,0,0,,false
+CD3 Satellite,"Des Moines, IA - Southside YMCA",0,4,0,3,0,0,2,0,169,1,4,0,0,0,0,2,0,0,0,0,2,0,171,1,2,0,0,0,,false
+CD3 Satellite,"Des Moines, IA - Wesley Acres",0,23,0,3,0,0,20,0,2,1,14,0,0,0,0,24,0,0,0,0,23,0,0,0,16,0,0,0,,false
+CD3 Satellite,"Granger, IA - Granger Nursing and Rehabilitation Center",0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0,,false
+CD3 Satellite,"Granger, IA - Islamic and Cultural Center Bosniak",0,58,0,0,0,0,0,0,33,0,0,0,0,0,0,58,0,0,0,0,0,0,33,0,0,0,0,0,,false
+CD3 Satellite,"Shenandoah, IA - Garden View Care Center",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,false

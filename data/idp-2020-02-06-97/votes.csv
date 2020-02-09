@@ -62,7 +62,7 @@ Black Hawk,CF W1 P1,0,19,0,19,0,0,15,0,26,9,13,0,0,0,0,19,0,25,0,0,20,0,32,0,0,0
 Black Hawk,CF W1 P2,0,30,0,67,0,0,56,0,98,11,75,16,0,0,0,0,0,77,0,0,76,0,103,0,84,0,0,0
 Black Hawk,CF W1 P3,0,24,0,58,0,2,22,0,141,4,75,23,0,3,0,0,0,90,0,0,0,0,154,0,85,0,0,0
 Black Hawk,CF W2 P1,0,0,0,20,0,0,5,0,37,0,18,8,0,0,0,0,0,23,0,0,0,0,39,0,19,0,0,7
-Black Hawk,CF W2 P2 &amp; CF Twp,0,14,0,72,0,0,44,0,80,9,38,14,0,2,0,0,0,76,0,0,58,0,87,0,42,0,0,0
+Black Hawk,CF W2 P2 & CF Twp,0,14,0,72,0,0,44,0,80,9,38,14,0,2,0,0,0,76,0,0,58,0,87,0,42,0,0,0
 Black Hawk,CF W2 P3,1,42,0,63,0,0,67,0,46,0,43,11,0,0,0,42,0,69,0,0,69,0,50,0,43,0,0,0
 Black Hawk,CF W3 P1,0,32,0,54,0,0,51,0,37,0,23,9,0,0,0,33,0,63,0,0,61,0,51,0,0,0,0,0
 Black Hawk,CF W3 P2,0,45,0,63,0,0,54,0,60,3,44,7,0,0,0,46,0,66,0,0,58,0,61,0,46,0,0,0
@@ -75,13 +75,13 @@ Black Hawk,CF W5 P2,0,30,2,31,0,3,19,0,43,5,38,15,0,0,0,41,0,41,0,0,0,0,57,0,41,
 Black Hawk,CF W5 P3,0,29,0,39,0,1,14,0,31,7,33,12,0,0,0,38,0,52,0,0,0,0,35,0,39,0,0,0
 Black Hawk,Cedar Orange,0,13,3,14,0,0,0,0,15,3,17,2,0,0,0,16,0,14,0,0,0,0,16,0,19,0,0,2
 Black Hawk,Eagle,0,1,0,3,0,0,6,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
-Black Hawk,Elk Run Heights &amp; Raymond,0,6,0,11,0,0,12,0,16,6,11,0,0,0,0,0,0,13,0,0,19,0,16,0,11,0,0,0
+Black Hawk,Elk Run Heights & Raymond,0,6,0,11,0,0,12,0,16,6,11,0,0,0,0,0,0,13,0,0,19,0,16,0,11,0,0,0
 Black Hawk,Evansdale W1,0,6,0,3,0,0,1,0,10,4,4,0,0,0,0,10,0,0,0,0,0,0,18,0,0,0,0,0
 Black Hawk,Evansdale W2,0,2,0,10,0,0,1,0,7,0,2,0,0,0,0,0,0,11,0,0,0,0,10,0,0,0,0,0
 Black Hawk,Evansdale W3,0,6,0,7,0,0,3,0,0,1,2,1,0,0,0,7,0,10,0,0,3,0,0,0,0,0,0,0
 Black Hawk,Evansdale W4,0,6,0,13,0,0,1,0,6,0,4,4,0,1,0,7,0,15,0,0,0,0,6,0,7,0,0,0
 Black Hawk,Mt Vernon,0,9,0,6,0,0,6,0,7,4,5,0,0,1,0,11,0,9,0,0,7,0,10,0,0,0,0,0
-Black Hawk,Poyner P1 &amp; East Wloo,0,9,0,10,0,1,1,0,10,2,5,3,0,0,0,14,0,12,0,0,0,0,15,0,0,0,0,0
+Black Hawk,Poyner P1 & East Wloo,0,9,0,10,0,1,1,0,10,2,5,3,0,0,0,14,0,12,0,0,0,0,15,0,0,0,0,0
 Black Hawk,Poyner P2 Fox Gilbert Jesup,0,13,0,18,0,0,0,0,12,1,7,7,0,0,0,14,0,21,0,0,0,0,19,0,0,0,0,0
 Black Hawk,Spring Creek,0,0,0,5,0,0,0,0,1,0,1,0,0,0,0,0,0,5,0,0,0,0,1,0,1,0,0,0
 Black Hawk,Union,0,17,0,7,0,0,10,0,3,0,3,0,0,0,0,17,0,9,0,0,10,0,0,0,1,0,0,0
@@ -130,10 +130,10 @@ Boone,Rural Precinct 4,0,9,0,26,0,0,23,0,20,5,26,6,0,0,0,0,0,34,0,0,25,0,25,0,27
 Boone,Rural Precinct 5,0,5,0,7,0,0,12,0,3,0,7,0,0,0,0,0,0,9,0,0,13,0,0,0,9,0,0,0
 Boone,Rural Precinct 6,0,18,0,31,0,0,19,0,18,0,18,10,0,0,0,18,0,31,0,0,21,0,26,0,18,0,0,0
 Bremer,CITY OF DENVER/JEFFERSON TWP,0,24,0,37,0,0,28,0,7,5,17,5,0,0,0,25,0,39,0,0,30,0,0,0,22,0,0,7
-Bremer,CITY OF FREDERIKA- FREDERIKA &amp; LEROY TWP,0,5,0,6,0,0,0,0,0,2,3,0,0,0,0,5,0,6,0,0,0,0,0,2,3,0,0,0
+Bremer,CITY OF FREDERIKA- FREDERIKA & LEROY TWP,0,5,0,6,0,0,0,0,0,2,3,0,0,0,0,5,0,6,0,0,0,0,0,2,3,0,0,0
 Bremer,CITY OF JANESVILLE/JACKSON TWP,0,11,0,16,0,0,11,0,7,3,15,1,0,0,0,12,0,19,0,0,13,0,0,0,19,1,0,0
 Bremer,CITY OF PLAINFIELD/POLK TWP/DOUGLAS TWP,0,6,0,6,0,0,4,0,2,6,2,4,0,4,0,10,0,11,0,0,0,0,0,6,0,0,0,7
-Bremer,CITY OF READLYN- MAXFIELD &amp; FRANKLIN TWP,0,7,0,11,0,0,7,0,6,0,6,0,0,0,0,7,0,11,0,0,7,0,6,0,6,0,0,0
+Bremer,CITY OF READLYN- MAXFIELD & FRANKLIN TWP,0,7,0,11,0,0,7,0,6,0,6,0,0,0,0,7,0,11,0,0,7,0,6,0,6,0,0,0
 Bremer,CITY OF SUMNER/SUMNER TWP/DAYTON TWP,0,19,0,15,0,0,8,0,13,0,8,2,0,1,0,21,0,18,0,0,0,0,13,0,14,0,0,0
 Bremer,CITY OF TRIPOLI/FREMONT,0,17,0,9,0,0,0,0,13,2,10,4,0,0,0,19,0,9,0,0,0,0,17,0,10,0,0,0
 Bremer,LAFAYETTE TWP/WARREN TWPS,0,7,0,15,0,0,8,0,0,0,6,0,0,0,0,7,0,15,0,0,8,0,0,0,6,0,0,0
@@ -182,8 +182,8 @@ CD2 Satellite,"Iowa City, IA - Caring Hands and More",0,3,0,4,0,0,0,0,87,1,15,0,
 CD2 Satellite,"Iowa City, IA - Iowa City Fire Station 2",0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
 CD2 Satellite,"Iowa City, IA - Oaknoll Retirement Services",0,39,4,14,0,0,58,0,14,7,49,1,0,4,0,40,0,0,0,0,77,0,0,0,61,0,11,0
 CD2 Satellite,"Iowa City, IA - Phillips Hall at University of Iowa",0,19,0,37,0,0,0,0,136,0,59,54,1,12,0,0,0,0,0,0,0,0,142,0,93,72,11,0
-CD2 Satellite,"Iowa City, IA - University of Iowa Hospitals &amp; Clincs - 7:45pm",0,1,0,5,0,0,0,0,48,0,11,0,0,0,0,0,0,0,0,0,0,0,48,0,15,0,0,2
-CD2 Satellite,"Iowa City, IA - University of Iowa Hospitals &amp; Clinics - 5:30pm",0,2,0,1,0,0,0,0,13,0,2,0,0,0,0,0,0,2,0,0,0,0,15,0,0,0,0,1
+CD2 Satellite,"Iowa City, IA - University of Iowa Hospitals & Clincs - 7:45pm",0,1,0,5,0,0,0,0,48,0,11,0,0,0,0,0,0,0,0,0,0,0,48,0,15,0,0,2
+CD2 Satellite,"Iowa City, IA - University of Iowa Hospitals & Clinics - 5:30pm",0,2,0,1,0,0,0,0,13,0,2,0,0,0,0,0,0,2,0,0,0,0,15,0,0,0,0,1
 CD2 Satellite,"Iowa City, IA - Walden Place Retirement Community",0,7,0,0,0,0,4,0,0,0,4,0,0,6,0,7,0,0,0,0,4,0,0,0,5,0,0,6
 CD2 Satellite,"Keokuk, IA - Keokuk Labor Temple",0,0,0,2,0,0,2,0,5,0,0,0,0,0,0,0,0,2,0,0,2,0,5,0,0,0,0,0
 CD2 Satellite,"Muscatine, IA - Muscatine Community College -McAvoy University Center",0,1,0,5,0,0,0,0,72,0,0,2,0,1,0,0,0,0,0,0,0,0,72,0,0,0,0,9
@@ -217,7 +217,7 @@ CD4 Satellite,"Logan, IA - Westmont Care Center",0,1,0,1,0,0,0,0,1,2,0,2,0,0,0,0
 CD4 Satellite,"Manson, IA - Good Samaritan Society - Manson",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 CD4 Satellite,"Mason City, IA - Good Shephard Health Center",0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0
 CD4 Satellite,"Mason City, IA - Heritage Care and Rehabilitation Center",0,2,0,0,0,0,1,0,0,0,0,0,0,1,0,2,0,0,0,0,1,0,0,0,0,0,0,1
-CD4 Satellite,"Mason City, IA - Oakwood Care Center &amp; Assisted Living",0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0
+CD4 Satellite,"Mason City, IA - Oakwood Care Center & Assisted Living",0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0
 CD4 Satellite,"Mason City, IA - The Willows",0,2,0,1,0,0,3,0,0,0,0,0,0,0,0,2,0,1,0,0,3,0,0,0,0,0,0,0
 CD4 Satellite,"Storm Lake, IA - Better Day Cafe",0,4,0,5,0,0,0,0,89,0,1,4,0,0,0,0,0,0,0,0,0,0,93,0,0,0,0,0
 CD4 Satellite,"Storm Lake, IA - Methodist Manor",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -225,7 +225,7 @@ Calhoun,Butler- Williams,0,7,1,11,0,0,1,0,5,0,6,0,0,0,0,9,0,11,0,0,0,0,5,0,6,0,0
 Calhoun,Calhoun- Jackson- EG- LK,0,12,0,26,0,0,0,0,10,0,18,0,0,1,0,12,0,26,0,0,0,0,11,0,18,0,0,0
 Calhoun,Cedar,0,1,0,0,0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0,0
 Calhoun,Center- Logan- TL- GA- L,0,4,0,4,0,0,11,0,0,0,1,1,0,0,0,4,0,5,0,0,12,0,0,0,0,0,0,0
-Calhoun,Greenfield &amp; Lincoln 2,0,2,0,5,0,0,0,0,0,0,2,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+Calhoun,Greenfield & Lincoln 2,0,2,0,5,0,0,0,0,0,0,2,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0
 Calhoun,Lincoln 1,0,8,0,12,0,0,8,0,6,1,4,1,0,0,0,9,0,13,0,0,9,0,8,0,0,0,0,0
 Calhoun,Reading,0,1,0,6,0,0,3,0,2,0,0,0,0,0,0,0,0,6,0,0,3,0,2,0,0,0,0,1
 Calhoun,Rockwell City,0,10,0,14,0,1,0,0,9,0,7,0,0,0,0,10,0,14,0,0,0,0,10,0,7,0,0,0
@@ -234,8 +234,8 @@ Calhoun,Union,0,0,0,6,0,0,3,0,3,0,2,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,2
 Carroll,Arcadia,0,2,0,7,0,0,0,0,5,0,0,0,0,5,0,6,0,7,0,0,0,0,6,0,0,0,0,0
 Carroll,Carroll Ward Four,0,28,0,16,0,0,12,0,16,1,10,0,0,0,0,28,0,22,0,0,14,0,19,0,0,0,0,0
 Carroll,Carroll Ward One,0,38,0,22,0,0,9,0,7,0,3,2,0,0,0,44,0,34,0,0,0,0,3,0,0,0,0,0
-Carroll,Carroll Ward Three &amp;amp; S1/2 Maple River Twp,0,13,0,21,0,0,12,0,20,2,10,8,0,0,0,13,0,22,0,0,21,0,29,0,0,0,0,0
-Carroll,Carroll Ward Two &amp;amp; N1/2 Maple River Twp,0,24,0,34,0,0,21,0,11,0,17,3,0,1,0,24,0,34,0,0,22,0,8,0,21,2,0,0
+Carroll,Carroll Ward Three &amp; S1/2 Maple River Twp,0,13,0,21,0,0,12,0,20,2,10,8,0,0,0,13,0,22,0,0,21,0,29,0,0,0,0,0
+Carroll,Carroll Ward Two &amp; N1/2 Maple River Twp,0,24,0,34,0,0,21,0,11,0,17,3,0,1,0,24,0,34,0,0,22,0,8,0,21,2,0,0
 Carroll,Eden,0,6,1,7,0,0,5,0,1,0,0,0,0,0,0,7,1,12,0,0,0,0,0,0,0,0,0,0
 Carroll,Ewoldt,0,6,0,7,0,0,7,0,4,2,11,0,0,2,0,6,0,8,0,0,12,0,0,0,13,0,0,0
 Carroll,Glidden-Richland,0,4,0,8,0,0,8,0,11,0,0,0,0,1,0,0,0,10,0,0,10,0,11,0,0,0,0,1
@@ -652,7 +652,7 @@ Humboldt,Humboldt-West Vernon,0,4,0,3,0,0,0,0,0,0,3,0,0,0,0,4,0,6,0,0,0,0,0,0,0,
 Humboldt,North Lake-East Vernon,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
 Humboldt,South Lake-North Norway,0,0,0,3,0,0,0,0,1,0,0,1,0,0,0,0,0,3,0,0,0,0,1,0,0,1,0,0
 Ida,City of Arthur,0,2,0,4,0,0,4,0,2,2,2,0,0,0,0,0,0,7,0,0,7,0,0,0,0,0,0,0
-Ida,City of Battle Creek &amp; Grant Township,0,4,0,7,0,0,2,0,9,1,3,0,0,0,0,6,0,10,0,0,0,0,10,0,0,0,0,0
+Ida,City of Battle Creek & Grant Township,0,4,0,7,0,0,2,0,9,1,3,0,0,0,0,6,0,10,0,0,0,0,10,0,0,0,0,0
 Ida,City of Galva,0,0,0,2,0,0,0,0,2,0,1,0,0,0,0,0,0,2,0,0,0,0,2,0,1,0,0,0
 Ida,City of Holstein,0,23,0,13,0,0,12,0,6,1,4,1,0,0,0,26,0,19,0,0,15,0,0,0,0,0,0,0
 Ida,Ida Grove Ward 1,0,2,0,8,0,0,1,0,1,0,0,0,0,1,0,4,0,8,0,0,0,0,0,0,0,0,0,1
@@ -957,7 +957,7 @@ Madison,Winterset 2,0,21,0,37,0,3,17,0,22,0,22,10,0,0,0,21,0,37,0,0,20,0,26,0,24
 Mahaska,ADAMS - MONROE - PLEASANT GROVE - UNION,0,4,0,3,0,0,0,0,2,0,2,0,0,0,0,4,0,0,0,0,0,0,0,0,4,0,0,0
 Mahaska,BLACK OAK SCOTT,0,0,0,8,0,0,4,0,2,0,5,0,0,0,0,0,0,13,0,0,0,0,1,0,5,0,0,0
 Mahaska,CEDAR - HARRISON - WHITE OAK,0,10,0,0,0,0,9,0,15,0,5,8,0,0,0,10,0,0,0,0,14,0,16,0,0,8,0,0
-Mahaska,E&amp;W DES MOINES - JEFFERSON,0,2,0,3,0,0,0,0,2,1,1,1,0,1,0,0,0,4,0,0,7,0,0,0,0,0,0,0
+Mahaska,E&W DES MOINES - JEFFERSON,0,2,0,3,0,0,0,0,2,1,1,1,0,1,0,0,0,4,0,0,7,0,0,0,0,0,0,0
 Mahaska,GARFIELD-LINCOLN-MADISON,0,7,0,11,0,0,2,0,6,0,4,2,0,0,0,8,0,11,0,0,0,0,8,0,5,0,0,0
 Mahaska,OSKALOOSA WARD 1,0,2,0,20,0,0,5,0,20,0,13,12,0,0,0,0,0,23,0,0,0,0,20,0,15,13,0,0
 Mahaska,OSKALOOSA WARD 2,0,12,0,18,0,0,0,0,24,0,24,22,0,1,0,3,0,22,0,0,0,0,26,0,27,23,0,0
@@ -1098,7 +1098,7 @@ Out of State Satellite,"Gulf Breeze, FL - Emerald Dolphin Condominium",0,13,0,9,
 Out of State Satellite,"Milwaukee, WI - Marquette University Alumni Memorial Union",0,0,0,0,0,0,2,0,2,0,3,0,0,0,0,0,0,0,0,0,2,0,2,0,3,0,0,0
 Out of State Satellite,"Miramar Beach, FL - Tops'l Club and Fitness Center",3,15,9,12,0,0,16,0,0,0,5,0,0,0,0,18,9,13,0,0,18,0,0,0,0,0,2,0
 Out of State Satellite,"Nashville, TN - McCabe Community Center",0,0,0,2,0,0,0,0,3,0,2,0,0,0,0,0,0,2,0,0,0,0,3,0,2,0,0,0
-Out of State Satellite,"New York, NY - The Lesbian, Gay, Bisexual &amp; Transgender Community Center",0,0,0,3,0,0,3,0,22,0,28,0,0,0,0,0,0,0,0,0,0,0,23,0,33,0,0,0
+Out of State Satellite,"New York, NY - The Lesbian, Gay, Bisexual & Transgender Community Center",0,0,0,3,0,0,3,0,22,0,28,0,0,0,0,0,0,0,0,0,0,0,23,0,33,0,0,0
 Out of State Satellite,"Northfield, MN - St. Olaf College, Buntrock Commons",0,0,0,1,0,0,0,0,4,0,6,0,0,0,0,0,0,0,0,0,0,0,4,0,6,0,0,1
 Out of State Satellite,"Palm Springs, CA - Palm Springs Public Library Learning Center",0,24,3,20,0,0,41,1,9,1,8,1,0,0,0,29,0,21,0,0,49,0,0,0,0,0,0,9
 Out of State Satellite,"Paris, France - CIEE Student Housing",0,0,0,2,0,0,3,0,5,0,7,0,0,0,0,0,0,0,0,0,3,0,6,0,8,0,0,0
@@ -1122,10 +1122,10 @@ Page,Shenandoah 1,0,2,0,10,0,0,2,0,22,2,3,2,0,0,0,3,0,10,0,0,2,0,24,0,2,2,0,0
 Page,Shenandoah 2,0,1,0,13,0,0,10,0,12,1,11,2,0,0,0,0,0,13,0,0,11,0,14,0,12,0,0,0
 Page,Shenandoah 3,0,13,0,21,0,1,7,0,11,4,7,2,0,0,0,15,0,25,0,0,11,0,15,0,0,0,0,0
 Palo Alto,City of WB/EL/RL/BO/GO/NV,0,9,0,1,0,0,5,0,4,0,5,0,0,1,0,9,0,0,0,0,5,0,4,0,5,0,0,2
-Palo Alto,EM Ward 3/Ayrshire/pt. HL&amp;WL&amp;EM,0,12,0,19,0,0,12,0,9,0,6,0,0,1,0,12,0,21,0,0,13,0,12,0,0,0,0,0
+Palo Alto,EM Ward 3/Ayrshire/pt. HL&WL&EM,0,12,0,19,0,0,12,0,9,0,6,0,0,1,0,12,0,21,0,0,13,0,12,0,0,0,0,0
 Palo Alto,EM Ward 4/FV/FR/VN/pt. EM,0,10,1,16,0,0,6,0,9,1,6,1,0,0,0,13,0,20,0,0,0,0,12,0,10,0,0,0
 Palo Alto,Emmetsburg Ward 1,0,16,0,5,0,0,4,0,3,0,1,3,0,0,0,18,0,6,0,0,0,0,8,0,0,0,0,0
-Palo Alto,GR/RV/LI/pt. HL&amp;WL,0,12,0,9,0,0,8,0,7,0,8,0,0,0,0,12,0,9,0,0,8,0,7,0,8,0,0,0
+Palo Alto,GR/RV/LI/pt. HL&WL,0,12,0,9,0,0,8,0,7,0,8,0,0,0,0,12,0,9,0,0,8,0,7,0,8,0,0,0
 Plymouth,Plymouth 01/Ak,0,13,0,6,0,0,1,0,15,0,9,3,0,3,0,13,0,8,0,0,0,0,19,0,10,0,0,0
 Plymouth,Plymouth 02/Mrhg,0,4,0,0,0,0,0,0,4,0,0,0,0,0,0,4,0,0,0,0,0,0,4,0,0,0,0,0
 Plymouth,Plymouth 03/Sb,0,4,0,2,0,0,0,0,0,0,5,2,0,0,0,5,0,0,0,0,0,0,0,0,7,0,0,0

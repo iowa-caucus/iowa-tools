@@ -1,10 +1,10 @@
 ,,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,URL to Documentation,Manually validated
 ,,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Patrick,Sanders,Steyer,Warren,Yang,Other,Uncommitted,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Patrick,Sanders,Steyer,Warren,Yang,Other,Uncommitted,,
 County,Precinct,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Greene,Central Precinct,1,8,0,10,0,0,10,0,10,0,14,5,0,0,0,9,0,10,0,0,11,0,10.0,0,16.0,2,0,0,,false
-Greene,East Precinct,0,7,0,13,0,0,1,0,17,0,3,1,0,0,0,9,0,16,0,0,0,0,17.0,0,0.0,0,0,0,,false
-Greene,Jefferson 1 Precinct,0,10,0,21,0,0,12,0,12,0,0,0,0,0,0,10,0,21,0,0,12,0,12.0,0,0.0,0,0,0,,false
-Greene,Jefferson 2 Precinct,0,5,0,12,0,0,7,0,16,2,1,3,0,1,0,0,0,17,0,0,12,0,18.0,0,0.0,0,0,0,,false
-Greene,Jefferson 3 Precinct,0,13,0,29,0,0,16,0,14,1,9,2,0,0,0,14,0,31,0,0,20,0,18.0,0,0.0,0,0,0,,false
-Greene,North Precinct,0,11,1,9,0,0,11,0,8,2,4,1,0,0,0,11,0,11,0,0,11,0,13.0,0,0.0,0,0,0,,false
-Greene,West Precinct,1,0,0,5,0,0,5,0,5,5,3,3,0,2,0,0,0,6,0,0,10,0,6.0,5,0.0,0,0,0,,false
+Greene,Central Precinct,1,8,0,10,0,0,10,0,10,0,14,5,0,0,0,9,0,10,0,0,11,0,10,0,16,2,0,0,,false
+Greene,East Precinct,0,7,0,13,0,0,1,0,17,0,3,1,0,0,0,9,0,16,0,0,0,0,17,0,0,0,0,0,,false
+Greene,Jefferson 1 Precinct,0,10,0,21,0,0,12,0,12,0,0,0,0,0,0,10,0,21,0,0,12,0,12,0,0,0,0,0,,false
+Greene,Jefferson 2 Precinct,0,5,0,12,0,0,7,0,16,2,1,3,0,1,0,0,0,17,0,0,12,0,18,0,0,0,0,0,,false
+Greene,Jefferson 3 Precinct,0,13,0,29,0,0,16,0,14,1,9,2,0,0,0,14,0,31,0,0,20,0,18,0,0,0,0,0,,false
+Greene,North Precinct,0,11,1,9,0,0,11,0,8,2,4,1,0,0,0,11,0,11,0,0,11,0,13,0,0,0,0,0,,false
+Greene,West Precinct,1,0,0,5,0,0,5,0,5,5,3,3,0,2,0,0,0,6,0,0,10,0,6,5,0,0,0,0,,false

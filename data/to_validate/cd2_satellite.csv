@@ -1,20 +1,20 @@
 ,,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,URL to Documentation,Manually validated
 ,,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Patrick,Sanders,Steyer,Warren,Yang,Other,Uncommitted,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Patrick,Sanders,Steyer,Warren,Yang,Other,Uncommitted,,
 County,Precinct,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CD2 Satellite,"Albia, IA - Monroe Care Center",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0.0,0,0,0,,false
-CD2 Satellite,"Centerville, IA - Centerville Speciality Care",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,0,0,0,,false
-CD2 Satellite,"Davenport, IA - Humility of Mary Center",0,6,0,0,0,0,7,0,0,0,5,0,0,0,0,6,0,0,0,0,7,0,0.0,0,5.0,0,0,0,,false
-CD2 Satellite,"Davenport, IA - Scott Community College",0,0,0,0,0,0,12,0,53,0,2,0,0,0,0,0,0,0,0,0,12,0,55.0,0,0.0,0,0,0,,false
-CD2 Satellite,"Ft. Madison, IA - LULAC Club",0,1,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,6.0,0,0.0,0,0,1,,false
-CD2 Satellite,"Iowa City, IA - Caring Hands and More",0,3,0,4,0,0,0,0,87,1,15,0,0,0,0,0,0,0,0,0,0,0,94.0,0,0.0,0,0,0,,false
-CD2 Satellite,"Iowa City, IA - Iowa City Fire Station 2",0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0.0,0,0.0,0,0,0,,false
-CD2 Satellite,"Iowa City, IA - Oaknoll Retirement Services",0,39,4,14,0,0,58,0,14,7,49,1,0,4,0,40,0,0,0,0,77,0,0.0,0,61.0,0,11,0,,false
-CD2 Satellite,"Iowa City, IA - Phillips Hall at University of Iowa",0,19,0,37,0,0,0,0,136,0,59,54,1,12,0,0,0,0,0,0,0,0,142.0,0,93.0,72,11,0,,false
-CD2 Satellite,"Iowa City, IA - University of Iowa Hospitals &amp; Clincs - 7:45pm",0,1,0,5,0,0,0,0,48,0,11,0,0,0,0,0,0,0,0,0,0,0,48.0,0,15.0,0,0,2,,false
-CD2 Satellite,"Iowa City, IA - University of Iowa Hospitals &amp; Clinics - 5:30pm",0,2,0,1,0,0,0,0,13,0,2,0,0,0,0,0,0,2,0,0,0,0,15.0,0,0.0,0,0,1,,false
-CD2 Satellite,"Iowa City, IA - Walden Place Retirement Community",0,7,0,0,0,0,4,0,0,0,4,0,0,6,0,7,0,0,0,0,4,0,0.0,0,5.0,0,0,6,,false
-CD2 Satellite,"Keokuk, IA - Keokuk Labor Temple",0,0,0,2,0,0,2,0,5,0,0,0,0,0,0,0,0,2,0,0,2,0,5.0,0,0.0,0,0,0,,false
-CD2 Satellite,"Muscatine, IA - Muscatine Community College -McAvoy University Center",0,1,0,5,0,0,0,0,72,0,0,2,0,1,0,0,0,0,0,0,0,0,72.0,0,0.0,0,0,9,,false
-CD2 Satellite,"Ottumwa, IA - UAW Local 74",0,0,0,0,0,0,0,0,14,0,1,0,0,0,0,0,0,0,0,0,0,0,14.0,0,0.0,0,0,0,,false
-CD2 Satellite,"Ottumwa, IA - UFCW Local 230",0,0,0,0,0,0,0,0,14,0,1,0,0,0,0,0,0,0,0,0,0,0,14.0,0,0.0,0,0,1,,false
-CD2 Satellite,"West Burlington, IA - Southeastern Community College",0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,3.0,0,0.0,0,0,0,,false
+CD2 Satellite,"Albia, IA - Monroe Care Center",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,false
+CD2 Satellite,"Centerville, IA - Centerville Speciality Care",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,false
+CD2 Satellite,"Davenport, IA - Humility of Mary Center",0,6,0,0,0,0,7,0,0,0,5,0,0,0,0,6,0,0,0,0,7,0,0,0,5,0,0,0,,false
+CD2 Satellite,"Davenport, IA - Scott Community College",0,0,0,0,0,0,12,0,53,0,2,0,0,0,0,0,0,0,0,0,12,0,55,0,0,0,0,0,,false
+CD2 Satellite,"Ft. Madison, IA - LULAC Club",0,1,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,1,,false
+CD2 Satellite,"Iowa City, IA - Caring Hands and More",0,3,0,4,0,0,0,0,87,1,15,0,0,0,0,0,0,0,0,0,0,0,94,0,0,0,0,0,,false
+CD2 Satellite,"Iowa City, IA - Iowa City Fire Station 2",0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,,false
+CD2 Satellite,"Iowa City, IA - Oaknoll Retirement Services",0,39,4,14,0,0,58,0,14,7,49,1,0,4,0,40,0,0,0,0,77,0,0,0,61,0,11,0,,false
+CD2 Satellite,"Iowa City, IA - Phillips Hall at University of Iowa",0,19,0,37,0,0,0,0,136,0,59,54,1,12,0,0,0,0,0,0,0,0,142,0,93,72,11,0,,false
+CD2 Satellite,"Iowa City, IA - University of Iowa Hospitals & Clincs - 7:45pm",0,1,0,5,0,0,0,0,48,0,11,0,0,0,0,0,0,0,0,0,0,0,48,0,15,0,0,2,,false
+CD2 Satellite,"Iowa City, IA - University of Iowa Hospitals & Clinics - 5:30pm",0,2,0,1,0,0,0,0,13,0,2,0,0,0,0,0,0,2,0,0,0,0,15,0,0,0,0,1,,false
+CD2 Satellite,"Iowa City, IA - Walden Place Retirement Community",0,7,0,0,0,0,4,0,0,0,4,0,0,6,0,7,0,0,0,0,4,0,0,0,5,0,0,6,,false
+CD2 Satellite,"Keokuk, IA - Keokuk Labor Temple",0,0,0,2,0,0,2,0,5,0,0,0,0,0,0,0,0,2,0,0,2,0,5,0,0,0,0,0,,false
+CD2 Satellite,"Muscatine, IA - Muscatine Community College -McAvoy University Center",0,1,0,5,0,0,0,0,72,0,0,2,0,1,0,0,0,0,0,0,0,0,72,0,0,0,0,9,,false
+CD2 Satellite,"Ottumwa, IA - UAW Local 74",0,0,0,0,0,0,0,0,14,0,1,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,,false
+CD2 Satellite,"Ottumwa, IA - UFCW Local 230",0,0,0,0,0,0,0,0,14,0,1,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,1,,false
+CD2 Satellite,"West Burlington, IA - Southeastern Community College",0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,,false

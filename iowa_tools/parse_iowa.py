@@ -60,7 +60,7 @@ def parse_iowa_html(ipd_ref_dataset):
                         elif item.replace('.', '', 1).isdigit():
                             val = float(item)
                         else:
-                            val = item
+                            val = item.replace('&amp;', '&')
 
                         assert col_idx != 0
                         if col_idx == 1:

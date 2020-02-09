@@ -1,18 +1,18 @@
 ,,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,URL to Documentation,Manually validated
 ,,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Patrick,Sanders,Steyer,Warren,Yang,Other,Uncommitted,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Patrick,Sanders,Steyer,Warren,Yang,Other,Uncommitted,,
 County,Precinct,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keokuk,Adams,0,0,0,7,0,0,3,0,3,0,1,0,0,0,0,0,0,9,0,0,0,0,0.0,0,4.0,0,0,1,,false
-Keokuk,Benton/Steady Run,0,1,0,12,0,0,10,0,5,0,1,0,0,0,0,0,0,14,0,0,10,0,5.0,0,0.0,0,0,0,,false
-Keokuk,East/West Lancaster,0,0,0,5,0,0,0,0,0,2,0,1,0,0,0,0,0,5,0,0,0,0,0.0,2,0.0,1,0,0,,false
-Keokuk,English River/Liberty,0,7,0,6,0,0,4,0,17,0,0,0,0,0,0,7,0,8,0,0,0,0,17.0,0,0.0,0,0,2,,false
-Keokuk,Jackson,0,1,0,0,0,2,0,0,1,0,0,0,0,0,0,1,0,0,0,2,0,0,1.0,0,0.0,0,0,0,,false
-Keokuk,Lafayette/Clear Creek,0,6,0,8,0,0,8,0,10,0,9,1,0,0,0,0,0,8,0,0,8,0,10.0,0,10.0,0,0,0,,false
-Keokuk,Prairie,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,2.0,0,0.0,0,0,0,,false
-Keokuk,Richland,0,6,0,6,0,0,0,0,2,0,2,0,0,0,0,6,0,6,0,0,0,0,2.0,0,2.0,0,0,0,,false
-Keokuk,Sigourney 1st Ward,0,5,0,3,0,0,1,0,4,0,7,0,0,0,0,7,0,0,0,0,0,0,0.0,0,11.0,0,0,2,,false
-Keokuk,Sigourney 2nd Ward,0,8,0,10,0,0,0,0,8,0,0,0,0,0,0,0,0,11,0,0,0,0,9.0,0,0.0,0,0,0,,false
-Keokuk,Sigourney 3rd Ward,0,0,0,5,0,0,5,0,1,0,0,2,0,0,0,0,0,6,0,0,7,0,0.0,0,0.0,0,0,0,,false
-Keokuk,Sigourney 4th Ward,0,4,3,6,0,0,7,0,3,0,0,0,0,0,0,0,0,10,0,0,13,0,0.0,0,0.0,0,0,0,,false
-Keokuk,Sigourney/Plank/Van Buren,0,7,0,5,0,0,0,0,0,0,4,0,0,0,0,7,0,5,0,0,0,0,0.0,0,4.0,0,0,0,,false
-Keokuk,Warren,0,0,0,2,0,0,0,0,3,0,0,6,0,0,0,0,0,2,0,0,0,0,3.0,0,0.0,6,0,0,,false
-Keokuk,What Cheer/Washington,0,2,0,2,0,0,1,0,2,0,4,0,0,1,0,3,0,0,0,0,0,0,3.0,0,4.0,0,0,0,,false
+Keokuk,Adams,0,0,0,7,0,0,3,0,3,0,1,0,0,0,0,0,0,9,0,0,0,0,0,0,4,0,0,1,,false
+Keokuk,Benton/Steady Run,0,1,0,12,0,0,10,0,5,0,1,0,0,0,0,0,0,14,0,0,10,0,5,0,0,0,0,0,,false
+Keokuk,East/West Lancaster,0,0,0,5,0,0,0,0,0,2,0,1,0,0,0,0,0,5,0,0,0,0,0,2,0,1,0,0,,false
+Keokuk,English River/Liberty,0,7,0,6,0,0,4,0,17,0,0,0,0,0,0,7,0,8,0,0,0,0,17,0,0,0,0,2,,false
+Keokuk,Jackson,0,1,0,0,0,2,0,0,1,0,0,0,0,0,0,1,0,0,0,2,0,0,1,0,0,0,0,0,,false
+Keokuk,Lafayette/Clear Creek,0,6,0,8,0,0,8,0,10,0,9,1,0,0,0,0,0,8,0,0,8,0,10,0,10,0,0,0,,false
+Keokuk,Prairie,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,,false
+Keokuk,Richland,0,6,0,6,0,0,0,0,2,0,2,0,0,0,0,6,0,6,0,0,0,0,2,0,2,0,0,0,,false
+Keokuk,Sigourney 1st Ward,0,5,0,3,0,0,1,0,4,0,7,0,0,0,0,7,0,0,0,0,0,0,0,0,11,0,0,2,,false
+Keokuk,Sigourney 2nd Ward,0,8,0,10,0,0,0,0,8,0,0,0,0,0,0,0,0,11,0,0,0,0,9,0,0,0,0,0,,false
+Keokuk,Sigourney 3rd Ward,0,0,0,5,0,0,5,0,1,0,0,2,0,0,0,0,0,6,0,0,7,0,0,0,0,0,0,0,,false
+Keokuk,Sigourney 4th Ward,0,4,3,6,0,0,7,0,3,0,0,0,0,0,0,0,0,10,0,0,13,0,0,0,0,0,0,0,,false
+Keokuk,Sigourney/Plank/Van Buren,0,7,0,5,0,0,0,0,0,0,4,0,0,0,0,7,0,5,0,0,0,0,0,0,4,0,0,0,,false
+Keokuk,Warren,0,0,0,2,0,0,0,0,3,0,0,6,0,0,0,0,0,2,0,0,0,0,3,0,0,6,0,0,,false
+Keokuk,What Cheer/Washington,0,2,0,2,0,0,1,0,2,0,4,0,0,1,0,3,0,0,0,0,0,0,3,0,4,0,0,0,,false

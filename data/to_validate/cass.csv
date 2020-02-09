@@ -1,16 +1,16 @@
 ,,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,URL to Documentation,Manually validated
 ,,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Patrick,Sanders,Steyer,Warren,Yang,Other,Uncommitted,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Patrick,Sanders,Steyer,Warren,Yang,Other,Uncommitted,,
 County,Precinct,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Cass,Atlantic 1,0,3,0,7,0,0,3,0,21,0,5,0,0,2,0,9,0,9,0,0,0,0,23.0,0,0.0,0,0,0,,false
-Cass,Atlantic 2,0,10,0,14,0,0,3,0,7,0,3,3,0,0,0,10,0,14,0,0,0,0,14.0,0,0.0,0,0,0,,false
-Cass,Atlantic 3,0,13,0,6,0,0,6,0,2,0,6,3,0,2,0,13,0,6,0,0,7,0,0.0,0,10.0,0,0,0,,false
-Cass,Atlantic 4,0,5,0,11,0,0,3,0,8,0,13,1,0,0,0,0,0,18,0,0,0,0,10.0,0,13.0,0,0,0,,false
-Cass,Atlantic 5,0,11,0,10,0,0,9,0,4,2,12,0,0,0,0,13,0,11,0,0,10,0,0.0,0,15.0,0,0,0,,false
-Cass,Bear Grove- Cass Twp/Lewis,0,7,0,5,0,0,6,0,2,0,7,0,0,0,0,7,0,0,0,0,11,0,2.0,0,7.0,0,0,0,,false
-Cass,Benton- Franklin Twp/Wiota,0,1,0,3,0,0,3,0,0,0,5,0,0,0,0,0,0,5,0,0,0,0,0.0,0,7.0,0,0,0,,false
-Cass,Brighton- Grove- Pymosa- Washington Twp/Marne,0,8,1,6,0,0,2,0,0,0,6,2,0,0,0,9,0,6,0,0,4,0,0.0,0,6.0,0,0,0,,false
-Cass,Enda- Victoria Twp,0,0,0,3,0,0,0,0,1,0,1,0,0,0,0,0,0,3,0,0,0,0,1.0,0,1.0,0,0,0,,false
-Cass,Grant- Lincoln Twp/Anita,0,10,0,18,0,0,8,0,9,0,0,0,0,0,0,10,0,18,0,0,8,0,9.0,0,0.0,0,0,0,,false
-Cass,Massena Twp/Massena City,0,5,0,0,0,0,2,0,1,0,0,0,0,0,0,5,0,0,0,0,2,0,1.0,0,0.0,0,0,0,,false
-Cass,Noble- Pleasant Twp/Griswold,0,6,0,7,0,0,9,0,6,0,12,1,0,0,0,7,0,7,0,0,10,0,0.0,0,15.0,0,0,2,,false
-Cass,Union Twp/Cumberland,0,0,0,2,0,0,0,0,2,0,1,0,0,0,0,0,0,2,0,0,0,0,2.0,0,1.0,0,0,0,,false
+Cass,Atlantic 1,0,3,0,7,0,0,3,0,21,0,5,0,0,2,0,9,0,9,0,0,0,0,23,0,0,0,0,0,,false
+Cass,Atlantic 2,0,10,0,14,0,0,3,0,7,0,3,3,0,0,0,10,0,14,0,0,0,0,14,0,0,0,0,0,,false
+Cass,Atlantic 3,0,13,0,6,0,0,6,0,2,0,6,3,0,2,0,13,0,6,0,0,7,0,0,0,10,0,0,0,,false
+Cass,Atlantic 4,0,5,0,11,0,0,3,0,8,0,13,1,0,0,0,0,0,18,0,0,0,0,10,0,13,0,0,0,,false
+Cass,Atlantic 5,0,11,0,10,0,0,9,0,4,2,12,0,0,0,0,13,0,11,0,0,10,0,0,0,15,0,0,0,,false
+Cass,Bear Grove- Cass Twp/Lewis,0,7,0,5,0,0,6,0,2,0,7,0,0,0,0,7,0,0,0,0,11,0,2,0,7,0,0,0,,false
+Cass,Benton- Franklin Twp/Wiota,0,1,0,3,0,0,3,0,0,0,5,0,0,0,0,0,0,5,0,0,0,0,0,0,7,0,0,0,,false
+Cass,Brighton- Grove- Pymosa- Washington Twp/Marne,0,8,1,6,0,0,2,0,0,0,6,2,0,0,0,9,0,6,0,0,4,0,0,0,6,0,0,0,,false
+Cass,Enda- Victoria Twp,0,0,0,3,0,0,0,0,1,0,1,0,0,0,0,0,0,3,0,0,0,0,1,0,1,0,0,0,,false
+Cass,Grant- Lincoln Twp/Anita,0,10,0,18,0,0,8,0,9,0,0,0,0,0,0,10,0,18,0,0,8,0,9,0,0,0,0,0,,false
+Cass,Massena Twp/Massena City,0,5,0,0,0,0,2,0,1,0,0,0,0,0,0,5,0,0,0,0,2,0,1,0,0,0,0,0,,false
+Cass,Noble- Pleasant Twp/Griswold,0,6,0,7,0,0,9,0,6,0,12,1,0,0,0,7,0,7,0,0,10,0,0,0,15,0,0,2,,false
+Cass,Union Twp/Cumberland,0,0,0,2,0,0,0,0,2,0,1,0,0,0,0,0,0,2,0,0,0,0,2,0,1,0,0,0,,false
