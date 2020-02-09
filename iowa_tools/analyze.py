@@ -11,7 +11,8 @@ from iowa_tools.constants import FIRST, FINAL, INC_VOTES, ST_VOTES, ST_MORE_VOTE
     SPSTEVE_PRECINCT_DELEGATES, PRECINCT_SN, ST_MAPPING, ST_SDE_PRECINCT_TOTALS, ST_SDES, \
     TOTAL_SDE, DUPLICATE, ST_FIRST_DUPLICATES, ST_FINAL_DUPLICATES, ST_FIRST_FINAL_DUPLICATES, \
     ST_SDE_DUPLICATES, ST_FINAL_SDE_DUPLICATES, ST_FIRST_FINAL_SDE_DUPLICATES, DUP_FINAL, \
-    DUP_FIRST, DUP_FIRST_FINAL, DUP_SDE, DUP_FINAL_SDE, DUP_FULL, DUP_ANY, ST_ALL_DUPLICATES
+    DUP_FIRST, DUP_FIRST_FINAL, DUP_SDE, DUP_FINAL_SDE, DUP_FULL, DUP_ANY, ST_ALL_DUPLICATES, \
+    ST_ALL_DUPLICATES_MINUS_SDE, DUP_ANY_MINUS_SDE
 from iowa_tools.dataframe import extract_subtable_by_labels
 from iowa_tools.io import read_dataset_from_json, read_reference_dataset_from_csv, \
     write_dataset_as_json, write_dataset_as_csv
@@ -85,7 +86,7 @@ def duplicated_precincts(input_dataset, output_dataset):
     sdes_duplicated_df = sdes_df.copy()
     final_sdes_duplicated_df = final_duplicated_df.join(sdes_df)
     full_duplicated_df = full_df.copy()
-    all_duplications_df = full_df.copy()
+    all_duplications_minus_sde_df = full_df.copy()
 
     first_duplicated_df[DUPLICATE, DUP_FIRST] = first_duplicated_df.duplicated(keep=False)
     final_duplicated_df[DUPLICATE, DUP_FINAL] = final_duplicated_df.duplicated(keep=False)
@@ -94,12 +95,17 @@ def duplicated_precincts(input_dataset, output_dataset):
     final_sdes_duplicated_df[DUPLICATE, DUP_FINAL_SDE] = final_sdes_duplicated_df.duplicated(keep=False)
     full_duplicated_df[DUPLICATE, DUP_FULL] = full_duplicated_df.duplicated(keep=False)
 
-    all_duplications_df[DUPLICATE, DUP_FIRST] = first_duplicated_df[DUPLICATE, DUP_FIRST].copy()
-    all_duplications_df[DUPLICATE, DUP_FINAL] = final_duplicated_df[DUPLICATE, DUP_FINAL].copy()
-    all_duplications_df[DUPLICATE, DUP_FIRST_FINAL] = votes_duplicated_df[DUPLICATE, DUP_FIRST_FINAL].copy()
+    all_duplications_minus_sde_df[DUPLICATE, DUP_FIRST] = first_duplicated_df[DUPLICATE, DUP_FIRST].copy()
+    all_duplications_minus_sde_df[DUPLICATE, DUP_FINAL] = final_duplicated_df[DUPLICATE, DUP_FINAL].copy()
+    all_duplications_minus_sde_df[DUPLICATE, DUP_FIRST_FINAL] = votes_duplicated_df[DUPLICATE, DUP_FIRST_FINAL].copy()
+    all_duplications_minus_sde_df[DUPLICATE, DUP_FINAL_SDE] = final_sdes_duplicated_df[DUPLICATE, DUP_FINAL_SDE].copy()
+    all_duplications_minus_sde_df[DUPLICATE, DUP_FULL] = full_duplicated_df[DUPLICATE, DUP_FULL].copy()
+
+    all_duplications_df = all_duplications_minus_sde_df.copy()
     all_duplications_df[DUPLICATE, DUP_SDE] = sdes_duplicated_df[DUPLICATE, DUP_SDE].copy()
-    all_duplications_df[DUPLICATE, DUP_FINAL_SDE] = final_sdes_duplicated_df[DUPLICATE, DUP_FINAL_SDE].copy()
-    all_duplications_df[DUPLICATE, DUP_FULL] = full_duplicated_df[DUPLICATE, DUP_FULL].copy()
+
+    all_duplications_minus_sde_df[DUPLICATE, DUP_ANY_MINUS_SDE] = \
+        all_duplications_minus_sde_df[all_duplications_minus_sde_df.columns[-5:]].any(axis=1)
     all_duplications_df[DUPLICATE, DUP_ANY] = \
         all_duplications_df[all_duplications_df.columns[-6:]].any(axis=1)
 
@@ -109,6 +115,7 @@ def duplicated_precincts(input_dataset, output_dataset):
     sdes_duplicated_df = sdes_duplicated_df[sdes_duplicated_df[sdes_duplicated_df.columns[-1]]]
     final_sdes_duplicated_df = final_sdes_duplicated_df[final_sdes_duplicated_df[final_sdes_duplicated_df.columns[-1]]]
     full_duplicated_df = full_duplicated_df[full_duplicated_df[full_duplicated_df.columns[-1]]]
+    all_duplications_minus_sde_df = all_duplications_minus_sde_df[all_duplications_minus_sde_df[all_duplications_minus_sde_df.columns[-1]]]
     all_duplications_df = all_duplications_df[all_duplications_df[all_duplications_df.columns[-1]]]
 
     write_dataset_as_csv(first_duplicated_df, output_dataset, ST_FIRST_DUPLICATES)
@@ -117,6 +124,7 @@ def duplicated_precincts(input_dataset, output_dataset):
     write_dataset_as_csv(sdes_duplicated_df, output_dataset, ST_SDE_DUPLICATES)
     write_dataset_as_csv(final_sdes_duplicated_df, output_dataset, ST_FINAL_SDE_DUPLICATES)
     write_dataset_as_csv(full_duplicated_df, output_dataset, ST_FIRST_FINAL_SDE_DUPLICATES)
+    write_dataset_as_csv(all_duplications_minus_sde_df, output_dataset, ST_ALL_DUPLICATES_MINUS_SDE)
     write_dataset_as_csv(all_duplications_df, output_dataset, ST_ALL_DUPLICATES)
 
 

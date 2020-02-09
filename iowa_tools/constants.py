@@ -17,6 +17,7 @@ DUP_SDE = 'SDE'
 DUP_FIRST_FINAL = 'First & Final'
 DUP_FINAL_SDE = 'Final & SDE'
 DUP_FULL = 'Full'
+DUP_ANY_MINUS_SDE = 'Any (-SDE)'
 DUP_ANY = 'Any'
 
 STD_COL_ORDER = [COUNTY, PRECINCT, FIRST, FINAL, INC_VOTES, DOCUMENTATION_URL, VALIDATED, SDE]
@@ -78,6 +79,7 @@ ST_FIRST_FINAL_DUPLICATES = 'first_final_duplicates'
 ST_SDE_DUPLICATES = 'sde_duplicates'
 ST_FINAL_SDE_DUPLICATES = 'final_sde_duplicates'
 ST_FIRST_FINAL_SDE_DUPLICATES = 'first_final_sde_duplicates'
+ST_ALL_DUPLICATES_MINUS_SDE = 'all_duplicates_minus_sde'
 ST_ALL_DUPLICATES = 'all_duplicates'
 
 
