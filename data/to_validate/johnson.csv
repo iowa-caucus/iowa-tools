@@ -1,7 +1,7 @@
 ,,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,First Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,Final Expression,URL to Documentation,Manually validated
 ,,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Patrick,Sanders,Steyer,Warren,Yang,Other,Uncommitted,Bennet,Biden,Bloomberg,Buttigieg,Delaney,Gabbard,Klobuchar,Patrick,Sanders,Steyer,Warren,Yang,Other,Uncommitted,,
 County,Precinct,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Johnson,BIG GROVE TOWNSHIP,1,26,2,35,0,0,34,0,23,4,39,3,0,0,0,29,0,0,0,0,39,0,0,0,0,0,0,0,,false
+Johnson,BIG GROVE TOWNSHIP,1,26,2,35,0,0,34,0,23,4,39,3,0,0,0,29,0,35,0,0,39,0,0,0,39,0,0,0,,false
 Johnson,CEDAR TOWNSHIP,1,5,0,12,0,0,15,0,20,0,12,0,0,0,0,3,0,12,0,0,22,0,28,0,0,0,0,0,,false
 Johnson,CLEAR CREEK/TIFFIN,0,52,0,79,0,0,26,0,86,1,67,18,0,1,0,58,0,90,0,0,0,0,95,0,81,0,0,6,,false
 Johnson,CORALVILLE 01,0,26,0,67,0,1,37,0,208,0,150,35,0,5,0,0,0,100,0,0,0,0,224,0,169,0,0,36,,false
@@ -22,7 +22,7 @@ Johnson,IOWA CITY 04,0,65,0,115,0,0,118,0,165,0,214,38,0,0,0,0,0,131,0,0,158,0,1
 Johnson,IOWA CITY 05,1,29,1,110,0,2,13,0,291,0,209,98,0,0,0,0,0,125,0,0,0,0,313,0,232,0,0,0,,false
 Johnson,IOWA CITY 06,0,39,0,65,0,0,71,0,130,8,188,6,4,2,0,0,0,0,0,0,103,0,138,0,220,0,0,0,,false
 Johnson,IOWA CITY 07,0,53,0,85,0,5,42,0,151,2,101,45,0,0,0,0,0,141,0,0,0,0,168,0,127,0,0,0,,false
-Johnson,IOWA CITY 08,0,50,0,105,0,0,93,0,78,1,147,48,0,0,0,0,0,121,0,0,114,0,91,0,171,0,0,0,,false
+Johnson,IOWA CITY 08,0,50,0,105,0,0,93,0,78,1,147,48,1,0,0,0,0,121,0,0,114,0,91,0,171,0,0,0,,false
 Johnson,IOWA CITY 09,0,52,0,57,0,0,50,1,147,13,119,21,0,4,0,0,0,79,0,0,0,0,160,0,140,0,0,0,,false
 Johnson,IOWA CITY 10/ELSW,1,23,0,50,0,0,16,0,95,0,74,21,1,1,0,4,0,71,0,0,0,0,105,0,92,0,0,1,,false
 Johnson,IOWA CITY 11,0,21,0,65,0,0,24,1,263,0,127,59,4,2,0,0,0,105,0,0,0,0,281,0,149,0,0,0,,false
@@ -38,7 +38,7 @@ Johnson,IOWA CITY 20,0,19,0,79,0,3,6,0,274,8,160,66,0,2,0,0,0,95,0,0,0,0,300,0,1
 Johnson,IOWA CITY 21,0,13,0,72,0,4,23,0,375,10,238,45,0,5,0,0,0,54,0,0,1,0,383,0,269,8,0,0,,false
 Johnson,IOWA CITY 22,2,37,0,76,0,0,71,0,160,1,150,20,0,0,0,0,0,88,0,0,89,0,168,0,166,0,0,0,,false
 Johnson,IOWA CITY 23,1,73,1,115,0,2,90,0,172,21,251,24,0,4,0,0,0,147,0,0,80,0,192,0,299,0,0,83,,false
-Johnson,IOWA CITY 24,0,82,0,172,0,2,25,0,117,8,198,23,0,0,0,0,0,211,0,0,0,0,125,0,237,0,0,0,,false
+Johnson,IOWA CITY 24,0,82,0,172,0,2,75,0,117,8,198,23,0,0,0,0,0,211,0,0,0,0,125,0,237,0,0,0,,false
 Johnson,JEFFERSON EAST/SHUEYVILLE,0,26,0,51,0,0,37,0,25,1,45,8,0,0,0,0,0,61,0,0,51,0,0,0,58,0,0,0,,false
 Johnson,JW/MN/SW,0,30,0,40,0,0,29,0,35,3,30,3,0,2,0,31,0,40,0,0,31,0,37,0,30,3,0,3,,false
 Johnson,LIBERTY-PLEASANT VALLEY,0,7,0,4,0,0,11,0,26,0,10,5,0,0,0,0,0,0,0,0,23,0,38,0,0,0,0,0,,false

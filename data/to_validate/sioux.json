@@ -198,7 +198,7 @@
             "Bloomberg": 0,
             "Buttigieg": 20,
             "Delaney": 0,
-            "Gabbard": 0,
+            "Gabbard": 2,
             "Klobuchar": 12,
             "Patrick": 0,
             "Sanders": 17,
@@ -210,7 +210,7 @@
         },
         "Final Expression": {
             "Bennet": 0,
-            "Biden": 0,
+            "Biden": 1,
             "Bloomberg": 0,
             "Buttigieg": 20,
             "Delaney": 0,
@@ -219,7 +219,7 @@
             "Patrick": 0,
             "Sanders": 23,
             "Steyer": 0,
-            "Warren": 26,
+            "Warren": 36,
             "Yang": 0,
             "Other": 0,
             "Uncommitted": 0

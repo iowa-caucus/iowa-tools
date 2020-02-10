@@ -2135,7 +2135,7 @@
             "Biden": 15,
             "Bloomberg": 0,
             "Buttigieg": 16,
-            "Delaney": 1,
+            "Delaney": 0,
             "Gabbard": 0,
             "Klobuchar": 8,
             "Patrick": 0,
@@ -2819,7 +2819,7 @@
             "Biden": 23,
             "Bloomberg": 0,
             "Buttigieg": 71,
-            "Delaney": 9,
+            "Delaney": 0,
             "Gabbard": 2,
             "Klobuchar": 37,
             "Patrick": 0,
@@ -3320,9 +3320,9 @@
             "Sanders": 191,
             "Steyer": 0,
             "Warren": 171,
-            "Yang": 0,
+            "Yang": 65,
             "Other": 0,
-            "Uncommitted": 0
+            "Uncommitted": 8
         },
         "Final Expression": {
             "Bennet": 0,
@@ -3338,7 +3338,7 @@
             "Warren": 208,
             "Yang": 0,
             "Other": 0,
-            "Uncommitted": 0
+            "Uncommitted": 31
         },
         "URL to Documentation": "",
         "Manually validated": "false"
@@ -3580,15 +3580,15 @@
             "Bloomberg": 0,
             "Buttigieg": 172,
             "Delaney": 0,
-            "Gabbard": 0,
+            "Gabbard": 2,
             "Klobuchar": 140,
             "Patrick": 0,
             "Sanders": 129,
-            "Steyer": 0,
+            "Steyer": 26,
             "Warren": 212,
-            "Yang": 0,
+            "Yang": 28,
             "Other": 0,
-            "Uncommitted": 0
+            "Uncommitted": 7
         },
         "Final Expression": {
             "Bennet": 0,
@@ -3601,7 +3601,7 @@
             "Patrick": 0,
             "Sanders": 134,
             "Steyer": 0,
-            "Warren": 226,
+            "Warren": 227,
             "Yang": 0,
             "Other": 0,
             "Uncommitted": 0
@@ -3930,7 +3930,7 @@
             "Warren": 20,
             "Yang": 13,
             "Other": 0,
-            "Uncommitted": 0
+            "Uncommitted": 1
         },
         "Final Expression": {
             "Bennet": 0,
