@@ -1,8 +1,15 @@
 #!/usr/bin/env python
 
 import argparse
+from collections import OrderedDict
 
 from bs4 import BeautifulSoup
+try:
+    import lxml
+    parser = 'lxml'
+except ModuleNotFoundError:
+    parser = 'html.parser'
+    print('Warning: It is recommended to install the "lxml" parser for efficiency.')
 
 from iowa_tools.constants import ST_FULL, ST_VOTES, ST_SDES, ST_TOTALS, ST_SDE_COUNTY_TOTALS, PRECINCT, COUNTY
 from iowa_tools.dataframe import split_dataframe
@@ -16,44 +23,40 @@ def parse_iowa_html(ipd_ref_dataset):
     data = []
 
     with open_input_reference_file(get_html_filename(ipd_ref_dataset)) as idp_file:
-        soup  = BeautifulSoup(idp_file, features='lxml')
+        soup = BeautifulSoup(idp_file, features=parser)
         table = soup.select_one('.precinct-table')
         thead = table.select_one('.thead')
         shead = table.select_one('.sub-head')
 
-        prev_tstr = None
-        for titem in (e for e in thead.children if not isinstance(e, str)):
-            tstr = titem.string.strip() if titem.string else None
-            if tstr:
-                prev_tstr = tstr
-            else:
-                tstr = prev_tstr
-            headers.append([tstr])
-        for i, sitem in enumerate(e for e in shead.children
-                                    if not isinstance(e, str)):
-            sstr = sitem.string.strip() if sitem.string else None
-            if sstr:
-                headers[i].append(sstr)
+        for item in thead.select('li'):
+            headers.append([item.string.strip() if item.string else headers[-1][0]])
+
+        for i, li in enumerate(shead.select('li')):
+            if li.string:
+                headers[i].append(li.string.strip())
 
         for county_row in table.select('.precinct-rows'):
             county_item = county_row.select_one('.precinct-county')
-            county      = ''.join(county_item.strings).strip()
+            county = county_item.div.string.strip()
+
             for row in county_row.select('ul'):
-                item_iter = iter(row.select('li'))
-                precinct  = next(item_iter).string.strip()
-                data_row = {
-                    headers[0][0]:   county,
-                    headers[1][0]: precinct,
-                }
-                for i, item in enumerate(item_iter):
-                    candidate, stat_name = headers[i+2]
-                    vstr = item.string.replace(',', '')
-                    try:
-                        val = int(vstr)
-                    except ValueError:
-                        val = float(vstr)
-                    stats = data_row.setdefault(stat_name, {})
-                    stats[candidate] = val
+                for i, item in enumerate(row.select('li')):
+                    if i == 0:
+                        precinct = item.string.strip()
+                        data_row = OrderedDict()
+                        data_row[headers[0][0]] = county
+                        data_row[headers[1][0]] = precinct
+                    else:
+                        vstr = item.string.replace(',', '')
+                        try:
+                            val = int(vstr)
+                        except ValueError:
+                            val = float(vstr)
+
+                        candidate, stat_name = headers[i + 1]
+                        stats = data_row.setdefault(stat_name, OrderedDict())
+                        stats[candidate] = val
+
                 data.append(data_row)
 
                 n = len(data)
