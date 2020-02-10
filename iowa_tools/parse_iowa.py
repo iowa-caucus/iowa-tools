@@ -1,10 +1,15 @@
 #!/usr/bin/env python
 
 import argparse
-import re
 from collections import OrderedDict
 
-import dpath.util as du
+from bs4 import BeautifulSoup
+try:
+    import lxml
+    parser = 'lxml'
+except ModuleNotFoundError:
+    parser = 'html.parser'
+    print('Warning: It is recommended to install the "lxml" parser for efficiency.')
 
 from iowa_tools.constants import ST_FULL, ST_VOTES, ST_SDES, ST_TOTALS, ST_SDE_COUNTY_TOTALS, PRECINCT, COUNTY
 from iowa_tools.dataframe import split_dataframe
@@ -18,61 +23,45 @@ def parse_iowa_html(ipd_ref_dataset):
     data = []
 
     with open_input_reference_file(get_html_filename(ipd_ref_dataset)) as idp_file:
-        for i, line in enumerate(idp_file):
-            line = line.strip()
-            if i % 100 == 0:
-                print(i)
+        soup = BeautifulSoup(idp_file, features=parser)
+        table = soup.select_one('.precinct-table')
+        thead = table.select_one('.thead')
+        shead = table.select_one('.sub-head')
 
-            if 'thead' in line:
-                row_idx = -2
-                col_idx = 0
-                continue
-            elif 'sub-head' in line:
-                row_idx = -1
-                col_idx = 0
-                continue
-            elif 'precinct-rows' in line:
-                row_idx += 1
-                col_idx = 0
-                continue
-            elif '<ul' in line:
-                row_idx += 1
-                col_idx = 1
-                continue
-            else:
-                county_list = re.findall('<div class="wrap">(.+)</div>', line)
-                if county_list and len(county_list) == 1:
-                    cur_county = county_list[0]
-                    continue
+        for item in thead.select('li'):
+            headers.append([item.string.strip() if item.string else headers[-1][0]])
 
-                list_item = re.findall('<li>(.*)</li>', line)
-                if list_item and len(list_item) == 1:
-                    item = list_item[0]
+        for i, li in enumerate(shead.select('li')):
+            if li.string:
+                headers[i].append(li.string.strip())
 
-                    if row_idx == -2:  # Main header
-                        headers.append([item] if item else [headers[col_idx-1][0]])
-                    elif row_idx == -1:  # Subheader
-                        if item:
-                            headers[col_idx].append(item)
-                    else:  # Row
-                        if item.replace(',', '').isdigit():
-                            val = int(item.replace(',', ''))
-                        elif item.replace('.', '', 1).isdigit():
-                            val = float(item)
-                        else:
-                            val = item.replace('&amp;', '&')
+        for county_row in table.select('.precinct-rows'):
+            county_item = county_row.select_one('.precinct-county')
+            county = county_item.div.string.strip()
 
-                        assert col_idx != 0
-                        if col_idx == 1:
-                            cur_precinct = item
-                            cur_row = OrderedDict()
-                            cur_row[headers[0][0]] = cur_county
-                            cur_row[headers[1][0]] = cur_precinct
-                            data.append(cur_row)
+            for row in county_row.select('ul'):
+                for i, item in enumerate(row.select('li')):
+                    if i == 0:
+                        precinct = item.string.strip()
+                        data_row = OrderedDict()
+                        data_row[headers[0][0]] = county
+                        data_row[headers[1][0]] = precinct
+                    else:
+                        vstr = item.string.replace(',', '')
+                        try:
+                            val = int(vstr)
+                        except ValueError:
+                            val = float(vstr)
 
-                        du.new(cur_row, list(reversed(headers[col_idx])), val)
+                        candidate, stat_name = headers[i + 1]
+                        stats = data_row.setdefault(stat_name, OrderedDict())
+                        stats[candidate] = val
 
-                    col_idx += 1
+                data.append(data_row)
+
+                n = len(data)
+                if n % 100 == 0:
+                    print(n)
 
     json_dataset = JsonDataset(data, headers)
     full_df = convert_json_to_dataframe(json_dataset)

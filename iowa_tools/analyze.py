@@ -4,8 +4,6 @@ import argparse
 import sys
 from collections import OrderedDict
 
-import pandas as pd
-
 from iowa_tools.constants import FIRST, FINAL, INC_VOTES, ST_VOTES, ST_MORE_VOTES, COUNTY, \
     DOCUMENTATION_URL, VALIDATED, IDP_PRECINCT_DELEGATES, GOP_2008_RESULTS, \
     SPSTEVE_PRECINCT_DELEGATES, PRECINCT_SN, ST_MAPPING, ST_SDE_PRECINCT_TOTALS, ST_SDES, \
